@@ -20,6 +20,8 @@ Exercises are meant to be completed in order. Students will be asked to fill in 
 
 Currently in development we are still working through the dataset's generation and distribution among different groups of individuals to get students to wrestle with various biases that might appear in real-life situations.
 
+NOTE: Exercise 3 in Milestone 1 must be downloaded locally and viewed in your own jupyter notebook client as the file on its own is too big! Has an audio clip in it!
+
 Please email comments, concerns, questions, bugs you come across to jonahwu@stanford.edu - I'd greatly appreciate any feedback you can offer.
 
 
@@ -36,6 +38,9 @@ nbimporter
 pylab
 sklearn
 scipy
+librosa
+librosa.display
+IPython.display
 
 
 API Documentation: 
