@@ -40,8 +40,8 @@ scipy
 
 API Documentation: 
 2 API Keys are required in the 1st Milestone's 2nd Exercise
-- Google Maps API - instructions @
-- Distance Matrix API - instruction @
+- Google Maps API - instructions @ https://developers.google.com/maps/documentation/javascript/get-api-key
+- Distance Matrix API - instruction @ https://developers.google.com/maps/documentation/distance-matrix/get-api-key
 
 
 
