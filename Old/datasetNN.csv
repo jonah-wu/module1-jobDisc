@@ -1,0 +1,506 @@
+,Names,GPA,Avg Commute Time,Cultural Fit,Technical Aptitude,Soft Skills,Employee Referral,Years of Experience,Leadership Capability,Race,Sex,Age,Birth Origin,Education,Undergraduate Degree,Educational Prestige,Sports,Criminal Record,Arrest Records,LinkedIn Score,Responsible Social Media Use,HireVue Score
+0,Phillip Goers,4.279468612,5,2,3,1,1,2,0.704426172,2,0,24,United States,2,Engineering,3,Club/Intramural,0,0,2,1,2
+1,Lisette Mccage,4.270793072,5,2,3,1,1,2,0.9234250759999999,0,1,24,United States,2,Sciences,3,NCAA/Professional,0,0,2,1,2
+2,Courtney Wilson,4.260731331000001,59,2,4,1,1,3,0.985431642,0,1,28,United States,2,Engineering,3,None,0,0,2,1,2
+3,Andrea Robles,4.238973784,10,2,4,1,1,3,0.8520081340000001,3,1,29,United States,2,Quantitative,2,None,0,0,2,1,1
+4,Amy Gunnels,4.224951992,47,1,4,1,1,1,0.812474593,0,1,25,United States,2,Humanities,3,Club/Intramural,0,0,2,1,2
+5,Michael Utecht,4.129336017,5,1,4,1,1,2,0.827376252,0,0,28,United States,2,Sciences,3,None,0,0,1,1,2
+6,Emmanuel Harper,4.128482774,17,2,4,0,1,3,0.524771408,0,0,27,United States,1,Sciences,1,Club/Intramural,0,0,2,1,2
+7,George Wright,4.126898096000001,48,2,3,1,0,5,0.619716845,0,0,26,India,1,Sciences,3,Club/Intramural,0,0,2,1,2
+8,Jack Martini,4.118743395,40,2,4,1,0,3,0.8987950140000001,1,0,30,United States,1,Engineering,3,NCAA/Professional,0,0,1,1,2
+9,Thomas Branham,4.114741026,20,1,4,1,1,4,0.77418076,0,0,22,United States,1,Quantitative,1,None,0,0,2,1,2
+10,Frank Kutz,4.098691441000001,5,2,3,1,1,1,0.837501257,0,0,32,United States,1,Humanities,2,None,0,0,1,1,2
+11,Jeffrey Challender,4.095519127,5,2,3,1,1,3,0.976576097,0,0,32,Mexico,1,Sciences,3,Club/Intramural,0,0,2,1,2
+12,David Smith,4.087106366,67,2,4,1,1,5,0.8903565729999999,1,0,23,United States,2,Humanities,1,Club/Intramural,0,0,1,1,1
+13,Janet Wisman,4.0705440280000005,33,2,4,1,1,0,0.983629236,0,1,25,United States,1,Engineering,2,Club/Intramural,0,0,2,1,2
+14,Gloria Weber,4.065148699,53,0,4,1,1,4,1.102829087,0,1,33,United States,2,Humanities,2,Club/Intramural,0,0,2,1,2
+15,Kathlene Carner,4.063397659,123,1,4,0,1,4,0.7920553779999999,3,1,28,United States,1,Humanities,2,Club/Intramural,0,0,2,1,2
+16,Joyce Phillips,4.0597950339999995,19,2,3,1,1,2,0.64452378,0,1,30,United States,1,Humanities,2,Club/Intramural,0,0,0,1,2
+17,Glen Burton,4.051628272,31,2,4,1,1,4,0.833905969,0,0,25,Mexico,2,Sciences,2,None,0,0,2,1,2
+18,Shannon Yeater,4.048154057,5,2,3,1,1,1,0.565285808,2,1,26,United States,1,Quantitative,3,Club/Intramural,0,0,2,1,2
+19,Jose Sipe,4.045516333,16,2,4,1,1,3,0.8264515459999999,0,0,24,United States,2,Engineering,1,None,0,1,2,1,2
+20,Brian Vitale,4.042662166,38,2,2,1,1,3,0.47165783299999997,0,0,24,United States,1,Engineering,3,None,1,1,1,1,2
+21,Dennis Bazan,4.041063233,5,1,1,1,1,1,0.343379944,4,0,31,United States,2,Sciences,1,None,0,0,1,1,2
+22,Ulysses Copas,4.011710654,49,1,2,1,1,4,0.8974921090000001,0,0,28,China,1,Engineering,1,None,0,0,0,1,1
+23,Deanna Graves,4.010679543,5,2,3,0,1,3,0.9578420059999999,0,1,24,United States,1,Sciences,2,None,1,1,2,1,2
+24,Oscar Abraham,4.01,15,2,4,1,1,3,0.9003200000000001,1,0,24,United States,2,Sciences,3,Club/Intramural,0,0,1,1,2
+25,Douglas Tibolla,4.006970873999999,125,2,4,1,1,3,0.557728485,1,0,24,United States,1,Humanities,2,None,1,1,0,1,0
+26,Bennie Larson,3.9831975269999997,5,2,4,1,1,4,0.128367628,0,0,28,United States,2,Quantitative,1,None,1,1,0,1,2
+27,Ruth Bass,3.982631237,5,1,4,1,1,2,0.471760099,0,1,33,United States,0,None,0,None,0,0,1,1,1
+28,Melinda Hodges,3.98066456,40,2,4,1,1,3,0.922883377,0,1,29,United States,2,Humanities,2,None,0,0,2,1,1
+29,Oscar Jenkins,3.9725860969999998,79,2,2,1,1,2,0.26028941899999997,0,0,22,United States,2,Engineering,2,Club/Intramural,0,0,1,1,1
+30,Stephen Cooksey,3.969429662,78,2,3,0,0,2,0.6321480039999999,1,0,22,United States,1,Quantitative,2,NCAA/Professional,0,1,1,1,1
+31,Lana Hernandez,3.9612223280000003,19,2,4,1,1,4,0.735149287,0,1,22,United States,2,Humanities,2,Club/Intramural,0,0,2,1,2
+32,Norman Froneberger,3.9379105219999997,56,2,4,0,1,4,0.063730438,2,0,27,India,1,Quantitative,2,Club/Intramural,0,0,1,1,2
+33,Janice Baker,3.894808965,114,1,4,0,0,4,0.505056353,1,1,32,United States,2,Humanities,1,None,0,1,1,1,1
+34,Dawn Csaszar,3.894736525,35,0,4,0,0,3,0.5493703679999999,0,1,27,United States,1,Sciences,2,Club/Intramural,0,0,0,1,0
+35,Angela Duskey,3.8942433939999996,33,2,4,1,0,4,0.453761091,0,1,25,United States,2,Quantitative,1,None,0,0,0,1,0
+36,Tomas Mcloughlin,3.891292105,21,2,4,0,0,3,0.255992712,4,0,23,United States,2,Engineering,3,None,0,0,1,1,1
+37,Vicki Catrone,3.8883245619999998,100,2,4,0,0,4,0.764854272,2,1,27,United States,1,Humanities,2,Club/Intramural,0,0,1,1,0
+38,Gloria Hahn,3.869563435,32,1,2,0,1,3,0.8760430770000001,0,1,24,United States,2,Engineering,1,Club/Intramural,0,0,0,1,0
+39,Catherine Terry,3.868880799,15,2,3,0,0,6,0.6383745439999999,0,1,27,China,2,Engineering,2,None,0,0,0,1,0
+40,Kelley Rottenberg,3.868362868,47,2,0,0,0,3,0.336369323,0,1,28,India,1,Quantitative,1,Club/Intramural,0,0,1,1,1
+41,Ralph Ng,3.868109102,24,2,4,1,1,3,0.883572276,2,0,28,United States,2,Sciences,2,None,0,0,1,1,2
+42,William Hershenson,3.8678952160000004,18,2,4,0,0,2,0.649267798,0,0,23,Canada,1,Engineering,1,NCAA/Professional,0,0,1,1,2
+43,Luis Mcgraw,3.867010735,84,1,0,0,0,5,0.209016282,0,0,23,United States,2,Engineering,2,None,0,0,1,1,0
+44,William Edmonson,3.864957309,48,2,3,0,0,2,0.6867383309999999,0,0,25,United States,1,Sciences,3,Club/Intramural,1,1,2,1,0
+45,Erin Mohammad,3.851303534,62,2,2,0,1,3,0.424772537,0,0,25,United States,1,Quantitative,3,None,0,0,2,1,2
+46,Sylvester Turner,3.850462073,61,1,1,0,0,3,1.029528487,1,0,28,United States,1,Sciences,1,None,1,1,1,1,1
+47,Marshall Clement,3.847253719,19,2,0,0,0,3,0.585753635,4,0,31,United States,1,Quantitative,3,None,0,0,0,1,1
+48,Mark Childs,3.843852142,51,1,4,1,0,3,0.438924803,0,0,25,United States,1,Sciences,2,None,0,0,1,1,0
+49,Warren Ray,3.840148555,28,1,3,1,0,3,0.65240999,0,0,24,United States,1,Humanities,1,None,0,0,2,1,0
+50,Sharon Orr,3.8400572960000003,35,1,3,0,0,1,0.332056865,0,1,31,United States,1,Quantitative,2,Club/Intramural,0,1,2,1,0
+51,Donald Heflin,3.834767147,39,2,0,0,0,1,0.39632668299999996,0,0,24,United States,1,Engineering,2,NCAA/Professional,0,0,0,1,0
+52,John Kaufman,3.833153774,12,2,4,0,0,5,0.798617192,0,0,27,United States,1,Engineering,2,Club/Intramural,0,0,1,1,0
+53,Jane Button,3.82,34,1,4,1,1,3,0.932,2,1,29,United States,1,Quantitative,3,Club/Intramural,0,0,2,1,2
+54,Jennifer Hoban,3.81430502,42,0,1,0,0,1,0.662388165,0,1,37,United States,1,Quantitative,2,None,1,1,0,1,0
+55,Justin Collins,3.8119040930000003,5,0,3,0,0,4,0.272419474,0,0,22,China,1,Sciences,1,None,0,0,0,1,2
+56,Tara Smith,3.805504675,89,2,0,0,0,5,0.7050187990000001,0,1,37,United States,1,Engineering,2,NCAA/Professional,0,0,1,1,1
+57,James Coronado,3.80275289,5,0,2,0,0,5,0.672776927,0,0,26,United States,2,Humanities,2,NCAA/Professional,0,0,1,1,1
+58,John Nixon,3.7924224630000003,33,0,1,0,0,5,0.32312497,0,0,33,Canada,2,Engineering,3,None,0,0,1,1,0
+59,Robert Howard,3.7890117639999996,29,0,3,0,0,2,0.383718227,0,0,21,Canada,1,Sciences,2,None,0,0,1,1,1
+60,Holly Patterson,3.787564967,5,2,3,1,1,4,0.87922556,2,1,25,United States,1,Quantitative,1,Club/Intramural,0,0,2,1,2
+61,Suzanne Phillips,3.78719106,24,2,3,1,1,3,0.736470747,2,1,22,United States,2,Quantitative,2,None,0,0,2,1,2
+62,Nickolas Velez,3.786158725,36,2,4,1,0,5,0.110190113,0,0,34,United States,2,Humanities,2,None,0,0,2,1,2
+63,Glen Hall,3.785870352,19,0,2,1,0,4,0.32055790300000003,2,0,33,United States,2,Engineering,3,None,0,0,1,1,1
+64,Christina Roberts,3.7833158069999997,13,1,1,0,0,5,0.348182913,0,1,30,United States,1,Humanities,2,None,0,0,0,1,2
+65,James Lehnen,3.782248585,73,0,1,0,0,3,0.669678915,0,0,29,United States,1,Quantitative,1,None,0,0,0,1,0
+66,Eula Farris,3.774724426,25,0,0,0,0,5,0.8285506979999999,0,1,23,United States,1,Quantitative,3,Club/Intramural,0,0,0,1,2
+67,Jackie Reed,3.765002155,69,0,3,0,0,5,-0.036028152,0,1,27,United States,2,Engineering,2,Club/Intramural,0,0,1,1,1
+68,Dawn Keels,3.764329698,59,1,4,0,0,3,0.284659115,0,1,23,United States,2,Quantitative,1,Club/Intramural,0,0,1,1,0
+69,Joseph Luthy,3.753269825,17,0,0,0,0,3,0.561705978,0,0,28,China,1,Sciences,2,None,1,1,0,1,0
+70,Valerie Denis,3.743264973,26,2,4,0,0,3,0.31184718300000003,0,1,35,China,2,Humanities,3,None,0,0,2,1,2
+71,Martin Applin,3.731543877,78,2,2,0,0,4,0.362922663,1,0,26,United States,2,Humanities,1,Club/Intramural,0,0,1,1,1
+72,Clark Weiler,3.71514545,48,1,3,0,0,1,0.358225576,2,0,23,United States,0,None,0,None,0,0,1,1,1
+73,Todd Erving,3.71433749,54,2,2,1,0,6,0.6203447360000001,4,0,28,Canada,2,Engineering,2,None,0,0,1,1,1
+74,James Joseph,3.712499639,77,1,3,0,0,1,0.46570708200000005,0,0,30,United States,2,Engineering,2,None,0,0,0,1,0
+75,Freddie Wearing,3.7119760360000003,30,2,3,0,0,1,0.60601734,1,0,23,United States,1,Humanities,1,None,1,1,0,1,2
+76,Nanette Duran,3.707828109,83,1,2,0,0,1,0.266458063,0,1,34,United States,2,Sciences,1,None,0,0,1,1,1
+77,Maureen Tompkins,3.704080872,39,1,2,0,0,4,0.6671821370000001,0,1,27,United States,1,Humanities,2,NCAA/Professional,0,0,1,1,2
+78,John Han,3.692789742,5,2,0,1,0,2,0.6764494040000001,0,0,27,United States,1,Engineering,1,None,0,0,0,1,1
+79,Brenda Sur,3.682385572,18,1,0,0,0,2,0.512238894,4,1,23,United States,1,Engineering,2,None,0,0,1,1,0
+80,Michael Dyer,3.679055563,17,0,1,0,0,2,0.619083073,0,0,36,United States,1,Engineering,2,Club/Intramural,0,0,1,1,2
+81,Julie Morales,3.6781919189999996,42,0,2,1,0,1,0.41893012,2,1,31,United States,1,Engineering,2,Club/Intramural,1,1,1,1,1
+82,Earnestine Marini,3.66545317,74,1,4,0,0,1,0.36187621,0,1,28,United States,1,Sciences,1,None,1,0,0,1,2
+83,Mary Holding,3.6621945289999998,46,0,2,0,0,4,0.607999795,0,1,31,United States,1,Engineering,3,NCAA/Professional,0,0,0,1,2
+84,Howard Penland,3.6606157269999997,63,2,4,0,0,4,0.425674179,3,0,29,United States,1,Sciences,1,Club/Intramural,0,0,1,1,1
+85,Terry Bair,3.6543787310000004,15,2,4,1,1,3,0.520838871,0,0,25,United States,1,Humanities,2,None,0,0,0,1,0
+86,James Cain,3.651289417,23,2,1,0,0,5,0.267167467,0,0,26,United States,1,Humanities,2,None,0,0,0,1,1
+87,Roy Daniel,3.6496815739999997,40,1,3,0,0,2,0.512921982,0,0,29,United States,1,Engineering,2,NCAA/Professional,0,0,2,1,2
+88,Morgan Guzman,3.647168025,5,2,3,1,1,4,0.790565635,0,1,25,United States,1,Sciences,2,Club/Intramural,0,0,1,1,2
+89,Jason Miller,3.64441768,5,2,4,1,1,4,0.8801833040000001,0,0,21,United States,2,Quantitative,2,Club/Intramural,0,0,1,1,2
+90,Lester Vassel,3.640745758,13,2,3,0,0,2,0.809688715,0,0,27,China,2,Quantitative,1,None,1,0,1,1,1
+91,Terence Guadalupe,3.639252687,21,2,3,0,0,1,-0.015952471,0,0,22,United States,1,Humanities,2,None,0,0,1,1,2
+92,Rosemarie Baker,3.6336015010000002,16,2,3,0,0,3,0.524161525,0,1,23,Canada,2,Humanities,2,Club/Intramural,0,0,1,1,2
+93,Karen Owen,3.62837692,86,0,1,0,0,2,0.40281793299999996,0,1,28,United States,1,Sciences,2,Club/Intramural,0,0,0,1,0
+94,Robin Golden,3.623760059,54,1,2,0,1,4,0.17034322100000002,4,1,24,Australia,1,Engineering,2,Club/Intramural,0,0,2,1,1
+95,Ron Ruiz,3.6224861489999998,15,1,2,1,0,1,0.334633707,0,0,33,India,1,Sciences,2,Club/Intramural,0,0,0,1,0
+96,Melanie Seibel,3.6177468960000003,84,1,2,0,0,2,0.515706574,3,1,29,United States,1,Humanities,1,Club/Intramural,0,0,1,1,1
+97,Nicola Lane,3.615341773,52,0,2,0,0,1,0.619832123,0,1,28,United States,1,Engineering,2,None,0,0,1,1,0
+98,Regina Longe,3.598473173,22,2,1,0,0,4,0.263307415,0,1,22,United States,1,Quantitative,3,Club/Intramural,0,0,0,1,0
+99,Daniel Caballero,3.5978172560000004,36,0,1,0,0,5,-0.12677311900000002,0,0,26,United States,1,Quantitative,3,None,0,1,1,1,1
+100,Henrietta Craig,3.597537796,32,0,2,0,0,3,0.7642313890000001,1,1,29,United States,1,Engineering,1,None,0,0,0,1,1
+101,Zachary Miracle,3.59162128,27,1,4,0,0,0,0.449269135,0,0,23,United States,1,Quantitative,2,NCAA/Professional,0,0,0,1,0
+102,Penny Rose,3.589772532,29,0,2,0,0,5,0.615224456,0,1,28,United States,1,Quantitative,1,None,0,0,1,1,1
+103,Michael Hester,3.5852554569999997,49,0,4,0,0,5,0.9210169570000001,0,0,23,United States,0,None,0,None,0,0,1,1,1
+104,Laura Brown,3.58317059,45,0,4,0,0,4,0.713596392,0,1,30,United States,0,None,0,None,0,0,1,1,0
+105,Frank Karow,3.5782543380000003,90,2,3,1,0,5,0.205887266,3,0,35,United States,1,Sciences,1,None,0,0,1,1,2
+106,Michael Kincaid,3.57708027,35,2,0,0,0,3,0.6421439489999999,2,0,22,United States,1,Humanities,3,Club/Intramural,0,0,1,1,1
+107,Anne Lucas,3.576380926,37,1,4,0,0,0,0.163036736,3,1,23,United States,1,Engineering,1,None,0,0,2,1,1
+108,Craig Martinez,3.575478344,72,1,2,0,0,3,0.620635216,2,0,28,India,1,Quantitative,1,None,0,0,0,1,2
+109,Cheryl Rogers,3.573906885,45,1,3,0,0,6,0.5943580970000001,2,1,27,United States,1,Sciences,2,None,0,0,1,1,1
+110,Sharon Allison,3.572791995,34,0,0,0,0,4,0.11655948699999999,0,1,28,United States,2,Quantitative,1,None,0,0,0,1,0
+111,Ray Cogan,3.5684174239999997,111,2,4,0,1,1,0.47479044299999995,2,0,26,United States,1,Engineering,2,None,0,0,2,1,2
+112,Joel Martin,3.564686695,68,0,1,0,0,5,0.35104267899999997,0,0,33,United States,0,None,0,None,0,0,1,1,2
+113,Sherika Ray,3.5618037589999996,13,2,0,0,0,5,0.6930587109999999,0,1,22,United States,1,Humanities,2,Club/Intramural,0,0,0,1,2
+114,June Isbell,3.5608326260000003,33,2,4,0,0,4,0.287548641,0,1,32,Mexico,1,Sciences,1,None,0,0,2,1,2
+115,Sean Eversole,3.558835082,100,0,1,0,1,1,0.28981477899999997,3,0,21,Mexico,1,Engineering,1,None,0,0,1,1,2
+116,James Patton,3.556981197,25,0,3,0,0,1,0.921564376,3,0,28,United States,1,Engineering,1,None,0,0,1,1,1
+117,Peggy Roach,3.55517565,73,1,1,0,0,2,0.262374117,0,1,26,United States,2,Sciences,2,None,0,0,1,1,2
+118,Joseph Hyneman,3.553401868,20,0,0,0,0,3,0.42810978299999997,0,0,24,United States,1,Humanities,1,None,0,0,0,1,0
+119,Rosa Anderson,3.547112293,48,1,1,0,0,3,0.348671035,3,1,29,United States,2,Humanities,2,Club/Intramural,0,0,1,1,2
+120,Scott Patterson,3.5470663910000004,106,1,3,0,0,3,0.765399075,0,0,26,United States,1,Sciences,1,Club/Intramural,0,0,2,1,1
+121,Robert Richardson,3.5458194169999997,104,1,4,0,0,2,0.33217928399999996,0,0,23,United States,0,None,0,None,0,0,1,1,0
+122,Robert Rogers,3.5425910089999997,29,0,4,0,0,4,0.912050019,0,0,25,United States,1,Quantitative,2,Club/Intramural,0,0,2,1,0
+123,Valarie Collins,3.538385136,114,0,1,1,0,5,0.355885314,1,1,24,United States,1,Engineering,1,None,0,0,1,1,2
+124,David Boyd,3.537560294,154,1,3,0,0,3,0.44742795399999996,1,0,26,United States,1,Engineering,1,None,0,1,2,1,0
+125,Robert Henderson,3.532442385,52,1,3,0,0,3,0.40164506899999997,0,0,28,Canada,1,Humanities,2,NCAA/Professional,0,0,1,1,1
+126,James Rotella,3.532020363,52,2,3,0,0,1,0.44688551299999996,0,0,24,United States,1,Humanities,3,Club/Intramural,0,0,0,1,2
+127,Justin Brown,3.530645055,20,1,1,0,0,3,0.494630808,0,0,34,Canada,1,Quantitative,1,None,0,1,1,1,2
+128,Wade Payne,3.5290444310000004,17,2,4,0,0,6,0.09186403300000001,4,0,27,United States,2,Engineering,2,None,0,0,1,1,1
+129,Judy Constance,3.5272733030000003,37,0,0,0,0,1,0.487195018,2,1,24,United States,1,Quantitative,1,None,0,0,1,1,0
+130,Archie Hearn,3.5257081739999996,55,1,2,0,1,4,0.483328775,0,0,25,United States,1,Engineering,2,None,0,0,1,1,2
+131,Mario Gallegos,3.522877682,62,1,4,0,0,4,0.42035157799999995,0,0,23,United States,1,Humanities,2,Club/Intramural,0,0,2,1,0
+132,Roland Otero,3.519158492,39,2,3,0,0,5,0.616287951,0,0,26,United States,1,Humanities,1,None,0,0,0,1,0
+133,Molly Brickell,3.514879876,14,0,4,0,1,3,0.244911937,0,1,29,United States,1,Humanities,3,NCAA/Professional,0,0,1,1,2
+134,Danny Snyder,3.511176107,49,0,2,0,0,1,0.401635474,0,0,26,United States,0,None,0,None,0,0,1,1,0
+135,Robert Owens,3.511147251,91,2,0,0,0,3,0.70298533,0,0,26,Australia,1,Engineering,2,None,0,0,1,1,2
+136,Mark Ames,3.510066218,59,0,2,0,1,5,0.31595005800000003,0,0,30,China,1,Humanities,2,Club/Intramural,0,0,2,1,0
+137,Deon Alverez,3.5068463139999997,50,2,3,0,0,0,0.300185291,4,0,23,United States,1,Sciences,2,Club/Intramural,0,0,2,1,0
+138,Janis Frazier,3.5064239130000003,71,1,0,1,0,3,0.74763328,0,1,31,United States,2,Humanities,2,Club/Intramural,0,0,1,1,1
+139,Marie Mendoza,3.506396464,58,1,1,0,0,3,1.051112029,0,1,22,United States,1,Humanities,3,None,0,0,1,1,1
+140,Maria Woolridge,3.5030860969999997,5,0,2,0,0,4,0.660718957,0,1,25,United States,1,Humanities,1,None,0,0,1,1,0
+141,Latosha Woods,3.5029053310000005,13,1,2,0,0,2,0.36380393299999997,1,1,27,United States,1,Quantitative,1,None,1,1,2,1,1
+142,Kristin Bowker,3.502132838,55,0,0,0,0,3,0.143201851,0,1,23,United States,1,Sciences,1,Club/Intramural,0,0,1,1,0
+143,Karen John,3.4999105110000004,20,0,4,0,0,1,0.282922428,0,1,27,United States,1,Humanities,2,None,0,0,2,1,0
+144,Peter Glander,3.4998246269999997,23,0,2,0,0,2,0.337708665,0,0,22,Mexico,1,Humanities,2,Club/Intramural,0,0,0,1,1
+145,Joseph Caldwell,3.499112163,52,1,2,0,0,3,0.059964141,1,0,24,United States,2,Quantitative,3,Club/Intramural,0,0,0,1,0
+146,Kenneth Quinn,3.497918375,22,2,4,0,0,4,0.439075046,2,0,21,United States,1,Humanities,2,None,0,0,2,1,0
+147,George Farrell,3.493804687,42,0,2,0,0,3,1.076397702,0,0,24,United States,1,Engineering,1,None,0,0,0,1,2
+148,Jesus Boulware,3.49068869,19,1,4,0,0,3,0.176385853,0,0,27,Mexico,1,Engineering,2,None,0,0,1,1,1
+149,William Zuehlke,3.489832152,30,2,2,0,1,2,0.018018595,0,0,31,United States,1,Engineering,1,None,0,0,2,1,2
+150,Anthony Ortiz,3.486413985,29,1,2,0,1,1,0.232097241,4,0,30,United States,1,Quantitative,3,None,0,0,1,1,2
+151,Georgia Guzman,3.4796578830000002,62,0,0,0,0,3,0.128199062,0,1,31,United States,1,Sciences,1,Club/Intramural,1,1,1,0,2
+152,Celia Delaney,3.4754282080000003,18,0,1,0,0,5,0.320075818,0,1,26,United States,1,Engineering,2,None,0,0,2,1,2
+153,Richard Peters,3.471846435,77,0,3,0,0,1,0.7053086209999999,0,0,23,United States,1,Engineering,3,None,0,0,1,1,2
+154,Jeanette Dupre,3.4660328610000004,22,0,2,0,0,1,0.675194558,2,1,28,United States,1,Humanities,2,Club/Intramural,0,0,1,1,1
+155,Samuel Calisto,3.459787525,42,1,2,0,0,5,0.356900933,0,0,27,United States,0,None,0,None,0,0,1,1,1
+156,Ida Henry,3.458748297,47,0,2,0,0,1,0.544567528,1,1,29,United States,1,Engineering,1,None,0,0,1,1,2
+157,Jamie Hendricks,3.4574503030000003,42,1,0,0,0,1,-0.26402949,0,0,23,Canada,2,Quantitative,1,Club/Intramural,0,0,1,1,1
+158,Keneth Moran,3.455666753,44,1,4,0,0,5,0.5888997579999999,0,0,21,Mexico,2,Quantitative,2,None,0,0,0,1,2
+159,Don Mcfolley,3.4519364,17,1,4,0,0,3,0.622092364,0,0,36,United States,1,Humanities,3,None,0,0,1,1,2
+160,Patricia Palomares,3.45049625,5,0,3,0,0,3,0.34576056299999997,0,1,23,China,1,Engineering,2,None,0,0,1,1,0
+161,Judith Smith,3.445617795,23,1,3,0,0,0,0.5191782420000001,0,1,24,United States,0,None,0,None,0,0,0,1,1
+162,George Kinard,3.442385106,48,2,1,0,0,4,0.559302547,0,0,26,United States,0,None,0,None,1,1,1,1,1
+163,Jacob Ensley,3.439949061,5,1,4,0,0,5,0.46982379799999996,4,0,29,United States,1,Quantitative,1,None,0,0,1,1,2
+164,Marshall Smith,3.435171687,70,2,1,0,0,3,0.371989911,0,0,28,United States,0,None,0,None,0,0,0,1,1
+165,John Grissom,3.4339999999999997,54,0,2,1,0,4,0.653,0,0,35,United States,1,Humanities,1,NCAA/Professional,1,1,1,0,1
+166,Dexter Taormina,3.429425205,39,0,0,0,0,3,1.0611570609999998,0,0,24,United States,1,Engineering,1,None,0,0,1,1,2
+167,Charles Lewis,3.425423068,15,0,1,0,0,3,0.666920663,0,0,26,United States,1,Engineering,2,None,0,0,1,1,2
+168,Donald Stanford,3.4253771910000004,5,2,2,0,0,4,0.558270178,0,0,29,United States,1,Sciences,2,Club/Intramural,0,0,2,1,1
+169,Karen Kerr,3.421895357,92,0,2,0,0,4,0.411733684,0,1,30,United States,1,Humanities,2,NCAA/Professional,0,0,0,1,2
+170,James Boggess,3.419434882,74,2,3,1,0,3,0.27544628600000004,0,0,25,India,1,Quantitative,2,None,0,0,0,1,2
+171,Larry Davila,3.41754468,38,2,3,0,0,4,0.394705915,2,0,32,United States,1,Humanities,2,Club/Intramural,0,0,0,1,0
+172,Donald Hegarty,3.415203074,36,0,1,0,0,5,0.47119092799999995,0,0,24,United States,1,Humanities,1,Club/Intramural,0,0,0,1,0
+173,Phoebe Snyder,3.4135475439999996,5,2,3,0,0,6,0.7248685140000001,0,1,25,India,1,Quantitative,2,None,0,0,0,1,2
+174,John Terhune,3.411861177,20,2,1,0,0,3,-0.069777647,0,0,22,United States,1,Quantitative,1,Club/Intramural,0,0,1,1,2
+175,Delores Gullatte,3.4092410189999995,102,0,3,0,0,3,0.366568666,0,1,32,United States,1,Sciences,2,None,0,0,1,1,2
+176,Amanda Roeber,3.4061497789999997,64,2,2,0,0,2,0.288920491,0,1,25,United States,1,Engineering,1,None,0,0,1,1,1
+177,Bobby Thrift,3.4046459139999996,22,2,3,0,0,0,0.250823429,0,0,26,United States,1,Humanities,2,None,0,0,1,1,2
+178,Naomi Boteilho,3.403887615,33,1,3,0,0,4,0.230977579,0,1,30,United States,1,Sciences,2,None,0,0,1,1,1
+179,Diana Hook,3.397484449,35,0,1,0,0,5,0.090528039,0,1,31,United States,2,Engineering,2,NCAA/Professional,0,0,2,1,0
+180,Liliana Schwarz,3.397115365,21,0,3,0,0,1,0.462331025,0,1,24,United States,2,Engineering,2,Club/Intramural,0,0,1,1,2
+181,Michael Booker,3.394632987,38,2,3,0,0,2,0.742245122,0,0,26,United States,2,Sciences,3,Club/Intramural,0,0,1,1,0
+182,Joe Sheppard,3.3871563210000004,16,1,1,0,0,4,0.6879618540000001,0,0,29,Canada,2,Quantitative,1,None,0,0,0,1,1
+183,Guadalupe Miller,3.378593047,18,1,4,0,0,3,0.5342723629999999,0,1,29,Australia,2,Sciences,2,None,0,0,2,1,0
+184,Barbara Lopez,3.3715330000000003,14,1,1,0,0,1,0.38498154700000004,0,1,34,United States,1,Sciences,1,Club/Intramural,0,0,2,1,1
+185,Cynthia Hinojos,3.367518987,40,1,3,0,0,4,0.72415233,0,1,24,United States,1,Quantitative,2,None,0,0,0,1,2
+186,Inez Mason,3.365190961,42,0,0,0,0,6,0.602948735,0,1,22,United States,1,Sciences,3,Club/Intramural,0,0,1,1,1
+187,Stewart Brown,3.361794065,17,1,1,0,0,3,0.573886185,0,0,21,United States,1,Engineering,2,NCAA/Professional,0,0,1,1,1
+188,Maria Bevan,3.358934465,27,0,0,1,0,2,0.390323663,0,1,29,United States,1,Quantitative,2,Club/Intramural,1,1,0,1,2
+189,James Godwin,3.358517057,46,2,2,0,0,2,0.10117426199999999,0,0,22,Australia,2,Quantitative,1,NCAA/Professional,0,0,0,1,0
+190,Patricia Via,3.355374753,72,1,3,0,0,3,0.536662979,3,1,24,United States,1,Quantitative,1,Club/Intramural,0,0,2,1,0
+191,Marshall Laxen,3.3539262739999995,14,0,2,0,0,0,0.618344903,0,0,27,United States,2,Humanities,1,NCAA/Professional,0,0,1,1,0
+192,Susan Rogers,3.3513377739999997,54,0,1,0,1,6,0.17228914399999998,1,1,21,United States,1,Quantitative,2,NCAA/Professional,0,0,2,1,1
+193,Sherry Charpentier,3.347442317,65,1,3,0,1,5,0.17191926600000002,1,1,31,United States,1,Quantitative,1,None,0,0,2,1,2
+194,Benjamin Jensen,3.3442898860000003,85,0,0,0,0,1,0.461881231,0,0,30,United States,2,Humanities,3,None,0,0,1,1,2
+195,Tracy Sachs,3.3384412610000003,73,1,0,0,0,2,0.917129338,1,1,23,United States,2,Sciences,2,None,0,1,2,1,2
+196,David Lynch,3.335861343,51,0,2,0,0,3,0.4932669,0,0,24,United States,1,Quantitative,2,None,0,0,0,1,2
+197,Summer Brady,3.335660264,42,0,4,0,0,1,0.6194979270000001,0,1,25,United States,2,Engineering,2,Club/Intramural,0,0,0,1,1
+198,Lance Milligan,3.3335832930000002,30,1,2,0,0,2,0.765044753,0,0,23,United States,0,None,0,None,0,0,1,1,2
+199,Christopher Burcham,3.316920442,29,1,4,0,0,2,0.712706506,4,0,27,United States,0,None,0,None,0,0,2,1,2
+200,Terry Patterson,3.314236493,42,0,0,0,0,3,0.6782588559999999,0,1,24,United States,1,Humanities,2,None,0,0,1,1,0
+201,Robert Martin,3.311966003,26,0,1,0,0,3,0.6755882990000001,0,0,27,United States,1,Quantitative,1,Club/Intramural,0,0,2,1,2
+202,David Larson,3.309286824,78,0,2,0,0,1,0.151010699,0,0,27,United States,1,Quantitative,2,None,0,0,0,1,1
+203,George Conner,3.308395557,46,2,4,0,0,4,0.48781553,0,0,28,United States,1,Quantitative,1,NCAA/Professional,0,0,0,1,1
+204,Harold Merklein,3.3078637110000004,28,0,3,0,0,0,0.45624097399999997,0,0,29,United States,2,Sciences,2,Club/Intramural,0,0,1,1,1
+205,Mildred Wilson,3.3064706960000003,36,0,3,0,0,1,0.142290728,0,1,33,United States,1,Sciences,3,NCAA/Professional,0,0,1,1,0
+206,Shirley Soliz,3.3006477860000003,44,1,3,0,0,2,0.653496944,0,1,24,India,1,Humanities,2,None,0,0,2,1,1
+207,Johnny Matthews,3.295731963,93,2,3,0,0,3,0.360168365,0,0,42,United States,1,Quantitative,3,Club/Intramural,0,0,2,1,1
+208,Shelley Aguilar,3.295068235,36,0,4,0,0,3,0.698600309,0,1,26,United States,0,None,0,None,0,0,1,1,1
+209,Joshua Sellers,3.291778121,57,0,1,0,0,6,0.38834592799999995,0,0,27,United States,1,Humanities,2,Club/Intramural,0,0,1,1,2
+210,Paul Small,3.2867996660000003,63,0,0,1,0,5,0.36188876200000003,1,0,27,United States,2,Quantitative,2,Club/Intramural,0,0,1,1,0
+211,Francis Walker,3.279927036,19,1,2,1,0,2,0.262860277,0,0,31,United States,1,Sciences,2,Club/Intramural,1,1,1,1,0
+212,April Schmid,3.279474863,81,0,4,0,0,3,0.068731788,0,1,25,United States,1,Humanities,1,None,1,1,1,1,1
+213,Maria Cahill,3.2789482010000004,17,0,0,0,0,3,0.29608235,0,1,21,United States,2,Engineering,2,Club/Intramural,0,0,0,1,1
+214,Harvey Hunter,3.2756138110000004,70,2,1,0,0,2,0.7588944320000001,0,0,32,United States,1,Quantitative,1,None,0,0,1,1,1
+215,Diane Hackett,3.273974261,101,0,2,0,0,2,0.372475813,3,1,24,United States,1,Sciences,1,None,0,0,1,1,2
+216,Jesse Adams,3.273571487,29,2,2,0,1,3,0.866513937,0,0,31,United States,1,Humanities,2,None,0,0,0,1,0
+217,Debbie Andrews,3.2689630569999997,72,0,1,0,0,3,0.181949778,0,1,31,United States,1,Engineering,2,Club/Intramural,0,0,2,1,1
+218,Brian Hendrickson,3.268020374,21,2,1,0,1,4,0.619745612,0,0,24,United States,1,Sciences,1,Club/Intramural,0,0,0,1,1
+219,John Rivera,3.259820275,46,0,2,0,1,1,0.329083027,0,0,27,United States,1,Humanities,2,None,0,0,0,1,2
+220,Jorge Smith,3.259383975,46,0,4,0,0,0,0.357157734,0,0,29,United States,2,Engineering,3,Club/Intramural,0,0,1,1,2
+221,William Gagnon,3.257232661,57,0,4,0,0,3,0.6829028359999999,3,0,30,United States,1,Quantitative,1,None,0,0,1,1,1
+222,Trevor Phillips,3.256029133,97,1,1,0,0,5,0.224386893,0,0,41,United States,1,Sciences,2,None,0,0,1,1,2
+223,Timothy Crosby,3.255887313,36,1,1,0,0,2,0.374739265,0,0,26,United States,1,Quantitative,2,Club/Intramural,0,0,2,1,1
+224,Pauline Judd,3.255424291,12,0,1,0,0,1,0.7824331529999999,0,1,23,United States,1,Sciences,1,None,0,0,0,1,2
+225,Arthur Valdez,3.253157245,83,2,2,0,0,4,0.313525058,0,0,29,United States,1,Sciences,1,None,0,0,1,1,1
+226,Benjamin Lapp,3.25229052,51,0,1,1,0,1,0.788651567,0,0,23,United States,1,Humanities,1,Club/Intramural,0,0,0,1,1
+227,Lester Morrow,3.2520773,31,2,3,0,0,4,0.715771547,4,0,27,United States,1,Quantitative,1,NCAA/Professional,0,0,2,1,0
+228,Barbara Webb,3.247103715,21,0,3,0,0,6,0.581868772,0,1,29,Canada,1,Humanities,2,NCAA/Professional,0,0,0,1,2
+229,Andre White,3.246087189,5,1,0,0,1,4,0.972468041,0,0,34,Mexico,2,Sciences,2,None,0,0,1,1,2
+230,Moises Hill,3.245478765,61,2,0,0,0,1,0.757270935,0,0,28,India,1,Sciences,2,Club/Intramural,0,0,1,1,1
+231,Paul Adams,3.2411621569999998,52,2,0,1,0,2,0.440363925,4,0,29,United States,2,Quantitative,2,Club/Intramural,1,1,0,1,2
+232,Janice Klein,3.237091649,57,1,2,0,0,3,0.58709662,0,1,24,India,1,Engineering,1,None,0,0,0,1,0
+233,Lee Lewis,3.236320619,47,2,4,1,0,2,0.385469003,1,0,30,United States,1,Sciences,1,None,1,1,0,1,1
+234,William Burnett,3.234670341,73,0,1,0,0,3,0.8197259790000001,1,0,24,United States,1,Sciences,1,Club/Intramural,0,1,1,1,0
+235,Donna Vermillion,3.234190967,54,1,4,1,0,4,0.327583312,0,1,33,United States,1,Sciences,2,None,0,0,1,1,1
+236,Clarissa Garcia,3.2292072760000003,87,0,3,0,0,4,0.099218106,2,1,29,United States,1,Quantitative,1,NCAA/Professional,0,0,1,1,1
+237,Jane Lechler,3.226469572,20,0,1,0,0,1,0.683659235,0,1,30,United States,1,Sciences,2,None,0,0,0,1,1
+238,Theresa Heilig,3.2203335560000004,86,0,4,0,0,2,0.167627605,3,1,25,China,2,Engineering,2,None,0,0,0,1,0
+239,Melvin Gebhardt,3.218454257,25,1,3,0,0,4,0.19225227399999997,0,0,30,United States,1,Humanities,3,None,1,1,0,1,1
+240,Gregory Horn,3.217613287,34,0,2,0,0,4,1.105482587,0,0,23,United States,1,Sciences,3,None,0,0,1,1,2
+241,Roy Hoffman,3.2173590510000003,62,2,1,0,0,1,0.41605824700000005,0,0,22,United States,1,Humanities,2,Club/Intramural,0,0,1,1,2
+242,Richard Runions,3.214932788,5,1,2,0,0,2,0.39121066200000004,0,0,37,United States,1,Sciences,3,None,0,0,1,1,2
+243,Stanley Morgan,3.213204292,5,0,2,0,0,1,0.808263507,2,0,31,United States,1,Humanities,2,None,0,0,1,1,1
+244,Thomas Whitten,3.210628938,24,2,4,1,0,2,1.1455773759999999,0,0,25,United States,1,Humanities,2,Club/Intramural,0,0,1,1,0
+245,Fidel Omoyosi,3.1948677739999995,37,0,0,0,0,2,0.798493036,0,0,24,United States,1,Humanities,3,NCAA/Professional,0,0,1,1,2
+246,Shirley Black,3.193994617,120,0,0,1,0,2,0.291854245,0,1,22,United States,1,Humanities,3,None,0,0,0,1,0
+247,Richard Bush,3.19193459,105,1,3,0,0,0,0.639546921,0,0,23,United States,1,Engineering,2,NCAA/Professional,0,0,2,1,1
+248,Vern Peterson,3.1909130130000003,30,2,2,0,0,0,0.640215629,0,0,22,United States,1,Engineering,2,None,0,0,1,1,1
+249,Mildred Adams,3.188764368,108,1,2,0,0,1,0.241940817,2,1,24,China,1,Engineering,1,None,0,0,1,1,0
+250,Randall Phillips,3.188070769,76,1,3,0,0,3,0.5773265879999999,0,0,35,United States,1,Sciences,2,None,0,0,1,1,2
+251,William Mcbryde,3.18793741,50,2,0,0,0,4,0.48433798,0,0,25,Canada,2,Engineering,3,Club/Intramural,0,0,1,1,0
+252,Jeremy Dion,3.187791271,57,0,3,0,0,4,0.157457407,0,0,27,United States,2,Sciences,3,None,0,0,1,1,1
+253,Kelly Gaddis,3.1869348989999997,120,0,2,0,0,3,1.03334343,0,1,23,United States,1,Quantitative,1,Club/Intramural,0,0,0,1,0
+254,Nickolas Rogers,3.184182041,10,2,4,0,0,3,0.520514126,4,0,22,United States,1,Sciences,3,NCAA/Professional,0,0,1,1,0
+255,Ralph Johnson,3.183111926,5,2,1,0,0,2,0.515808169,0,0,26,United States,1,Sciences,1,None,0,0,1,1,2
+256,Lori Neal,3.180447595,41,0,2,0,0,5,0.845885131,0,1,30,United States,2,Engineering,2,None,0,0,2,1,1
+257,Sarah Picard,3.175651608,44,0,4,0,0,2,0.7651657409999999,0,1,26,United States,1,Humanities,2,Club/Intramural,0,0,2,1,1
+258,Amy Atwell,3.175110526,14,1,3,0,0,1,0.574519669,0,1,23,United States,1,Humanities,2,None,0,0,0,1,1
+259,Renea Rankin,3.174982085,81,2,3,0,0,5,0.622995665,0,1,23,Canada,1,Quantitative,2,Club/Intramural,0,0,2,1,0
+260,Raymond Bilal,3.16970595,81,2,4,0,0,4,0.37043105299999995,0,0,28,United States,1,Engineering,1,None,0,0,1,1,0
+261,Paul Caudill,3.163624265,52,1,2,0,0,4,0.519168796,0,0,29,United States,2,Humanities,1,None,0,0,0,1,2
+262,Marie Kinkel,3.15788628,57,1,3,0,0,3,0.541481344,0,1,26,United States,1,Quantitative,2,NCAA/Professional,0,1,1,1,1
+263,Carl Armstrong,3.1544535369999998,34,0,4,0,0,4,0.755799575,2,0,27,United States,1,Quantitative,2,Club/Intramural,0,0,2,1,1
+264,Dorothy Howard,3.14837306,31,0,0,0,0,4,0.836784328,1,1,30,United States,2,Sciences,1,Club/Intramural,1,1,2,1,1
+265,Jay Walker,3.1480951939999997,10,2,2,0,1,5,0.184154934,0,0,29,United States,1,Sciences,1,None,0,0,1,1,2
+266,Heather Kelly,3.142823499,76,0,0,0,1,3,-0.070517665,0,1,24,United States,1,Quantitative,2,None,0,0,1,1,2
+267,Doris Cox,3.1428019989999996,76,1,4,0,0,0,0.388000154,2,1,29,United States,1,Sciences,1,None,0,0,2,1,1
+268,Shawna Jackson,3.1397897219999997,36,1,2,0,0,3,0.324063447,0,1,28,United States,1,Humanities,2,None,0,0,1,1,2
+269,Maria Macdougall,3.130452387,13,0,3,0,0,4,0.583828244,0,1,28,United States,1,Sciences,1,None,0,0,1,1,0
+270,Gary Enochs,3.128147678,41,1,4,0,0,5,0.896835803,2,0,37,United States,1,Engineering,2,None,0,0,0,1,1
+271,Thomas Fonseca,3.127396384,53,2,2,0,0,3,0.693713355,0,0,27,United States,2,Humanities,1,Club/Intramural,0,0,1,1,0
+272,Sarah Johnson,3.12588815,5,1,0,0,0,4,0.608489155,0,1,26,United States,1,Engineering,3,Club/Intramural,0,0,0,1,0
+273,Tonya Sterry,3.1218471169999997,11,0,1,0,0,4,0.987069755,0,1,29,United States,1,Engineering,3,None,0,0,1,1,0
+274,William Jones,3.120131493,47,0,3,0,0,3,0.479190995,0,0,27,United States,1,Engineering,1,None,1,0,1,1,2
+275,Larry Pompey,3.1184357819999997,5,1,2,0,1,1,0.632590808,3,0,28,United States,1,Sciences,1,NCAA/Professional,0,0,1,1,2
+276,Christopher Jordan,3.117019441,5,2,3,0,0,3,0.8370931859999999,0,0,24,United States,1,Quantitative,2,Club/Intramural,0,0,1,1,0
+277,Bobbie Walker,3.116672121,50,0,3,0,0,6,0.514913567,0,1,25,United States,1,Engineering,2,None,0,0,2,1,2
+278,Maurita Prestridge,3.1142314939999998,18,0,4,0,0,1,0.605801403,0,1,21,United States,2,Quantitative,1,None,0,0,1,1,2
+279,Jose Albert,3.113720598,56,1,3,0,0,2,0.7059502320000001,4,0,29,United States,1,Engineering,1,Club/Intramural,0,0,0,1,1
+280,Michael Cohen,3.113315042,34,2,3,0,0,3,0.7147790820000001,2,0,27,United States,2,Quantitative,3,Club/Intramural,0,0,0,1,1
+281,Gary Perreault,3.1120121210000002,31,0,4,0,0,1,0.36831801200000003,0,0,32,United States,1,Humanities,2,None,0,0,0,1,2
+282,John Mock,3.109543332,68,1,1,0,1,3,0.41992532,0,0,27,China,1,Quantitative,2,None,0,0,1,1,0
+283,Pamela Fletcher,3.109523237,42,0,3,0,0,3,0.305352477,0,1,35,United States,1,Sciences,2,None,0,0,0,1,2
+284,Barbara Estrada,3.102132505,69,1,2,0,0,5,-0.016508903999999998,0,1,24,United States,1,Quantitative,1,None,0,0,1,1,0
+285,Michael Matthews,3.1019502919999997,78,0,1,0,0,4,0.46823516299999995,0,0,21,United States,1,Sciences,1,NCAA/Professional,0,0,2,1,0
+286,Doug Miley,3.1017508960000004,5,0,3,0,0,3,0.571857587,0,0,37,United States,1,Sciences,2,NCAA/Professional,0,0,0,1,1
+287,Lisa Shaner,3.101519223,71,2,2,0,0,4,0.735128538,3,1,29,Mexico,1,Engineering,2,None,0,0,1,1,1
+288,Sherri Swope,3.0993417489999997,29,2,0,0,0,1,0.334051175,0,1,26,United States,1,Engineering,1,Club/Intramural,0,0,1,1,2
+289,David Nixon,3.093977111,28,2,2,0,0,2,1.101041967,0,0,32,United States,1,Sciences,2,Club/Intramural,0,0,1,1,0
+290,Yvette Lawson,3.093317846,54,0,0,0,0,3,0.688061238,4,1,29,China,1,Quantitative,2,Club/Intramural,0,0,0,1,2
+291,Sheila Bryant,3.089170901,71,0,3,0,0,3,0.305708741,0,1,29,United States,0,None,0,None,0,0,1,1,1
+292,Shirley Morrison,3.088070956,104,0,4,0,1,3,0.595750084,0,0,23,United States,1,Quantitative,2,None,0,0,0,1,2
+293,Edward Mcgee,3.08490426,25,1,4,0,0,4,0.598998729,2,0,34,United States,0,None,0,None,1,1,1,1,2
+294,Richard Johnson,3.0830944610000004,24,2,2,0,0,2,0.404483992,2,0,35,China,1,Engineering,2,None,0,0,0,1,0
+295,Jamie Boggs,3.081648351,37,1,1,0,0,4,0.195959296,0,1,22,United States,1,Humanities,1,None,0,0,1,1,0
+296,Deborah Ley,3.081268437,26,1,0,0,0,5,0.860876112,0,1,29,United States,1,Humanities,2,Club/Intramural,0,0,2,1,0
+297,Robert Williford,3.07850386,15,2,1,0,0,4,0.07172862099999999,0,0,27,United States,2,Humanities,2,None,0,0,1,1,1
+298,Randy Miller,3.07390798,54,1,1,1,0,3,0.21649648100000002,2,0,31,United States,1,Quantitative,1,None,0,0,1,1,2
+299,Juan Davis,3.0707348260000003,12,2,2,0,0,1,-0.014520348,0,0,21,United States,2,Sciences,2,None,0,0,1,1,1
+300,August Gray,3.069280408,30,2,1,1,0,5,0.536487217,0,0,24,United States,1,Sciences,2,None,0,0,1,1,1
+301,Christine Gump,3.06852169,27,0,2,0,0,5,1.070611426,0,1,28,United States,1,Sciences,2,None,0,0,2,1,0
+302,John Courser,3.0659376710000004,20,0,2,0,0,4,0.596780898,2,0,25,United States,2,Quantitative,2,NCAA/Professional,1,1,0,1,1
+303,Derek Batchelor,3.065259892,74,0,1,0,0,2,0.6662101570000001,0,0,24,United States,1,Quantitative,2,None,0,0,0,1,0
+304,Thomas Hazel,3.064213483,35,0,1,0,0,3,0.007011155,0,0,23,United States,0,None,0,None,0,0,1,1,2
+305,Andrew Lee,3.0592112289999998,67,0,1,0,0,2,0.648296765,1,0,25,United States,1,Quantitative,1,NCAA/Professional,1,1,1,1,2
+306,Tony Baker,3.0582253410000004,80,2,3,0,0,2,0.20496618600000002,1,0,24,United States,1,Quantitative,2,Club/Intramural,0,0,1,1,2
+307,James Johnson,3.053915706,18,2,1,0,0,6,-0.027266251000000002,0,0,22,United States,1,Engineering,1,Club/Intramural,0,0,0,1,1
+308,Amy Igbal,3.049332391,43,0,2,1,0,6,0.6196765679999999,1,1,21,United States,1,Quantitative,2,None,0,1,2,1,1
+309,Juan Adkins,3.0453983119999997,78,0,1,0,0,2,0.468507703,0,0,27,Australia,1,Humanities,1,None,0,0,0,1,2
+310,Helen Adams,3.041709122,46,0,2,0,1,2,0.28100320300000003,4,1,29,United States,1,Engineering,2,None,0,0,0,1,2
+311,Susann Presley,3.0405236939999996,71,1,1,0,0,2,0.45820004799999997,4,1,25,United States,1,Humanities,1,Club/Intramural,0,0,1,1,1
+312,Jean Brown,3.035104436,88,2,3,0,0,5,0.35687899,0,0,36,United States,1,Sciences,1,None,0,0,2,1,1
+313,Robert Wiseman,3.031997112,5,1,3,0,0,2,0.49158346700000005,0,0,24,United States,2,Humanities,3,None,0,0,2,1,0
+314,Kurt Barker,3.029807215,44,0,2,0,0,6,0.175051022,0,0,29,United States,1,Engineering,2,None,1,1,1,1,2
+315,Brandy Francis,3.0210699539999997,94,1,3,0,0,1,0.197860015,2,1,27,United States,1,Quantitative,2,Club/Intramural,0,0,0,1,1
+316,Brian Lee,3.0202765589999996,62,0,2,0,0,4,0.28823899,0,0,29,United States,1,Engineering,1,NCAA/Professional,0,0,1,1,1
+317,Harry Payne,3.018085495,5,2,1,1,0,4,0.505321235,0,0,23,United States,1,Humanities,2,Club/Intramural,0,0,1,1,0
+318,Williams Bauman,3.01763637,33,1,1,0,0,5,0.557469581,2,0,23,Australia,1,Quantitative,2,Club/Intramural,0,0,0,1,1
+319,Emery Whittemore,3.013954387,45,2,2,0,0,3,0.610249014,4,0,30,China,1,Quantitative,2,None,0,0,2,1,0
+320,Donald Necaise,3.0114669419999998,72,1,3,0,0,3,0.837926733,0,0,24,India,0,None,0,None,0,0,1,1,1
+321,Justin Butler,3.0098021389999996,73,1,4,1,0,6,0.844371575,0,0,25,United States,2,Humanities,2,Club/Intramural,0,0,2,1,0
+322,Stephen Morin,3.003944081,29,2,1,0,0,2,0.570532258,0,0,29,United States,1,Quantitative,1,Club/Intramural,0,0,0,1,0
+323,Karen Miller,3.002438249,46,1,4,0,0,5,0.48786802100000004,0,1,28,United States,2,Quantitative,2,None,0,0,0,1,0
+324,Casandra Bush,3.001248701,110,0,2,1,0,4,0.333567312,0,1,25,United States,1,Sciences,2,Club/Intramural,0,0,2,1,0
+325,Joseph Lankford,3.000488597,42,0,0,0,0,3,0.6741540890000001,0,0,29,United States,1,Engineering,1,None,0,0,2,1,0
+326,Beatrice Lee,3.0,68,0,1,0,0,2,0.5,3,1,24,United States,1,Engineering,1,None,0,1,1,0,0
+327,David Reed,2.992162335,53,1,1,0,1,2,0.440929987,0,0,24,United States,1,Engineering,2,None,0,0,1,1,0
+328,Ethel Butler,2.989846005,135,0,2,0,0,4,0.8385660070000001,1,1,31,United States,1,Engineering,2,None,0,1,0,1,1
+329,Arnold Cameron,2.9893776219999997,30,1,4,0,0,5,0.29718642,0,0,23,United States,1,Quantitative,2,None,0,0,0,1,0
+330,Leroy Liscomb,2.985717918,14,0,1,0,0,3,0.39759013200000004,0,0,23,United States,2,Humanities,2,None,0,0,1,1,2
+331,John Leroy,2.981785082,72,2,0,0,0,4,0.544569969,2,0,21,United States,1,Humanities,2,None,0,0,0,1,0
+332,Sandy Gregory,2.97339196,61,2,4,0,0,1,0.899319335,0,0,23,United States,2,Engineering,2,Club/Intramural,0,0,0,1,0
+333,Christopher Frilling,2.9662805339999996,82,1,2,0,1,2,0.38309456799999997,1,0,23,United States,1,Quantitative,1,None,0,0,1,1,0
+334,John Boudreaux,2.966233941,5,1,1,0,0,0,0.865651251,0,0,30,United States,1,Engineering,2,None,0,1,1,1,2
+335,Timothy Johnson,2.953404402,13,2,3,0,0,0,0.55583711,2,0,23,China,1,Engineering,2,Club/Intramural,0,0,2,1,0
+336,Mark Benitez,2.9533277239999998,76,0,0,0,1,2,0.440408753,1,0,26,United States,1,Sciences,1,None,0,0,1,1,0
+337,David Duey,2.9529747580000003,5,1,0,0,0,4,0.7156020120000001,0,0,25,United States,1,Engineering,3,Club/Intramural,0,0,2,1,0
+338,Robert Dalbec,2.952602484,59,2,1,0,0,2,1.023081535,1,0,31,United States,1,Quantitative,1,None,1,0,0,1,0
+339,Calvin Hulsey,2.9405426489999997,76,1,4,0,0,4,0.688940164,2,0,26,China,1,Sciences,1,None,0,0,2,1,0
+340,Dean Delcastillo,2.936591598,40,1,2,0,0,3,0.618139903,0,0,26,United States,1,Quantitative,2,NCAA/Professional,0,0,1,1,0
+341,Ralph Pryor,2.9336686910000003,39,0,2,0,0,1,0.622454876,0,0,37,United States,1,Quantitative,2,None,0,0,1,1,1
+342,Rick Cultice,2.932537463,5,0,1,0,0,5,0.651020577,0,0,30,United States,2,Quantitative,3,None,0,0,1,1,1
+343,Virginia Cox,2.930320951,113,0,2,0,0,5,0.8963003709999999,0,1,26,United States,0,None,0,None,0,0,0,1,0
+344,Dorothy Youree,2.9271771380000002,20,2,0,0,0,2,0.21375563600000003,2,1,24,United States,1,Quantitative,2,Club/Intramural,0,0,1,1,2
+345,Evelyn Water,2.9230714460000002,48,1,2,0,0,3,0.786270276,2,1,36,United States,2,Sciences,2,None,0,0,1,1,2
+346,Judith Luna,2.9131655569999997,83,0,0,0,0,3,0.5495404979999999,1,1,21,United States,1,Engineering,2,Club/Intramural,0,0,2,1,1
+347,Donald Watson,2.912873453,52,0,1,0,0,3,0.966824204,2,0,25,India,1,Quantitative,2,None,0,0,1,1,1
+348,Jared Gordon,2.91007031,84,2,3,0,0,4,0.33077517300000003,2,0,23,United States,0,None,0,None,0,0,1,1,1
+349,Samuel Coleman,2.909588607,88,2,3,0,0,5,0.673059645,0,0,32,United States,0,None,0,None,0,0,2,1,1
+350,Debra Fagan,2.908856572,31,1,0,0,0,1,0.43050012,0,1,29,China,1,Humanities,1,NCAA/Professional,0,0,1,1,0
+351,Jackson Culp,2.90825508,5,0,0,0,0,4,0.312589136,0,0,26,United States,1,Humanities,1,None,0,0,2,1,1
+352,Harold Beck,2.9073152739999997,35,1,0,0,0,1,0.648345669,2,0,23,United States,0,None,0,None,0,0,2,1,0
+353,June Crowder,2.906102986,85,1,0,0,0,5,0.127873775,0,1,30,United States,1,Humanities,2,Club/Intramural,1,1,0,1,2
+354,Homer Dillon,2.9043430810000004,64,1,1,0,0,5,0.629876109,1,0,30,Australia,1,Quantitative,1,None,1,1,0,1,2
+355,Chris Thomas,2.902799958,57,2,2,0,0,1,0.5888218510000001,0,0,29,China,2,Engineering,1,Club/Intramural,0,0,0,1,0
+356,Roxanna Lewis,2.902055341,5,2,2,0,0,2,0.729784402,0,1,28,United States,1,Engineering,1,None,0,0,1,1,0
+357,Mary Reese,2.899792985,67,0,1,1,0,3,0.6455121620000001,0,1,24,United States,1,Humanities,1,Club/Intramural,0,0,1,1,0
+358,Kurt Deoliveira,2.89848509,35,2,2,0,0,2,0.74281202,0,0,31,United States,1,Engineering,2,None,0,0,2,1,1
+359,Clyde Zediker,2.8935203069999997,55,0,2,0,0,5,0.318627645,0,0,26,United States,1,Engineering,1,None,0,0,0,1,2
+360,Micaela Cox,2.892813771,5,0,3,0,0,5,0.672331308,0,1,33,United States,1,Sciences,1,None,0,0,2,1,0
+361,Frank James,2.8927075060000003,26,2,3,0,0,1,0.34588200399999997,0,0,34,United States,1,Humanities,3,None,0,0,1,1,2
+362,Dominic Perry,2.892210482,93,0,0,0,0,3,1.03926105,3,0,26,United States,1,Humanities,1,Club/Intramural,0,0,2,1,2
+363,Kelley Lopez,2.892167063,32,0,4,0,0,4,0.818521808,0,1,22,United States,1,Sciences,2,Club/Intramural,0,0,1,1,2
+364,Beverly Lyon,2.888526029,35,1,4,0,0,4,0.554462551,0,1,24,United States,2,Engineering,1,Club/Intramural,1,1,2,1,0
+365,Fred Houston,2.888195063,40,2,3,0,0,3,0.23036359899999997,0,0,27,United States,1,Humanities,1,Club/Intramural,0,0,0,1,1
+366,Richard Sterling,2.879056447,91,1,1,0,0,2,0.556050218,1,0,23,United States,2,Humanities,2,Club/Intramural,1,1,1,1,1
+367,Tasha Tannenbaum,2.8751732619999997,79,0,2,0,0,2,0.800870018,0,1,26,United States,1,Humanities,3,None,0,0,2,1,2
+368,Joe West,2.8748422280000003,83,1,3,1,0,5,0.45823429600000004,1,0,22,United States,2,Humanities,2,Club/Intramural,1,1,2,1,2
+369,Hazel Anderson,2.866734744,40,1,0,1,0,1,0.7162340979999999,0,1,30,United States,1,Engineering,1,Club/Intramural,0,0,0,1,0
+370,Robert Marks,2.866065915,13,2,2,0,0,4,0.358496196,0,0,24,Canada,1,Sciences,3,None,0,0,0,1,2
+371,Lucille Ivey,2.860370235,45,0,4,1,0,0,0.703056065,3,1,22,India,1,Humanities,1,None,0,0,1,1,2
+372,Kelly Duval,2.858011565,130,0,4,0,0,3,0.333411938,1,1,26,United States,1,Quantitative,1,None,0,1,1,1,2
+373,Melissa Fields,2.853393137,86,1,0,0,0,4,0.793074475,0,1,27,Canada,1,Humanities,3,None,0,0,1,1,1
+374,Henry Banh,2.84907562,34,1,2,0,0,1,0.300483909,0,0,26,United States,1,Humanities,2,Club/Intramural,0,0,1,1,0
+375,Ronald Nikas,2.848725892,22,1,3,0,1,4,0.517003318,0,0,28,United States,1,Humanities,1,None,0,0,1,1,1
+376,Bo Le,2.842,100,0,0,0,0,1,0.21123000000000003,4,0,50,United States,0,None,1,None,1,1,1,0,0
+377,Kathleen Ivan,2.8417996710000004,5,1,2,0,0,3,0.335903326,2,1,28,United States,1,Quantitative,2,None,0,0,0,1,1
+378,Patricia Jelinek,2.831385573,53,1,1,0,0,4,0.64973681,0,1,27,United States,1,Humanities,1,None,0,0,0,1,0
+379,Olga Kelley,2.830288294,5,0,4,0,0,4,0.6806387709999999,0,1,28,United States,2,Humanities,3,Club/Intramural,0,0,1,1,0
+380,Carissa Schmidt,2.8282657860000002,24,0,2,0,1,6,0.745267687,0,1,24,United States,1,Humanities,2,None,0,0,2,1,2
+381,Joyce Irvin,2.81090955,22,1,1,0,0,5,0.228769098,2,1,21,United States,2,Engineering,1,Club/Intramural,0,0,2,1,2
+382,Danny Gugler,2.809417727,32,0,4,0,1,2,0.9590936640000001,0,0,23,United States,2,Quantitative,1,Club/Intramural,0,0,0,1,2
+383,Jared Rosales,2.8082952239999996,102,1,0,1,0,2,0.42566144100000003,1,0,27,United States,1,Engineering,1,Club/Intramural,0,0,0,1,1
+384,Melissa Lymon,2.8016072339999996,103,2,3,0,0,2,0.753813575,1,1,25,China,1,Humanities,1,None,0,0,0,1,2
+385,Shaun Kelly,2.797561304,41,2,3,1,0,5,0.805972492,0,0,24,United States,0,None,0,None,0,0,1,1,2
+386,Larry Roesler,2.7950713310000004,68,1,2,0,0,3,0.34959273799999996,0,0,24,United States,1,Engineering,1,None,0,0,1,1,1
+387,Cheryl Vallejo,2.794186991,5,0,1,1,0,5,0.235930812,0,1,24,United States,2,Sciences,2,None,0,1,0,1,0
+388,Paul Forbes,2.79314766,17,1,2,0,0,1,0.549548965,0,0,26,United States,2,Humanities,1,None,1,1,1,1,2
+389,Billy Johnson,2.7927384539999998,23,1,2,0,0,2,0.375724413,0,0,23,United States,1,Sciences,2,Club/Intramural,0,0,0,1,1
+390,Arthur Salazar,2.787904534,20,1,2,0,0,2,1.0033569740000001,0,0,28,India,1,Engineering,1,NCAA/Professional,0,0,1,1,0
+391,Betty Perez,2.785391277,33,1,3,0,0,2,0.382985412,0,1,21,Australia,1,Quantitative,2,None,0,0,2,1,2
+392,Jason Mcmahan,2.7852132480000003,41,0,2,0,0,5,0.5870897620000001,0,0,23,United States,2,Engineering,1,None,0,0,0,1,2
+393,Regina Voller,2.782498576,16,0,2,0,0,5,0.393059063,0,1,25,United States,1,Quantitative,2,None,0,0,1,1,2
+394,Mary Neal,2.781614277,48,1,2,0,0,1,0.817566508,3,1,22,China,1,Sciences,2,Club/Intramural,0,0,1,1,0
+395,Jennifer Stewart,2.78112805,18,0,4,1,0,5,0.866141005,3,1,27,United States,1,Engineering,1,None,0,0,1,1,1
+396,Evelyn Brown,2.778517036,19,0,1,0,0,3,0.541956609,0,1,23,United States,1,Humanities,1,Club/Intramural,0,0,1,1,1
+397,John Clark,2.776858615,10,0,3,0,0,4,0.435835012,1,0,23,United States,2,Quantitative,2,None,0,1,1,1,1
+398,Dwayne Silbert,2.7744609430000002,47,0,4,0,0,5,0.294094308,0,0,28,United States,1,Engineering,1,None,0,0,2,1,0
+399,Oscar Brougham,2.770904419,62,2,3,0,0,6,0.538081723,0,0,33,United States,1,Humanities,3,None,0,0,1,1,0
+400,Hal Crowson,2.7684794839999998,40,2,0,0,0,2,1.010933334,0,0,22,United States,1,Humanities,1,None,0,0,0,1,2
+401,Marilyn Mccloy,2.763279939,89,0,2,0,0,3,0.362648204,1,1,23,United States,1,Sciences,3,None,1,1,2,1,0
+402,Deborah Jones,2.760720381,92,1,3,0,0,3,0.23402893800000002,0,1,32,United States,1,Sciences,2,NCAA/Professional,0,0,2,1,2
+403,Larry Roy,2.7459187110000003,24,0,0,0,0,3,0.65810078,0,0,24,United States,1,Quantitative,2,None,0,0,0,1,1
+404,Michael Mcgill,2.743379242,48,2,3,0,0,3,0.157068378,0,0,22,United States,1,Engineering,2,None,0,0,1,1,0
+405,James Dickerson,2.7385448130000003,43,0,2,0,0,6,0.70027308,0,0,27,United States,1,Humanities,2,None,0,0,1,1,0
+406,Nicole Turbacuski,2.737509231,5,0,2,0,0,2,0.319888293,0,1,28,United States,1,Quantitative,2,None,0,0,1,1,2
+407,Fermin King,2.734937145,5,1,4,0,0,3,1.058561216,0,0,22,United States,1,Engineering,1,None,0,0,0,1,1
+408,Roger Montano,2.727849216,27,2,4,0,1,3,0.42866724799999995,0,0,23,United States,1,Engineering,2,None,0,0,1,1,0
+409,Kim Reinmann,2.723812735,29,1,1,0,0,2,0.494585905,1,1,21,United States,1,Engineering,1,NCAA/Professional,1,1,1,1,0
+410,Karen Young,2.722902995,47,0,2,0,0,2,0.420650067,0,1,37,United States,1,Engineering,2,Club/Intramural,0,0,1,1,2
+411,Aron George,2.718430665,13,0,1,0,0,2,0.25119022399999996,3,0,29,United States,2,Quantitative,1,None,0,0,0,1,0
+412,Simon Sylvester,2.708612735,53,1,0,0,0,2,0.924302044,0,0,25,United States,1,Quantitative,1,Club/Intramural,0,1,1,1,0
+413,Jose Swinney,2.7045318010000003,23,1,2,1,0,3,0.428015796,2,0,32,United States,1,Sciences,1,NCAA/Professional,0,0,1,1,1
+414,Shirley Garden,2.697703901,70,0,2,1,0,5,0.406900837,0,1,24,United States,1,Humanities,2,Club/Intramural,0,0,0,1,2
+415,Rudy Sutulovich,2.695840645,37,0,4,0,0,5,0.626129001,0,0,22,United States,1,Engineering,2,None,0,0,1,1,0
+416,Eddie Baldwin,2.6880798219999997,46,2,3,0,0,4,0.1578941,4,0,24,Canada,1,Humanities,1,None,0,0,0,1,1
+417,Steven Bartel,2.6875850289999996,67,0,0,0,0,0,0.30039097600000003,1,0,26,United States,1,Humanities,2,None,0,0,0,1,1
+418,Evangelina Zukof,2.6859126030000002,24,1,2,0,0,4,0.265024123,3,1,24,Mexico,1,Sciences,1,NCAA/Professional,0,0,0,1,0
+419,Barry Mendoza,2.67696243,21,1,2,0,0,2,0.730955591,4,0,22,United States,2,Sciences,2,None,0,0,2,1,1
+420,Neil Villa,2.676385234,56,0,1,1,0,5,0.067954917,0,0,25,United States,2,Sciences,1,Club/Intramural,0,0,2,1,0
+421,Dennis Allen,2.675702133,58,2,3,0,0,3,0.37720815799999996,1,0,23,United States,1,Sciences,2,None,1,1,0,1,1
+422,Moses Aguilera,2.671482665,117,0,1,0,0,2,0.516282491,1,0,28,United States,2,Engineering,1,Club/Intramural,0,0,0,1,0
+423,Olive Figueredo,2.66959117,90,0,2,0,0,4,0.64899142,1,1,26,United States,1,Engineering,1,Club/Intramural,0,1,2,1,1
+424,Marshall Johnson,2.668719972,47,2,2,0,0,5,0.745022897,0,0,28,United States,2,Engineering,2,None,0,0,1,1,1
+425,Patricia Soto,2.664510549,52,1,4,0,0,1,0.71549512,0,1,25,United States,1,Humanities,2,None,0,0,1,1,2
+426,James Dawson,2.664261114,53,1,3,0,0,6,0.313544104,0,0,32,United States,1,Quantitative,2,None,1,1,1,1,0
+427,Gladys Danna,2.657436582,36,0,3,0,0,3,0.426655819,2,1,28,United States,1,Quantitative,1,None,0,0,2,1,0
+428,Linda Kramer,2.657203468,61,0,1,0,0,2,0.780176654,0,1,24,United States,1,Quantitative,1,Club/Intramural,0,0,2,1,2
+429,Samuel Hamm,2.651047534,13,1,1,0,0,3,0.704711155,1,0,27,United States,1,Quantitative,1,NCAA/Professional,0,1,1,1,0
+430,Angela Cornett,2.6356201230000003,5,1,4,0,0,3,0.186551215,2,1,27,United States,1,Engineering,1,None,0,0,1,1,1
+431,Peter Lindsey,2.6332014,101,2,2,0,0,3,0.24756763199999998,0,0,25,United States,1,Quantitative,2,None,1,1,1,1,1
+432,Helen Hutton,2.632093264,92,1,1,0,0,1,0.498752325,0,1,25,United States,1,Engineering,1,None,0,0,1,1,0
+433,Kimberly Joseph,2.628990902,5,0,1,0,0,3,0.502283013,0,1,27,United States,1,Engineering,2,NCAA/Professional,0,0,1,1,0
+434,Jerry Floyd,2.626759146,89,1,0,0,0,2,0.352117956,0,0,31,United States,1,Engineering,3,None,0,0,0,1,0
+435,Anthony Harris,2.623112759,56,1,0,0,0,1,0.564501035,1,0,29,United States,1,Engineering,1,None,0,1,1,1,2
+436,Mandy Jones,2.622254919,60,0,1,0,0,0,0.45855075,0,1,28,United States,1,Humanities,1,None,1,0,1,1,0
+437,John East,2.621743075,49,2,4,0,0,4,0.456452834,0,0,23,Australia,1,Quantitative,2,NCAA/Professional,0,0,0,1,1
+438,Tory Allen,2.621574306,12,0,4,0,0,4,0.557533022,0,0,21,United States,1,Engineering,3,None,0,0,0,1,1
+439,Andrew Stewart,2.621121586,67,1,2,0,0,2,0.579493343,1,0,27,United States,1,Humanities,1,None,0,0,1,1,1
+440,Matthew Oden,2.616030498,40,0,4,0,0,2,0.159248423,0,0,28,United States,1,Humanities,2,NCAA/Professional,0,0,1,1,1
+441,William Mccluney,2.61584782,59,1,4,0,0,1,0.62734651,1,0,27,Australia,2,Quantitative,1,Club/Intramural,1,1,2,1,2
+442,Kenneth Delagarza,2.609052031,5,1,2,1,0,1,0.45194775200000004,0,0,25,United States,1,Quantitative,2,None,0,0,2,1,2
+443,Gilberto Wingard,2.608031647,73,2,1,0,0,6,0.306265613,3,0,25,United States,1,Engineering,2,None,0,0,1,1,0
+444,Ruth Almen,2.607753605,37,1,1,0,0,2,0.16570326,0,1,22,United States,1,Quantitative,1,None,0,0,0,1,1
+445,Carl Kimbrough,2.607489153,54,1,4,0,0,1,0.425603866,4,0,27,China,1,Sciences,2,Club/Intramural,0,0,1,1,2
+446,Paul Rosenfeld,2.606089068,83,2,4,0,0,2,0.098931207,0,0,26,China,1,Engineering,1,None,0,0,0,1,0
+447,Dennis Cummings,2.601599664,89,1,0,0,0,3,0.449563131,2,0,26,United States,1,Sciences,2,NCAA/Professional,0,0,1,1,2
+448,John Percell,2.598802872,39,0,1,0,0,3,0.107009459,0,0,27,China,1,Quantitative,2,None,0,0,1,1,2
+449,Delphine Mcwhorter,2.589438405,5,1,1,0,0,2,0.432107332,0,1,31,United States,2,Engineering,2,Club/Intramural,0,0,1,1,2
+450,Ryan Jones,2.588417918,17,1,1,1,0,2,0.93243626,0,0,22,United States,1,Sciences,1,Club/Intramural,0,0,0,1,0
+451,Tim Burke,2.58814493,75,1,1,0,0,3,0.7426605890000001,2,0,23,United States,2,Humanities,2,None,0,0,0,1,0
+452,Tracy Pool,2.587000266,85,0,4,0,0,1,0.6111012610000001,0,1,29,United States,1,Engineering,3,None,0,0,1,1,0
+453,Isiah Zayas,2.58512881,28,0,2,0,0,1,0.373101819,0,0,26,United States,1,Quantitative,2,None,0,0,1,1,1
+454,Erik Miller,2.584723835,17,2,2,0,0,1,0.239845712,0,0,23,United States,1,Humanities,2,NCAA/Professional,0,0,1,1,2
+455,Brenda Collins,2.58210699,33,1,4,0,0,5,0.67336611,3,1,28,United States,1,Engineering,1,None,0,0,1,1,1
+456,Robert Hitchcock,2.578222277,38,1,0,0,0,2,0.50624253,0,0,32,India,1,Quantitative,3,NCAA/Professional,0,1,0,1,0
+457,Megan Laffoon,2.577794814,94,0,3,0,0,1,0.529061366,0,1,22,United States,1,Humanities,2,None,0,1,0,1,0
+458,Catherine Minnerly,2.562640859,52,0,1,0,0,2,0.746206337,0,1,30,United States,1,Quantitative,2,Club/Intramural,0,0,2,1,1
+459,Earl Sauls,2.55745837,29,1,4,0,0,2,0.15988812800000002,4,0,27,United States,1,Humanities,2,None,0,0,0,1,1
+460,William Pawlowski,2.549545689,38,0,3,0,0,3,0.7619231590000001,0,0,22,United States,2,Sciences,2,None,0,0,2,1,2
+461,Dina Jacobs,2.541346029,14,1,4,0,0,1,1.0175116579999999,2,1,24,United States,1,Quantitative,3,None,0,0,1,1,2
+462,Douglas Engle,2.534914707,85,0,3,0,0,4,0.33061231,1,0,27,United States,1,Humanities,1,Club/Intramural,1,1,1,1,0
+463,Victor Ferguson,2.526533231,29,1,3,1,0,4,0.434906911,0,0,31,United States,1,Humanities,2,Club/Intramural,0,0,1,1,0
+464,Jesica Pastian,2.512499043,5,1,2,0,0,5,0.650265103,0,1,31,United States,0,None,0,None,0,0,1,1,2
+465,Ted Thurman,2.511456952,57,0,0,0,0,4,0.957759232,0,0,24,China,1,Quantitative,3,None,0,0,1,1,1
+466,Michael Feria,2.510215402,91,1,4,0,0,3,0.324741418,1,0,31,United States,1,Humanities,1,Club/Intramural,0,0,1,1,2
+467,Gilbert Smith,2.502374766,71,0,4,0,0,4,0.31746401399999996,0,0,25,United States,1,Engineering,2,None,0,0,0,1,1
+468,William Billy,2.498245559,5,2,3,0,0,4,0.802654017,0,0,26,United States,1,Quantitative,2,None,0,0,1,1,1
+469,Kum Milone,2.4980570330000003,5,1,0,0,0,1,0.49679594899999996,0,1,29,United States,1,Humanities,1,Club/Intramural,0,0,1,1,1
+470,Elsie Ibanez,2.49346068,55,0,1,0,0,6,0.488682461,0,1,22,United States,1,Humanities,3,None,0,0,0,1,0
+471,Herman Henderson,2.484333779,19,2,0,1,0,2,0.575374908,0,0,24,United States,2,Engineering,3,Club/Intramural,0,0,1,1,1
+472,Carol Unga,2.461576788,19,0,4,0,0,6,-0.0075796480000000005,0,1,30,United States,2,Quantitative,2,Club/Intramural,0,0,2,1,1
+473,Horacio Sibley,2.44728373,26,2,0,0,0,3,0.300012088,2,0,22,United States,1,Quantitative,2,Club/Intramural,0,0,1,1,1
+474,Jonathon Aviles,2.440014363,5,1,1,0,0,3,0.196215585,0,0,21,United States,1,Sciences,2,None,0,0,2,1,1
+475,Sylvester Mcmath,2.437075551,17,0,1,0,0,3,0.674289076,0,0,28,United States,1,Quantitative,1,None,0,0,0,1,1
+476,Oleta Fulenwider,2.430031744,98,1,2,0,0,2,0.648365691,0,1,25,United States,1,Engineering,2,Club/Intramural,0,0,2,1,2
+477,Nancy Gump,2.403019203,29,0,4,0,0,2,0.400162229,0,1,24,United States,1,Humanities,2,Club/Intramural,0,0,2,1,1
+478,Brenda Dallas,2.389954569,91,1,2,0,0,5,0.5688204029999999,0,1,28,United States,1,Quantitative,2,None,0,0,1,1,1
+479,Richard Seit,2.384008702,54,0,0,0,0,1,0.7509941729999999,0,0,29,United States,1,Sciences,1,None,0,0,1,1,1
+480,Rita Mccarty,2.343834097,67,0,2,0,0,2,0.353259825,2,1,23,United States,1,Quantitative,2,None,0,0,1,1,2
+481,Katrina Chancellor,2.343654803,66,1,2,1,0,2,0.455985195,4,1,22,United States,1,Quantitative,1,None,0,0,2,1,1
+482,Charles Tapia,2.320525833,5,2,3,0,0,0,0.25278471399999997,0,0,24,United States,2,Humanities,3,None,0,0,1,1,1
+483,William Packard,2.286773965,14,1,0,0,0,4,0.389065502,3,0,23,United States,2,Engineering,1,None,0,0,1,1,0
+484,Lance Olson,2.280610186,23,0,3,1,0,4,0.548514615,0,0,22,United States,1,Sciences,2,None,0,0,1,1,2
+485,Esther Phillips,2.27305935,95,0,1,0,0,2,0.39055559700000003,0,1,24,United States,1,Sciences,2,Club/Intramural,0,0,1,1,2
+486,Henrietta Wiggs,2.2640989940000003,96,2,1,1,0,3,0.218064405,0,1,35,United States,1,Humanities,2,NCAA/Professional,0,0,1,1,2
+487,Tomas Fenelus,2.26399167,35,1,2,0,0,2,0.10576474300000001,0,0,28,United States,1,Humanities,2,None,0,0,0,1,1
+488,Rose Cardone,2.263252386,49,0,4,0,0,2,0.595182622,0,1,29,United States,1,Humanities,2,Club/Intramural,0,0,0,1,1
+489,William Storms,2.241120344,23,1,3,1,0,2,0.6013677829999999,1,0,28,United States,2,Sciences,1,None,1,1,2,1,2
+490,Inez Pugh,2.24047815,19,1,0,0,0,4,0.7219285529999999,0,1,25,United States,1,Quantitative,1,Club/Intramural,0,0,1,1,0
+491,Adam Cohen,2.230773847,35,0,2,0,0,6,0.5325740379999999,0,0,29,United States,1,Quantitative,1,None,1,0,1,1,2
+492,Jonathan Torres,2.2266739330000003,31,2,0,0,0,3,0.7243063820000001,3,0,22,United States,1,Quantitative,2,None,0,0,2,1,1
+493,Jerry Eike,2.186182924,168,0,4,0,0,3,0.463575535,1,0,24,United States,2,Engineering,1,None,0,1,0,1,0
+494,James Espy,2.111314465,59,1,0,0,0,3,0.6900423529999999,0,0,26,United States,1,Quantitative,1,None,0,0,1,1,0
+495,Martha Stockwell,2.109623563,36,1,0,0,0,6,0.855921285,0,1,26,United States,1,Humanities,2,None,0,0,0,1,2
+496,John Harris,2.105994351,13,2,3,0,0,4,0.847111442,0,0,22,United States,1,Sciences,3,NCAA/Professional,0,0,2,1,2
+497,Brenda Parton,2.090428445,40,0,1,0,0,4,0.733011497,4,1,28,United States,1,Humanities,2,Club/Intramural,0,0,2,1,0
+498,Vince Verrelli,2.0222771369999997,56,0,3,0,0,3,0.43773506799999995,0,0,23,United States,1,Sciences,1,None,0,0,1,1,2
+499,Madeleine Brown,1.989914763,35,1,3,0,0,3,0.7133202,0,1,24,United States,1,Sciences,2,NCAA/Professional,0,0,1,1,2
+500,Verna Bottom,1.953348031,36,0,1,0,0,4,0.8861061579999999,0,1,32,United States,1,Quantitative,2,None,0,0,0,1,2
+501,Jonathan Wozny,1.912484038,64,1,0,0,0,4,0.68946249,0,0,24,United States,1,Engineering,2,None,0,0,1,1,0
+502,Jarrod Chilson,1.86999672,20,2,1,0,0,4,0.058370318,0,0,27,United States,0,None,0,None,0,0,0,1,1
+503,William Miller,1.6918683909999999,74,0,2,0,0,3,0.593605321,0,0,33,United States,1,Engineering,2,None,1,1,0,1,2
+504,Edward Sorenson,1.511594866,31,0,0,0,0,4,0.8993775409999999,2,0,34,China,2,Humanities,1,None,0,0,2,1,1

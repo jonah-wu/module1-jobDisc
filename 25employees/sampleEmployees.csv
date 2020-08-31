@@ -1,0 +1,26 @@
+Names,Education,GPA,Educational Prestige,Years of Experience,Soft Skills,Manager's Assessment Score,Military Tenure,Avg Commute Time,Job Tenure,Cultural Fit,Leadership Capability,Sports,Technical Aptitude,Avg Deals Closed,Undergraduate Degree,LinkedIn Score,Responsible Social Media Use,Employee Referral,HireVue Score,Arrest Record,Criminal Record,Race,Gender,Birth Origin,Age,Combo
+Willie Moorefield,0.458,3.910,2.96,6.3,4.56,5.58,0,10,6,2.221,0.62057497,35.68819227,2.220827678,8.55,Quantitative,Very Good,Good,1,2.0,0.0,0.0,Caucasian,male,Australia,32,2.688214516
+Nathan Anderson,1.845,3.799,2.13,7.9,3.19,3.34,0,5,7,3.593,3.188080468,53.32378291,3.592506736,9.55,Quantitative,None,Good,1,2.0,0.0,0.0,Asian ,male,United States,24,2.536064234
+Gregory Pittman,0.935,3.976,2.44,5.1,3.59,3.54,0,15,5,1.623,3.184387295,17.32027938,1.622956574,8.03,Quantitative,Very Good,Good,1,2.0,0.0,0.0,Caucasian,male,Canada,31,2.19257927
+Young Berg,0.127,4.195,2.82,3.9,4.33,3.98,4,40,3,0.403,4.540394265,28.25080246,1.40258042,6.29,Engineering,Very Good,Good,1,2.0,0.0,0.0,African-American,male,China,32,1.842728784
+John Dancy,0.466,3.327,2.37,7.7,4.45,4.75,0,10,1,-1.502,3.265444888,30.38937297,0.501547576,4.20,Engineering,Very Good,Good,0,2.0,0.0,0.0,Caucasian,male,Canada,24,1.462256313
+Bruce Potter,0.324,2.750,2.93,4.0,3.37,1.55,0,15,3,-0.231,2.247676481,14.86843679,-0.231385361,5.97,Quantitative,Very Good,Good,0,2.0,0.0,0.0,Caucasian,female,Canada,32,1.326010051
+Byron Farmer,0.089,3.381,2.09,8.0,3.79,1.44,0,24,3,-0.101,4.202232344,1.946551283,-0.100945353,5.82,Humanities,Ok,Good,0,2.0,0.0,0.0,Caucasian,male,United States,25,1.269094097
+Allen Porter,0.105,3.049,2.72,5.5,2.98,-0.88,0,72,3,0.636,1.221923438,61.21643757,0.636034926,6.42,Humanities,Ok,Good,0,0.0,0.0,0.0,Caucasian,male,Canada,26,1.003992653
+Jordan Mcsweeney,0.291,3.127,1.05,3.3,2.29,-1.17,0,10,3,-0.197,2.562217637,9.566167771,-0.196538738,6.40,Engineering,None,Bad,0,1.0,0.0,0.0,Caucasian,male,Canada,25,0.945525556
+Kenneth Sanchez,-0.155,2.688,1.33,8.3,3.30,-0.21,3,8,3,-0.491,2.581403295,7.694710928,-0.490816937,5.66,Engineering,None,Good,0,0.0,0.0,0.0,Other,female,Australia,22,0.934608736
+Jack Rodriguez,-0.084,2.921,1.58,2.4,2.44,-1.31,1,54,3,-0.016,1.563393698,54.1333809,-0.016253441,5.81,Quantitative,Ok,Good,1,1.0,0.0,0.0,Asian ,male,United States,30,0.775933005
+Dennis Victor,-0.287,3.271,3.17,1.7,3.03,-0.64,0,54,2,-0.577,2.565032463,54.06542231,-0.577085708,5.15,Humanities,Ok,Good,0,0.0,0.0,0.0,Hispanic,male,Canada,35,0.730189211
+Jacob Morones,-0.022,3.376,2.13,5.2,3.29,0.23,0,19,1,-1.518,2.759940368,18.85909098,-1.517559234,4.40,Quantitative,Very Good,Bad,0,0.0,0.0,0.0,Caucasian ,male,Australia,23,0.70192391
+Richard Smith,1.236,3.099,1.70,6.5,2.69,0.68,3,35,0,-2.113,2.850827105,34.58178629,-2.112526092,3.43,Engineering,Ok,Good,0,2.0,0.0,0.0,Hispanic,male,Australia,29,0.543208592
+Marion Admire,-1.503,3.366,2.03,0.5,2.22,-4.56,2,5,4,0.772,2.689174894,4.569185572,0.771566429,6.93,Humanities,None,Good,0,0.0,1.0,1.0,African-American,male,India,23,0.470959617
+James Sergent,-1.673,2.904,1.50,1.4,2.48,-4.25,2,58,4,0.499,0.620739574,57.69462324,0.499496685,6.53,Engineering,None,Good,0,1.0,1.0,0.0,African-American,female,India,21,0.428026121
+Daniel Exline,-0.895,3.156,1.39,4.2,2.54,-3.27,0,13,3,-0.166,2.847681122,13.4733766,-0.165560651,5.74,Engineering,Ok,Good,0,0.0,1.0,0.0,Caucasian,male,United States,24,0.405584594
+Brandon Hyde,-0.729,2.668,1.35,3.0,2.03,-4.35,0,18,3,-0.110,1.584444278,17.75044788,-0.11023,6.24,Engineering,None,Bad,0,1.0,1.0,1.0,Hispanic,female,Australia,21,0.337830384
+Brain Valot,0.624,2.236,1.73,8.6,2.94,0.07,0,77,0,-3.810,1.258580354,76.81348965,-3.809965693,3.00,Engineering,Very Good,Good,0,1.0,0.0,0.0,Caucasian,male,China,30,0.327038302
+Marc Cunningham,-1.037,3.524,1.42,5.4,3.26,-1.84,0,24,1,-1.801,0.867611207,24.31549386,-1.80062077,3.95,Quantitative,None,Bad,1,0.0,0.0,0.0,Caucasian,male,Canada,24,0.22141332
+Christopher Mayse,0.304,2.207,2.22,5.0,2.52,-1.07,0,39,0,-2.733,0.063075251,38.74084396,-2.73325218,3.10,Quantitative,Ok,Good,0,0.0,0.0,0.0,Caucasian,male,China,27,0.146594271
+Frank Delisa,-0.311,2.705,-0.27,4.7,2.13,-2.61,0,29,1,-1.606,0.900690692,29.49235879,-1.605722387,4.12,Engineering,Very Good,Good,0,1.0,1.0,0.0,Caucasian,male,Canada,29,0.123670001
+Brian Dubois,-0.901,3.079,1.81,5.9,3.39,-1.10,0,50,0,-2.472,2.593321692,50.36583307,-2.472192974,3.00,Quantitative,None,Bad,0,1.0,1.0,0.0,Caucasian,male,Canada,22,0.117217306
+Wallace Dutton,-0.795,3.297,1.64,2.4,2.89,-1.47,2,19,0,-3.453,5.756061921,19.28412777,-3.452557884,3.00,Engineering,Ok,Bad,0,1.0,0.0,0.0,Asian ,male,Mexico,31,0.050775168
+Aaron Hesson,-1.988,2.720,1.32,1.3,2.52,-4.51,0,47,0,-2.786,2.517488018,46.51835723,-2.7863469,3.00,Sciences,Very Good,Good,0,0.0,0.0,0.0,Caucasian,male,China,27,-0.494109369
