@@ -1,46 +1,46 @@
 ,Education,GPA,Educational Prestige,Years of Experience,Soft Skills,Manager's Assessment Score,Military Tenure,Avg Commute Time,Job Tenure,Cultural Fit,Leadership Capability,HireVue Score,Technical Aptitude,Avg Deals Closed,Undergraduate Degree,LinkedIn Score,Responsible Social Media Use,Employee Referral,Arrest Record,Criminal Record,Names,Race,Gender,Sports,Birth Origin,Age,Zip
-0,0.45,3.43,2.9,0.66,2.98,1.35,0.0,12.0,1.5,-1.5,0.0,-5.33,-4.59,1.38,Quantitative,Ok,Good,0.0,0.0,0.0,Gregory Brock,Asian,male,0.0,USA,23.0,94087
-1,-0.23,2.51,1.7,2.91,2.52,-1.33,0.0,6.0,5.5,1.97,3.81,2.08,1.8,9.43,Engineering,Very Good,Good,1.0,1.0,0.0,Glenn Wiersteiner,Asian,male,0.0,USA,25.0,94043
-2,0.64,3.63,1.4,4.78,3.62,3.23,0.0,1.0,2.6,-0.76,1.41,-2.72,-1.54,5.7,Engineering,Very Good,Good,1.0,0.0,0.0,Chad Smith,Asian,male,2.0,USA,27.0,94040
-3,0.25,2.54,2.9,6.07,2.46,-2.59,0.0,55.0,2.4,-0.42,1.9,-0.42,-1.49,4.96,Engineering,None,Good,0.0,0.0,0.0,Steven White,Asian,male,0.0,China,30.0,94523
-4,0.27,2.22,1.1,2.76,1.12,-4.87,0.0,33.0,3.0,0.16,1.85,0.82,0.75,7.71,Humanities,Ok,Bad,1.0,1.0,1.0,Herbert Walsh,Asian,male,0.0,USA,24.0,94010
-5,0.99,1.74,3.1,2.35,2.03,-0.81,0.0,37.0,5.0,1.43,1.21,-1.64,-1.83,4.7,Engineering,None,Good,0.0,0.0,0.0,David Roman,Asian,male,0.0,USA,24.0,94545
-6,-0.89,2.35,3.3,2.69,2.98,-1.73,0.0,58.0,3.6,0.68,1.95,-0.72,-1.96,4.3,Quantitative,None,Bad,0.0,0.0,0.0,Vincent Hamby,Asian,male,0.0,USA,25.0,94720
-7,-0.63,3.63,2.2,4.83,3.54,-0.14,0.0,58.0,1.8,-0.8,1.38,-0.22,0.33,7.44,Engineering,Ok,Bad,0.0,0.0,0.0,Ollie Davis,Asian,male,0.0,USA,29.0,94720
-8,-0.64,3.14,3.1,-2.1,3.51,1.95,0.0,54.0,5.3,2.31,1.09,-1.04,-0.54,6.5,Engineering,Ok,Good,0.0,0.0,0.0,Kent Musick,Asian,male,0.0,China,20.0,94121
-9,0.19,2.29,0.9,3.37,1.5,-3.86,0.0,79.0,1.3,-1.36,2.31,0.22,-0.22,6.6,Quantitative,Ok,Good,0.0,1.0,0.0,Antonio Finke,Asian,male,0.0,USA,27.0,94533
-10,-0.18,3.25,1.1,2.64,2.11,-2.62,0.0,8.0,2.9,-0.61,0.87,-1.35,-0.63,6.24,Engineering,None,Bad,0.0,0.0,0.0,Bradford Baca,Asian,male,0.0,USA,25.0,94085
-11,-0.14,2.86,2.3,8.79,3.64,0.15,0.0,53.0,2.5,-0.23,1.08,-1.3,-0.85,6.09,Quantitative,Ok,Good,0.0,0.0,0.0,Timothy Murguia,Asian,male,0.0,USA,29.0,94549
-12,-0.98,3.3,1.6,2.11,3.01,-1.37,0.0,31.0,3.5,0.57,1.61,-1.93,-0.44,7.09,Humanities,Very Good,Good,0.0,1.0,0.0,Alvin Gholston,Asian,male,0.0,USA,24.0,94544
-13,-0.38,3.92,2.7,4.36,4.17,2.47,0.0,7.0,5.0,1.38,0.38,-2.16,-3.02,2.86,Engineering,None,Good,0.0,0.0,0.0,Clint Zuniga,Asian,male,2.0,USA,26.0,94043
-14,-0.26,1.95,2.3,3.11,2.36,-2.08,0.0,50.0,0.0,-3.14,2.34,0.82,0.34,7.29,Engineering,Ok,Bad,0.0,0.0,0.0,Denis Blair,Asian,male,0.0,USA,26.0,94609
-15,0.34,3.58,1.8,5.38,3.43,1.47,0.0,8.0,3.3,-0.13,1.97,0.99,0.93,7.93,Quantitative,Very Good,Good,0.0,0.0,0.0,Isaac Ryan,Asian,male,0.0,USA,31.0,94085
-16,0.36,3.31,1.8,2.94,3.3,2.26,0.0,19.0,2.6,-0.2,2.39,1.0,0.12,6.76,Quantitative,Very Good,Good,0.0,0.0,0.0,Aaron Johnston,Asian,male,2.0,USA,28.0,94304
-17,-0.0,3.05,2.6,0.74,2.54,-0.94,0.0,29.0,4.5,1.53,1.26,-1.27,-1.33,5.26,None,None,Bad,0.0,0.0,0.0,Richard Herrera,Asian,male,1.0,USA,24.0,94560
-18,1.47,4.22,2.3,8.74,5.02,7.89,0.0,46.0,2.3,-0.58,2.02,0.05,0.52,7.77,Quantitative,Ok,Good,1.0,0.0,0.0,Jeremy Coutee,Asian,male,1.0,USA,31.0,94019
-19,-0.85,3.27,1.3,2.02,2.49,-2.73,1.3,37.0,1.5,-1.43,3.78,1.59,0.79,8.04,Engineering,Very Good,Good,0.0,0.0,1.0,Paul Kizer,Asian,male,1.0,USA,29.0,94545
-20,0.01,2.54,1.0,4.53,1.94,-3.04,0.0,18.0,1.4,-1.53,3.27,3.41,3.01,10.52,Engineering,None,Good,0.0,0.0,0.0,Thomas Medina,Asian,male,1.0,USA,31.0,95035
-21,-0.62,2.87,3.1,4.29,3.6,0.1,0.0,44.0,0.7,-1.99,2.44,0.06,0.76,8.25,Engineering,Ok,Good,0.0,0.0,0.0,Robert Fowler,Asian,male,1.0,Australia,28.0,94131
-22,0.44,3.2,2.4,5.96,3.97,3.45,0.0,33.0,8.4,4.8,4.91,6.53,5.76,13.88,Quantitative,Ok,Good,1.0,0.0,0.0,Darnell Kinchen,Asian,male,1.0,USA,30.0,94010
-23,-1.28,2.16,1.4,-1.29,1.39,-5.83,0.0,15.0,5.3,2.01,2.57,0.62,0.93,8.34,Quantitative,None,Good,0.0,1.0,1.0,Gordon Hines,Asian,male,1.0,USA,21.0,95002
-24,0.28,2.26,2.7,4.83,2.86,-0.0,0.9,28.0,0.8,-2.1,0.34,-3.37,-2.67,3.91,Engineering,Very Good,Bad,0.0,0.0,0.0,David Graham,Asian,male,1.0,USA,26.0,94402
-25,-1.01,3.18,0.1,4.02,2.0,-4.84,0.0,28.0,4.7,1.22,0.67,-2.11,-1.93,4.62,Quantitative,Ok,Bad,0.0,1.0,1.0,Richard Daniels,Asian,male,1.0,USA,26.0,94402
-26,-0.81,3.52,0.1,-1.47,1.71,-3.7,0.0,25.0,3.0,0.01,0.75,-0.75,-0.1,6.89,Quantitative,None,Bad,0.0,1.0,0.0,Jack Troilo,Asian,male,1.0,USA,21.0,94539
-27,-0.27,2.22,2.7,-1.2,1.02,-5.95,0.0,29.0,4.9,1.64,1.36,-1.26,-1.13,5.69,Quantitative,Ok,Bad,0.0,1.0,0.0,Jason King,Asian,male,1.0,USA,21.0,94560
-28,0.51,3.22,4.0,0.65,3.35,2.23,0.0,54.0,3.2,0.45,0.13,-2.83,-1.27,5.72,Sciences,Very Good,Good,0.0,1.0,0.0,Cedric Butler,Asian,male,1.0,USA,23.0,94121
-29,-0.3,3.32,1.9,5.97,4.16,2.77,0.0,83.0,0.0,-5.16,1.17,-1.79,-0.04,7.46,Sciences,Very Good,Good,0.0,0.0,0.0,Phillip Hall,Asian,male,2.0,USA,29.0,94503
-30,0.33,2.99,3.1,3.27,2.29,-2.45,0.0,33.0,5.3,2.05,1.55,-3.51,-2.84,4.04,Engineering,None,Bad,0.0,0.0,0.0,Todd Works,Asian,male,1.0,USA,26.0,94010
-31,0.05,2.73,2.6,5.08,3.22,0.38,0.0,31.0,2.7,-0.08,3.18,-0.09,-0.15,7.16,Engineering,None,Good,0.0,0.0,0.0,Millard Ellithorpe,Asian,male,0.0,China,30.0,94544
-32,0.31,3.28,2.6,4.77,3.78,2.74,0.0,57.0,0.0,-2.68,0.95,-3.65,-3.19,3.48,Engineering,Ok,Good,1.0,0.0,0.0,Jack Roddy,Asian,male,2.0,USA,30.0,94038
-33,0.66,3.52,1.6,7.35,4.13,4.45,0.0,40.0,3.0,0.34,2.21,0.09,-0.08,6.96,Quantitative,Very Good,Good,1.0,0.0,0.0,Lorenzo Braswell,Asian,male,2.0,China,31.0,94603
-34,0.75,3.09,2.5,5.53,4.01,4.46,0.0,54.0,1.9,-1.11,0.31,-2.93,-3.73,2.03,Humanities,Very Good,Good,1.0,0.0,0.0,Joshua Henderson,Asian,male,2.0,USA,28.0,94121
-35,-0.25,3.91,2.3,2.68,4.13,3.35,0.0,33.0,2.8,-0.13,1.25,-1.69,-1.68,4.8,Engineering,Ok,Good,1.0,0.0,0.0,Arthur Reilly,Asian,male,2.0,USA,26.0,94010
-36,0.02,2.51,1.7,5.15,2.69,-1.25,0.0,12.0,3.5,0.59,2.92,2.24,1.06,7.78,Quantitative,Ok,Bad,0.0,0.0,0.0,Brandon Woolford,Asian,male,0.0,USA,27.0,94087
-37,-0.84,2.78,1.6,4.49,2.38,-3.81,0.0,31.0,4.1,0.98,3.85,3.7,3.5,11.32,Quantitative,Ok,Good,0.0,0.0,0.0,John Mcbride,Asian,male,0.0,USA,26.0,94544
-38,-0.54,2.54,1.8,2.62,1.91,-4.43,0.0,41.0,5.7,2.59,2.46,1.98,2.03,9.42,Engineering,None,Bad,0.0,0.0,0.0,Barry Brandt,Asian,male,0.0,USA,25.0,94542
-39,0.92,3.48,1.7,5.87,3.92,4.66,0.0,17.0,2.4,-0.64,3.03,2.43,2.35,9.89,Quantitative,Very Good,Good,1.0,0.0,0.0,Carl Roach,Asian,male,2.0,USA,28.0,94301
-40,0.57,3.02,2.8,5.97,3.67,2.51,0.0,8.0,5.2,1.88,2.7,0.76,-0.01,6.86,Humanities,Ok,Good,0.0,0.0,0.0,Jonathon Beck,Asian,male,0.0,USA,27.0,94085
-41,0.48,3.25,1.6,4.58,3.47,2.71,0.0,46.0,4.5,1.38,3.29,3.15,1.82,8.92,Sciences,Ok,Good,0.0,0.0,0.0,Alvin Hoke,Asian,male,2.0,Australia,26.0,94019
-42,0.48,3.2,1.4,6.55,3.16,1.05,0.8,12.0,1.2,-1.84,1.67,-2.16,-1.94,4.92,Engineering,Ok,Good,0.0,0.0,0.0,Andre Wedgeworth,Asian,male,0.0,Australia,31.0,94087
-43,-1.41,3.19,2.4,-1.06,2.18,-4.68,2.6,68.0,3.9,1.02,2.1,2.89,2.18,9.0,Engineering,Very Good,Bad,1.0,0.0,0.0,Scott Hannum,Asian,male,0.0,USA,24.0,94569
-44,0.64,3.34,3.6,5.07,3.9,3.2,0.0,9.0,2.9,-0.26,2.69,1.13,2.2,10.19,Engineering,Ok,Good,0.0,0.0,0.0,Chad Bauman,Asian,male,2.0,USA,27.0,94085
+0,-0.04,2.67,3.0,3.61,3.25,0.59,0.0,20.0,5.0,1.52,2.28,2.01,2.8,10.44,Humanities,Very Good,Good,0.0,0.0,0.0,Kyle Waters,Asian,male,0.0,USA,29.0,94025
+1,0.82,2.95,1.9,7.81,3.46,2.25,0.0,2.0,0.4,-2.21,1.33,-1.81,-1.48,5.27,Quantitative,Very Good,Good,1.0,0.0,0.0,Joseph Fraga,Asian,male,2.0,China,33.0,94040
+2,-0.33,2.76,2.7,3.88,3.06,-0.55,0.0,36.0,3.9,1.15,3.44,2.97,1.74,8.87,Engineering,None,Good,1.0,0.0,0.0,Mike Powell,Asian,male,0.0,USA,26.0,94588
+3,-0.43,1.58,3.1,0.18,2.69,-0.5,0.0,87.0,0.0,-3.12,1.07,-3.48,-2.68,4.15,Engineering,None,Bad,0.0,0.0,0.0,Stephen Smetana,Asian,male,1.0,USA,25.0,94973
+4,0.71,2.4,2.6,4.96,2.87,0.87,0.0,65.0,2.5,-0.27,1.84,0.39,-0.16,6.47,Humanities,Very Good,Good,0.0,0.0,0.0,Matthew Rhodes,Asian,male,0.0,USA,27.0,94556
+5,0.15,2.71,1.5,2.84,1.8,-3.3,1.8,88.0,2.4,-0.0,2.3,0.61,0.91,8.3,Sciences,None,Good,0.0,1.0,0.0,Herbert Lee,Asian,male,0.0,USA,27.0,94973
+6,1.22,3.67,0.9,8.4,4.54,6.88,0.0,51.0,0.0,-3.57,3.79,2.45,2.11,9.65,Quantitative,Very Good,Good,0.0,0.0,0.0,Daniel Perisho,Asian,male,2.0,Australia,36.0,94618
+7,0.04,2.44,0.5,5.54,2.08,-2.67,0.0,31.0,0.3,-2.35,2.02,0.35,0.05,6.91,Engineering,Ok,Good,0.0,0.0,0.0,John Reed,Asian,male,0.0,USA,28.0,94544
+8,0.08,3.04,0.8,6.82,3.33,1.1,2.9,41.0,4.7,1.46,2.86,1.07,0.57,7.69,Quantitative,Ok,Good,0.0,0.0,0.0,Daniel Mullins,Asian,male,2.0,USA,32.0,94542
+9,-0.19,2.92,2.4,1.16,2.49,-1.25,0.0,8.0,5.2,1.88,3.05,1.1,0.04,6.92,Engineering,Ok,Bad,0.0,0.0,0.0,Tony Kane,Asian,male,0.0,USA,26.0,94085
+10,-0.01,2.57,3.3,6.84,3.34,-0.34,0.0,46.0,2.9,0.07,0.79,-2.13,-1.99,4.51,Engineering,None,Good,0.0,0.0,0.0,Paul Biffle,Asian,male,0.0,USA,28.0,94019
+11,-0.82,3.49,0.6,6.61,2.99,-2.18,0.0,83.0,6.3,3.36,3.41,1.8,0.75,7.9,Humanities,None,Good,0.0,0.0,0.0,Jesse Zambrano,Asian,male,0.0,USA,30.0,94503
+12,0.25,3.76,3.4,5.29,5.26,7.19,0.0,28.0,2.9,-0.38,1.58,0.52,0.53,7.43,Engineering,Ok,Good,0.0,0.0,0.0,Michael Anderson,Asian,male,0.0,USA,27.0,94402
+13,0.68,2.68,1.9,3.64,2.64,0.54,0.0,32.0,6.7,3.3,1.4,-1.65,-2.44,3.78,Engineering,Ok,Good,0.0,0.0,0.0,Stephen Hodge,Asian,male,0.0,USA,24.0,94544
+14,1.0,2.58,2.4,6.72,2.85,0.69,0.0,45.0,0.0,-3.92,3.3,1.05,0.82,8.25,Engineering,None,Good,0.0,0.0,0.0,Charles Mattox,Asian,male,0.0,USA,30.0,94105
+15,-0.64,3.13,1.8,3.46,2.94,-1.25,0.0,47.0,3.5,0.4,0.0,-3.26,-2.88,3.26,Quantitative,None,Bad,0.0,0.0,0.0,Jeffery Faris,Asian,male,0.0,USA,28.0,94114
+16,-1.03,3.05,1.7,2.14,3.26,-0.4,3.5,27.0,5.6,2.08,3.32,1.9,1.93,9.51,Engineering,Ok,Bad,0.0,0.0,0.0,Bernard Dix,Asian,male,0.0,China,28.0,94070
+17,0.84,3.13,1.7,1.62,2.69,1.61,0.0,57.0,0.5,-1.96,1.73,0.18,-0.08,6.7,Engineering,Ok,Good,0.0,0.0,0.0,Sheldon Turco,Asian,male,1.0,USA,22.0,94038
+18,-0.78,3.65,1.9,1.02,3.11,-0.57,0.0,51.0,5.5,2.2,1.43,0.29,0.28,7.02,Engineering,Very Good,Good,0.0,0.0,0.0,Jonathan Skibbe,Asian,male,1.0,USA,25.0,94618
+19,-0.23,3.12,2.7,3.45,3.57,1.27,0.0,42.0,0.0,-3.07,3.99,2.68,2.49,10.36,Engineering,None,Good,0.0,0.0,0.0,Eli Rossi,Asian,male,1.0,USA,30.0,94605
+20,-0.05,3.3,1.7,5.5,3.34,0.78,0.0,103.0,2.0,-0.56,1.45,-2.2,-1.59,5.24,Engineering,Ok,Good,0.0,0.0,0.0,Jimmy Adkins,Asian,male,1.0,USA,29.0,95620
+21,0.12,3.0,3.1,7.53,4.34,3.25,0.0,59.0,5.0,2.04,2.37,3.02,1.79,8.31,Humanities,Very Good,Good,1.0,0.0,0.0,William Baney,Asian,male,1.0,USA,33.0,94709
+22,0.33,2.34,2.4,8.4,3.14,-0.11,0.0,32.0,1.8,-1.29,2.1,0.44,-0.08,6.68,Engineering,Ok,Good,0.0,0.0,0.0,Frederick Sears,Asian,male,1.0,USA,29.0,94544
+23,-0.75,2.79,2.6,4.44,3.28,-0.81,0.0,19.0,0.7,-2.22,0.45,-1.94,-1.67,4.91,Sciences,Ok,Good,0.0,0.0,0.0,Howard Gonzalez,Asian,male,1.0,USA,26.0,94304
+24,-0.85,2.58,1.7,-3.16,1.63,-3.92,0.0,26.0,3.1,0.1,4.52,5.04,4.25,12.03,Humanities,Very Good,Good,0.0,1.0,0.0,Calvin Davis,Asian,male,1.0,China,22.0,94403
+25,1.2,3.13,2.5,6.44,4.31,6.12,0.0,36.0,10.4,6.49,1.55,-2.88,-2.74,3.97,Engineering,None,Good,1.0,0.0,0.0,William Quinn,Asian,male,1.0,USA,32.0,94588
+26,0.41,3.26,2.5,3.79,3.1,1.02,0.0,80.0,2.7,0.35,2.9,1.35,1.52,9.02,Engineering,Ok,Good,0.0,0.0,0.0,Ruben Young,Asian,male,1.0,USA,29.0,94533
+27,-0.15,2.95,0.0,4.19,2.46,-0.97,0.0,51.0,0.4,-2.1,2.58,0.53,0.8,8.18,Engineering,None,Bad,0.0,0.0,0.0,Leonard Dunn,Asian,male,1.0,USA,31.0,94618
+28,-0.02,2.42,2.0,7.46,2.76,-1.86,0.0,37.0,5.2,1.87,2.4,1.34,0.56,7.31,Quantitative,Ok,Bad,0.0,0.0,0.0,John Souza,Asian,male,1.0,USA,30.0,94545
+29,0.12,3.28,1.4,6.36,3.37,1.07,0.0,6.0,3.2,0.09,1.8,-0.48,0.54,7.99,Engineering,Very Good,Good,0.0,0.0,0.0,Joel Gildner,Asian,male,1.0,Canada,29.0,94043
+30,0.05,2.92,1.3,4.09,3.0,0.47,0.0,39.0,3.0,0.26,0.7,-1.39,-1.78,4.46,Engineering,Very Good,Good,0.0,0.0,0.0,Stanley Spencer,Asian,male,1.0,USA,28.0,94578
+31,0.13,3.42,1.6,5.34,3.64,2.17,3.1,5.0,5.3,2.08,3.06,2.97,2.32,9.56,Engineering,Ok,Good,1.0,0.0,0.0,Patrick Salamone,Asian,male,2.0,USA,29.0,94043
+32,-0.33,1.91,0.5,0.12,0.22,-7.95,0.0,36.0,1.3,-1.61,1.52,-1.77,-1.59,5.25,Engineering,None,Good,0.0,0.0,0.0,Terrence Walker,Asian,male,0.0,USA,22.0,94588
+33,0.47,2.11,1.5,6.59,2.39,-1.42,0.0,42.0,0.0,-3.63,0.36,-2.74,-3.05,3.04,Sciences,Ok,Good,0.0,0.0,0.0,Roberto Likio,Asian,male,0.0,USA,30.0,94605
+34,0.45,3.35,1.6,6.99,3.61,1.97,0.0,39.0,2.1,-0.89,1.29,-2.67,-1.76,5.39,Quantitative,None,Good,1.0,0.0,0.0,Morris Bryant,Asian,male,2.0,USA,29.0,94578
+35,0.24,2.98,1.0,6.03,2.84,-0.19,0.0,38.0,3.0,-0.16,1.34,-2.62,-2.72,3.79,Engineering,None,Good,0.0,0.0,0.0,Howard Klingensmith,Asian,male,0.0,USA,27.0,94586
+36,-0.5,3.1,4.3,4.27,3.72,0.08,0.0,42.0,3.2,0.3,2.22,0.42,0.11,7.05,Sciences,None,Bad,1.0,0.0,0.0,Clemente Jarrell,Asian,male,0.0,USA,26.0,94605
+37,0.97,2.53,3.4,-0.28,1.73,-1.54,0.0,57.0,1.6,-1.08,2.53,0.88,1.0,8.34,Quantitative,None,Bad,0.0,0.0,0.0,Gregory Felps,Asian,male,0.0,USA,25.0,94038
+38,-0.32,3.1,1.1,2.86,2.35,-2.17,0.0,64.0,2.3,-0.48,2.01,-0.79,0.54,8.27,Humanities,None,Good,1.0,0.0,0.0,Ben Flander,Asian,male,0.0,USA,24.0,94525
+39,0.96,2.96,2.7,8.96,4.39,5.16,0.0,18.0,4.9,1.86,2.79,1.41,1.54,8.89,Engineering,Ok,Good,1.0,0.0,0.0,Thomas Bell,Asian,male,2.0,USA,35.0,95035
+40,-0.58,3.13,0.9,5.5,3.48,0.67,0.0,18.0,3.1,0.02,0.3,-2.23,-1.72,4.78,Engineering,Ok,Good,1.0,0.0,0.0,Kenneth Miller,Asian,male,0.0,USA,29.0,95035
+41,1.49,2.83,1.7,8.08,4.0,5.76,0.0,41.0,1.1,-1.49,1.84,0.58,-0.38,6.09,Quantitative,Very Good,Good,1.0,0.0,0.0,Eric Mitchell,Asian,male,2.0,USA,35.0,94542
+42,-0.21,2.18,2.0,1.22,2.27,-1.45,0.0,30.0,3.9,0.44,1.75,0.84,0.54,7.32,Engineering,None,Bad,0.0,0.0,0.0,Will Smith,Asian,male,0.0,USA,25.0,94587
+43,-0.29,2.88,2.0,4.93,3.13,-0.4,4.3,14.0,6.9,3.32,1.93,-1.23,-1.42,5.35,Sciences,Ok,Good,0.0,0.0,0.0,Robert Cody,Asian,male,0.0,USA,31.0,95002
+44,-0.06,3.09,2.9,2.61,2.21,-2.98,0.0,27.0,6.2,2.83,3.09,1.78,2.62,10.59,Quantitative,None,Bad,0.0,0.0,0.0,John Tutor,Asian,male,0.0,Canada,28.0,94070
