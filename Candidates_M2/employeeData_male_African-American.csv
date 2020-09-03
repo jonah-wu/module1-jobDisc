@@ -1,211 +1,211 @@
 ,Education,GPA,Educational Prestige,Years of Experience,Soft Skills,Manager's Assessment Score,Military Tenure,Avg Commute Time,Job Tenure,Cultural Fit,Leadership Capability,HireVue Score,Technical Aptitude,Avg Deals Closed,Undergraduate Degree,LinkedIn Score,Responsible Social Media Use,Employee Referral,Arrest Record,Criminal Record,Names,Race,Gender,Sports,Birth Origin,Age,Zip
-0,0.63,3.65,2.5,6.1,4.09,3.62,2.6,3.0,4.7,1.04,3.21,2.24,1.47,8.57,Engineering,None,Good,1.0,0.0,1.0,Nathan Norman,African-American,male,2.0,USA,32.0,94040
-1,-1.96,2.57,1.6,-3.59,1.42,-7.09,0.0,15.0,6.7,3.0,3.46,1.56,1.46,8.97,Engineering,Ok,Good,0.0,1.0,1.0,John White,African-American,male,0.0,USA,20.0,95002
-2,0.2,2.79,2.5,7.27,3.67,1.22,0.0,56.0,0.8,-1.66,1.62,-0.83,-0.8,5.98,Humanities,Ok,Good,1.0,0.0,0.0,Norman Coffey,African-American,male,0.0,USA,32.0,94595
-3,0.35,2.02,0.8999999999999999,3.37,2.66,0.74,2.7,78.0,4.0,0.79,1.45,-1.91,-1.98,4.73,Engineering,None,Good,0.0,0.0,0.0,Charles Branton,African-American,male,0.0,Canada,29.0,94592
-4,-0.7,3.21,0.0,6.84,3.43,-0.02,3.3,38.0,5.3,1.65,1.62,-1.84,-1.64,5.28,Quantitative,None,Bad,0.0,0.0,1.0,Miguel Barnes,African-American,male,0.0,USA,33.0,94586
-5,-0.63,2.83,2.3,-2.8,1.88,-3.4,0.0,68.0,0.3,-2.07,2.8,2.58,1.86,8.95,Engineering,None,Bad,0.0,1.0,1.0,Willie Marsh,African-American,male,0.0,USA,21.0,94569
-6,0.1,2.72,0.8999999999999999,4.79,3.45,2.32,0.0,44.0,1.7,-1.23,4.02,3.4,2.57,10.05,Engineering,Very Good,Good,0.0,0.0,0.0,Ralph Neuman,African-American,male,2.0,USA,26.0,94131
-7,-0.96,2.6,1.6,2.9,2.97,-1.6,0.0,59.0,4.5,1.4,1.6,-1.78,-1.69,5.1,Quantitative,Ok,Good,0.0,0.0,0.0,Daniel Peek,African-American,male,0.0,USA,23.0,94709
-8,1.07,3.21,3.2,7.41,4.24,4.48,0.0,32.0,4.0,0.18000000000000005,2.47,1.43,0.8,7.66,Engineering,Very Good,Good,1.0,1.0,0.0,Vincent Bunting,African-American,male,2.0,USA,29.0,94544
-9,-0.92,2.27,2.0,4.93,2.84,-2.82,2.6,36.0,4.2,0.6599999999999999,0.75,-2.39,-2.6,3.72,Quantitative,None,Bad,0.0,1.0,0.0,Tyler Penney,African-American,male,0.0,USA,31.0,94588
-10,0.14,3.11,1.1,2.92,2.46,-1.15,0.8,66.0,0.4,-2.18,2.28,-1.13,-1.32,5.66,Quantitative,Very Good,Bad,0.0,0.0,0.0,Michael Williams,African-American,male,0.0,USA,25.0,94925
-11,0.38,3.71,0.8,5.08,3.64,2.63,2.9,32.0,4.8,1.13,1.36,-1.44,-0.32,6.98,Engineering,Ok,Good,1.0,0.0,0.0,Tad Barney,African-American,male,2.0,USA,28.0,94544
-12,0.67,2.56,2.0,3.77,2.84,0.7,0.0,35.0,2.1,-0.94,2.29,-0.56,-0.09,7.22,Quantitative,Ok,Good,0.0,0.0,0.0,Tyler Cosenza,African-American,male,1.0,USA,27.0,94566
-13,0.41,3.51,1.9,4.25,3.79,3.25,2.1,36.0,3.1,-0.42,1.07,-1.07,-1.22,5.29,Engineering,None,Good,0.0,0.0,0.0,Earl Bailey,African-American,male,2.0,USA,32.0,94588
-14,0.71,3.07,3.5,4.78,4.66,6.24,2.9,6.0,4.5,0.79,0.35,-1.59,-0.26,6.8,Engineering,Ok,Good,1.0,0.0,0.0,William Andrews,African-American,male,2.0,USA,30.0,94043
-15,0.21,2.87,3.1,5.15,3.87,2.32,0.0,42.0,4.0,0.39,1.18,-2.0,-1.98,4.62,Engineering,Ok,Good,0.0,0.0,0.0,Jack Ferrell,African-American,male,2.0,USA,31.0,94605
-16,0.02,2.45,0.5,6.73,2.31,-2.43,0.0,12.0,3.1,-0.46,3.34,2.12,2.07,9.61,Quantitative,None,Good,1.0,1.0,0.0,Thomas Marzett,African-American,male,0.0,USA,30.0,94087
-17,0.93,3.23,0.8999999999999999,6.05,3.53,3.52,0.0,15.0,3.5,-0.09999999999999998,2.72,2.82,2.85,10.32,Engineering,Very Good,Good,1.0,0.0,0.0,Eric Labarge,African-American,male,2.0,USA,30.0,95002
-18,-0.05,2.73,2.8,4.85,3.17,-0.37,1.5,60.0,1.8,-0.74,1.26,-1.2,-0.11,7.12,Engineering,Ok,Good,1.0,0.0,0.0,Daniel Ford,African-American,male,0.0,USA,27.0,94707
-19,0.22,2.96,0.0,5.73,2.49,-1.01,0.0,59.0,3.6,0.18000000000000005,2.78,0.9,0.16,6.97,Engineering,None,Bad,0.0,0.0,0.0,Bob Reynolds,African-American,male,0.0,USA,28.0,94709
-20,1.03,2.48,1.1,4.43,2.99,2.46,0.0,1.0,6.8,2.8,0.79,-0.72,-1.42,4.72,Engineering,Very Good,Good,0.0,0.0,0.0,James Garcia,African-American,male,2.0,USA,29.0,94040
-21,-0.61,3.25,0.30000000000000004,3.74,2.95,-0.85,0.0,39.0,6.9,2.64,1.33,0.13,-0.0,6.69,Engineering,None,Good,0.0,0.0,0.0,Troy Conway,African-American,male,0.0,USA,26.0,94578
-22,1.54,2.61,2.1,7.17,4.04,5.97,1.3,38.0,1.4,-1.63,1.76,-0.5,0.01,7.17,Engineering,Very Good,Good,1.0,0.0,0.0,Harold Rogers,African-American,male,2.0,USA,29.0,94586
-23,0.89,2.44,0.19999999999999996,7.1,2.63,0.4,0.0,71.0,2.3,-0.33,3.37,2.24,1.86,9.36,Sciences,Ok,Good,0.0,0.0,0.0,Andrew Griggs,African-American,male,0.0,USA,31.0,94509
-24,-0.45,3.16,1.5,3.59,3.01,-0.85,0.0,14.0,4.7,0.8700000000000001,2.17,2.34,2.04,9.14,Quantitative,Ok,Bad,1.0,0.0,0.0,Eric Hicks,African-American,male,0.0,USA,27.0,95002
-25,0.5,3.72,2.5,6.91,4.58,4.81,0.0,40.0,4.8,1.31,3.55,2.1,1.61,8.99,Quantitative,None,Good,1.0,1.0,0.0,Dave Neverson,African-American,male,2.0,USA,35.0,94603
-26,-0.34,3.1,0.6000000000000001,2.87,2.8,-0.41,4.2,1.0,6.8,2.58,1.28,-0.4,-0.2,6.71,Engineering,Ok,Bad,0.0,0.0,0.0,Thomas Blake,African-American,male,0.0,USA,27.0,94040
-27,0.28,2.16,1.0,6.41,2.95,0.07,2.1,52.0,2.8,-0.47,3.57,2.84,2.47,10.03,Engineering,None,Good,0.0,0.0,0.0,Walter Fajardo,African-American,male,2.0,USA,30.0,94611
-28,0.33,2.85,2.0,4.43,2.95,0.31,0.6,63.0,0.2,-2.37,1.1,-1.88,-1.95,4.68,Humanities,None,Bad,1.0,0.0,0.0,John Shea,African-American,male,0.0,USA,26.0,94801
-29,1.49,3.49,1.1,6.38,3.55,4.47,0.0,15.0,4.8,1.17,1.98,-0.69,-0.09,7.18,Quantitative,Ok,Good,1.0,0.0,0.0,Charles Putnam,African-American,male,0.0,USA,28.0,95002
-30,-0.31,2.25,1.4,0.54,1.48,-4.58,0.0,48.0,5.3,1.71,2.72,2.54,2.7,10.2,Engineering,Ok,Good,0.0,1.0,1.0,Allen Wahl,African-American,male,0.0,USA,25.0,94109
-31,-0.45,2.52,0.7,2.98,2.62,-1.06,0.0,5.0,5.9,1.8199999999999998,2.45,0.29,0.67,8.0,Sciences,None,Bad,0.0,0.0,0.0,Mason Moreno,African-American,male,0.0,USA,27.0,94043
-32,-1.16,3.21,1.4,2.83,3.06,-1.95,0.0,27.0,5.6,1.7799999999999998,0.36,-2.0,-2.18,3.97,Engineering,None,Good,0.0,0.0,0.0,Bobby Rivett,African-American,male,0.0,USA,25.0,94070
-33,-0.13,1.62,0.5,1.87,1.21,-4.71,1.7,56.0,2.1,-0.54,0.42,-2.0,-1.74,4.7,Quantitative,None,Good,0.0,1.0,1.0,Robert Hiles,African-American,male,0.0,USA,25.0,94595
-34,0.49,2.77,1.4,3.92,2.51,-0.8,1.9,52.0,2.8,-0.04,0.98,-2.26,-1.75,4.98,Engineering,Ok,Bad,0.0,0.0,0.0,James Kim,African-American,male,0.0,USA,29.0,94611
-35,1.02,2.92,1.2,6.57,3.84,4.41,0.0,52.0,2.5,-0.49,0.81,-1.32,-0.96,5.79,Sciences,Ok,Good,1.0,0.0,0.0,Sidney Ruiz,African-American,male,2.0,USA,30.0,94611
-36,1.57,3.49,2.0,6.08,3.62,4.53,0.0,58.0,4.3,0.73,2.75,0.93,0.95,8.26,Engineering,None,Good,1.0,0.0,0.0,John Mccoy,African-American,male,2.0,USA,29.0,94720
-37,0.75,2.61,2.0,6.24,3.19,1.39,1.9,51.0,2.1,-0.83,1.53,-1.62,-2.91,3.14,Quantitative,Ok,Good,0.0,0.0,0.0,Jessie Voorhees,African-American,male,0.0,USA,29.0,94618
-38,1.1,3.29,2.5,2.66,2.82,1.37,0.0,56.0,3.3,0.06000000000000005,4.09,2.19,1.82,9.48,Quantitative,None,Good,0.0,0.0,0.0,Harry Whittaker,African-American,male,2.0,USA,23.0,94595
-39,0.08,2.73,2.2,4.66,3.32,0.87,0.0,4.0,0.0,-3.12,1.15,-1.81,-2.25,4.11,Engineering,Ok,Good,0.0,1.0,0.0,Ronald Delgado,African-American,male,0.0,USA,26.0,94040
-40,-1.27,3.37,1.9,3.32,3.03,-2.94,0.0,1.0,7.1,2.73,1.88,-0.6,-0.69,6.21,Engineering,None,Bad,0.0,1.0,0.0,Leland Smith,African-American,male,0.0,USA,28.0,94040
-41,0.82,3.32,3.4,4.2,4.21,4.74,1.6,61.0,2.0,-0.65,2.41,-0.5,-0.19,7.19,Humanities,Ok,Good,1.0,0.0,0.0,George Merrill,African-American,male,0.0,USA,26.0,94707
-42,0.26,3.05,1.9,3.64,3.54,2.23,0.0,15.0,2.4,-0.77,1.9,0.44,-0.86,5.31,Quantitative,Very Good,Bad,0.0,0.0,0.0,Christopher Cano,African-American,male,0.0,Canada,29.0,95002
-43,0.38,2.46,0.6000000000000001,4.73,2.67,0.35,0.0,34.0,5.3,1.52,0.56,-1.76,-1.71,4.8,Engineering,Very Good,Bad,0.0,0.0,0.0,William Villanova,African-American,male,0.0,USA,26.0,94030
-44,0.08,3.4,2.7,4.12,3.37,0.53,0.0,43.0,0.1,-2.7,1.54,-1.4,-0.03,7.51,Engineering,Very Good,Bad,0.0,0.0,0.0,Harry Krizan,African-American,male,0.0,USA,26.0,94014
-45,-0.42,2.74,0.6000000000000001,4.02,2.68,-1.21,3.8,9.0,6.4,2.26,1.67,0.17,0.33,7.34,Engineering,Ok,Bad,0.0,0.0,0.0,Edwin Figgins,African-American,male,0.0,USA,29.0,94085
-46,1.13,3.18,2.5,8.32,3.67,2.59,0.0,12.0,3.4,-0.28,2.31,-0.8,0.31,7.94,Engineering,Ok,Good,1.0,0.0,0.0,Donald Hayes,African-American,male,2.0,USA,35.0,94087
-47,0.56,3.47,2.5,3.57,3.52,2.53,0.0,39.0,3.6,0.06999999999999995,5.48,6.17,5.69,14.12,Humanities,Ok,Good,1.0,0.0,0.0,David Gonzalez,African-American,male,2.0,USA,30.0,94578
-48,0.66,3.79,1.6,6.47,4.62,5.84,0.0,63.0,0.0,-4.83,1.36,-0.54,0.54,7.83,Engineering,Very Good,Good,1.0,0.0,0.0,Paul Warren,African-American,male,2.0,USA,29.0,94801
-49,-0.02,3.32,2.8,5.24,3.69,1.24,0.0,27.0,5.9,2.18,2.54,0.22,-0.35,6.53,Quantitative,Ok,Good,0.0,0.0,0.0,Ronald Phipps,African-American,male,0.0,USA,28.0,94070
-50,0.41,3.28,1.5,5.69,3.63,2.21,0.0,82.0,0.2,-2.29,3.46,2.74,2.07,9.32,Engineering,None,Good,0.0,0.0,0.0,Brad Martinez,African-American,male,2.0,USA,27.0,94503
-51,-0.76,2.5,-0.2,-0.25,1.18,-5.5,0.0,45.0,0.0,-2.51,3.07,2.05,2.61,10.34,Engineering,Ok,Bad,0.0,1.0,1.0,Henry Macintyre,African-American,male,0.0,USA,24.0,94105
-52,-0.67,2.27,1.4,3.44,2.25,-3.55,0.0,54.0,4.8,1.07,2.46,-0.97,-1.16,5.81,Engineering,None,Good,0.0,1.0,1.0,Justin Miller,African-American,male,0.0,USA,25.0,94121
-53,-0.19,2.98,1.6,1.52,2.27,-2.29,0.0,3.0,0.9,-2.25,1.11,-1.59,-1.43,5.12,Engineering,None,Bad,0.0,1.0,0.0,Floyd Castellanos,African-American,male,0.0,USA,23.0,94040
-54,-0.92,2.59,0.7,0.52,1.76,-4.71,0.0,10.0,2.1,-0.99,2.54,-0.33,-0.17,7.07,Engineering,None,Good,0.0,1.0,1.0,Terry Rogers,African-American,male,0.0,Canada,22.0,94085
-55,-0.09,2.56,0.8,5.75,3.0,-0.04,2.2,12.0,4.0,0.28,1.6,-0.56,-1.16,5.35,Engineering,Very Good,Good,0.0,0.0,0.0,John Reist,African-American,male,0.0,USA,31.0,94087
-56,1.09,3.02,1.7000000000000002,5.7,3.02,1.65,0.0,34.0,1.6,-1.19,4.0,1.61,2.0,9.99,Quantitative,Very Good,Good,0.0,0.0,0.0,Thomas Mchargue,African-American,male,2.0,USA,28.0,94030
-57,0.01,3.18,2.1,3.72,2.65,-1.65,0.0,37.0,5.3,1.7400000000000002,1.89,-0.34,-0.41,6.46,Engineering,None,Bad,0.0,0.0,0.0,James Dukes,African-American,male,0.0,USA,27.0,94545
-58,1.12,2.67,1.6,5.88,2.91,1.55,1.5,39.0,2.0,-0.85,1.07,-1.52,-2.34,3.87,Quantitative,Very Good,Bad,0.0,0.0,0.0,Robert Best,African-American,male,0.0,USA,31.0,94578
-59,-0.84,3.23,0.30000000000000004,1.19,3.05,-0.08,0.0,51.0,0.0,-4.34,0.58,-3.52,-3.64,2.58,Engineering,None,Bad,0.0,0.0,0.0,Scott Munoz,African-American,male,0.0,USA,26.0,94618
-60,0.57,2.78,2.0,2.5,3.12,1.88,0.0,15.0,2.7,-0.45,2.16,1.41,0.73,7.46,Engineering,None,Good,0.0,0.0,0.0,Henry Theuret,African-American,male,2.0,USA,24.0,95002
-61,0.81,4.04,2.2,4.39,4.66,6.55,0.8,49.0,1.1,-1.24,0.52,-1.88,-1.73,4.76,Engineering,Very Good,Good,0.0,0.0,0.0,Michael Francois,African-American,male,1.0,USA,30.0,94502
-62,-0.31,2.58,0.19999999999999996,1.6,2.67,0.08,0.0,58.0,2.2,-0.39,3.16,1.74,0.98,8.1,Humanities,None,Good,0.0,0.0,0.0,Steven Stimmell,African-American,male,0.0,USA,23.0,94720
-63,0.61,3.44,3.1,2.44,3.71,3.34,0.0,61.0,1.7,-0.85,2.54,0.14,0.5,7.96,Engineering,Ok,Good,1.0,0.0,0.0,Gregory Gaines,African-American,male,2.0,USA,25.0,94707
-64,-0.29,3.39,1.2,3.99,3.48,1.1,0.0,54.0,0.4,-2.15,1.76,-0.79,-0.91,5.91,Humanities,Ok,Good,0.0,0.0,0.0,Melvin Waugh,African-American,male,0.0,USA,27.0,94121
-65,1.03,3.05,1.3,3.91,3.23,3.26,0.0,28.0,4.4,0.5900000000000001,2.46,2.42,2.62,10.0,Quantitative,Very Good,Good,0.0,0.0,0.0,Johnathan Quick,African-American,male,2.0,USA,26.0,94402
-66,-1.14,2.84,1.2,-0.36,2.86,-1.05,0.1,16.0,0.0,-3.52,4.23,4.32,3.09,10.48,Humanities,None,Good,0.0,0.0,0.0,Tom Walker,African-American,male,0.0,USA,26.0,95134
-67,1.48,3.38,2.1,8.19,4.3,5.98,0.0,17.0,4.4,0.54,1.46,-1.22,-1.3,5.34,Engineering,None,Good,1.0,0.0,0.0,Peter Jackson,African-American,male,2.0,USA,33.0,94301
-68,0.49,3.08,1.1,4.35,2.84,0.42,0.0,55.0,5.9,2.05,1.99,-1.22,-0.56,6.61,Engineering,Ok,Good,0.0,0.0,0.0,Alberto Ulmer,African-American,male,0.0,USA,28.0,94523
-69,-0.0,2.45,1.9,4.77,2.92,-0.59,0.0,6.0,3.8,-0.16999999999999998,0.64,-2.45,-1.7,5.02,None,None,Bad,0.0,0.0,1.0,Robert Way,African-American,male,0.0,Canada,33.0,94043
-70,0.22,3.43,0.4,5.54,3.83,3.46,0.7,49.0,0.7,-1.63,2.66,1.98,2.04,9.45,Quantitative,None,Good,1.0,1.0,0.0,Edward Steele,African-American,male,2.0,USA,28.0,94502
-71,-0.1,3.03,0.8,4.56,2.6,-1.46,0.0,48.0,4.6,0.8,2.21,0.73,1.3,8.69,Engineering,Very Good,Good,0.0,0.0,0.0,Christopher Barbieri,African-American,male,0.0,USA,27.0,94109
-72,-0.62,1.69,1.9,2.57,2.2,-3.33,0.0,2.0,4.5,0.6000000000000001,2.21,0.52,0.0,6.85,Quantitative,None,Good,1.0,1.0,0.0,Ralph Robinson,African-American,male,1.0,USA,26.0,94040
-73,0.14,1.51,0.19999999999999996,2.83,1.59,-2.88,0.0,2.0,4.7,0.6299999999999999,1.11,-0.1,-0.07,6.58,Humanities,Ok,Bad,0.0,1.0,0.0,Tyrone Yocum,African-American,male,1.0,USA,24.0,94040
-74,0.33,3.76,1.4,3.19,3.28,1.64,0.0,20.0,4.9,1.58,2.51,-0.08,-0.48,6.57,Quantitative,None,Good,0.0,0.0,0.0,Mark Alexander,African-American,male,1.0,USA,27.0,94025
-75,1.16,3.16,2.0,5.42,2.97,1.53,0.0,78.0,1.7,-0.66,2.35,2.24,1.48,8.32,Engineering,None,Good,0.0,0.0,0.0,Troy Koval,African-American,male,1.0,USA,28.0,94592
-76,0.31,2.04,2.2,3.84,2.49,-1.06,0.0,17.0,4.5,0.74,2.4,0.51,0.47,7.58,Engineering,None,Bad,0.0,0.0,0.0,Xavier Ramirez,African-American,male,1.0,USA,25.0,94301
-77,1.04,2.3,4.0,5.27,3.84,3.8,1.5,57.0,1.8,-0.94,0.9,-2.41,-2.63,3.78,Engineering,None,Good,1.0,0.0,0.0,Louis Zarrella,African-American,male,1.0,USA,31.0,94038
-78,1.1,2.71,0.8,8.83,3.1,1.44,0.0,65.0,5.3,1.48,1.77,0.44,0.77,7.84,Engineering,Ok,Bad,1.0,0.0,0.0,Stephen Daigle,African-American,male,1.0,USA,29.0,94556
-79,-0.14,3.14,1.7999999999999998,1.48,3.59,2.48,0.0,52.0,0.0,-4.21,3.05,1.12,0.4,7.43,Engineering,Ok,Good,0.0,0.0,0.0,Bryan Simpson,African-American,male,1.0,USA,27.0,94611
-80,-0.35,3.0,2.1,1.59,2.26,-3.01,0.0,16.0,4.7,0.8999999999999999,1.33,-1.48,-1.97,4.43,Humanities,None,Bad,0.0,1.0,0.0,Kevin Haselton,African-American,male,1.0,USA,25.0,95134
-81,-0.2,2.92,2.2,1.38,2.15,-3.08,0.0,18.0,6.3,2.37,3.98,5.73,5.03,12.72,Quantitative,None,Good,0.0,1.0,0.0,Seymour Glidden,African-American,male,1.0,USA,25.0,95035
-82,-0.22,3.1,1.5,5.44,3.27,-0.3,2.6,50.0,3.7,0.09999999999999998,3.2,1.55,1.59,9.15,Humanities,None,Bad,0.0,0.0,0.0,Luis Lord,African-American,male,2.0,USA,31.0,94609
-83,1.05,3.6,2.2,3.06,3.51,3.65,0.6,55.0,0.1,-2.25,1.89,-0.84,0.0,7.35,Engineering,Ok,Good,1.0,0.0,0.0,Kenneth Jankowiak,African-American,male,1.0,USA,24.0,94523
-84,-0.33,2.96,1.7999999999999998,-3.06,1.53,-3.67,0.0,8.0,4.5,0.71,2.4,0.84,1.07,8.39,Quantitative,Ok,Good,0.0,1.0,1.0,Frederick Depeyster,African-American,male,1.0,USA,20.0,94085
-85,0.37,2.99,1.0,6.2,3.44,1.81,0.0,21.0,1.0,-2.09,0.8,-1.87,-1.86,4.72,Humanities,Ok,Good,1.0,0.0,0.0,William Romero,African-American,male,1.0,USA,30.0,94538
-86,0.66,3.04,2.7,4.19,3.14,1.03,0.3,74.0,0.0,-3.45,1.42,-3.1,-1.85,5.51,Quantitative,None,Good,0.0,0.0,0.0,Alberto Spruill,African-American,male,1.0,USA,29.0,94591
-87,0.52,3.34,0.0,8.01,3.17,1.07,0.0,25.0,1.3,-1.44,1.92,0.52,1.17,8.5,Engineering,Very Good,Good,0.0,0.0,0.0,Bradley Martinez,African-American,male,1.0,USA,32.0,94539
-88,1.01,3.37,3.1,7.13,4.68,6.15,0.0,20.0,1.2,-1.71,1.48,-0.07,0.1,7.03,Sciences,Very Good,Good,0.0,0.0,0.0,Joseph Dupree,African-American,male,1.0,USA,31.0,94025
-89,1.26,3.37,3.0,8.07,5.15,8.18,0.0,56.0,2.2,-0.67,3.13,1.54,-0.07,6.58,Sciences,Very Good,Good,0.0,0.0,0.0,Charles Hopson,African-American,male,1.0,USA,29.0,94595
-90,-0.66,2.31,3.2,-0.3,2.62,-1.93,3.6,9.0,6.0,2.01,0.23,-2.59,-2.4,3.87,Engineering,Ok,Bad,0.0,0.0,0.0,Christopher Mccorkle,African-American,male,1.0,USA,24.0,94085
-91,0.51,4.29,1.2,8.64,4.91,5.98,0.0,39.0,4.8,1.24,2.15,-0.79,-0.85,6.06,Engineering,Very Good,Good,1.0,0.0,0.0,Eric Hamblin,African-American,male,1.0,USA,29.0,94578
-92,-0.63,2.92,1.1,3.75,2.28,-3.69,0.0,24.0,6.2,2.42,0.0,-6.13,-5.35,0.51,Sciences,None,Bad,0.0,1.0,1.0,Robert Sizemore,African-American,male,1.0,USA,28.0,94027
-93,-0.45,2.01,2.0,0.95,2.31,-2.19,2.2,41.0,3.4,-0.07,2.64,0.74,0.86,8.21,Humanities,None,Bad,0.0,1.0,0.0,Virgil Lueck,African-American,male,1.0,USA,24.0,94542
-94,0.83,2.93,1.9,3.97,2.99,1.58,0.0,29.0,2.9,-0.46,3.0,2.09,2.23,9.86,Quantitative,Ok,Good,0.0,0.0,0.0,Thomas Lamberton,African-American,male,1.0,USA,25.0,94560
-95,0.17,3.39,2.1,4.51,3.7,2.08,2.1,65.0,3.0,-0.07,0.58,-4.88,-4.16,2.45,Engineering,Ok,Good,1.0,0.0,0.0,Donald Teske,African-American,male,1.0,USA,30.0,94556
-96,-1.41,3.17,0.8999999999999999,1.76,2.75,-2.8,0.0,26.0,4.3,0.43000000000000005,2.53,1.07,0.84,8.0,Quantitative,None,Bad,0.0,1.0,0.0,Frank Brion,African-American,male,1.0,USA,27.0,94403
-97,0.22,2.79,1.7999999999999998,4.35,3.57,2.42,0.0,47.0,3.7,0.36,5.71,7.11,6.1,14.34,Engineering,Very Good,Good,0.0,0.0,0.0,Aaron Knowles,African-American,male,0.0,USA,26.0,94114
-98,0.27,3.01,2.5,3.43,3.0,0.12,0.0,14.0,2.7,-0.42,1.49,0.28,0.3,7.17,Sciences,Ok,Good,0.0,0.0,0.0,Harold Skinner,African-American,male,1.0,USA,25.0,95002
-99,0.77,3.86,1.1,8.38,4.73,6.2,0.0,37.0,7.5,3.19,3.04,1.96,1.73,9.14,Quantitative,Ok,Good,0.0,0.0,0.0,Jason Leal,African-American,male,1.0,USA,33.0,94545
-100,0.3,2.64,1.7999999999999998,5.51,2.47,-2.18,0.0,26.0,0.8,-2.04,2.24,1.13,0.07,6.59,Engineering,None,Bad,0.0,1.0,0.0,Michael Ishak,African-American,male,1.0,USA,34.0,94403
-101,-0.92,2.79,2.8,1.49,3.14,-1.14,0.0,35.0,3.6,0.06000000000000005,2.87,2.77,2.28,9.45,Engineering,Very Good,Good,0.0,0.0,0.0,Elbert Prince,African-American,male,1.0,USA,23.0,94566
-102,0.48,3.41,2.1,10.55,4.1,2.19,0.0,17.0,4.0,0.5900000000000001,4.22,3.32,1.98,9.33,Quantitative,Ok,Good,0.0,0.0,0.0,Andrew Thomas,African-American,male,1.0,USA,31.0,94301
-103,-0.86,3.37,1.2,5.22,3.88,0.76,0.0,56.0,2.7,-0.02,1.27,-3.43,-3.43,3.03,Engineering,Very Good,Bad,0.0,0.0,0.0,Eric Kradel,African-American,male,1.0,USA,30.0,94595
-104,0.33,3.21,2.6,4.39,3.37,1.12,0.0,36.0,2.6,-0.47,2.49,0.02,-0.5,6.39,Engineering,Very Good,Bad,0.0,0.0,0.0,Clarence Moon,African-American,male,1.0,USA,26.0,94588
-105,0.48,3.14,1.6,4.69,2.98,0.5,4.2,5.0,7.8,3.62,4.38,4.21,3.44,11.12,Engineering,Very Good,Good,0.0,0.0,0.0,Jeremiah Cook,African-American,male,1.0,USA,31.0,94043
-106,0.82,3.3,1.2,10.11,4.83,6.38,2.4,66.0,3.2,0.050000000000000044,1.47,-0.07,-0.32,6.37,Engineering,Ok,Good,1.0,0.0,0.0,Robert Brazill,African-American,male,1.0,USA,36.0,94925
-107,1.3,3.9,2.3,6.73,3.53,2.65,2.3,43.0,3.8,0.49,1.24,-3.15,-2.71,4.02,Engineering,Very Good,Good,1.0,0.0,0.0,Zachary Hill,African-American,male,1.0,USA,31.0,94014
-108,-0.42,3.2,-0.3,4.35,2.63,-1.39,0.0,32.0,2.8,-0.32,1.19,-1.29,-1.17,5.62,Engineering,None,Good,0.0,0.0,0.0,David Ikehara,African-American,male,1.0,USA,27.0,94544
-109,-0.02,2.27,2.6,2.07,2.38,-1.85,0.0,5.0,2.4,-1.01,2.56,0.34,-0.25,6.74,Quantitative,None,Good,0.0,0.0,0.0,Terry Smith,African-American,male,1.0,USA,23.0,94043
-110,-0.21,2.92,1.2,1.67,2.66,-0.68,0.0,39.0,5.0,1.26,2.43,-1.01,-0.1,7.52,Sciences,Ok,Good,0.0,0.0,0.0,Douglas Hill,African-American,male,1.0,USA,22.0,94578
-111,0.55,2.92,2.2,4.27,3.6,2.88,2.3,43.0,3.2,-0.3,1.19,-1.98,-2.23,4.24,Engineering,Very Good,Good,1.0,1.0,0.0,Robert Lee,African-American,male,1.0,USA,28.0,94014
-112,0.28,3.33,0.5,7.46,2.95,-0.68,0.5,33.0,0.3,-2.24,2.99,0.89,0.9,8.33,Quantitative,Ok,Bad,0.0,0.0,0.0,David Corson,African-American,male,1.0,USA,29.0,94010
-113,-0.97,2.55,1.4,0.46,2.16,-3.61,0.0,21.0,4.3,0.78,2.06,0.71,0.54,7.64,Humanities,Very Good,Bad,0.0,1.0,1.0,Ryan Frierson,African-American,male,1.0,USA,26.0,94538
-114,0.73,2.82,2.6,3.87,3.15,1.66,0.0,18.0,5.9,1.8199999999999998,0.9,-1.68,-0.93,6.02,Engineering,Ok,Bad,0.0,0.0,0.0,Emil Tedesco,African-American,male,2.0,USA,27.0,95035
-115,-0.62,2.21,-0.2,1.35,1.82,-3.55,2.6,6.0,4.3,0.30000000000000004,2.81,0.84,1.17,8.7,Engineering,None,Bad,0.0,1.0,1.0,Dwight Blake,African-American,male,1.0,USA,31.0,94043
-116,0.32,2.85,2.0,2.6,2.69,-0.26,1.4,61.0,1.9,-0.71,0.78,-2.97,-2.75,3.82,Engineering,Very Good,Bad,0.0,0.0,0.0,Ray Murray,African-American,male,1.0,USA,27.0,94707
-117,0.3,2.45,0.09999999999999998,4.94,2.0,-2.24,0.0,45.0,0.0,-3.05,1.39,-1.8,-1.79,4.81,Humanities,None,Good,0.0,1.0,0.0,Willie Battle,African-American,male,1.0,USA,27.0,94105
-118,0.05,2.82,2.6,4.37,3.56,1.71,0.0,38.0,2.2,-0.64,1.48,-1.54,-0.56,6.79,Sciences,Very Good,Good,0.0,0.0,0.0,Gordon Hogan,African-American,male,1.0,Canada,29.0,94586
-119,0.66,2.7,1.2,7.39,2.47,-1.36,0.0,5.0,3.1,-0.2,1.08,-3.78,-3.27,3.5,Humanities,Very Good,Good,0.0,0.0,0.0,James Muscara,African-American,male,1.0,USA,29.0,94043
-120,0.11,3.17,0.09999999999999998,2.72,2.5,-0.57,0.0,10.0,4.8,1.26,3.07,0.78,0.35,7.49,Engineering,Very Good,Bad,1.0,0.0,0.0,Joseph Calhoun,African-American,male,1.0,USA,26.0,94085
-121,0.73,2.54,1.4,0.45,2.72,2.06,0.0,30.0,0.8,-1.92,1.29,-1.3,-1.22,5.53,Sciences,Ok,Good,0.0,0.0,0.0,Robert Bud,African-American,male,2.0,USA,25.0,94587
-122,0.15,3.17,1.6,2.72,2.75,-0.42,0.0,44.0,2.2,-0.84,0.98,-1.03,-0.99,5.52,Engineering,None,Good,0.0,0.0,0.0,Carl William,African-American,male,1.0,USA,25.0,94131
-123,-0.67,3.39,1.7999999999999998,3.24,3.37,-0.27,1.7,34.0,2.2,-1.01,1.3,-3.39,-2.82,4.05,Engineering,Ok,Bad,0.0,1.0,0.0,David Monachino,African-American,male,1.0,USA,30.0,94030
-124,1.23,2.53,2.4,7.07,4.15,5.67,0.0,37.0,0.9,-1.89,1.69,-0.42,1.06,8.77,Engineering,Very Good,Good,0.0,0.0,0.0,David Jordan,African-American,male,2.0,USA,32.0,94545
-125,-0.93,3.08,0.4,7.17,3.56,-0.55,0.0,9.0,4.9,1.16,2.38,0.15,0.65,8.09,Quantitative,None,Good,0.0,0.0,0.0,Jason Bryant,African-American,male,1.0,USA,35.0,94085
-126,-0.27,3.31,2.0,2.96,3.13,-0.26,0.0,7.0,1.6,-1.35,1.59,-1.05,-0.91,5.97,Engineering,None,Bad,0.0,0.0,0.0,Steven Gilkey,African-American,male,1.0,USA,28.0,94043
-127,0.09,2.19,0.0,1.16,1.12,-4.45,3.5,53.0,5.9,2.25,1.26,-0.24,-1.25,4.95,Quantitative,None,Bad,1.0,1.0,1.0,Robert Ramsey,African-American,male,1.0,USA,28.0,94549
-128,0.25,3.13,1.5,5.46,2.77,-0.93,0.2,33.0,0.2,-2.18,1.8,-1.54,-1.32,5.62,Sciences,Ok,Bad,0.0,0.0,0.0,James Bowman,African-American,male,1.0,USA,30.0,94010
-129,0.17,3.44,3.4,2.78,3.45,1.11,1.9,18.0,3.4,0.0,0.76,-2.05,-1.22,5.66,Engineering,Ok,Bad,0.0,0.0,0.0,Richard Witty,African-American,male,1.0,USA,24.0,95035
-130,-1.17,2.34,3.0,-0.78,2.8,-2.04,0.0,39.0,3.9,0.14,4.58,4.18,3.35,11.1,Engineering,Ok,Bad,0.0,1.0,1.0,Eddie Donaldson,African-American,male,1.0,USA,21.0,94578
-131,0.67,2.7,0.7,6.43,2.33,-1.17,0.0,56.0,1.1,-1.6,2.39,0.45,0.51,7.65,Sciences,Ok,Bad,1.0,1.0,0.0,Robert Hookano,African-American,male,1.0,USA,31.0,94595
-132,0.16,3.16,1.0,5.88,3.26,0.8,0.1,17.0,0.0,-2.98,1.17,-1.79,-1.71,5.04,Quantitative,Ok,Good,0.0,0.0,0.0,Brian Hornbacher,African-American,male,1.0,USA,30.0,94301
-133,-0.17,2.91,0.5,5.1,2.51,-2.07,0.0,54.0,3.2,-0.09000000000000002,1.27,0.59,1.05,8.12,Engineering,Ok,Bad,0.0,1.0,0.0,Larry Reeks,African-American,male,1.0,USA,29.0,94121
-134,0.21,2.6,3.0,4.71,2.68,-1.71,0.0,77.0,0.0,-4.98,1.52,0.04,0.78,8.03,Sciences,None,Bad,0.0,0.0,0.0,Robert Shaw,African-American,male,1.0,USA,26.0,94945
-135,-0.9,3.42,0.5,-1.45,2.25,-2.3,0.0,48.0,2.9,-0.36,0.0,-5.85,-6.0,0.0,Sciences,None,Bad,0.0,1.0,0.0,Floyd Cox,African-American,male,1.0,USA,22.0,94109
-136,0.6,2.84,2.6,3.23,2.8,0.26,0.0,34.0,5.2,1.69,2.54,0.86,0.16,7.01,Engineering,None,Good,0.0,0.0,0.0,Jeff Townsend,African-American,male,1.0,USA,30.0,94030
-137,0.29,2.61,1.3,4.31,2.75,-0.14,1.5,54.0,2.2,-0.55,2.16,0.52,0.53,7.67,Engineering,Ok,Bad,1.0,0.0,0.0,David Peck,African-American,male,1.0,USA,27.0,94121
-138,-0.5,3.59,2.8,1.9,3.06,-1.24,2.4,74.0,3.1,-0.31,1.43,-0.6,-0.66,6.1,Engineering,Ok,Bad,0.0,1.0,0.0,Terrell Schroeder,African-American,male,1.0,USA,24.0,94591
-139,0.3,3.3,-0.3,6.84,3.45,2.09,0.0,30.0,1.2,-1.64,1.56,-0.74,-0.02,7.14,Engineering,None,Good,0.0,0.0,0.0,Charles Lemley,African-American,male,1.0,USA,32.0,94587
-140,-1.04,2.98,1.5,1.31,2.82,-2.1,0.0,6.0,0.4,-2.79,0.87,-0.69,-0.6,5.99,Engineering,None,Good,0.0,0.0,0.0,Carlos Bray,African-American,male,1.0,USA,25.0,94043
-141,-0.16,3.87,1.7000000000000002,3.02,2.97,-0.94,0.0,15.0,6.4,2.28,2.13,1.06,0.39,7.24,Humanities,Ok,Good,0.0,0.0,0.0,William Wunderlin,African-American,male,0.0,USA,27.0,95002
-142,-1.24,2.15,-0.09999999999999998,-0.09,1.0,-7.31,1.1,50.0,1.6,-1.15,2.31,2.22,1.12,7.79,Quantitative,Ok,Good,0.0,0.0,1.0,Carlos Jeanlouis,African-American,male,0.0,USA,26.0,94609
-143,-0.22,2.51,1.7000000000000002,6.59,2.49,-3.36,0.0,51.0,1.5,-1.25,2.34,2.52,2.44,9.72,Engineering,Ok,Good,0.0,0.0,1.0,Eric Shortell,African-American,male,0.0,USA,28.0,94618
-144,-0.3,2.64,2.1,1.1,2.55,-1.59,0.0,36.0,4.1,0.14,1.04,-1.28,-1.83,4.38,Sciences,Ok,Good,0.0,0.0,0.0,David Gow,African-American,male,0.0,USA,23.0,94588
-145,-1.28,2.93,2.7,1.61,3.3,-1.43,0.0,9.0,9.0,4.43,0.6,-1.7,-0.73,6.13,Quantitative,Very Good,Good,0.0,0.0,0.0,James Ledesma,African-American,male,0.0,USA,25.0,94085
-146,0.72,2.89,1.7999999999999998,4.17,2.95,1.38,2.4,4.0,4.4,0.75,2.07,-1.78,-1.38,5.69,Engineering,None,Bad,0.0,0.0,0.0,Robert Gleason,African-American,male,0.0,USA,29.0,94040
-147,0.77,3.39,1.6,6.78,4.0,3.98,0.0,23.0,3.7,0.26,2.1,0.34,0.8,8.12,Quantitative,Very Good,Good,1.0,1.0,0.0,Allan House,African-American,male,2.0,USA,28.0,94028
-148,-0.01,3.99,0.7,2.89,3.74,3.2,0.0,82.0,3.0,-0.15000000000000002,0.86,-1.63,-1.43,5.23,Sciences,Very Good,Good,1.0,1.0,0.0,Nicholas Mcgough,African-American,male,2.0,USA,25.0,94503
-149,0.12,3.24,2.3,5.39,4.01,2.8,0.0,58.0,0.1,-2.67,0.91,-0.16,0.28,7.19,Quantitative,Ok,Good,1.0,0.0,0.0,Charles Smith,African-American,male,2.0,USA,29.0,94720
-150,0.73,2.95,1.6,7.88,3.43,1.57,0.0,6.0,4.6,0.75,1.91,-0.12,-0.34,6.55,Engineering,Ok,Good,0.0,0.0,0.0,James Smith,African-American,male,0.0,USA,29.0,94043
-151,-0.17,2.37,2.4,1.25,2.1,-2.93,0.0,0.0,5.5,1.6400000000000001,1.56,-1.43,-1.19,5.68,Engineering,Ok,Good,0.0,0.0,0.0,Mark Bonanno,African-American,male,0.0,USA,24.0,94040
-152,-0.17,3.0,3.0,2.75,2.95,-0.9,2.7,16.0,4.5,0.78,2.39,0.37,-0.9,5.58,Engineering,Ok,Bad,0.0,1.0,0.0,John Roscioli,African-American,male,0.0,USA,32.0,95134
-153,0.28,2.72,2.1,6.3,2.99,-0.44,0.0,7.0,1.1,-1.69,2.93,1.28,2.18,10.01,Engineering,Ok,Bad,0.0,1.0,0.0,Michael Vigil,African-American,male,0.0,USA,28.0,94043
-154,-0.0,2.87,2.5,2.38,3.01,0.19,1.5,53.0,2.3,-0.38,2.08,2.94,2.87,9.96,None,None,Good,0.0,1.0,0.0,Henry Sanchez,African-American,male,0.0,USA,24.0,94549
-155,-0.62,2.72,2.0,3.94,3.05,-1.19,0.0,27.0,1.2,-1.87,1.96,-0.11,-0.82,5.72,Quantitative,Ok,Good,0.0,0.0,0.0,Timothy Grove,African-American,male,0.0,USA,25.0,94070
-156,0.4,3.69,1.7000000000000002,5.16,4.19,4.29,1.1,34.0,1.4,-1.35,0.39,-2.48,-2.21,4.24,Quantitative,Ok,Good,1.0,0.0,0.0,Patrick Pineda,African-American,male,2.0,USA,32.0,94030
-157,-0.75,3.42,1.0,5.71,3.0,-2.25,0.0,79.0,0.3,-2.14,0.87,-3.12,-3.01,3.51,Quantitative,None,Bad,0.0,0.0,0.0,Marvin Small,African-American,male,0.0,USA,29.0,94533
-158,-0.05,4.2,2.4,0.11,2.68,-1.35,2.0,30.0,2.9,-0.18,3.81,2.63,3.33,11.54,Quantitative,Ok,Bad,0.0,0.0,1.0,Christopher Sanchez,African-American,male,0.0,USA,26.0,94587
-159,0.97,1.24,-0.2,5.22,0.61,-5.06,0.0,17.0,1.2,-1.71,2.02,1.83,2.19,9.57,Engineering,None,Bad,0.0,0.0,1.0,Jeffrey Lawson,African-American,male,0.0,USA,28.0,94301
-160,0.81,3.22,0.8999999999999999,5.78,3.3,2.41,0.0,7.0,3.5,-0.020000000000000018,2.67,1.66,1.94,9.41,Quantitative,Very Good,Good,0.0,0.0,0.0,Timothy Beauvais,African-American,male,2.0,USA,29.0,94043
-161,-0.89,2.94,1.9,1.8,3.23,-0.47,0.0,59.0,2.5,-0.45,0.31,-2.83,-2.7,3.62,Quantitative,Ok,Bad,1.0,0.0,0.0,Howard Willis,African-American,male,0.0,USA,24.0,94709
-162,0.49,3.43,3.2,2.91,3.44,1.89,0.0,21.0,4.3,0.53,2.19,0.7,0.27,7.16,Engineering,Ok,Good,0.0,1.0,0.0,George Nelson,African-American,male,2.0,USA,26.0,94538
-163,1.01,2.97,1.9,5.19,3.09,1.78,0.6,58.0,0.1,-2.66,2.65,2.26,1.75,8.78,Quantitative,Ok,Bad,0.0,0.0,0.0,Ronnie Ming,African-American,male,2.0,USA,26.0,94720
-164,0.3,3.8,2.6,4.84,3.82,2.22,0.0,48.0,2.5,-0.41,0.0,-4.16,-4.29,1.61,Quantitative,None,Bad,0.0,0.0,0.0,Kenneth Mccartney,African-American,male,2.0,USA,28.0,94109
-165,-0.49,2.64,0.8,0.27,1.38,-5.15,1.3,1.0,1.4,-1.96,2.49,0.52,0.28,7.39,Engineering,None,Bad,0.0,0.0,1.0,Trent Bryson,African-American,male,0.0,USA,27.0,94040
-166,0.97,3.98,2.3,6.38,4.07,4.22,0.0,51.0,1.6,-1.01,2.5,1.05,2.24,10.19,Engineering,None,Good,1.0,0.0,0.0,George Allen,African-American,male,0.0,USA,34.0,94618
-167,-0.27,3.13,1.1,4.33,3.23,0.29,2.9,7.0,5.0,1.39,0.28,-2.93,-3.18,2.94,Engineering,Very Good,Good,0.0,0.0,0.0,Eric Tinajero,African-American,male,0.0,USA,31.0,94043
-168,-0.75,2.27,0.8999999999999999,0.06,1.23,-5.89,3.8,11.0,6.7,2.65,0.62,-1.7,-1.61,4.91,Engineering,None,Good,0.0,0.0,0.0,Russell Chick,African-American,male,0.0,USA,25.0,94089
-169,-0.41,2.91,3.1,2.99,3.57,0.77,0.0,35.0,4.1,0.53,0.7,-0.37,-0.66,5.75,Engineering,Ok,Good,0.0,0.0,0.0,Craig Salter,African-American,male,0.0,USA,26.0,94566
-170,0.99,2.96,0.8,8.81,2.93,0.65,0.0,49.0,0.0,-3.63,1.05,-2.87,-2.37,4.34,Engineering,Ok,Good,0.0,0.0,0.0,John Bridges,African-American,male,0.0,USA,29.0,94502
-171,0.01,3.17,1.3,7.26,3.38,0.17,0.0,20.0,2.3,-0.83,2.08,-0.06,0.18,7.37,Engineering,Very Good,Good,0.0,0.0,0.0,Jason Chapman,African-American,male,0.0,USA,29.0,94025
-172,-0.35,3.45,2.5,4.59,3.69,0.86,2.2,43.0,3.1,-0.43,3.85,2.27,1.82,9.35,Engineering,Very Good,Good,0.0,0.0,0.0,Daniel Gifford,African-American,male,0.0,USA,30.0,94014
-173,-1.46,2.53,1.9,1.08,2.12,-5.35,0.0,26.0,7.0,3.04,3.7,3.74,3.75,11.64,Sciences,Ok,Bad,0.0,0.0,0.0,Lynn Stewart,African-American,male,0.0,USA,24.0,94403
-174,0.73,3.33,1.7000000000000002,4.9,3.31,2.14,0.0,1.0,0.0,-3.11,1.13,-0.98,-0.38,6.48,Sciences,Very Good,Good,0.0,0.0,0.0,Chester Love,African-American,male,2.0,USA,28.0,94040
-175,-0.76,3.19,1.7000000000000002,3.48,3.52,0.23,0.0,13.0,2.9,-0.04,2.05,0.79,0.47,7.37,Engineering,Very Good,Good,0.0,0.0,0.0,John Atkins,African-American,male,0.0,USA,25.0,94022
-176,-0.03,3.03,1.0,5.14,3.01,-0.17,1.3,64.0,1.1,-1.45,1.88,0.32,0.43,7.42,Quantitative,Ok,Good,0.0,0.0,0.0,Bruce Mcbride,African-American,male,0.0,USA,30.0,94525
-177,0.55,2.88,2.5,4.05,3.74,3.36,1.1,16.0,1.6,-1.1,2.93,1.16,1.34,8.84,Quantitative,Very Good,Good,1.0,0.0,0.0,Tyrone Schuldt,African-American,male,2.0,USA,29.0,95134
-178,-0.31,2.88,0.8,6.78,3.41,0.28,0.0,41.0,5.2,1.52,1.39,-0.39,0.33,7.5,Sciences,Very Good,Good,0.0,0.0,0.0,Donald Burke,African-American,male,0.0,USA,29.0,94542
-179,-0.05,3.01,1.2,5.47,3.24,0.47,0.0,21.0,4.9,0.96,2.58,1.34,1.85,9.35,Engineering,Very Good,Good,0.0,0.0,0.0,Kyle Herrera,African-American,male,0.0,USA,28.0,94538
-180,1.19,3.83,3.1,5.96,4.86,7.36,0.0,7.0,4.3,0.55,2.02,-1.0,-1.88,4.65,Engineering,Ok,Good,1.0,0.0,0.0,Romeo Kenney,African-American,male,2.0,USA,26.0,94043
-181,1.1,3.65,1.6,8.05,3.86,3.66,0.0,43.0,5.4,1.6800000000000002,0.4,-3.21,-3.96,1.78,Engineering,Very Good,Good,1.0,0.0,0.0,Joseph Freyer,African-American,male,2.0,USA,31.0,94014
-182,0.24,2.83,2.0,3.49,2.33,-2.07,0.0,69.0,0.0,-4.08,0.72,-3.12,-2.79,3.68,Quantitative,None,Good,0.0,1.0,0.0,Christopher Sine,African-American,male,0.0,USA,29.0,94510
-183,-0.03,2.82,2.0,3.16,2.35,-2.26,1.6,36.0,1.5,-1.8,2.2,0.16,-0.08,6.89,Sciences,Ok,Good,0.0,0.0,0.0,Kenny Gale,African-American,male,0.0,USA,29.0,94588
-184,0.51,3.0,3.5999999999999996,2.49,3.49,2.32,2.6,78.0,3.6,0.08999999999999997,1.6,-1.66,-1.04,6.05,Quantitative,Ok,Good,0.0,0.0,0.0,Shannon Thomas,African-American,male,2.0,USA,26.0,94592
-185,0.07,2.58,1.4,4.64,2.58,-1.39,2.1,74.0,2.8,-0.2,0.74,-2.85,-3.29,2.83,Quantitative,None,Good,0.0,0.0,0.0,David Sotomayor,African-American,male,0.0,USA,28.0,94591
-186,-0.3,2.64,2.5,2.29,3.11,-0.16,1.6,43.0,2.1,-0.89,2.04,-0.41,-0.92,5.82,Quantitative,Ok,Bad,0.0,0.0,0.0,Dave Richard,African-American,male,0.0,USA,26.0,94014
-187,-0.5,2.97,1.5,3.91,2.71,-1.93,2.6,37.0,4.3,1.04,1.14,-1.16,-0.94,5.75,Engineering,Very Good,Good,0.0,0.0,0.0,Samuel Thomas,African-American,male,0.0,USA,27.0,94545
-188,-0.09,2.44,2.0,3.82,3.2,0.6,1.6,9.0,2.3,-0.9,2.23,-1.32,-1.36,5.59,Engineering,Ok,Good,0.0,0.0,0.0,John Morales,African-American,male,0.0,USA,30.0,94085
-189,0.56,2.7,2.2,6.9,3.23,0.59,0.0,42.0,0.0,-3.17,1.47,-1.27,-1.11,5.62,Engineering,Very Good,Good,0.0,0.0,0.0,Sidney Carden,African-American,male,0.0,USA,31.0,94605
-190,-0.93,2.2,2.8,2.94,2.87,-2.39,0.0,54.0,3.5,0.07999999999999996,1.96,1.22,0.44,7.22,Engineering,None,Bad,0.0,0.0,0.0,Santos Mcguigan,African-American,male,0.0,USA,29.0,94121
-191,-0.02,2.82,-0.09999999999999998,5.51,2.22,-2.45,1.0,55.0,1.1,-1.55,1.94,-0.04,0.44,7.62,Humanities,Ok,Good,1.0,0.0,0.0,Jerry Biro,African-American,male,0.0,USA,30.0,94523
-192,0.79,3.26,2.7,5.89,4.99,7.61,0.0,9.0,3.0,-0.16,2.11,0.27,0.6,7.72,Engineering,None,Good,1.0,0.0,0.0,Joe Sanchez,African-American,male,2.0,USA,28.0,94085
-193,0.23,4.13,0.30000000000000004,9.36,4.05,2.59,0.0,10.0,5.2,1.42,2.87,1.15,1.28,8.7,Humanities,Very Good,Good,1.0,0.0,0.0,Roger Brown,African-American,male,2.0,USA,33.0,94085
-194,-0.58,2.5,1.7999999999999998,5.61,3.11,-1.14,0.0,69.0,0.0,-3.33,0.44,-1.1,-1.06,5.35,Quantitative,Very Good,Good,0.0,0.0,0.0,Gregory Carpenter,African-American,male,0.0,USA,27.0,94510
-195,-0.52,3.41,0.7,5.69,3.31,-0.35,0.0,8.0,3.9,0.050000000000000044,0.78,-1.97,-1.2,5.64,Engineering,Very Good,Bad,0.0,0.0,0.0,Dustin Parkins,African-American,male,0.0,USA,30.0,94085
-196,0.04,3.56,2.1,3.65,3.02,-0.34,0.0,5.0,3.1,-0.27,3.37,2.73,2.42,10.02,Engineering,Ok,Bad,0.0,0.0,0.0,James Reyes,African-American,male,0.0,USA,29.0,94043
-197,1.34,3.58,2.0,8.23,4.39,5.94,0.0,60.0,0.0,-3.67,2.42,1.37,0.38,7.07,Engineering,Ok,Good,1.0,0.0,0.0,Raymond Tate,African-American,male,2.0,USA,31.0,94707
-198,-0.36,3.24,2.5,0.52,2.62,-1.65,0.9,84.0,0.8,-1.43,1.7,-1.56,-2.35,4.02,Humanities,Ok,Bad,0.0,0.0,0.0,Michael Garroutte,African-American,male,0.0,USA,23.0,94503
-199,0.78,2.53,0.4,8.07,3.3,2.33,0.7,40.0,1.7,-1.69,0.41,-2.05,-1.63,4.9,Engineering,Very Good,Good,0.0,0.0,0.0,Joseph Yates,African-American,male,2.0,USA,31.0,94603
-200,-0.88,3.43,1.4,4.62,3.95,1.0,0.0,7.0,2.6,-0.42,1.26,-0.73,-0.03,7.06,Engineering,Ok,Good,0.0,0.0,0.0,Michael Dowling,African-American,male,0.0,USA,26.0,94043
-201,-1.39,3.08,0.19999999999999996,2.46,2.28,-4.4,0.0,22.0,2.2,-0.79,0.35,-3.9,-3.99,2.14,Quantitative,None,Bad,0.0,0.0,0.0,Harris Collins,African-American,male,0.0,USA,24.0,94061
-202,0.73,2.93,-0.2,4.57,2.88,2.09,3.1,22.0,5.4,1.6600000000000001,2.84,2.19,1.46,8.47,Engineering,Very Good,Good,0.0,0.0,0.0,William Diaz,African-American,male,2.0,USA,31.0,94061
-203,0.32,3.5,0.8999999999999999,6.85,3.74,2.41,2.6,22.0,4.1,0.52,0.62,-3.48,-2.75,3.95,Engineering,Ok,Good,0.0,0.0,0.0,Brian Leach,African-American,male,2.0,USA,30.0,94061
-204,-0.87,2.2,0.6000000000000001,-0.03,1.27,-5.92,0.0,27.0,1.1,-1.79,3.19,1.47,0.72,7.81,Engineering,None,Bad,0.0,0.0,0.0,Robert Wright,African-American,male,0.0,USA,25.0,94070
-205,-0.24,2.43,-0.5,2.63,1.75,-3.22,1.5,37.0,1.8,-0.99,2.14,0.17,-0.26,6.66,Engineering,Ok,Good,0.0,0.0,0.0,Booker Fonseca,African-American,male,0.0,USA,26.0,94545
-206,-0.16,3.19,2.3,3.52,2.66,-1.95,0.0,15.0,3.2,-0.32,2.99,1.31,2.35,10.37,Engineering,Ok,Bad,0.0,0.0,0.0,Andrew Richardson,African-American,male,0.0,USA,27.0,95002
-207,1.32,3.7,1.4,5.26,2.88,1.54,0.0,6.0,0.0,-3.32,3.36,2.89,2.55,10.12,Quantitative,Very Good,Good,1.0,0.0,0.0,Dennis Veltman,African-American,male,0.0,USA,28.0,94043
-208,0.95,2.78,0.8,6.38,3.23,2.73,0.0,9.0,3.7,-0.12,0.39,-3.65,-2.24,4.7,Quantitative,Very Good,Good,1.0,0.0,0.0,Richard Krausz,African-American,male,2.0,USA,29.0,94085
-209,-0.6,2.54,0.8,3.82,2.15,-3.81,0.0,29.0,2.1,-0.89,0.12,-4.23,-3.36,3.12,Sciences,None,Good,1.0,0.0,0.0,Robert Yamazaki,African-American,male,0.0,USA,26.0,94560
+0,0.96,3.44,2.2,8.0,4.05,4.08,2.5,22.0,4.1,0.95,1.16,-1.82,-1.58,5.14,Engineering,Ok,Good,1.0,0.0,0.0,Art Mitchell,African-American,male,0.0,USA,35.0,94061
+1,0.45,2.88,2.1,7.21,3.36,1.14,0.0,40.0,0.0,-2.88,2.02,-0.78,-1.54,4.98,Engineering,Ok,Bad,0.0,0.0,0.0,Gerard Conly,African-American,male,0.0,USA,33.0,94603
+2,0.38,2.51,1.2,2.45,1.94,-1.77,0.0,42.0,2.0,-0.78,1.39,-1.91,-1.31,5.71,Quantitative,Ok,Bad,1.0,0.0,0.0,Frank Magrath,African-American,male,0.0,USA,25.0,94605
+3,0.73,3.67,2.8,1.78,3.02,1.5,1.8,24.0,2.8,-0.42,2.69,0.94,0.54,7.71,Engineering,None,Bad,0.0,0.0,0.0,Kenneth Mabry,African-American,male,0.0,USA,26.0,94027
+4,-1.87,2.38,0.7,1.46,1.84,-6.11,0.0,7.0,6.7,2.96,1.37,0.35,0.66,7.61,Quantitative,Ok,Good,0.0,1.0,1.0,David Woods,African-American,male,0.0,USA,29.0,94043
+5,0.59,3.42,2.5,4.16,3.55,2.58,0.0,13.0,1.6,-1.4,1.09,-2.22,-1.81,4.95,Engineering,Ok,Good,0.0,0.0,0.0,Larry Runquist,African-American,male,2.0,USA,27.0,94022
+6,-0.37,3.39,2.9,-0.09,3.63,2.2,0.0,44.0,2.1,-0.99,1.88,-1.09,-2.04,4.43,Engineering,Very Good,Good,0.0,0.0,0.0,Robert Barney,African-American,male,2.0,USA,22.0,94131
+7,0.45,4.44,2.9,5.36,5.15,6.99,0.0,6.0,8.0,4.28,1.71,-0.58,-0.46,6.52,Engineering,Very Good,Bad,0.0,0.0,0.0,Thomas Tucker,African-American,male,2.0,USA,42.0,94043
+8,-0.53,2.72,-1.3,3.28,1.14,-5.71,0.0,70.0,2.3,-0.7,2.31,2.21,2.71,10.23,Engineering,Ok,Good,0.0,1.0,1.0,Steven Veliz,African-American,male,0.0,USA,32.0,94903
+9,0.18,3.61,1.6,6.75,3.68,1.7,0.0,49.0,0.4,-2.22,3.28,1.79,1.04,8.19,Quantitative,Ok,Bad,0.0,0.0,0.0,Michael Lund,African-American,male,2.0,USA,26.0,94502
+10,-0.51,2.22,1.5,7.86,2.8,-2.49,0.0,24.0,5.4,2.1,1.49,-1.63,-1.04,5.94,Engineering,None,Good,0.0,0.0,0.0,Roberto Brown,African-American,male,0.0,USA,34.0,94027
+11,0.85,3.0,1.8,3.2,2.85,1.64,1.7,29.0,2.6,-0.53,0.83,-2.89,-3.84,2.12,Engineering,Ok,Bad,0.0,0.0,0.0,Gary Strackbein,African-American,male,2.0,USA,28.0,94560
+12,0.02,2.8,0.7,3.55,2.52,-0.57,0.0,9.0,2.7,-0.42,2.88,1.17,1.12,8.58,Quantitative,None,Bad,0.0,0.0,0.0,Jose Jackson,African-American,male,0.0,USA,24.0,94085
+13,0.2,3.14,3.1,1.62,3.38,1.96,2.7,19.0,4.3,1.01,1.48,1.41,1.14,7.98,Engineering,Ok,Good,0.0,0.0,0.0,Albert Younglas,African-American,male,2.0,USA,37.0,94304
+14,-0.78,3.22,1.1,-0.79,2.22,-2.63,0.0,21.0,5.3,1.96,1.04,-1.98,-1.96,4.62,Engineering,None,Good,0.0,0.0,0.0,Jeffrey Smith,African-American,male,0.0,USA,26.0,94538
+15,0.86,3.37,1.3,8.43,3.95,3.76,0.3,36.0,0.0,-3.12,0.09,-3.14,-3.64,2.22,Humanities,Very Good,Good,0.0,0.0,0.0,Michael Gensler,African-American,male,2.0,USA,30.0,94588
+16,0.68,3.12,2.7,4.64,3.8,3.69,1.7,27.0,2.7,-0.14,3.36,3.96,2.38,9.28,Engineering,Very Good,Good,1.0,0.0,0.0,Thomas Copeland,African-American,male,2.0,USA,29.0,94070
+17,0.74,3.32,1.1,6.89,3.64,3.14,0.0,41.0,0.7,-2.06,1.11,-2.36,-1.52,5.52,Engineering,Ok,Good,1.0,1.0,0.0,Richard Green,African-American,male,0.0,USA,34.0,94542
+18,0.52,2.26,0.9,6.78,2.48,-0.81,0.0,7.0,5.7,2.13,0.79,-3.18,-2.49,4.23,Engineering,None,Bad,0.0,0.0,0.0,Richard Provencher,African-American,male,0.0,USA,33.0,94043
+19,1.01,2.99,1.9,4.69,2.4,-0.22,0.0,31.0,3.0,0.16,3.58,1.84,2.26,10.12,Quantitative,None,Bad,0.0,0.0,0.0,Rayford Mikowski,African-American,male,0.0,USA,26.0,94544
+20,1.53,3.24,3.5,3.81,4.04,6.3,0.0,11.0,0.0,-3.48,1.16,-1.72,-0.68,6.5,Quantitative,Very Good,Good,1.0,0.0,0.0,David Washington,African-American,male,2.0,USA,22.0,94089
+21,-0.01,2.01,1.3,0.6,1.48,-3.54,0.0,49.0,0.8,-1.73,1.37,-1.57,-1.08,5.89,Engineering,None,Bad,0.0,1.0,0.0,George Bates,African-American,male,0.0,USA,20.0,94502
+22,0.04,2.25,2.2,5.18,2.19,-3.15,0.0,61.0,2.5,-0.19,1.49,-1.18,-1.44,5.05,Humanities,Very Good,Bad,0.0,1.0,0.0,Mark Campbell,African-American,male,0.0,USA,30.0,94707
+23,-0.35,3.48,1.9,5.08,3.11,-0.84,0.0,6.0,1.3,-1.8,2.66,1.49,1.11,8.22,Engineering,None,Bad,0.0,0.0,0.0,Thomas Norman,African-American,male,0.0,USA,31.0,94043
+24,0.74,3.79,3.1,5.5,4.43,5.23,2.0,25.0,3.2,0.02,2.87,1.26,2.09,9.95,Engineering,Ok,Good,1.0,0.0,0.0,Todd Pineda,African-American,male,2.0,USA,38.0,94539
+25,2.22,3.28,2.5,7.76,4.36,8.13,0.0,4.0,6.3,2.72,1.49,-1.35,-0.9,6.12,Engineering,Very Good,Good,1.0,0.0,0.0,William Fox,African-American,male,2.0,USA,42.0,94040
+26,-0.68,3.06,1.9,2.9,2.93,-1.24,3.5,32.0,5.7,2.47,3.59,0.9,0.85,8.43,Engineering,None,Good,0.0,1.0,0.0,Randy Shren,African-American,male,0.0,USA,38.0,94544
+27,-0.17,2.68,1.5,6.18,2.46,-2.72,0.0,48.0,3.6,0.33,2.11,-1.36,-0.56,6.71,Quantitative,Ok,Bad,0.0,1.0,0.0,Leo Turner,African-American,male,0.0,USA,29.0,94109
+28,-0.84,3.24,1.9,2.1,3.62,1.19,2.0,10.0,3.1,-0.02,1.38,-1.29,-2.17,4.04,Quantitative,None,Bad,1.0,0.0,0.0,Frederick Mack,African-American,male,0.0,USA,31.0,94085
+29,-0.17,2.73,2.3,2.24,3.16,0.98,0.3,60.0,0.0,-2.56,0.98,-0.42,0.21,7.12,Engineering,Very Good,Good,1.0,0.0,1.0,George Gipson,African-American,male,0.0,USA,28.0,94707
+30,0.73,2.75,2.3,6.92,3.37,2.0,2.0,6.0,3.0,-0.31,2.23,0.07,1.1,8.83,Quantitative,Ok,Good,0.0,0.0,0.0,Robert Mcgraw,African-American,male,2.0,USA,35.0,94043
+31,0.55,3.07,1.5,7.98,3.31,1.06,0.0,27.0,4.4,0.94,2.46,1.88,1.0,7.72,Engineering,Ok,Bad,0.0,0.0,0.0,Donald West,African-American,male,0.0,USA,34.0,94070
+32,1.12,4.22,1.5,8.72,3.87,3.48,0.0,32.0,3.4,0.46,1.66,0.57,0.59,7.51,Quantitative,Ok,Good,1.0,0.0,0.0,Brock Cook,African-American,male,2.0,USA,34.0,94544
+33,-1.07,2.12,1.6,1.37,1.74,-5.08,0.0,29.0,1.7,-1.2,3.9,3.37,3.27,11.12,Engineering,Ok,Good,0.0,1.0,1.0,Buford Williams,African-American,male,0.0,Canada,24.0,94560
+34,-0.02,3.1,2.1,4.26,2.28,-2.78,0.0,38.0,4.4,1.26,2.82,0.88,-0.8,5.62,Engineering,Ok,Bad,0.0,1.0,0.0,Albert Broome,African-American,male,0.0,USA,31.0,94586
+35,0.54,3.23,3.4,2.81,3.31,1.75,0.9,54.0,0.5,-1.92,1.67,-0.44,0.33,7.71,Humanities,Very Good,Good,0.0,0.0,0.0,John Hawks,African-American,male,2.0,USA,23.0,94121
+36,-0.22,2.48,-0.6,1.68,0.61,-6.73,0.0,57.0,3.2,0.35,0.39,-2.42,-2.06,4.4,Engineering,Ok,Good,0.0,1.0,1.0,Gary Webster,African-American,male,0.0,USA,28.0,94038
+37,-0.1,2.29,1.9,1.57,2.15,-1.79,0.0,59.0,0.0,-3.68,0.46,-2.58,-2.24,4.29,Quantitative,Ok,Good,1.0,1.0,0.0,Frank Gentry,African-American,male,2.0,USA,24.0,94709
+38,-0.66,3.12,1.4,-1.05,1.86,-3.7,0.0,31.0,3.7,0.73,0.73,-2.7,-1.85,5.01,Humanities,None,Good,0.0,1.0,0.0,Jamal Arthur,African-American,male,0.0,USA,28.0,94544
+39,0.2,3.72,2.1,2.46,2.51,-1.43,0.0,4.0,5.2,1.75,0.27,-4.9,-4.19,2.19,Engineering,Ok,Bad,0.0,1.0,0.0,Doug Cruz,African-American,male,0.0,USA,29.0,94040
+40,-0.25,3.16,1.7,3.6,2.47,-2.16,0.0,46.0,1.8,-1.04,1.67,-0.96,-1.03,5.74,Engineering,Ok,Bad,0.0,0.0,0.0,Jose Gilson,African-American,male,0.0,USA,29.0,94019
+41,-0.74,3.78,1.5,2.98,3.56,0.93,0.0,46.0,2.6,-0.17,2.68,0.88,-0.19,6.53,Engineering,Ok,Good,0.0,1.0,0.0,Tom Rich,African-American,male,0.0,USA,29.0,94019
+42,0.63,3.38,1.3,5.38,3.5,3.12,0.0,1.0,5.2,1.83,0.24,-3.79,-4.03,1.93,Quantitative,Very Good,Good,1.0,0.0,0.0,Ryan Bishop,African-American,male,2.0,USA,34.0,94040
+43,-0.05,2.59,2.0,0.54,2.07,-1.83,1.4,23.0,1.8,-1.15,2.26,1.12,1.3,8.45,Engineering,None,Bad,0.0,0.0,0.0,David Garcia,African-American,male,0.0,USA,26.0,94028
+44,-0.16,4.29,2.8,5.3,4.29,2.54,0.0,42.0,3.0,0.27,2.19,0.83,0.18,6.96,Quantitative,Ok,Good,0.0,0.0,0.0,Juan Jones,African-American,male,2.0,USA,30.0,94605
+45,-0.16,2.77,2.4,3.39,3.69,2.47,1.8,24.0,2.8,-0.22,2.4,1.41,1.61,8.95,Quantitative,Ok,Good,0.0,0.0,0.0,Tory Pena,African-American,male,2.0,USA,28.0,94027
+46,1.34,4.41,3.2,4.51,4.91,8.27,0.0,3.0,4.6,1.24,3.38,1.07,0.81,8.29,Engineering,Very Good,Good,1.0,0.0,0.0,Carl Mello,African-American,male,2.0,USA,34.0,94040
+47,0.61,2.55,1.6,4.63,2.27,-1.09,0.0,32.0,1.7,-1.29,0.38,-3.56,-3.09,3.4,Quantitative,Ok,Good,0.0,0.0,0.0,Anthony Reichert,African-American,male,0.0,USA,30.0,94544
+48,-0.3,2.29,1.9,4.5,2.39,-2.6,0.0,7.0,4.3,0.94,0.0,-1.72,-1.83,4.3,Quantitative,Ok,Bad,0.0,0.0,0.0,William Ivey,African-American,male,0.0,USA,27.0,94043
+49,1.06,4.06,2.1,10.35,5.31,7.89,0.0,15.0,5.8,2.39,2.8,1.15,1.11,8.48,Engineering,Ok,Good,1.0,1.0,0.0,Charles Hall,African-American,male,2.0,USA,39.0,95002
+50,-0.69,2.53,2.1,2.05,2.8,-1.34,1.3,62.0,1.4,-1.11,1.75,-1.85,-2.11,4.5,Quantitative,None,Bad,0.0,1.0,1.0,Alberto Shook,African-American,male,0.0,USA,24.0,94564
+51,-0.2,2.79,1.1,3.47,2.69,-0.8,0.0,20.0,2.7,-0.34,3.26,1.6,2.21,10.0,Quantitative,None,Good,0.0,0.0,0.0,Alton Cartwright,African-American,male,0.0,USA,28.0,94025
+52,0.01,3.19,3.4,6.81,4.08,2.2,0.0,41.0,3.8,0.89,2.23,1.06,0.8,7.78,Humanities,Very Good,Good,0.0,0.0,0.0,Donald Philpott,African-American,male,2.0,USA,34.0,94542
+53,0.58,3.58,2.2,6.05,4.12,4.06,0.0,10.0,5.1,1.85,1.65,-0.27,-0.51,6.28,Quantitative,Ok,Good,1.0,0.0,0.0,John Martin,African-American,male,2.0,USA,33.0,94085
+54,-1.13,2.65,1.7,1.65,1.49,-6.67,0.0,37.0,4.4,1.5,1.69,-0.83,-0.84,5.99,Quantitative,Ok,Bad,0.0,1.0,1.0,Jimmy Riggings,African-American,male,0.0,USA,25.0,94545
+55,0.45,2.95,3.2,3.31,3.63,2.78,0.0,6.0,6.9,3.07,3.79,2.81,3.23,11.31,Quantitative,Very Good,Good,0.0,0.0,0.0,Salvatore Schleicher,African-American,male,2.0,USA,31.0,94043
+56,0.24,3.68,1.9,5.05,3.37,1.12,0.0,72.0,1.9,-0.71,2.63,0.74,-0.51,6.13,Engineering,Ok,Good,0.0,0.0,0.0,Eugene Palacios,African-American,male,0.0,USA,34.0,94572
+57,1.71,2.98,2.4,8.77,3.95,5.37,0.0,21.0,5.8,2.46,3.38,3.36,1.7,8.52,Engineering,Very Good,Good,1.0,0.0,0.0,Lester Valencia,African-American,male,2.0,USA,39.0,94538
+58,0.41,2.42,1.7,2.91,2.67,0.35,0.0,60.0,4.5,1.49,2.82,1.98,1.31,8.4,Engineering,Very Good,Good,0.0,0.0,0.0,Prince Byrum,African-American,male,0.0,USA,32.0,94707
+59,0.08,3.36,2.3,6.71,3.81,1.85,0.0,37.0,2.8,-0.03,1.85,-0.82,-0.96,5.84,Engineering,Very Good,Good,0.0,0.0,0.0,Joseph Piper,African-American,male,2.0,USA,29.0,94545
+60,-1.5,3.27,2.4,-0.87,2.49,-3.61,2.7,52.0,4.1,1.34,2.5,2.43,1.08,7.67,Humanities,Ok,Good,1.0,1.0,0.0,Daniel Moyer,African-American,male,0.0,USA,27.0,94611
+61,-1.02,3.71,2.0,4.24,3.49,-0.93,0.0,37.0,4.6,1.19,1.36,-2.03,-1.77,4.96,Engineering,None,Good,0.0,0.0,0.0,Carroll Bailey,African-American,male,0.0,USA,34.0,94545
+62,0.84,3.39,4.3,6.67,4.85,6.03,0.0,6.0,6.5,3.13,3.78,2.03,0.99,8.15,Humanities,Very Good,Good,1.0,0.0,0.0,Stephen Curiel,African-American,male,2.0,USA,39.0,94043
+63,0.97,3.82,3.2,6.85,4.61,5.96,0.0,12.0,0.0,-3.95,3.15,2.38,1.5,8.56,Quantitative,Very Good,Good,0.0,0.0,0.0,Joseph Villalpando,African-American,male,2.0,USA,29.0,94087
+64,-1.66,2.86,1.3,0.84,1.94,-5.92,0.0,56.0,4.0,1.33,1.39,-1.19,-0.84,6.03,Engineering,None,Bad,0.0,1.0,1.0,Matthew Paugh,African-American,male,0.0,USA,29.0,94595
+65,1.3,3.79,2.5,4.82,4.02,5.48,1.6,55.0,2.1,-0.55,3.03,3.06,3.18,10.69,Engineering,Ok,Good,1.0,0.0,1.0,Eddie Respess,African-American,male,2.0,USA,28.0,94523
+66,0.37,2.99,2.1,3.53,2.91,0.51,2.9,22.0,5.0,1.44,3.27,2.44,2.61,10.32,Engineering,Ok,Good,0.0,0.0,0.0,James Reed,African-American,male,0.0,USA,35.0,94061
+67,0.31,3.47,0.4,8.34,3.49,1.69,0.0,23.0,4.9,1.63,2.4,-0.33,-0.48,6.47,Engineering,Very Good,Good,0.0,0.0,0.0,Scott Ponzi,African-American,male,0.0,USA,39.0,94028
+68,-0.07,2.98,2.1,3.81,2.75,-0.97,0.0,66.0,0.8,-1.48,1.98,-0.9,-0.55,6.51,Engineering,None,Bad,0.0,0.0,0.0,Robert Zimmerebner,African-American,male,0.0,USA,27.0,94925
+69,0.04,2.99,1.7,3.81,2.87,-0.1,0.0,59.0,1.6,-1.02,0.12,-5.09,-3.89,2.74,Quantitative,Ok,Bad,0.0,0.0,0.0,Samuel Rodriques,African-American,male,0.0,USA,31.0,94709
+70,0.38,3.41,1.8,9.66,3.65,0.95,0.0,13.0,2.0,-1.09,2.52,1.82,0.56,7.2,Quantitative,Very Good,Good,1.0,0.0,0.0,Terry Mattson,African-American,male,0.0,USA,39.0,94022
+71,1.08,3.48,2.9,4.35,3.76,4.31,2.0,16.0,3.2,0.04,0.86,0.02,0.05,6.64,Humanities,Very Good,Good,1.0,1.0,0.0,Jeffery Howard,African-American,male,2.0,USA,29.0,95134
+72,0.53,3.01,2.5,5.89,4.23,4.8,0.0,56.0,1.2,-1.45,1.44,-1.04,-0.83,6.02,Engineering,None,Good,1.0,0.0,0.0,Paul Martel,African-American,male,1.0,USA,25.0,94595
+73,0.34,3.16,1.7,3.02,3.39,2.59,0.0,4.0,5.0,1.67,2.96,0.21,-0.49,6.48,Engineering,Ok,Good,0.0,0.0,0.0,Michael Cleveland,African-American,male,1.0,USA,34.0,94040
+74,0.09,2.06,1.2,1.32,1.74,-2.62,0.0,40.0,1.3,-1.26,1.59,-0.89,-0.78,6.12,Humanities,None,Bad,0.0,0.0,0.0,Timothy Fain,African-American,male,1.0,USA,29.0,94603
+75,-0.04,3.46,1.8,4.37,3.4,1.02,0.0,10.0,3.3,0.1,2.27,0.04,-0.33,6.62,Sciences,Ok,Good,0.0,0.0,0.0,Richard Berringer,African-American,male,0.0,USA,32.0,94085
+76,0.4,3.71,3.7,4.96,4.46,4.46,0.0,47.0,2.8,-0.05,0.19,-3.59,-3.76,2.26,Engineering,None,Good,1.0,0.0,0.0,Mark Humphreys,African-American,male,2.0,Canada,29.0,94114
+77,-0.99,2.51,2.1,2.15,2.17,-4.36,1.7,27.0,2.5,-0.48,0.81,-4.11,-2.85,4.24,Quantitative,Ok,Bad,0.0,1.0,0.0,Derek Riggs,African-American,male,1.0,USA,30.0,94070
+78,0.81,3.23,2.6,10.33,4.62,5.12,1.3,53.0,2.0,-0.68,1.4,-0.88,-1.63,4.69,Quantitative,Very Good,Good,0.0,0.0,0.0,Jeffrey Schlegel,African-American,male,1.0,USA,35.0,94549
+79,0.16,3.76,2.6,4.96,3.67,1.63,1.6,45.0,2.2,-0.51,3.3,2.36,1.58,8.79,Engineering,None,Good,0.0,0.0,0.0,Ronald Gothard,African-American,male,1.0,USA,31.0,94105
+80,-0.18,3.64,1.9,0.02,3.19,1.53,0.0,55.0,6.9,4.03,1.38,-2.26,-2.05,4.76,Humanities,Ok,Good,0.0,1.0,0.0,Joseph Thurman,African-American,male,1.0,USA,29.0,94523
+81,-1.26,2.55,-0.1,2.24,2.51,-2.41,0.0,81.0,0.4,-1.77,2.56,0.8,-0.28,6.49,Engineering,Very Good,Good,0.0,0.0,0.0,Ralph Mitchell,African-American,male,1.0,USA,27.0,94561
+82,-0.2,2.67,2.6,2.22,2.61,-1.36,3.6,28.0,5.7,2.3,0.0,-4.24,-4.19,1.52,Quantitative,Very Good,Bad,0.0,1.0,0.0,James Luke,African-American,male,1.0,USA,33.0,94402
+83,0.55,3.27,1.8,5.45,3.29,1.76,1.4,26.0,1.9,-0.83,2.06,0.05,0.44,7.84,Humanities,Very Good,Good,0.0,0.0,0.0,Paul Johnson,African-American,male,1.0,USA,27.0,94403
+84,0.86,3.33,2.1,9.38,4.14,3.72,0.0,43.0,0.1,-2.13,1.34,-1.24,-0.48,6.61,Sciences,Very Good,Good,1.0,0.0,0.0,Edwin Gardner,African-American,male,1.0,USA,29.0,94014
+85,1.7,3.47,2.7,10.41,4.5,6.01,0.4,77.0,0.0,-2.75,1.04,-2.51,-1.47,5.59,Quantitative,Ok,Good,1.0,0.0,0.0,John Hall,African-American,male,1.0,USA,34.0,94945
+86,-0.08,3.08,2.2,1.07,1.9,-3.31,0.0,21.0,4.6,1.17,0.23,-4.15,-3.95,2.31,Quantitative,None,Good,0.0,1.0,0.0,Jason Edwards,African-American,male,1.0,USA,28.0,94538
+87,0.25,3.05,2.5,6.31,3.9,2.82,0.0,35.0,7.1,3.75,0.0,-3.67,-3.87,2.04,Quantitative,Ok,Good,1.0,0.0,0.0,Paul Johnson,African-American,male,1.0,USA,32.0,94566
+88,-0.16,2.59,2.0,6.58,3.34,0.21,0.0,23.0,9.0,4.87,2.76,-0.11,0.44,7.92,Sciences,Very Good,Good,0.0,0.0,0.0,John Guerra,African-American,male,1.0,USA,35.0,94028
+89,-0.33,2.91,2.8,5.01,3.53,0.48,0.0,34.0,2.4,-0.57,1.75,-0.67,-0.41,6.66,Quantitative,Ok,Good,0.0,0.0,1.0,Alvin Vandeventer,African-American,male,1.0,USA,30.0,94030
+90,0.37,2.72,2.6,4.99,3.05,0.36,1.4,83.0,1.1,-1.6,3.12,0.49,-1.02,5.51,Humanities,Ok,Good,0.0,0.0,0.0,Mario Overcash,African-American,male,1.0,USA,27.0,94503
+91,0.66,2.74,2.1,8.44,3.1,0.38,1.4,56.0,1.7,-1.02,1.99,0.85,0.0,6.57,Humanities,Very Good,Good,0.0,0.0,0.0,Terry Esparza,African-American,male,1.0,USA,34.0,94595
+92,1.15,4.25,3.4,9.37,4.49,4.8,0.0,8.0,3.6,0.46,2.33,-2.2,-2.34,4.5,Engineering,None,Good,1.0,0.0,0.0,Ryan Thompson,African-American,male,1.0,USA,33.0,94085
+93,-0.31,3.19,2.8,3.48,2.93,-1.06,0.7,18.0,0.7,-2.07,2.14,0.62,1.13,8.48,Engineering,None,Bad,0.0,0.0,0.0,Curtis Farmer,African-American,male,1.0,USA,22.0,95035
+94,-0.58,3.01,0.6,5.06,2.57,-2.28,0.0,49.0,1.1,-1.88,2.85,1.37,0.95,8.02,Quantitative,None,Good,0.0,0.0,0.0,Trevor Gaddie,African-American,male,1.0,USA,28.0,94502
+95,0.04,3.23,2.4,2.31,2.84,-0.35,0.0,29.0,1.2,-1.73,0.72,-1.61,-1.85,4.55,Engineering,Ok,Good,0.0,0.0,0.0,Kyle Nunez,African-American,male,1.0,Canada,29.0,94560
+96,-0.35,2.75,2.3,2.63,2.54,-2.07,0.0,30.0,2.2,-0.74,1.9,1.9,1.62,8.53,Quantitative,Ok,Good,0.0,0.0,0.0,Randall Johnson,African-American,male,1.0,USA,27.0,94587
+97,0.9,3.74,1.5,4.52,3.28,2.74,0.0,60.0,1.1,-1.6,0.0,-4.47,-3.24,3.25,Quantitative,Very Good,Good,1.0,0.0,0.0,Lionel Buchana,African-American,male,1.0,USA,27.0,94707
+98,0.24,2.9,2.0,2.92,3.19,1.83,0.0,6.0,10.3,6.34,1.56,0.19,0.7,8.01,Engineering,Ok,Good,0.0,0.0,0.0,Rodney Chang,African-American,male,1.0,USA,37.0,94043
+99,0.46,3.16,4.7,3.63,3.63,1.75,2.9,37.0,4.0,0.61,1.57,0.86,1.33,8.58,Engineering,Very Good,Bad,0.0,0.0,0.0,Christian Jasso,African-American,male,1.0,USA,28.0,94545
+100,-0.24,2.97,2.0,2.16,2.38,-2.24,0.0,16.0,1.9,-0.87,2.2,1.4,0.6,7.3,Quantitative,Ok,Bad,0.0,0.0,0.0,Mark Snowden,African-American,male,1.0,USA,29.0,95134
+101,0.32,4.01,2.8,4.24,4.45,4.72,0.0,29.0,4.4,0.96,1.99,-0.4,0.57,8.01,Engineering,Ok,Good,1.0,0.0,0.0,Paul Byrd,African-American,male,1.0,USA,33.0,94560
+102,-0.2,2.9,0.5,2.61,2.19,-2.04,0.0,22.0,2.4,-0.65,1.58,-0.4,-0.66,6.06,Engineering,Ok,Good,0.0,0.0,0.0,John Espinosa,African-American,male,1.0,USA,26.0,94061
+103,-0.11,2.7,2.2,5.1,2.61,-2.1,0.0,34.0,3.9,0.97,2.57,1.4,1.81,9.32,Humanities,None,Bad,0.0,1.0,0.0,Corey Campos,African-American,male,1.0,USA,29.0,94030
+104,-1.11,2.52,0.8,2.38,1.38,-6.54,1.5,11.0,2.8,-0.08,4.38,4.42,4.46,12.68,Engineering,Very Good,Bad,0.0,1.0,1.0,Richard Trejo,African-American,male,1.0,USA,27.0,94089
+105,-0.79,2.55,2.1,-0.74,2.17,-2.78,0.0,39.0,3.6,0.44,2.8,1.06,0.44,7.44,Engineering,None,Good,0.0,1.0,0.0,David Brugger,African-American,male,1.0,USA,31.0,94578
+106,-1.16,2.92,0.9,-0.3,1.59,-5.37,0.0,5.0,3.9,0.51,0.21,-3.48,-2.78,3.66,Engineering,Ok,Bad,1.0,1.0,1.0,Steven Ayala,African-American,male,1.0,USA,23.0,94043
+107,-0.16,3.17,3.4,2.82,3.78,1.93,0.0,11.0,7.1,3.56,1.46,-0.76,-0.82,5.96,Quantitative,Very Good,Good,1.0,1.0,0.0,Matthew Zepeda,African-American,male,1.0,USA,32.0,94089
+108,-0.18,3.18,2.2,4.13,3.82,2.24,0.0,58.0,1.7,-1.09,2.92,-0.93,-1.02,6.12,Quantitative,Very Good,Good,0.0,0.0,0.0,Albert Cleveland,African-American,male,1.0,USA,30.0,94720
+109,0.67,3.76,3.0,7.56,3.75,2.07,0.0,11.0,7.2,3.95,1.79,-0.98,0.32,7.93,Engineering,Ok,Good,0.0,0.0,0.0,Terry Johnson,African-American,male,2.0,USA,35.0,94089
+110,-2.21,2.65,2.3,-0.27,1.77,-7.87,0.0,62.0,1.4,-1.34,4.07,3.81,2.33,9.49,Humanities,None,Good,0.0,1.0,1.0,Philip Pratt,African-American,male,1.0,USA,25.0,94564
+111,1.05,3.56,2.2,7.88,3.9,3.87,3.5,21.0,6.1,3.1,3.97,2.53,2.56,10.49,Quantitative,Ok,Good,1.0,0.0,0.0,Calvin Facteau,African-American,male,2.0,USA,35.0,94538
+112,0.3,2.62,2.8,3.09,3.16,1.41,0.0,28.0,4.0,0.86,0.21,-1.6,-1.0,5.66,Engineering,Ok,Good,0.0,0.0,0.0,Jerry Lacher,African-American,male,1.0,USA,31.0,94402
+113,-0.68,1.93,1.8,2.4,2.05,-3.8,0.0,11.0,2.4,-0.75,1.63,-1.19,-0.38,6.91,Engineering,Ok,Bad,0.0,1.0,0.0,William Portnoy,African-American,male,1.0,USA,24.0,94089
+114,-0.38,2.54,2.3,2.66,2.65,-1.5,0.0,35.0,0.0,-5.04,1.73,-0.51,-0.42,6.42,Engineering,None,Bad,0.0,1.0,0.0,Benjamin Riley,African-American,male,0.0,USA,29.0,94566
+115,0.6,2.49,1.3,0.29,1.33,-2.85,0.0,57.0,5.9,2.76,1.68,-1.41,-1.37,5.4,Engineering,None,Good,0.0,1.0,0.0,Michael Mitchell,African-American,male,1.0,USA,31.0,94038
+116,0.35,2.61,1.7,6.16,3.32,1.51,3.1,13.0,5.6,2.37,3.87,2.08,1.8,9.5,Engineering,Ok,Good,0.0,0.0,0.0,Nathaniel Gustovich,African-American,male,1.0,USA,36.0,94022
+117,0.47,3.23,2.5,5.7,3.33,1.27,0.0,30.0,0.0,-2.88,1.12,-0.29,0.07,6.96,Quantitative,Ok,Good,0.0,0.0,0.0,Paul Sweeney,African-American,male,1.0,USA,26.0,94587
+118,-0.88,2.4,1.6,3.98,2.56,-3.03,0.0,48.0,3.7,0.89,3.45,2.11,1.67,9.06,Engineering,Ok,Good,0.0,1.0,0.0,John Huffman,African-American,male,1.0,USA,26.0,94109
+119,-1.2,2.24,0.8,3.45,1.78,-5.74,0.0,40.0,2.2,-0.85,1.26,-1.7,-1.76,4.85,Engineering,None,Good,1.0,1.0,1.0,David Chalmers,African-American,male,1.0,USA,26.0,94603
+120,-0.98,2.6,3.3,-0.13,2.58,-2.65,0.0,19.0,6.2,2.79,0.51,-1.33,-0.72,5.91,Engineering,Ok,Good,0.0,0.0,0.0,Luis Rice,African-American,male,1.0,USA,26.0,94304
+121,-1.56,2.59,2.4,1.2,2.79,-3.07,0.0,4.0,7.0,3.26,0.59,-3.59,-3.63,2.67,Engineering,None,Bad,0.0,1.0,0.0,Hayden Rector,African-American,male,1.0,USA,27.0,94040
+122,-0.44,3.38,2.7,2.34,3.2,-0.09,0.0,13.0,3.4,-0.06,1.41,-2.79,-2.89,3.59,Quantitative,Ok,Bad,0.0,0.0,0.0,William Brumback,African-American,male,1.0,USA,30.0,94022
+123,0.25,2.98,2.1,0.76,2.2,-1.27,2.8,19.0,4.1,0.72,1.98,0.51,0.27,7.2,Engineering,None,Good,1.0,0.0,0.0,Micheal Becker,African-American,male,1.0,USA,27.0,94304
+124,0.3,3.7,2.1,8.84,4.17,2.61,2.5,11.0,4.1,0.81,1.68,-0.29,-0.59,6.05,Sciences,Ok,Good,0.0,0.0,0.0,Michael Bono,African-American,male,1.0,USA,37.0,94089
+125,0.57,2.97,2.3,3.92,1.93,-2.84,0.0,32.0,3.7,0.49,3.02,0.85,0.95,8.28,Engineering,Ok,Bad,0.0,1.0,0.0,Korey Mccabe,African-American,male,1.0,USA,29.0,94544
+126,-0.43,3.62,2.5,6.57,3.72,0.12,0.0,2.0,4.9,1.52,0.62,-2.06,-1.44,5.3,Engineering,Ok,Good,0.0,0.0,0.0,Willie Norman,African-American,male,1.0,USA,36.0,94040
+127,-0.04,2.63,2.8,3.17,2.37,-2.36,3.7,6.0,6.4,2.84,0.12,-3.08,-2.51,3.99,Engineering,None,Good,0.0,0.0,0.0,John Dixon,African-American,male,1.0,USA,38.0,94043
+128,1.16,2.59,2.0,7.45,3.71,4.03,0.0,41.0,4.3,1.11,1.67,0.0,0.11,7.05,Sciences,Very Good,Good,1.0,0.0,0.0,Marc Lamotte,African-American,male,1.0,USA,30.0,94542
+129,0.61,3.16,1.9,5.55,2.96,0.6,2.0,23.0,3.2,0.19,0.51,-1.73,-1.36,5.16,Engineering,None,Good,0.0,0.0,0.0,Phil Mchenry,African-American,male,0.0,USA,33.0,94028
+130,0.44,3.05,2.0,3.13,2.16,-1.82,0.0,38.0,3.6,0.75,0.44,-2.06,-1.19,5.64,Engineering,Ok,Good,0.0,0.0,0.0,Paul Judd,African-American,male,1.0,USA,35.0,94586
+131,0.02,2.58,1.9,0.59,1.83,-2.79,0.0,22.0,4.2,1.11,3.56,1.9,1.77,9.34,Quantitative,Ok,Good,0.0,1.0,0.0,Joseph Wilhelm,African-American,male,1.0,USA,33.0,94061
+132,1.94,3.06,2.8,11.09,4.24,5.76,1.8,46.0,3.1,0.59,1.39,-0.26,-0.95,5.43,Engineering,Very Good,Good,1.0,0.0,0.0,Henry Lane,African-American,male,1.0,USA,37.0,94019
+133,-0.81,3.55,1.7,5.17,3.39,-0.9,0.0,53.0,3.3,0.6,3.04,2.43,2.01,9.33,Quantitative,Ok,Bad,0.0,0.0,0.0,William Cadenas,African-American,male,2.0,USA,28.0,94549
+134,1.28,3.42,2.6,6.09,3.83,4.56,2.1,60.0,3.4,0.61,2.94,0.04,0.76,8.49,Engineering,Very Good,Good,1.0,0.0,0.0,Stephen Smith,African-American,male,1.0,USA,33.0,94707
+135,0.26,2.4,2.1,6.66,2.81,-0.66,0.0,44.0,2.7,-0.22,1.67,-1.19,-0.9,5.96,Quantitative,Ok,Bad,0.0,0.0,0.0,Jerry Janousek,African-American,male,1.0,USA,34.0,94131
+136,-0.37,2.55,1.8,4.56,3.28,0.38,0.0,35.0,2.1,-0.81,2.36,-0.04,-0.86,5.9,Quantitative,None,Good,0.0,0.0,0.0,Johnathon Schultz,African-American,male,1.0,USA,28.0,94566
+137,-0.79,2.9,2.0,2.02,3.48,0.88,0.6,76.0,0.0,-2.44,0.42,-3.19,-3.37,2.83,Sciences,Ok,Good,1.0,0.0,0.0,David Hall,African-American,male,1.0,USA,23.0,94960
+138,-0.27,3.22,2.3,4.07,3.48,0.84,0.0,24.0,1.3,-1.26,4.81,5.18,4.18,11.9,Engineering,Ok,Good,0.0,0.0,0.0,Dennis Peterson,African-American,male,1.0,USA,29.0,94027
+139,-0.14,3.2,1.7,4.92,2.42,-2.75,0.0,13.0,5.1,1.91,2.96,3.44,2.9,10.16,Engineering,Ok,Good,0.0,0.0,0.0,Albert Grimshaw,African-American,male,1.0,USA,33.0,94022
+140,0.84,2.36,2.8,4.17,2.52,-0.08,3.5,8.0,5.8,2.25,0.38,-2.65,-2.11,4.32,Engineering,Ok,Good,0.0,0.0,0.0,James Hearne,African-American,male,1.0,USA,37.0,94085
+141,-0.01,3.1,1.5,3.66,3.24,1.33,1.8,22.0,2.7,-0.2,1.63,-0.13,-0.52,6.07,Quantitative,Ok,Good,0.0,0.0,0.0,Joseph Kissler,African-American,male,0.0,USA,29.0,94061
+142,0.14,2.84,1.2,3.28,2.85,0.46,0.9,61.0,0.6,-1.73,1.77,1.67,2.18,9.61,Engineering,None,Bad,0.0,0.0,0.0,George Breden,African-American,male,0.0,USA,26.0,94707
+143,-0.4,4.58,2.9,5.56,4.42,2.51,0.0,23.0,4.5,1.19,0.86,-1.08,-0.49,6.35,Engineering,Ok,Good,0.0,1.0,0.0,David Garcia,African-American,male,2.0,USA,31.0,94028
+144,0.32,2.52,2.1,8.27,3.64,1.61,0.0,14.0,2.5,-0.38,1.9,0.44,0.93,8.21,Quantitative,Ok,Good,1.0,0.0,0.0,Jeffery Messer,African-American,male,0.0,USA,34.0,95002
+145,0.14,1.97,1.3,7.05,1.5,-5.38,0.0,20.0,4.1,1.17,1.87,-2.12,-2.37,4.24,Sciences,None,Bad,0.0,1.0,1.0,Alton Barker,African-American,male,0.0,USA,33.0,94025
+146,0.17,3.32,1.5,4.4,3.61,2.58,0.0,32.0,2.3,-0.69,2.02,0.38,0.66,7.79,Engineering,None,Good,0.0,0.0,0.0,Wayne Wynne,African-American,male,2.0,USA,28.0,94544
+147,0.01,3.42,1.0,3.13,3.07,0.86,1.7,35.0,2.3,-0.74,0.0,-4.23,-3.19,3.27,Quantitative,None,Good,0.0,0.0,0.0,Jerry Menzies,African-American,male,0.0,USA,28.0,94566
+148,0.51,2.08,2.1,3.71,2.36,-0.78,0.0,8.0,5.5,2.12,1.92,-0.47,-0.62,6.21,Engineering,None,Good,0.0,0.0,0.0,Kevin Calendine,African-American,male,0.0,USA,34.0,94085
+149,0.72,3.32,2.3,6.75,3.83,3.12,0.0,27.0,3.8,0.37,1.9,0.75,1.01,8.13,Engineering,Very Good,Good,1.0,0.0,0.0,Rogelio Donnelly,African-American,male,2.0,USA,29.0,94070
+150,-0.01,2.85,2.3,6.63,3.05,-1.01,0.9,34.0,1.1,-1.5,0.96,-1.48,-1.57,4.85,Engineering,None,Bad,0.0,0.0,0.0,Travis Johnson,African-American,male,0.0,USA,31.0,94030
+151,-1.23,2.56,2.6,-0.89,1.94,-4.79,0.0,65.0,1.1,-1.2,1.67,0.11,-0.08,6.76,Engineering,Ok,Good,0.0,1.0,1.0,Delbert Slaughter,African-American,male,0.0,USA,26.0,94556
+152,-0.4,2.19,1.4,2.04,1.96,-3.42,3.2,33.0,5.1,1.77,1.13,-2.61,-2.66,3.8,Quantitative,Ok,Good,0.0,0.0,0.0,Gus Flickinger,African-American,male,0.0,USA,38.0,94010
+153,-1.06,2.98,1.1,1.27,2.74,-1.44,1.1,30.0,1.1,-1.65,2.19,0.67,0.5,7.61,Quantitative,None,Bad,0.0,0.0,0.0,Juan Liang,African-American,male,0.0,USA,26.0,94587
+154,-1.19,2.66,2.6,1.61,2.19,-4.78,0.0,8.0,2.8,-0.46,1.28,-0.15,-2.01,3.62,Engineering,Ok,Bad,0.0,0.0,1.0,Harry Meeker,African-American,male,0.0,Canada,22.0,94085
+155,-0.73,3.29,2.6,0.33,2.88,-1.25,1.5,2.0,1.3,-2.09,0.19,-2.87,-3.36,2.57,Quantitative,Very Good,Good,1.0,0.0,0.0,Scott Davis,African-American,male,0.0,USA,24.0,94040
+156,0.66,3.24,2.5,7.15,3.89,3.1,0.0,29.0,1.3,-1.41,2.54,0.86,1.06,8.37,Engineering,None,Good,0.0,0.0,0.0,Gary Hutchins,African-American,male,2.0,USA,29.0,94560
+157,-0.8,2.67,1.9,-0.92,1.75,-4.45,1.5,34.0,2.1,-0.92,1.42,-1.67,-0.92,6.15,Engineering,None,Bad,0.0,0.0,1.0,Charles Garrison,African-American,male,0.0,USA,31.0,94030
+158,0.6,3.14,0.8,5.07,2.4,-0.7,0.0,26.0,5.1,1.74,3.11,1.69,1.58,8.96,Engineering,None,Bad,0.0,0.0,0.0,George Whittaker,African-American,male,0.0,USA,33.0,94403
+159,-0.4,3.49,2.3,3.25,3.15,-0.65,0.0,44.0,1.3,-1.43,1.75,-0.72,-0.14,7.12,Quantitative,Ok,Good,0.0,0.0,0.0,Donald Lane,African-American,male,0.0,USA,28.0,94131
+160,0.99,2.99,1.8,10.25,4.32,4.85,1.0,84.0,0.4,-2.05,2.05,0.6,0.16,6.88,Sciences,Very Good,Good,1.0,0.0,0.0,Troy Lindenbaum,African-American,male,1.0,USA,32.0,94503
+161,-0.28,3.11,2.6,2.06,3.05,-0.04,0.0,39.0,3.9,0.8,0.0,-3.88,-3.9,2.11,Humanities,Ok,Good,0.0,0.0,0.0,Anthony Weeks,African-American,male,0.0,USA,25.0,94578
+162,-1.55,3.79,1.8,3.05,3.89,-0.11,0.0,23.0,1.8,-1.1,1.71,0.54,1.15,8.43,Engineering,None,Bad,0.0,0.0,0.0,Daniel Arko,African-American,male,0.0,USA,27.0,94028
+163,0.44,2.16,2.8,1.55,1.88,-2.24,0.0,44.0,0.8,-1.85,0.0,-2.22,-1.87,4.41,Humanities,None,Good,0.0,0.0,0.0,Matthew Parker,African-American,male,0.0,USA,26.0,94131
+164,1.03,2.34,4.1,8.19,3.49,1.3,3.3,31.0,4.9,1.56,1.43,0.69,1.86,9.33,Quantitative,Ok,Bad,0.0,0.0,0.0,Lyle Valencia,African-American,male,0.0,USA,44.0,94544
+165,-0.67,2.74,3.6,2.7,3.07,-1.47,0.0,18.0,3.4,0.35,1.31,0.79,-0.0,6.44,Quantitative,Very Good,Good,0.0,1.0,0.0,Bill Woods,African-American,male,0.0,USA,25.0,95035
+166,-0.08,3.54,2.6,0.95,3.4,1.99,0.0,19.0,4.6,1.09,2.24,2.81,3.2,10.6,Engineering,Very Good,Good,0.0,0.0,0.0,Alex Sosa,African-American,male,2.0,USA,27.0,94304
+167,-1.32,3.04,1.6,4.17,2.78,-3.5,4.0,25.0,6.6,3.18,3.09,0.97,1.04,8.54,Engineering,Ok,Good,0.0,0.0,0.0,William Sterling,African-American,male,0.0,USA,36.0,94539
+168,-0.12,3.47,3.0,3.45,3.35,0.37,0.0,40.0,1.8,-1.05,3.18,1.7,2.18,10.02,Sciences,Ok,Good,0.0,0.0,0.0,James Spearman,African-American,male,0.0,USA,27.0,94603
+169,-0.21,2.57,2.1,6.29,3.26,-0.02,0.0,39.0,1.9,-1.07,1.7,0.32,0.18,7.02,Quantitative,Ok,Bad,0.0,0.0,0.0,Jonathan Mcguire,African-American,male,0.0,USA,31.0,94578
+170,1.03,2.72,2.8,8.29,3.73,3.01,0.2,58.0,0.0,-2.43,0.43,-2.76,-2.48,3.93,Engineering,None,Good,0.0,0.0,0.0,Daniel Ruiz,African-American,male,2.0,USA,29.0,94720
+171,-1.24,2.13,0.5,-1.06,1.17,-5.97,0.0,14.0,1.8,-1.6,4.7,4.27,3.83,11.72,Engineering,None,Good,0.0,0.0,1.0,Leroy Basham,African-American,male,0.0,USA,23.0,95002
+172,1.36,3.07,1.8,8.91,5.1,9.01,0.0,4.0,4.1,0.63,0.9,-3.03,-2.47,4.19,Sciences,Ok,Good,1.0,0.0,0.0,Thomas Calderon,African-American,male,2.0,USA,40.0,94040
+173,-0.43,2.35,3.2,0.77,2.18,-3.13,0.0,21.0,4.9,1.54,1.56,-1.45,-2.35,3.95,Engineering,None,Bad,0.0,0.0,0.0,Zack Ausdemore,African-American,male,0.0,USA,30.0,94538
+174,0.82,2.7,0.6,8.4,3.14,1.63,0.0,44.0,0.0,-4.75,1.03,-1.47,-1.53,5.03,Engineering,None,Good,0.0,0.0,0.0,Greg Calvo,African-American,male,0.0,USA,31.0,94131
+175,-1.39,2.19,-0.1,1.38,1.2,-6.96,0.0,39.0,1.5,-1.27,1.9,0.4,0.04,6.78,Engineering,None,Good,0.0,0.0,1.0,Joseph Ritchie,African-American,male,0.0,USA,29.0,94578
+176,-0.73,3.06,2.3,3.4,3.01,-1.58,0.0,53.0,5.2,2.31,2.8,1.57,1.13,8.3,Quantitative,None,Bad,0.0,0.0,1.0,Mitchell Stevenson,African-American,male,0.0,USA,31.0,94549
+177,0.85,3.43,2.5,8.97,4.39,4.47,0.0,23.0,6.1,2.52,4.36,6.03,5.09,12.8,Engineering,Very Good,Good,1.0,0.0,0.0,Luther Mcdonough,African-American,male,2.0,USA,40.0,94028
+178,-0.73,3.34,2.8,0.07,2.98,-0.88,0.0,56.0,1.1,-1.48,1.89,-1.15,-1.29,5.57,Humanities,Ok,Good,0.0,0.0,0.0,Mathew Nichols,African-American,male,0.0,USA,26.0,94595
+179,1.24,3.04,1.1,3.31,3.13,3.97,0.0,6.0,4.4,0.96,2.42,1.26,0.9,7.96,Sciences,Very Good,Good,1.0,0.0,0.0,Norman Griffin,African-American,male,2.0,USA,30.0,94043
+180,-0.11,2.43,2.9,2.56,2.51,-1.85,3.3,54.0,5.7,2.65,2.21,0.38,-0.36,6.26,Humanities,Very Good,Good,0.0,0.0,0.0,Dominique Bacon,African-American,male,0.0,USA,32.0,94121
+181,0.77,3.37,1.0,6.62,3.97,4.63,0.0,33.0,1.6,-1.36,3.89,4.24,3.16,10.54,Sciences,Ok,Good,1.0,0.0,0.0,Shawn Peters,African-American,male,2.0,USA,30.0,94010
+182,1.04,2.89,2.7,3.43,3.06,2.4,1.8,49.0,2.7,-0.31,3.76,1.97,1.88,9.66,Engineering,Very Good,Good,0.0,0.0,0.0,Michael Ryan,African-American,male,2.0,USA,31.0,94502
+183,0.23,3.33,0.9,3.43,3.39,2.53,0.0,54.0,3.8,0.83,1.74,-0.02,0.2,7.2,Engineering,Ok,Good,0.0,0.0,0.0,Joseph Telford,African-American,male,2.0,USA,32.0,94121
+184,0.39,2.46,3.1,2.21,2.65,-0.07,0.0,85.0,1.6,-1.06,2.51,-0.32,-0.48,6.58,Humanities,None,Bad,0.0,0.0,0.0,Thomas Laws,African-American,male,0.0,USA,25.0,94947
+185,0.61,2.5,2.8,6.05,3.41,2.09,0.0,12.0,3.9,0.82,2.06,-1.78,-2.0,4.76,Engineering,Very Good,Good,0.0,0.0,0.0,James Beckham,African-American,male,2.0,USA,32.0,94087
+186,-0.93,3.18,1.4,3.6,3.48,0.0,0.0,43.0,1.8,-1.14,3.15,0.36,0.46,7.98,Quantitative,Ok,Good,0.0,0.0,0.0,Shawn Holland,African-American,male,0.0,USA,24.0,94014
+187,-0.34,2.39,1.4,-1.08,1.36,-4.19,0.0,39.0,0.5,-2.38,1.67,-0.37,-0.91,5.59,Engineering,None,Good,1.0,0.0,0.0,Brian Marchand,African-American,male,0.0,USA,22.0,94578
+188,-0.35,3.17,2.8,1.0,2.15,-3.49,1.6,61.0,1.6,-1.08,2.67,0.12,0.24,7.54,Humanities,Ok,Bad,0.0,0.0,0.0,Bret Cunningham,African-American,male,0.0,USA,27.0,94707
+189,-0.75,2.49,1.9,-1.66,1.53,-4.73,0.0,34.0,5.8,2.67,2.76,0.57,0.97,8.36,Engineering,Ok,Good,0.0,0.0,0.0,Robert Camacho,African-American,male,0.0,USA,32.0,94030
+190,0.35,2.32,2.4,8.01,2.99,-0.43,2.1,10.0,3.8,0.35,2.47,1.71,1.14,8.07,Engineering,None,Bad,0.0,0.0,0.0,Phil Deaver,African-American,male,0.0,Canada,39.0,94085
+191,-1.49,2.71,2.7,-0.64,1.94,-5.62,0.0,20.0,3.3,0.18,3.23,2.58,3.59,11.76,Quantitative,None,Bad,0.0,0.0,0.0,Gerald Hoyt,African-American,male,0.0,USA,25.0,94025
+192,-0.23,3.32,1.6,3.73,3.3,0.67,0.0,5.0,4.7,1.31,2.51,0.49,0.29,7.39,Sciences,None,Good,0.0,0.0,0.0,Daniel Strief,African-American,male,0.0,USA,31.0,94043
+193,-0.56,3.43,2.4,3.74,3.09,-1.16,0.0,15.0,0.0,-4.09,1.65,-1.61,-0.72,6.47,Quantitative,None,Bad,0.0,0.0,0.0,Marvin Kaufmann,African-American,male,0.0,USA,25.0,95002
+194,-0.98,2.16,1.4,4.01,1.97,-5.19,1.7,32.0,2.5,-0.39,3.71,2.01,0.58,7.59,Engineering,Ok,Bad,0.0,0.0,0.0,Kenny Orr,African-American,male,0.0,USA,33.0,94544
+195,-0.21,3.31,1.1,5.9,3.14,-0.33,0.0,52.0,1.9,-0.71,0.81,-1.44,-1.74,4.53,Quantitative,None,Bad,0.0,0.0,0.0,Jason Orozco,African-American,male,0.0,USA,31.0,94611
+196,0.09,2.71,2.1,3.35,2.72,-0.33,0.0,5.0,5.0,1.6,1.96,-0.24,-0.98,5.65,Engineering,None,Bad,0.0,0.0,0.0,Timothy Geiger,African-American,male,0.0,USA,28.0,94043
+197,0.29,2.94,3.4,3.98,3.0,-0.1,0.0,21.0,2.2,-0.85,0.0,-5.37,-5.01,1.0,Quantitative,None,Bad,1.0,0.0,0.0,Carl Morgan,African-American,male,0.0,USA,33.0,94538
+198,-0.58,2.66,1.5,1.18,2.11,-3.0,0.0,48.0,5.8,2.63,2.51,0.74,0.16,7.0,Engineering,Ok,Bad,0.0,0.0,0.0,Isidro Otto,African-American,male,0.0,USA,30.0,94109
+199,-0.13,2.48,-0.6,2.32,1.18,-4.57,5.0,36.0,8.8,5.63,4.08,2.55,2.13,9.84,Engineering,Ok,Bad,0.0,0.0,0.0,Jody Martinez,African-American,male,0.0,USA,40.0,94588
+200,1.25,2.8,3.3,3.44,3.14,2.71,0.0,87.0,0.0,-2.14,2.34,1.98,0.76,7.36,Engineering,Ok,Bad,0.0,0.0,0.0,Jerry Capito,African-American,male,2.0,USA,25.0,94973
+201,-1.78,3.18,3.0,0.58,2.53,-5.28,1.3,9.0,1.8,-1.42,0.78,-2.89,-3.04,3.29,Quantitative,None,Bad,0.0,0.0,0.0,James Kulas,African-American,male,0.0,USA,24.0,94085
+202,0.5,3.55,1.1,8.07,3.47,1.49,0.9,54.0,0.8,-1.79,1.82,0.71,1.64,9.23,Engineering,Ok,Good,1.0,0.0,0.0,Alfredo Brown,African-American,male,0.0,USA,30.0,94121
+203,0.36,2.57,2.1,3.28,1.88,-3.15,0.0,79.0,1.1,-1.25,2.73,-0.02,-0.45,6.66,Humanities,None,Good,0.0,0.0,0.0,John Prince,African-American,male,0.0,USA,26.0,94533
+204,1.26,3.56,3.2,9.08,3.93,3.16,2.5,29.0,4.2,0.86,3.44,4.37,4.88,13.04,Sciences,Very Good,Good,1.0,0.0,0.0,Hiram Wyrick,African-American,male,1.0,USA,41.0,94560
+205,0.09,3.25,3.6,6.11,4.12,2.71,3.5,31.0,5.7,2.48,2.66,-0.03,0.28,7.73,Engineering,Ok,Good,1.0,0.0,0.0,Edward Pratt,African-American,male,2.0,USA,37.0,94544
+206,-0.64,3.13,1.6,4.01,3.41,0.51,3.0,47.0,4.6,1.7,1.16,-1.11,-1.13,5.49,Humanities,Very Good,Bad,0.0,0.0,0.0,Steven Key,African-American,male,0.0,USA,34.0,94114
+207,0.01,2.53,2.1,5.37,2.66,-1.44,0.0,13.0,4.7,1.38,0.91,-1.89,-1.66,4.91,Engineering,Very Good,Good,1.0,0.0,0.0,Richard Miller,African-American,male,0.0,USA,32.0,94022
+208,-0.52,2.73,2.5,2.97,3.13,-0.44,0.0,59.0,1.6,-1.3,3.45,2.78,2.98,10.8,Quantitative,None,Good,0.0,0.0,0.0,Luis Robinson,African-American,male,0.0,USA,27.0,94709
+209,-0.98,2.65,1.8,3.53,2.68,-2.75,0.0,57.0,3.1,0.31,2.68,2.1,2.17,9.58,Engineering,Ok,Good,0.0,0.0,0.0,Melvin Brocker,African-American,male,0.0,USA,25.0,94038

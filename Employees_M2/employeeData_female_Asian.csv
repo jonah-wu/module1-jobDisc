@@ -1,601 +1,601 @@
 ,Education,GPA,Educational Prestige,Years of Experience,Soft Skills,Manager's Assessment Score,Military Tenure,Avg Commute Time,Job Tenure,Cultural Fit,Leadership Capability,HireVue Score,Technical Aptitude,Avg Deals Closed,Undergraduate Degree,LinkedIn Score,Responsible Social Media Use,Employee Referral,Arrest Record,Criminal Record,Names,Race,Gender,Sports,Birth Origin,Age,Zip
-0,-1.64,2.77,0.4,3.5,1.73,-7.05,0.0,53.0,2.5,-0.36,1.66,1.34,1.49,8.63,Quantitative,Very Good,Bad,0.0,1.0,1.0,Marcia Rogers,Asian,female,0.0,USA,24.0,94549
-1,0.84,3.19,3.7,5.3,3.82,3.28,0.0,38.0,2.8,-0.32,1.99,0.63,0.42,7.33,Engineering,Very Good,Good,1.0,0.0,0.0,Virginia Province,Asian,female,2.0,USA,27.0,94586
-2,1.45,2.62,2.6,8.9,3.97,4.62,0.0,70.0,4.1,1.21,3.22,1.95,1.63,8.96,Engineering,Very Good,Good,1.0,0.0,0.0,Irene Castellano,Asian,female,2.0,USA,32.0,94903
-3,-0.49,3.79,2.8,1.5,3.04,-1.0,0.0,11.0,4.7,1.3,0.69,-0.91,-1.2,5.16,Engineering,None,Good,0.0,0.0,0.0,Louise Hoopes,Asian,female,0.0,USA,25.0,94089
-4,0.27,2.52,2.4,1.8,2.38,-0.81,1.9,19.0,2.9,-0.34,4.71,5.76,4.56,12.24,Quantitative,None,Good,0.0,0.0,0.0,Cora Joachim,Asian,female,0.0,USA,28.0,94304
-5,-1.06,2.97,1.0,1.8,2.63,-2.19,0.0,15.0,3.1,-0.1,2.61,1.21,1.96,9.67,Engineering,None,Bad,1.0,0.0,0.0,Patricia Riley,Asian,female,1.0,USA,24.0,95002
-6,-0.75,2.64,1.9,2.2,2.1,-4.29,0.0,6.0,6.4,2.91,2.13,-0.24,-1.29,5.14,Engineering,Ok,Bad,0.0,1.0,0.0,Eva Belanger,Asian,female,0.0,USA,28.0,94043
-7,-1.15,2.45,2.1,-0.3,1.78,-5.11,0.0,44.0,2.0,-0.99,1.74,-0.81,-0.21,7.03,Quantitative,Ok,Good,0.0,1.0,1.0,Sarah Willis,Asian,female,0.0,Australia,25.0,94131
-8,-0.36,3.15,1.9,4.2,3.24,-0.01,0.0,48.0,7.0,3.63,0.22,-2.74,-3.18,2.88,Engineering,None,Good,1.0,0.0,1.0,Tillie Grenier,Asian,female,0.0,China,30.0,94109
-9,-0.6,2.68,2.3,-1.2,1.82,-3.58,0.0,29.0,3.6,0.73,1.26,-1.61,-2.26,4.11,Engineering,None,Good,0.0,1.0,0.0,Frances Epps,Asian,female,0.0,USA,22.0,94560
-10,-0.13,3.18,2.2,2.2,2.85,-0.2,0.0,44.0,2.5,-0.32,2.05,0.4,0.87,8.14,Engineering,Ok,Bad,0.0,0.0,0.0,Taylor Wallace,Asian,female,0.0,USA,25.0,94131
-11,-0.16,3.51,3.1,3.1,3.96,2.77,0.0,11.0,3.1,-0.08,2.24,0.94,0.66,7.56,Engineering,Very Good,Good,1.0,0.0,0.0,Susan Whisnant,Asian,female,2.0,USA,25.0,94089
-12,-0.03,2.65,3.3,4.3,3.11,-0.31,0.0,34.0,3.4,0.48,1.3,-1.01,-0.44,6.52,Engineering,Ok,Bad,0.0,1.0,0.0,Tiffani Braun,Asian,female,0.0,China,29.0,94030
-13,0.81,3.11,3.8,4.9,3.89,3.58,0.0,39.0,1.7,-1.07,2.04,0.07,-0.16,6.64,Humanities,None,Good,0.0,0.0,0.0,Esther Griffin,Asian,female,2.0,China,26.0,94578
-14,-1.23,2.46,1.6,0.6,1.57,-6.13,0.0,21.0,0.8,-2.14,3.2,2.13,2.33,10.03,Quantitative,None,Good,0.0,1.0,1.0,Darlene Wilkes,Asian,female,1.0,Australia,24.0,94538
-15,0.61,3.58,1.9,8.7,4.37,4.42,0.0,71.0,0.0,-3.99,0.59,-2.07,-2.31,4.03,Engineering,Very Good,Good,1.0,0.0,0.0,Evelyn Page,Asian,female,2.0,Canada,31.0,94509
-16,-1.39,2.96,1.5,-0.1,2.46,-3.35,0.0,55.0,2.9,0.31,2.16,-0.05,0.08,7.18,Engineering,None,Bad,0.0,1.0,0.0,Lisa Smith,Asian,female,0.0,China,24.0,94523
-17,0.01,2.89,2.7,0.4,2.2,-1.94,0.0,11.0,7.2,3.45,3.73,1.36,0.92,8.35,Humanities,Ok,Good,0.0,1.0,0.0,Judith Hertzler,Asian,female,0.0,Australia,22.0,94089
-18,-1.45,2.72,1.2,-2.7,1.74,-4.65,0.0,95.0,1.8,-0.92,2.89,2.37,2.01,9.21,Quantitative,Ok,Bad,0.0,1.0,1.0,Kristin Whisenhunt,Asian,female,0.0,Australia,22.0,94933
-19,0.46,3.15,4.9,1.8,3.65,2.7,0.0,7.0,8.4,4.45,0.78,-1.46,-1.03,5.65,Quantitative,Very Good,Good,1.0,1.0,0.0,Maude Salazar,Asian,female,1.0,USA,26.0,94043
-20,0.57,2.29,1.7,4.8,2.08,-1.72,0.0,12.0,6.4,2.7,1.47,-1.21,-0.95,5.96,Engineering,Ok,Good,0.0,0.0,0.0,Anna Rameriz,Asian,female,0.0,USA,29.0,94087
-21,-0.05,3.63,1.8,6.8,4.03,2.57,0.0,44.0,3.4,0.53,2.31,-1.3,-0.32,7.16,Engineering,Ok,Good,0.0,0.0,0.0,Barbara Johnson,Asian,female,2.0,China,31.0,94131
-22,0.13,3.01,2.0,6.0,3.0,-0.37,0.0,56.0,2.0,-0.59,0.05,-3.39,-3.6,2.43,Engineering,Ok,Good,1.0,0.0,0.0,Suellen Singleton,Asian,female,0.0,USA,28.0,94595
-23,-1.55,2.97,1.9,-1.6,1.71,-6.18,0.0,94.0,0.0,-4.11,0.93,-2.79,-3.36,2.75,Engineering,Ok,Good,0.0,1.0,1.0,Maryann Matthews,Asian,female,0.0,USA,24.0,94904
-24,-0.25,2.26,-0.2,3.0,0.92,-6.14,0.0,80.0,0.0,-4.76,1.34,-0.36,-0.83,5.66,Engineering,None,Bad,0.0,1.0,1.0,Margaret White,Asian,female,0.0,USA,27.0,94533
-25,0.54,2.4,1.5,6.3,3.2,1.74,0.0,73.0,1.3,-1.18,1.32,1.26,0.54,6.94,Humanities,None,Bad,0.0,0.0,0.0,Oma Turner,Asian,female,2.0,USA,29.0,94591
-26,0.58,3.33,0.5,3.9,3.29,3.12,0.0,25.0,7.8,4.16,0.93,-0.03,-0.93,5.26,Quantitative,Ok,Good,0.0,0.0,0.0,Pamela Planas,Asian,female,2.0,China,25.0,94539
-27,-0.06,2.47,-0.1,6.2,1.33,-5.62,0.0,40.0,1.2,-1.62,0.49,-3.11,-2.61,3.92,Sciences,None,Bad,1.0,1.0,1.0,Deborah Goulden,Asian,female,0.0,USA,28.0,94603
-28,-0.17,2.96,1.2,4.2,2.42,-2.03,0.0,31.0,6.0,2.5,1.16,-1.61,-1.06,5.87,Engineering,Ok,Good,0.0,0.0,0.0,Rosalie Belanger,Asian,female,0.0,China,26.0,94544
-29,-0.19,2.57,1.3,5.2,2.62,-1.56,0.0,25.0,1.0,-1.82,2.89,1.34,0.56,7.47,Humanities,None,Bad,0.0,0.0,0.0,Leigh Coleman,Asian,female,0.0,USA,28.0,94539
-30,0.77,2.62,3.3,3.0,3.27,2.53,0.0,48.0,4.0,0.92,2.88,-0.54,-0.57,6.61,Engineering,None,Good,0.0,0.0,0.0,Alberta Grossman,Asian,female,1.0,USA,25.0,94109
-31,0.1,3.24,1.5,3.8,2.62,-0.96,0.0,14.0,5.3,2.1,2.21,-0.28,-0.7,6.06,Engineering,None,Good,0.0,0.0,0.0,Juanita Bland,Asian,female,0.0,USA,26.0,95002
-32,-0.18,3.42,0.9,2.9,3.19,1.04,0.0,62.0,0.0,-6.49,1.83,-0.04,0.92,8.43,Engineering,Ok,Bad,0.0,0.0,0.0,Linda Finch,Asian,female,0.0,China,24.0,94564
-33,1.94,3.57,3.0,8.9,5.16,9.58,0.0,11.0,0.6,-2.41,2.75,1.34,0.7,7.64,Engineering,None,Good,1.0,0.0,0.0,Stacey Mullins,Asian,female,2.0,USA,29.0,94089
-34,-2.8,2.09,1.0,-5.8,0.16,-11.86,0.0,29.0,4.7,1.45,2.12,-1.17,-0.85,6.28,Engineering,Very Good,Good,0.0,1.0,1.0,Juliana Ramirez,Asian,female,0.0,USA,17.0,94560
-35,-0.11,3.22,2.6,6.8,4.01,2.13,0.0,53.0,0.1,-2.69,2.97,1.01,0.98,8.29,Engineering,Very Good,Good,0.0,1.0,0.0,Cynthia Friedman,Asian,female,2.0,USA,28.0,94549
-36,-0.41,3.49,1.7,5.6,4.25,3.18,0.0,30.0,0.0,-2.85,2.25,-0.58,0.64,8.33,Engineering,Very Good,Good,1.0,1.0,0.0,Frieda Landers,Asian,female,2.0,China,26.0,94587
-37,0.12,4.03,3.9,5.5,4.86,4.94,0.0,21.0,5.1,1.64,0.54,-2.81,-3.87,1.78,Engineering,Ok,Good,1.0,0.0,0.0,Wilma Bray,Asian,female,2.0,USA,31.0,94538
-38,0.68,3.26,1.2,7.6,3.37,1.58,0.0,37.0,1.9,-1.16,0.38,-3.46,-3.21,3.21,Engineering,Ok,Good,0.0,0.0,1.0,Gail Jones,Asian,female,0.0,USA,32.0,94545
-39,-0.33,2.98,2.6,2.4,3.37,1.23,0.0,15.0,2.1,-0.61,1.51,-3.16,-3.24,3.38,Quantitative,Ok,Good,0.0,0.0,0.0,Lori Haws,Asian,female,0.0,USA,24.0,95002
-40,2.31,3.69,0.7,8.7,3.79,6.45,0.0,76.0,1.3,-1.37,0.0,-4.62,-4.17,1.67,Quantitative,Very Good,Good,1.0,0.0,0.0,Margaret Winski,Asian,female,2.0,USA,30.0,94960
-41,0.6,3.23,2.8,4.1,3.38,2.01,0.0,43.0,5.2,2.16,3.57,2.79,3.03,10.91,Engineering,Very Good,Good,0.0,0.0,0.0,Grace Harvey,Asian,female,2.0,Canada,27.0,94014
-42,-0.57,3.34,1.5,5.4,3.24,-0.65,0.0,11.0,6.1,2.69,0.7,-2.96,-2.34,4.35,Engineering,Ok,Bad,0.0,1.0,0.0,Dawn Caballero,Asian,female,0.0,USA,28.0,94089
-43,-0.85,2.18,0.3,1.9,1.89,-3.88,0.0,22.0,2.2,-0.83,2.89,1.97,1.66,8.96,Engineering,Ok,Good,0.0,1.0,0.0,Dorothy Crawford,Asian,female,1.0,China,25.0,94061
-44,1.31,3.76,3.0,8.8,3.59,2.26,0.0,55.0,6.8,3.75,0.73,-2.87,-2.44,4.22,Humanities,Very Good,Good,0.0,0.0,0.0,Gwen Page,Asian,female,2.0,USA,31.0,94523
-45,-0.33,3.54,4.0,1.2,3.75,1.47,0.0,44.0,1.5,-1.31,0.0,-4.71,-3.41,3.11,Engineering,Ok,Good,0.0,0.0,0.0,Laura Jones,Asian,female,2.0,USA,26.0,94131
-46,0.04,2.88,1.1,5.6,3.05,0.24,0.0,18.0,4.5,1.11,1.21,-2.93,-2.68,4.05,Quantitative,Very Good,Good,0.0,0.0,0.0,Hope Vasquez,Asian,female,0.0,USA,30.0,95035
-47,-0.87,4.16,2.2,6.5,4.42,1.71,0.0,16.0,5.2,1.87,1.27,-0.72,-1.26,5.19,Engineering,Ok,Good,1.0,0.0,0.0,Cheri Griffin,Asian,female,2.0,USA,29.0,95134
-48,-0.1,3.5,2.3,4.5,3.57,1.09,0.0,27.0,2.5,-0.49,2.83,0.34,0.0,7.1,Quantitative,Ok,Good,0.0,1.0,0.0,Ellen Keith,Asian,female,0.0,USA,28.0,94070
-49,0.35,3.0,2.5,6.1,3.48,1.58,0.0,49.0,1.3,-1.27,2.98,0.39,0.38,7.73,Quantitative,Ok,Good,0.0,0.0,0.0,Rosie Prince,Asian,female,2.0,USA,28.0,94502
-50,-0.76,2.67,2.4,2.9,2.91,-1.66,0.0,19.0,6.3,2.62,1.52,-1.08,-0.59,6.37,Engineering,Ok,Good,0.0,0.0,0.0,Esperanza Rocco,Asian,female,0.0,USA,24.0,94304
-51,0.55,2.46,1.7,4.1,3.29,2.84,0.0,1.0,7.7,3.92,1.39,-2.08,-2.32,4.23,Quantitative,Very Good,Good,0.0,0.0,0.0,Laura Blount,Asian,female,2.0,USA,28.0,94040
-52,-0.84,3.31,1.2,-0.7,1.61,-4.95,0.0,9.0,3.5,0.26,1.68,-0.64,-0.87,5.92,Engineering,Ok,Bad,1.0,1.0,1.0,Sophia Druetta,Asian,female,0.0,China,22.0,94085
-53,-0.16,3.25,2.4,2.5,3.56,1.8,0.0,71.0,0.0,-3.02,3.3,4.21,3.32,10.57,Quantitative,Very Good,Good,0.0,0.0,0.0,Annette Wills,Asian,female,2.0,Australia,27.0,94509
-54,1.5,2.96,2.5,6.4,3.61,4.2,0.0,36.0,2.9,-0.14,3.26,2.88,2.2,9.54,Quantitative,None,Good,1.0,0.0,0.0,Joan Berenguer,Asian,female,2.0,USA,29.0,94588
-55,-0.67,2.84,1.5,3.8,3.2,-0.27,0.0,38.0,2.3,-0.46,1.3,-1.3,-1.28,5.38,Engineering,None,Good,0.0,0.0,0.0,Carole Fitzsimmons,Asian,female,0.0,USA,29.0,94586
-56,-0.26,3.76,4.1,2.4,3.56,0.34,0.0,1.0,4.2,0.83,2.44,0.79,0.36,7.24,Quantitative,None,Good,0.0,0.0,0.0,Denise James,Asian,female,0.0,USA,23.0,94040
-57,0.25,2.71,1.1,6.9,2.84,-0.57,2.5,1.0,4.2,1.04,3.08,2.03,2.05,9.73,Engineering,None,Good,0.0,0.0,0.0,Sandra Fredrickson,Asian,female,0.0,USA,32.0,94040
-58,-0.32,2.39,2.4,4.0,3.05,-0.44,0.0,55.0,3.3,0.51,1.65,-1.29,-0.37,6.89,Engineering,None,Bad,1.0,0.0,0.0,Lucinda Mcgaugh,Asian,female,0.0,USA,25.0,94523
-59,0.44,2.77,0.6,5.4,2.44,-0.61,0.0,39.0,0.0,-2.79,1.35,-0.65,-1.97,4.05,Humanities,None,Bad,0.0,0.0,0.0,Margaret Vollmer,Asian,female,0.0,USA,26.0,94578
-60,-0.71,2.91,1.5,3.2,2.88,-1.23,0.0,28.0,5.1,1.89,2.15,-0.04,-0.27,6.67,Quantitative,None,Bad,0.0,0.0,0.0,Beatrice Sanchez,Asian,female,1.0,USA,26.0,94402
-61,-0.84,2.13,1.8,3.1,2.42,-2.96,0.0,47.0,3.6,0.62,2.81,-0.19,1.29,9.32,Engineering,None,Good,0.0,1.0,0.0,Nancy Michell,Asian,female,0.0,Canada,26.0,94114
-62,-2.67,2.75,3.0,-0.3,2.19,-7.73,0.0,11.0,3.2,-0.37,0.71,-3.29,-2.43,4.42,Engineering,Ok,Good,0.0,1.0,1.0,Carol Velazquez,Asian,female,0.0,China,24.0,94089
-63,0.3,2.7,3.0,0.1,2.15,-1.57,0.0,39.0,4.0,0.71,1.0,-1.7,-1.26,5.5,Engineering,None,Good,0.0,0.0,0.0,Teresa Ring,Asian,female,0.0,Canada,26.0,94578
-64,0.1,3.09,1.5,3.9,2.51,-1.26,0.0,36.0,4.3,1.3,2.24,0.91,1.65,9.18,Engineering,Ok,Good,0.0,0.0,0.0,Lisa Brown,Asian,female,0.0,USA,26.0,94588
-65,0.43,2.41,4.0,4.7,3.94,3.32,0.0,19.0,5.7,2.4,0.94,-0.91,-0.15,6.83,Sciences,Ok,Good,1.0,0.0,0.0,Donna Randolph,Asian,female,2.0,USA,28.0,94304
-66,0.72,3.1,0.8,7.4,3.12,1.29,0.0,11.0,0.7,-2.28,2.06,0.2,1.36,8.96,Quantitative,Very Good,Bad,0.0,0.0,0.0,Amanda Moye,Asian,female,0.0,USA,29.0,94089
-67,0.12,1.95,2.7,1.7,2.06,-2.12,0.0,10.0,3.6,0.44,0.81,-2.28,-2.43,3.83,Engineering,None,Bad,0.0,0.0,0.0,Rena Warden,Asian,female,0.0,USA,28.0,94085
-68,0.79,2.18,2.1,7.9,2.81,0.0,3.6,25.0,6.3,2.95,1.59,1.14,-0.58,5.45,Engineering,Ok,Good,0.0,0.0,0.0,Linda Pierce,Asian,female,1.0,USA,33.0,94539
-69,0.74,2.82,1.1,7.2,3.37,2.41,0.0,45.0,0.0,-4.05,2.31,0.7,-0.15,6.55,Sciences,Ok,Good,0.0,0.0,0.0,Karyn Oakes,Asian,female,2.0,USA,30.0,94105
-70,0.63,2.18,1.3,4.4,1.96,-1.83,0.0,25.0,2.9,0.1,2.43,1.62,1.88,9.23,Engineering,Ok,Good,0.0,0.0,0.0,Janet Parker,Asian,female,0.0,USA,25.0,94539
-71,0.38,3.89,1.4,3.7,4.12,5.06,0.0,5.0,6.4,2.61,1.55,-1.94,-2.46,3.95,Engineering,None,Good,1.0,0.0,0.0,Thelma Cassidy,Asian,female,2.0,USA,26.0,94043
-72,0.16,3.11,2.6,5.4,3.05,-0.5,0.0,6.0,4.8,1.3,2.49,-0.01,0.11,7.4,Quantitative,None,Bad,0.0,0.0,1.0,Mildred Lander,Asian,female,0.0,Australia,29.0,94043
-73,0.44,3.16,1.8,1.7,2.9,1.32,0.0,81.0,0.0,-2.75,2.64,1.21,1.19,8.53,Quantitative,Ok,Good,0.0,0.0,0.0,Joanne Huffman,Asian,female,0.0,USA,23.0,94561
-74,0.8,2.76,2.8,6.2,4.05,4.45,0.0,27.0,4.8,1.68,2.86,2.87,1.68,8.51,Engineering,Very Good,Good,0.0,0.0,0.0,Anna Garcia,Asian,female,2.0,USA,32.0,94070
-75,0.2,3.54,2.3,4.4,2.72,-1.33,0.0,18.0,3.1,-0.02,1.69,0.66,0.98,8.09,Sciences,Very Good,Good,0.0,0.0,0.0,Kelly Platner,Asian,female,0.0,USA,27.0,95035
-76,-0.04,3.23,3.2,3.2,3.5,1.34,0.0,15.0,4.5,1.18,3.16,1.04,0.97,8.29,Engineering,Very Good,Bad,0.0,0.0,0.0,Monika King,Asian,female,0.0,USA,28.0,95002
-77,1.02,3.44,1.2,7.9,3.35,2.3,0.0,46.0,2.8,0.03,2.08,-1.01,-1.4,5.35,Engineering,Very Good,Good,0.0,0.0,0.0,Michelle Stracke,Asian,female,2.0,China,29.0,94019
-78,0.39,2.71,2.1,6.2,3.14,0.62,0.0,44.0,4.2,0.8,1.3,-1.26,-1.49,4.98,Engineering,Very Good,Good,1.0,0.0,0.0,Barbara Boman,Asian,female,0.0,USA,28.0,94131
-79,-0.98,2.29,2.1,3.4,2.52,-3.14,0.0,56.0,0.0,-3.29,1.9,-0.7,-0.81,6.03,Quantitative,None,Good,0.0,1.0,0.0,Judith Thurston,Asian,female,0.0,USA,30.0,94595
-80,-0.4,2.55,1.6,3.3,2.51,-1.72,0.0,4.0,4.0,0.57,3.31,3.38,4.45,12.72,Engineering,None,Good,0.0,0.0,0.0,Brenda Baker,Asian,female,0.0,USA,27.0,94040
-81,-0.22,3.48,2.9,5.3,3.44,-0.29,0.0,5.0,4.1,0.77,0.87,-3.3,-3.4,2.93,Engineering,None,Bad,0.0,0.0,1.0,Rebecca Carson,Asian,female,0.0,Australia,27.0,94043
-82,1.03,3.05,3.1,6.1,4.4,6.2,0.0,15.0,6.1,2.37,2.27,-0.09,-0.38,6.44,Quantitative,Very Good,Good,1.0,0.0,0.0,Patricia Hart,Asian,female,2.0,USA,27.0,95002
-83,-0.04,3.17,1.1,4.3,2.87,-0.22,0.0,49.0,0.7,-1.93,3.33,3.64,3.24,10.77,Sciences,Ok,Bad,0.0,0.0,0.0,Rosalind Hunter,Asian,female,0.0,USA,26.0,94502
-84,0.29,2.86,1.7,3.3,2.45,-1.07,2.5,49.0,3.9,0.93,1.96,-1.3,-1.15,5.8,Engineering,Ok,Bad,0.0,1.0,0.0,Kimberly Cleaves,Asian,female,0.0,USA,30.0,94502
-85,1.96,4.04,2.2,15.9,5.83,9.79,0.0,9.0,3.9,0.98,2.8,1.48,1.23,8.5,Engineering,Very Good,Good,0.0,0.0,0.0,Irene Briggs,Asian,female,2.0,USA,37.0,94085
-86,-0.7,3.05,1.6,6.0,3.17,-1.34,0.0,12.0,1.4,-1.47,3.38,1.79,1.89,9.6,Quantitative,Ok,Good,0.0,0.0,0.0,Clara Alcala,Asian,female,0.0,Canada,31.0,94087
-87,-0.32,3.24,1.9,4.9,2.82,-1.68,0.0,66.0,1.2,-1.24,2.36,0.03,-0.47,6.36,Quantitative,Ok,Good,0.0,0.0,0.0,Lilian Huddleston,Asian,female,0.0,USA,27.0,94925
-88,0.12,2.97,2.3,2.7,2.71,-0.43,0.0,80.0,0.0,-2.91,2.88,1.35,0.51,7.46,Engineering,Ok,Good,0.0,0.0,0.0,Annabelle Gaffney,Asian,female,0.0,USA,27.0,94533
-89,-0.6,3.54,1.4,1.6,2.68,-1.65,0.0,28.0,9.1,4.94,0.67,-2.5,-1.94,4.78,Engineering,Ok,Good,1.0,0.0,0.0,Stella Shaver,Asian,female,0.0,USA,23.0,94402
-90,1.05,3.11,3.3,5.9,3.88,4.01,0.0,29.0,4.1,1.16,4.25,2.57,2.39,10.27,Sciences,Very Good,Good,1.0,0.0,0.0,Kimberly Ewing,Asian,female,2.0,USA,27.0,94560
-91,-0.46,2.77,1.2,1.0,1.85,-3.53,0.0,46.0,2.1,-0.94,0.28,-2.87,-2.34,4.15,Quantitative,Ok,Good,0.0,1.0,0.0,Lisa Richard,Asian,female,0.0,USA,25.0,94019
-92,-0.42,3.2,2.0,3.6,3.56,1.24,0.0,47.0,0.0,-3.27,2.68,2.04,1.48,8.6,Quantitative,None,Good,0.0,1.0,0.0,Lauri Mendoza,Asian,female,0.0,China,29.0,94114
-93,0.16,2.32,1.1,5.7,2.09,-2.84,0.0,8.0,3.7,0.46,0.94,-3.15,-3.02,3.44,Sciences,Ok,Bad,0.0,1.0,0.0,Darlene Turner,Asian,female,0.0,Australia,27.0,94085
-94,-0.12,2.74,2.0,2.6,2.41,-1.78,1.6,26.0,2.0,-0.99,2.88,1.03,0.61,7.75,Engineering,Very Good,Good,0.0,0.0,1.0,Donna Fisher,Asian,female,0.0,Australia,26.0,94403
-95,-0.51,2.66,1.6,5.7,2.25,-4.15,0.0,54.0,0.0,-2.63,3.47,2.47,1.75,9.11,Humanities,Ok,Bad,0.0,1.0,0.0,Mary Duma,Asian,female,0.0,USA,28.0,94121
-96,-0.52,2.23,1.3,2.7,2.43,-1.89,0.0,13.0,0.2,-2.68,4.16,3.77,4.19,12.45,Engineering,Ok,Good,0.0,0.0,0.0,Margarita Johnston,Asian,female,0.0,USA,27.0,94022
-97,0.26,2.44,1.7,-2.1,0.83,-4.73,0.0,19.0,6.1,2.68,3.38,1.73,1.68,9.26,Engineering,None,Good,0.0,1.0,1.0,Kendra Gantt,Asian,female,0.0,USA,23.0,94304
-98,0.67,2.16,1.2,5.0,2.76,1.2,0.0,65.0,0.1,-2.31,2.16,1.58,1.28,8.29,Sciences,None,Bad,1.0,0.0,0.0,Marilyn George,Asian,female,0.0,USA,31.0,94556
-99,-0.7,2.9,2.1,2.2,2.69,-1.92,0.0,35.0,7.9,3.98,0.71,-2.75,-1.82,5.11,Quantitative,Ok,Bad,1.0,0.0,0.0,Gwendolyn Vandenberge,Asian,female,0.0,USA,31.0,94566
-100,-0.02,3.01,1.9,3.2,3.13,0.84,0.0,46.0,2.5,-0.25,3.01,2.06,1.96,9.35,Engineering,Ok,Good,0.0,0.0,0.0,Lenora Long,Asian,female,0.0,USA,25.0,94019
-101,-0.74,3.02,2.9,2.4,3.39,-0.09,0.0,18.0,5.0,1.65,1.82,-1.15,-0.24,7.01,Quantitative,None,Bad,0.0,0.0,0.0,Claudia Sieracki,Asian,female,0.0,China,23.0,95035
-102,0.65,2.9,1.2,6.3,3.02,1.11,0.0,5.0,5.7,2.21,0.84,-1.61,-1.22,5.46,Engineering,None,Bad,0.0,0.0,0.0,Angela Bolds,Asian,female,0.0,USA,30.0,94043
-103,1.13,2.7,1.3,7.5,3.36,3.24,1.3,2.0,1.8,-1.5,1.63,-1.63,-1.73,4.88,Engineering,Very Good,Good,1.0,0.0,0.0,Tracy Gionet,Asian,female,1.0,USA,35.0,94040
-104,0.08,3.98,2.5,5.7,4.06,2.56,0.0,28.0,3.7,0.21,1.98,-0.92,-0.86,6.14,Sciences,Ok,Good,0.0,0.0,0.0,Monica Bishop,Asian,female,1.0,China,27.0,94402
-105,-1.32,1.9,2.3,-0.3,0.87,-8.95,0.0,72.0,1.2,-1.31,1.83,-0.49,-1.08,5.41,Quantitative,None,Bad,0.0,1.0,1.0,Allegra Lively,Asian,female,0.0,USA,27.0,94572
-106,-0.14,2.8,0.6,3.7,1.79,-3.91,0.0,12.0,4.2,1.09,1.95,-0.14,-0.97,5.52,Engineering,Ok,Good,0.0,1.0,0.0,Deann Kish,Asian,female,0.0,China,28.0,94087
-107,-0.47,2.2,1.5,4.6,2.03,-4.05,0.0,4.0,3.7,0.3,1.43,-0.69,-0.46,6.47,Engineering,None,Good,0.0,1.0,0.0,Georgia Miller,Asian,female,0.0,USA,30.0,94040
-108,-1.75,2.37,0.4,-0.0,1.29,-7.33,0.0,9.0,4.2,0.83,1.01,-3.19,-2.14,4.95,Engineering,Ok,Good,0.0,1.0,1.0,Antionette Neonakis,Asian,female,0.0,Canada,21.0,94085
-109,0.72,2.85,2.0,6.6,2.9,0.31,0.0,15.0,1.0,-2.04,2.08,-0.05,0.88,8.43,Engineering,Ok,Bad,0.0,0.0,0.0,Kathy Stubbs,Asian,female,0.0,USA,29.0,95002
-110,0.32,3.3,2.5,3.2,3.26,1.61,0.0,8.0,1.0,-1.87,1.99,-0.16,-0.89,5.75,Engineering,Very Good,Good,0.0,0.0,0.0,Saundra James,Asian,female,2.0,USA,28.0,94085
-111,0.49,3.23,2.0,7.1,3.26,0.61,0.0,54.0,1.7,-0.85,1.91,-1.74,-1.82,4.92,Engineering,Ok,Good,0.0,0.0,0.0,Francis Gwin,Asian,female,0.0,USA,33.0,94121
-112,-0.58,2.94,1.5,3.3,2.64,-1.87,0.0,34.0,4.5,1.3,2.89,0.55,-0.29,6.62,Engineering,None,Bad,0.0,0.0,0.0,Penny Engemann,Asian,female,0.0,USA,25.0,94030
-113,-0.29,2.75,2.5,5.4,4.12,2.79,0.0,15.0,3.7,0.31,2.43,0.19,0.32,7.58,Quantitative,Very Good,Good,1.0,0.0,0.0,Minnie Thomas,Asian,female,2.0,USA,28.0,95002
-114,-0.36,4.04,3.4,5.3,4.13,1.31,0.0,27.0,6.4,2.47,4.06,3.76,2.95,10.48,Engineering,Very Good,Good,0.0,0.0,0.0,Brenda Soto,Asian,female,0.0,USA,27.0,94070
-115,-0.21,2.52,3.8,1.7,2.85,-0.82,0.0,20.0,1.9,-1.05,1.87,-0.72,-0.21,6.86,Engineering,None,Bad,0.0,0.0,0.0,Stacey Burrows,Asian,female,0.0,USA,23.0,94025
-116,0.9,2.44,1.3,7.4,3.49,3.04,0.0,57.0,0.7,-1.83,1.58,-2.18,-2.1,4.73,Engineering,Ok,Good,1.0,0.0,0.0,Rose Smith,Asian,female,2.0,USA,29.0,94038
-117,-1.23,3.2,2.5,1.1,2.69,-3.12,0.0,17.0,5.4,2.03,0.21,-2.43,-1.08,5.87,Engineering,Ok,Bad,0.0,1.0,0.0,Mary Cox,Asian,female,0.0,USA,24.0,94301
-118,0.27,3.14,2.8,3.4,3.26,1.23,2.3,37.0,3.4,0.35,3.54,1.71,1.28,8.75,Quantitative,Ok,Good,0.0,0.0,0.0,Virginia Watson,Asian,female,0.0,USA,26.0,94545
-119,-0.84,3.24,-0.2,1.2,1.57,-4.85,0.0,25.0,3.7,0.73,2.48,1.2,2.43,10.26,Engineering,Ok,Good,0.0,1.0,1.0,April Gonzales,Asian,female,0.0,USA,23.0,94539
-120,0.44,2.91,1.5,6.0,3.33,1.79,0.0,23.0,0.5,-2.44,1.18,-0.97,-0.36,6.66,Quantitative,Ok,Good,0.0,0.0,0.0,Pamela Gillan,Asian,female,2.0,USA,29.0,94028
-121,-0.16,2.7,3.5,2.1,2.73,-1.37,0.0,24.0,4.4,1.29,1.4,-1.78,-1.77,4.95,Quantitative,None,Good,1.0,0.0,0.0,Grace Russell,Asian,female,0.0,USA,25.0,94027
-122,1.4,2.89,3.2,3.8,3.36,3.91,0.0,13.0,2.1,-0.71,1.54,-0.35,-0.55,6.14,Engineering,Ok,Good,1.0,1.0,0.0,Karina Gordillo,Asian,female,2.0,USA,25.0,94022
-123,0.44,3.13,3.2,4.5,3.27,1.16,0.0,48.0,0.0,-3.18,0.0,-4.4,-3.67,2.34,Quantitative,Very Good,Good,0.0,0.0,0.0,Ora Christensen,Asian,female,0.0,USA,31.0,94109
-124,0.24,3.58,2.5,6.1,4.29,3.96,0.0,22.0,1.3,-1.71,0.46,-1.81,-1.26,5.34,Engineering,Very Good,Good,0.0,1.0,0.0,Kim Brock,Asian,female,2.0,USA,31.0,94061
-125,-1.14,2.1,1.9,0.1,1.94,-4.36,0.0,8.0,4.4,0.98,1.62,0.2,-0.17,6.47,Humanities,None,Bad,0.0,1.0,0.0,Regina Cloyd,Asian,female,0.0,USA,25.0,94085
-126,0.19,2.79,2.0,3.5,3.53,2.55,0.0,10.0,2.9,-0.25,2.17,2.05,2.57,10.07,Quantitative,Ok,Good,0.0,0.0,0.0,Geneva White,Asian,female,2.0,USA,27.0,94085
-127,0.04,3.19,2.3,5.4,3.8,2.27,2.9,42.0,4.9,1.65,2.73,1.96,2.99,10.95,Quantitative,None,Good,0.0,1.0,0.0,Nellie Bradley,Asian,female,2.0,USA,32.0,94605
-128,0.99,2.39,2.3,5.3,2.77,0.88,0.0,11.0,4.7,1.5,0.33,-2.53,-1.49,5.29,Quantitative,Ok,Good,0.0,1.0,0.0,Audrey Thompson,Asian,female,0.0,USA,26.0,94089
-129,0.99,2.89,2.7,5.4,2.97,1.17,0.0,9.0,4.6,1.21,1.9,-1.01,-0.31,6.88,Quantitative,Ok,Good,0.0,0.0,0.0,Jennifer Snedegar,Asian,female,0.0,Australia,34.0,94085
-130,-0.48,2.63,3.0,4.6,3.49,-0.08,0.0,55.0,0.0,-4.87,2.85,1.04,1.74,9.49,Humanities,None,Bad,0.0,1.0,0.0,Betty Mahr,Asian,female,0.0,USA,28.0,94523
-131,-0.45,3.51,2.5,3.5,3.33,-0.15,0.0,13.0,6.6,3.07,3.46,1.79,2.07,9.86,Engineering,Ok,Bad,0.0,0.0,0.0,Mary Wilson,Asian,female,0.0,USA,28.0,94022
-132,-0.02,3.71,1.8,2.6,3.23,0.94,0.0,36.0,2.6,-0.22,2.98,3.39,3.74,11.61,Quantitative,Ok,Bad,0.0,0.0,0.0,Marianela Crary,Asian,female,0.0,USA,24.0,94588
-133,0.4,3.07,1.2,8.1,3.58,1.94,0.0,1.0,3.9,0.47,1.81,-3.12,-2.11,5.18,Engineering,Ok,Good,0.0,0.0,0.0,Kim Hamilton,Asian,female,2.0,China,29.0,94040
-134,1.15,3.11,1.9,3.5,3.54,4.52,0.0,27.0,6.2,2.87,1.01,-2.64,-3.32,2.77,Quantitative,None,Good,0.0,1.0,0.0,Karen Echols,Asian,female,2.0,USA,27.0,94070
-135,0.93,3.79,0.4,8.0,4.12,5.28,0.0,41.0,1.7,-0.83,2.19,1.7,1.67,8.8,Quantitative,Very Good,Good,1.0,0.0,0.0,Bessie Lerma,Asian,female,2.0,USA,32.0,94542
-136,-0.42,3.71,2.9,4.5,4.19,2.4,0.0,24.0,3.1,0.21,2.85,1.69,0.9,8.0,Engineering,Ok,Good,0.0,0.0,0.0,Kathleen Hospelhorn,Asian,female,2.0,USA,27.0,94027
-137,-0.2,2.44,1.6,2.2,1.41,-5.39,0.0,22.0,5.3,1.93,0.44,-2.73,-1.51,5.37,Engineering,None,Good,0.0,1.0,1.0,Patricia Valdez,Asian,female,0.0,USA,25.0,94061
-138,0.5,3.14,1.6,6.4,3.86,3.48,0.0,57.0,5.4,2.39,2.46,1.3,1.43,8.72,Sciences,Ok,Good,1.0,0.0,0.0,Heidi Curry,Asian,female,2.0,USA,31.0,94038
-139,0.65,2.69,3.2,5.9,4.49,5.94,0.0,4.0,2.4,-0.75,0.68,-1.52,-0.94,5.74,Quantitative,Ok,Good,1.0,0.0,0.0,Carey Wright,Asian,female,2.0,USA,28.0,94040
-140,1.05,3.78,0.7,5.5,2.78,1.19,0.0,58.0,3.2,0.35,2.13,-0.7,-0.48,6.61,Engineering,Ok,Bad,0.0,0.0,0.0,Mary Ellis,Asian,female,0.0,USA,28.0,94720
-141,1.2,2.61,1.1,7.1,3.14,2.86,0.0,66.0,0.0,-2.38,2.9,2.79,2.99,10.6,Sciences,Ok,Good,1.0,0.0,0.0,Bessie Cortez,Asian,female,2.0,USA,30.0,94925
-142,1.15,2.94,2.9,7.4,4.24,5.47,0.0,23.0,4.9,1.36,2.5,-0.0,-0.31,6.74,Engineering,Ok,Good,1.0,0.0,0.0,Dorothy Hill,Asian,female,2.0,USA,28.0,94028
-143,1.4,3.01,1.5,5.9,3.34,3.73,0.0,24.0,7.6,3.79,0.94,-1.51,-1.72,4.68,Humanities,Very Good,Good,1.0,0.0,0.0,Joyce Larrow,Asian,female,2.0,Canada,29.0,94027
-144,-0.34,3.25,1.0,5.0,3.5,1.3,0.0,31.0,1.9,-0.83,2.01,-0.71,-2.16,4.12,Engineering,Ok,Bad,0.0,0.0,0.0,Daisy Chaligoj,Asian,female,0.0,USA,29.0,94544
-145,-0.65,2.4,3.2,3.9,3.79,1.22,0.0,56.0,3.5,0.65,0.28,-2.52,-2.6,3.6,Quantitative,Very Good,Good,0.0,0.0,0.0,Dorothy Ballard,Asian,female,1.0,USA,26.0,94595
-146,0.6,3.46,1.3,13.8,4.85,4.57,0.6,19.0,0.5,-2.44,1.19,-1.89,-1.44,5.43,Engineering,Ok,Good,1.0,0.0,0.0,Rebecca Ward,Asian,female,2.0,USA,38.0,94304
-147,-0.98,2.34,1.8,4.4,2.22,-4.69,0.0,51.0,1.7,-0.79,1.4,0.1,0.27,7.16,Engineering,Ok,Bad,0.0,1.0,1.0,Treva Crowder,Asian,female,0.0,USA,32.0,94618
-148,0.14,3.33,1.4,7.0,3.43,0.92,0.0,9.0,4.0,0.83,2.66,1.43,1.08,8.21,Quantitative,Very Good,Bad,0.0,0.0,0.0,Pamela Turner,Asian,female,0.0,USA,33.0,94085
-149,-0.51,2.79,1.2,1.6,1.78,-4.29,0.0,33.0,4.1,1.03,3.94,3.68,3.46,11.22,Engineering,None,Bad,0.0,1.0,0.0,Tina Jones,Asian,female,0.0,USA,27.0,94010
-150,-0.99,2.34,1.2,0.7,1.55,-5.49,0.0,17.0,4.6,1.2,1.67,0.18,-0.04,6.73,Engineering,None,Bad,0.0,1.0,1.0,Michelle Ortiz,Asian,female,2.0,USA,22.0,94301
-151,1.8,2.83,1.0,8.3,3.08,3.35,0.0,6.0,2.7,-0.29,2.0,0.05,-0.77,5.82,Quantitative,Ok,Good,1.0,0.0,0.0,Sheena Bennion,Asian,female,2.0,USA,32.0,94043
-152,0.15,3.08,1.3,5.8,2.22,-2.78,0.0,29.0,5.7,2.2,2.69,3.95,3.13,10.32,Sciences,Ok,Good,0.0,0.0,0.0,Kathleen Mosley,Asian,female,0.0,USA,29.0,94560
-153,-0.36,3.72,2.8,5.9,3.72,0.14,0.0,17.0,6.7,3.33,3.86,4.52,3.84,11.42,Engineering,None,Good,0.0,0.0,0.0,Sheila Caron,Asian,female,0.0,Canada,27.0,94301
-154,1.98,3.5,2.8,10.8,5.68,10.91,0.0,86.0,0.0,-2.3,1.06,-1.42,-0.38,6.79,Engineering,Ok,Good,0.0,0.0,0.0,Thelma Burger,Asian,female,2.0,Australia,34.0,94947
-155,1.18,3.2,2.7,7.3,4.06,4.7,0.0,62.0,4.1,1.08,0.74,-2.57,-2.84,3.36,Engineering,Ok,Good,1.0,1.0,0.0,Anita Eckhard,Asian,female,0.0,USA,33.0,94564
-156,0.53,3.18,2.4,3.7,3.13,1.38,0.0,37.0,3.5,0.5,1.01,-1.74,-1.29,5.46,Quantitative,Very Good,Bad,0.0,1.0,0.0,Amber Wallace,Asian,female,0.0,USA,27.0,94545
-157,-0.11,2.28,0.9,6.1,2.23,-2.54,0.0,49.0,0.2,-2.47,0.91,-0.71,0.28,7.45,Quantitative,Ok,Good,0.0,1.0,1.0,Judith Meyn,Asian,female,0.0,USA,29.0,94502
-158,0.46,3.2,4.0,4.1,3.71,2.33,0.0,48.0,2.7,-0.26,1.94,-1.01,-0.85,6.14,Engineering,Very Good,Good,0.0,0.0,0.0,Alma Cruz,Asian,female,2.0,USA,28.0,94109
-159,0.69,2.73,2.5,4.5,3.67,3.63,0.0,36.0,1.5,-1.4,2.34,0.21,0.4,7.65,Engineering,Very Good,Good,1.0,0.0,0.0,Kelly Similien,Asian,female,2.0,Canada,28.0,94588
-160,-1.96,2.64,1.8,-3.7,0.96,-8.75,0.0,3.0,1.3,-1.78,3.07,2.55,2.88,10.61,Sciences,Ok,Bad,0.0,1.0,1.0,Helen Oneill,Asian,female,0.0,USA,22.0,94040
-161,-0.61,3.37,2.6,3.6,3.76,0.94,0.0,54.0,2.6,0.02,1.49,-1.13,-1.16,5.61,Engineering,Very Good,Good,0.0,0.0,0.0,Jean Brandon,Asian,female,0.0,Australia,24.0,94121
-162,0.14,2.64,1.6,-0.3,2.18,-0.65,0.0,54.0,3.4,0.62,2.92,0.84,1.17,8.72,Engineering,None,Good,0.0,0.0,0.0,Roxanne Torbus,Asian,female,0.0,USA,24.0,94121
-163,1.01,2.52,2.1,10.7,3.74,2.62,0.0,7.0,4.6,1.47,1.16,-0.25,-0.88,5.53,Humanities,None,Good,0.0,1.0,0.0,Clara Bragg,Asian,female,2.0,USA,34.0,94043
-164,-0.98,2.32,0.9,2.8,1.17,-7.48,0.0,20.0,2.3,-0.92,1.08,-0.41,-1.2,4.98,Engineering,Very Good,Bad,0.0,1.0,1.0,Jean Laster,Asian,female,0.0,USA,25.0,94025
-165,1.36,3.1,2.2,5.8,3.49,4.02,0.0,70.0,2.7,0.25,3.57,4.24,4.45,12.46,Quantitative,Very Good,Good,1.0,0.0,0.0,Bess Madden,Asian,female,2.0,USA,29.0,94903
-166,-1.21,2.93,3.7,0.9,3.51,-0.79,1.9,8.0,2.5,-0.94,2.13,0.15,0.15,7.29,Engineering,None,Bad,0.0,0.0,0.0,Ellen Thomas,Asian,female,0.0,USA,26.0,94085
-167,-0.19,3.31,3.0,4.6,3.25,-0.62,0.0,15.0,5.5,2.13,0.12,-1.74,-1.1,5.43,Quantitative,None,Good,0.0,0.0,0.0,Carol Taylor,Asian,female,0.0,USA,29.0,95002
-168,0.33,3.37,3.9,5.1,3.24,-0.11,0.0,14.0,2.1,-1.1,1.46,-0.62,-0.39,6.47,Quantitative,Very Good,Bad,0.0,0.0,0.0,Pamela Andreasen,Asian,female,0.0,China,29.0,95002
-169,-1.21,2.65,3.6,-2.9,2.24,-3.53,0.0,33.0,0.1,-2.45,1.56,-1.46,-1.87,4.72,Quantitative,None,Bad,0.0,1.0,1.0,Emma Brock,Asian,female,0.0,USA,19.0,94010
-170,1.13,3.29,2.8,8.7,4.65,6.13,0.0,20.0,5.4,1.83,2.48,-0.06,-0.43,6.47,Engineering,Very Good,Good,1.0,0.0,0.0,Pamela Baker,Asian,female,2.0,USA,32.0,94025
-171,-0.02,3.12,3.0,1.3,2.69,-0.78,0.0,37.0,2.4,-0.32,2.48,2.4,1.25,7.86,Engineering,Very Good,Bad,0.0,0.0,0.0,Lisa Daugherty,Asian,female,0.0,Canada,26.0,94545
-172,0.47,2.43,1.8,2.2,1.7,-2.53,0.0,2.0,3.3,0.05,2.07,0.18,-0.0,6.91,Quantitative,None,Good,0.0,0.0,1.0,Anna Horta,Asian,female,0.0,USA,29.0,94040
-173,0.04,3.7,3.0,2.1,3.82,2.87,1.4,19.0,2.1,-0.59,2.63,1.43,0.75,7.76,Quantitative,Very Good,Good,1.0,0.0,0.0,Tanisha Taylor,Asian,female,2.0,Australia,25.0,94304
-174,0.58,3.05,2.1,8.0,3.48,1.47,0.0,31.0,3.9,0.73,0.7,-4.01,-3.21,3.42,Engineering,Ok,Good,0.0,0.0,0.0,Jessica Montgomery,Asian,female,2.0,USA,29.0,94544
-175,0.65,3.33,2.3,4.9,3.57,2.82,0.0,41.0,3.9,1.0,2.69,1.16,1.1,8.41,Engineering,Ok,Good,1.0,0.0,0.0,Tammy Sabatelli,Asian,female,2.0,USA,28.0,94542
-176,0.36,3.28,1.1,8.1,2.86,-0.79,3.1,40.0,5.8,2.87,1.66,-0.04,0.41,7.54,Quantitative,None,Good,0.0,0.0,0.0,Monique Robinson,Asian,female,0.0,USA,35.0,94603
-177,0.05,1.55,3.1,4.5,2.29,-2.4,0.0,54.0,0.7,-1.73,2.91,0.22,0.02,7.23,Engineering,Ok,Bad,0.0,0.0,0.0,Dena Maginnis,Asian,female,0.0,USA,28.0,94121
-178,-1.76,2.2,1.9,-0.2,1.3,-7.89,0.0,3.0,5.1,1.37,3.4,3.5,3.06,10.52,Sciences,None,Good,0.0,1.0,1.0,Bula Pritchett,Asian,female,1.0,China,24.0,94040
-179,-0.26,3.38,4.0,3.8,3.77,0.91,0.4,14.0,0.4,-2.38,2.79,1.92,1.92,9.32,Engineering,Very Good,Good,0.0,0.0,0.0,June Prince,Asian,female,0.0,Australia,25.0,95002
-180,-0.29,2.62,2.4,-2.6,1.84,-2.71,0.0,16.0,6.6,3.06,2.44,0.54,1.24,8.94,Engineering,None,Bad,0.0,0.0,0.0,Tina Palmer,Asian,female,0.0,USA,21.0,95134
-181,-0.17,3.48,2.2,-0.1,2.26,-2.12,4.1,33.0,7.2,3.13,2.16,1.01,1.0,8.1,Quantitative,None,Bad,0.0,0.0,0.0,Andrea Sheppard,Asian,female,0.0,USA,29.0,94010
-182,-0.13,2.13,3.4,2.5,2.21,-2.96,0.0,12.0,2.5,-0.76,0.08,-3.87,-2.79,3.86,Engineering,Ok,Bad,1.0,1.0,0.0,Sarah Davignon,Asian,female,0.0,USA,25.0,94087
-183,-0.39,3.58,0.6,3.2,3.32,1.23,3.7,12.0,6.2,2.48,0.83,-1.39,-0.32,6.85,Engineering,Ok,Good,0.0,0.0,0.0,Margaret Chavis,Asian,female,0.0,China,31.0,94087
-184,-0.54,3.21,1.4,2.5,2.94,-0.63,0.0,25.0,1.8,-1.36,2.04,0.86,1.5,8.85,Humanities,Ok,Good,0.0,0.0,0.0,Delois Luhnow,Asian,female,0.0,China,26.0,94539
-185,-0.23,2.38,1.9,4.1,2.33,-2.71,0.0,10.0,4.5,1.37,4.34,3.12,3.05,10.98,Quantitative,None,Bad,0.0,0.0,0.0,Maria Okeefe,Asian,female,0.0,USA,27.0,94085
-186,0.3,3.84,2.2,6.7,4.28,4.02,0.8,49.0,0.5,-2.06,0.99,-0.48,-0.15,6.69,Quantitative,Very Good,Good,1.0,0.0,0.0,Dorthy Sartin,Asian,female,2.0,USA,28.0,94502
-187,0.06,2.69,0.6,4.3,2.28,-1.75,0.0,45.0,2.1,-0.79,2.65,0.62,-0.01,7.01,Humanities,Very Good,Bad,0.0,0.0,0.0,Norma Martin,Asian,female,0.0,USA,28.0,94105
-188,0.48,3.18,3.7,5.6,3.52,1.17,0.0,36.0,2.2,-0.62,0.0,-4.63,-4.33,1.63,Humanities,None,Good,0.0,0.0,0.0,Ruth Napper,Asian,female,0.0,USA,31.0,94588
-189,0.26,2.41,2.3,4.8,2.56,-1.38,0.0,9.0,4.2,1.02,2.79,0.9,1.46,9.06,Engineering,None,Bad,0.0,0.0,0.0,Sharon Matte,Asian,female,0.0,USA,29.0,94085
-190,0.35,2.86,2.6,7.0,2.95,-0.77,0.0,17.0,4.6,1.24,2.72,0.29,-0.05,7.05,Engineering,None,Good,0.0,0.0,0.0,Melissa Abernathy,Asian,female,0.0,USA,29.0,94301
-191,-0.46,2.97,1.4,4.8,2.55,-2.48,0.0,31.0,3.8,0.65,2.9,1.65,0.68,7.58,Engineering,Ok,Bad,0.0,0.0,0.0,Teresa Perry,Asian,female,0.0,Canada,25.0,94544
-192,1.1,2.66,0.6,7.3,3.06,2.64,0.0,8.0,2.1,-0.83,2.81,0.67,0.89,8.38,Engineering,Ok,Good,0.0,0.0,0.0,Linda Accardo,Asian,female,2.0,Canada,33.0,94085
-193,-0.6,2.81,1.8,3.2,3.12,-0.34,0.0,35.0,3.8,0.79,2.22,-1.0,-0.86,6.2,Engineering,None,Bad,1.0,0.0,0.0,Camelia Markus,Asian,female,0.0,USA,24.0,94566
-194,-0.59,3.89,2.2,7.2,4.9,4.0,0.0,71.0,1.4,-0.96,1.31,-1.45,-0.76,6.33,Engineering,Very Good,Good,1.0,0.0,0.0,Therese Seburg,Asian,female,2.0,USA,29.0,94509
-195,0.74,3.19,1.3,7.9,3.28,1.45,0.0,34.0,3.6,0.88,2.55,0.14,-0.37,6.44,Engineering,Ok,Good,0.0,0.0,0.0,Kristina James,Asian,female,0.0,USA,30.0,94030
-196,-1.15,2.48,1.2,0.9,1.48,-6.25,0.0,17.0,0.0,-2.89,2.57,1.95,1.41,8.47,Sciences,None,Good,1.0,1.0,1.0,Natalie Gagnon,Asian,female,0.0,USA,22.0,94301
-197,-0.2,2.68,2.9,-0.9,2.59,-0.42,0.0,37.0,2.4,-0.73,1.97,-0.49,-1.67,4.62,Engineering,Ok,Bad,0.0,0.0,0.0,Michelle Hamilton,Asian,female,0.0,China,24.0,94545
-198,0.01,3.71,1.7,3.2,3.26,0.98,0.0,69.0,3.3,0.6,2.09,0.78,0.44,7.41,Engineering,Ok,Good,0.0,0.0,0.0,Toni Brady,Asian,female,0.0,USA,25.0,94510
-199,0.86,2.26,0.9,5.2,2.29,-0.27,0.0,66.0,1.3,-1.27,1.63,-1.22,-1.23,5.6,Quantitative,None,Bad,0.0,0.0,0.0,Christina Sherman,Asian,female,0.0,USA,26.0,94925
-200,-0.1,2.59,1.9,2.9,2.52,-1.34,0.0,2.0,6.1,2.45,3.61,2.13,1.6,8.94,Quantitative,None,Bad,0.0,1.0,0.0,Anastasia Juarez,Asian,female,0.0,USA,27.0,94040
-201,0.12,3.66,2.3,1.1,2.66,-0.48,0.0,61.0,0.0,-3.42,2.76,0.94,0.32,7.33,Engineering,Ok,Good,0.0,0.0,0.0,Sharon Jones,Asian,female,0.0,USA,27.0,94707
-202,0.05,2.22,1.0,2.8,1.36,-4.52,2.4,57.0,3.6,0.72,0.29,-2.85,-2.73,3.56,Quantitative,None,Bad,0.0,1.0,1.0,Gina Chan,Asian,female,0.0,USA,27.0,94038
-203,-1.23,3.18,1.6,-0.7,2.75,-1.68,0.0,44.0,2.5,-0.6,1.7,-0.2,0.13,7.19,Sciences,None,Bad,0.0,0.0,0.0,Ethel Summers,Asian,female,0.0,USA,22.0,94131
-204,0.18,2.79,1.9,0.4,1.75,-2.82,0.0,14.0,7.9,4.4,3.23,1.61,1.87,9.56,Quantitative,None,Good,0.0,0.0,0.0,Marie Dark,Asian,female,1.0,USA,24.0,95002
-205,-0.03,3.34,2.3,2.9,2.74,-0.87,0.0,27.0,2.4,-0.5,4.51,7.05,5.37,12.8,Sciences,Ok,Good,0.0,0.0,0.0,Frances Wilson,Asian,female,1.0,USA,26.0,94070
-206,1.26,3.09,1.8,9.7,3.57,2.72,3.2,8.0,5.1,1.76,3.1,2.95,2.61,10.12,Engineering,Very Good,Good,1.0,0.0,0.0,Leslie Russell,Asian,female,2.0,Australia,34.0,94085
-207,0.23,3.17,2.5,7.1,3.36,0.25,0.0,34.0,0.6,-2.33,2.17,-0.48,-1.74,4.63,Sciences,None,Good,0.0,0.0,1.0,Lillian Metcalf,Asian,female,1.0,USA,28.0,94030
-208,0.15,1.88,1.3,3.4,1.46,-4.1,0.0,26.0,4.4,1.4,2.03,0.32,0.27,7.25,Quantitative,Ok,Good,0.0,1.0,0.0,Marjorie Gillard,Asian,female,1.0,USA,25.0,94403
-209,-1.56,3.06,0.9,3.2,2.46,-4.28,0.0,82.0,0.0,-2.7,3.42,2.69,2.1,9.47,Engineering,None,Good,0.0,1.0,0.0,Vivian Bejar,Asian,female,1.0,USA,26.0,94503
-210,0.89,3.88,1.8,4.8,4.28,6.05,0.0,8.0,4.9,1.16,1.34,-0.83,-0.52,6.42,Engineering,Very Good,Good,1.0,0.0,0.0,Kim Wyatt,Asian,female,0.0,USA,27.0,94085
-211,-0.18,2.64,2.9,1.8,3.59,2.25,2.9,40.0,4.4,1.31,2.25,-1.55,-0.09,7.56,Engineering,Ok,Good,1.0,0.0,0.0,Alexa Lukow,Asian,female,1.0,USA,27.0,94603
-212,1.95,2.84,3.1,5.5,3.61,5.21,0.0,87.0,0.0,-3.31,1.34,1.13,0.1,6.43,Quantitative,Very Good,Good,1.0,0.0,0.0,Erma Oneal,Asian,female,1.0,USA,26.0,94973
-213,0.1,2.75,2.4,5.0,3.02,-0.21,2.0,26.0,3.4,0.09,1.06,-2.29,-1.84,4.82,Engineering,Ok,Good,0.0,0.0,0.0,Sarah Davis,Asian,female,1.0,USA,32.0,94403
-214,0.45,2.94,2.3,3.1,3.23,1.81,0.0,31.0,8.1,4.51,3.06,1.97,2.31,9.91,Quantitative,Ok,Good,0.0,0.0,0.0,Lisa Walker,Asian,female,1.0,USA,26.0,94544
-215,-0.54,2.74,0.7,2.3,2.14,-2.82,0.0,19.0,8.9,4.99,1.04,-0.55,-1.02,5.37,Quantitative,Ok,Good,0.0,0.0,0.0,Kelly Robledo,Asian,female,2.0,USA,27.0,94304
-216,0.29,1.87,2.4,5.5,2.61,-0.87,0.0,12.0,1.6,-1.1,0.0,-3.82,-3.23,3.0,Engineering,Ok,Good,0.0,0.0,0.0,Stefanie Winchell,Asian,female,1.0,USA,35.0,94087
-217,0.49,2.91,2.5,4.9,3.14,1.07,3.9,7.0,6.7,3.02,0.78,-1.3,-0.8,6.05,Humanities,Very Good,Good,0.0,0.0,0.0,Charlotte Zuber,Asian,female,1.0,USA,33.0,94043
-218,0.82,2.66,3.1,2.3,2.59,0.41,0.0,18.0,4.7,1.49,1.59,-2.33,-2.52,4.18,Quantitative,Very Good,Good,0.0,0.0,0.0,Robbin Carson,Asian,female,1.0,USA,28.0,95035
-219,1.26,3.15,0.7,5.1,3.24,3.76,0.0,47.0,2.6,0.08,1.01,-2.62,-2.1,4.61,Engineering,Ok,Good,1.0,0.0,0.0,Luanna Hahn,Asian,female,1.0,Australia,31.0,94114
-220,-0.19,2.71,1.1,3.3,2.55,-1.23,0.0,33.0,3.0,0.25,1.96,-0.43,0.13,7.43,Engineering,Ok,Good,0.0,1.0,0.0,Valerie Molina,Asian,female,1.0,USA,25.0,94010
-221,0.74,3.03,0.4,6.8,3.1,1.95,0.0,18.0,3.4,0.07,3.41,1.34,0.53,7.68,Quantitative,Ok,Good,0.0,0.0,0.0,Jessica Foley,Asian,female,1.0,USA,32.0,95035
-222,-1.12,3.33,2.1,3.1,2.88,-2.91,0.0,32.0,2.3,-0.46,0.0,-2.88,-1.89,4.73,Humanities,None,Bad,0.0,1.0,0.0,Heidi Russell,Asian,female,1.0,USA,26.0,94544
-223,0.85,2.96,1.2,8.1,3.64,3.22,0.0,22.0,4.9,1.52,1.55,-0.97,-0.65,6.22,Engineering,Ok,Good,1.0,0.0,0.0,Margaret Castro,Asian,female,1.0,USA,31.0,94061
-224,0.6,3.34,2.1,9.1,4.02,3.1,0.0,1.0,6.2,2.73,2.37,1.42,0.59,7.3,Sciences,None,Good,1.0,0.0,0.0,Bobbie Duke,Asian,female,1.0,USA,33.0,94040
-225,-0.02,2.9,1.9,2.2,3.01,0.8,2.5,22.0,3.6,0.26,0.3,-1.26,-2.07,3.82,Engineering,Ok,Good,0.0,0.0,0.0,Elizabeth Harrod,Asian,female,1.0,Canada,27.0,94061
-226,-0.46,2.88,1.9,3.0,2.44,-2.62,0.0,18.0,3.5,-0.07,4.01,4.05,3.24,10.74,Humanities,Ok,Good,0.0,0.0,0.0,Angelique Stout,Asian,female,1.0,USA,25.0,95035
-227,0.62,3.68,2.4,8.0,3.62,1.65,0.0,16.0,4.4,0.83,2.65,0.69,0.74,8.12,Quantitative,Ok,Bad,0.0,0.0,0.0,Julie Prater,Asian,female,1.0,USA,30.0,95134
-228,0.69,3.12,2.3,6.9,4.15,4.51,0.0,1.0,3.5,0.28,4.21,5.22,4.93,12.93,Humanities,Ok,Good,0.0,0.0,0.0,Diana Hamby,Asian,female,1.0,USA,29.0,94040
-229,1.03,4.13,3.4,8.2,5.05,6.81,0.0,49.0,4.2,1.24,1.74,0.11,0.7,7.96,Quantitative,Ok,Good,1.0,0.0,0.0,Norma Conner,Asian,female,1.0,USA,35.0,94502
-230,-0.7,3.09,3.2,4.3,3.97,1.32,0.0,22.0,2.2,-0.75,3.85,4.37,3.12,10.31,Engineering,Very Good,Good,0.0,0.0,0.0,Melanie Gilchrist,Asian,female,1.0,China,25.0,94061
-231,0.57,3.42,1.6,7.1,3.6,2.32,0.0,22.0,5.7,2.47,2.59,1.79,1.27,8.34,Engineering,Ok,Good,1.0,0.0,0.0,Sheila Rippee,Asian,female,1.0,USA,34.0,94061
-232,-0.31,3.16,2.9,1.3,3.38,1.16,0.0,47.0,6.8,3.62,1.16,-3.11,-2.84,3.85,Engineering,Ok,Bad,0.0,1.0,0.0,Karen Morgan,Asian,female,1.0,USA,26.0,94114
-233,-0.77,2.77,1.1,-0.4,1.76,-3.97,0.8,39.0,0.8,-1.96,1.35,-1.6,-1.5,5.27,Sciences,None,Good,0.0,1.0,0.0,Melissa Manson,Asian,female,1.0,USA,23.0,94578
-234,-0.16,2.04,2.3,0.8,1.95,-2.73,2.7,19.0,4.6,1.44,3.33,2.14,1.98,9.5,Quantitative,Ok,Good,0.0,0.0,0.0,Nicole Trujillo,Asian,female,1.0,USA,31.0,94304
-235,-0.46,2.74,0.9,4.2,2.2,-3.15,0.0,3.0,5.0,1.59,2.74,0.7,0.51,7.68,Engineering,None,Good,0.0,1.0,0.0,Louise Carreon,Asian,female,1.0,USA,26.0,94040
-236,0.47,2.59,2.6,4.2,3.09,1.08,0.0,30.0,5.9,2.48,2.99,0.21,0.34,7.76,Quantitative,None,Good,1.0,0.0,0.0,Tiara Schulle,Asian,female,1.0,USA,27.0,94587
-237,0.42,3.55,2.3,4.7,3.43,1.77,0.0,47.0,1.9,-0.82,1.71,0.27,-0.36,6.18,Engineering,Very Good,Good,0.0,0.0,0.0,Maria Mullins,Asian,female,1.0,Canada,28.0,94114
-238,-0.44,3.17,2.3,0.8,3.16,0.63,0.0,24.0,7.1,3.58,3.66,3.31,3.24,10.97,Engineering,None,Good,0.0,0.0,0.0,Linda Hunt,Asian,female,1.0,USA,23.0,94027
-239,-0.58,2.71,2.1,-1.9,1.49,-4.61,0.0,10.0,2.5,-0.55,3.64,2.28,2.26,9.97,Quantitative,None,Good,0.0,1.0,1.0,Katherine Goulet,Asian,female,1.0,USA,26.0,94085
-240,-0.53,3.11,2.5,3.6,3.32,-0.2,0.0,34.0,3.7,0.51,3.43,2.23,1.99,9.53,Humanities,None,Good,1.0,0.0,0.0,Amelia Yingst,Asian,female,1.0,USA,24.0,94030
-241,0.58,3.19,0.2,8.6,3.29,1.46,0.0,54.0,6.1,2.35,0.75,-3.49,-3.18,3.34,Engineering,Ok,Bad,0.0,0.0,0.0,Victoria Wichmann,Asian,female,1.0,USA,32.0,94121
-242,1.13,2.88,3.2,5.9,3.7,3.77,0.0,19.0,6.5,3.27,1.32,0.14,-0.18,6.46,Quantitative,Very Good,Good,1.0,0.0,0.0,Barbara Evans,Asian,female,1.0,USA,29.0,94304
-243,-0.13,3.47,1.2,3.1,2.69,-0.85,0.0,37.0,1.6,-1.25,1.22,-2.27,-2.67,3.69,Quantitative,None,Bad,0.0,0.0,0.0,Kristina Packard,Asian,female,0.0,USA,28.0,94545
-244,0.39,2.3,1.4,5.6,2.29,-1.59,0.0,4.0,2.5,-0.79,1.22,-0.02,-0.22,6.39,Quantitative,None,Good,0.0,0.0,0.0,Barbara Carmona,Asian,female,1.0,USA,28.0,94040
-245,1.79,3.46,3.1,6.7,4.71,8.35,0.0,20.0,2.1,-0.93,2.68,0.87,0.76,7.97,Sciences,Very Good,Good,1.0,0.0,0.0,Justine Allain,Asian,female,1.0,USA,32.0,94025
-246,0.11,3.65,2.6,5.7,4.11,3.0,0.0,20.0,5.1,1.53,3.49,1.24,0.5,7.74,Engineering,Ok,Good,1.0,0.0,0.0,Grace Heck,Asian,female,1.0,USA,28.0,94025
-247,-1.25,2.83,1.0,0.9,1.97,-4.63,0.0,48.0,0.5,-2.27,3.17,1.49,1.29,8.78,Engineering,Ok,Bad,0.0,1.0,1.0,Bonnie Roudebush,Asian,female,2.0,China,26.0,94109
-248,-0.4,3.11,3.8,4.9,3.72,0.32,1.3,43.0,1.1,-1.79,1.38,0.13,0.55,7.64,Engineering,None,Bad,0.0,0.0,0.0,Helen Schrack,Asian,female,1.0,USA,29.0,94014
-249,-0.79,2.02,1.0,5.0,1.61,-6.0,0.0,36.0,3.1,0.19,2.38,1.19,1.07,8.24,Humanities,Ok,Bad,0.0,1.0,1.0,Judith Chesley,Asian,female,1.0,USA,29.0,94588
-250,0.75,2.73,2.1,4.2,3.5,3.52,2.5,2.0,4.2,0.78,3.01,1.97,1.19,8.29,Engineering,Very Good,Good,1.0,0.0,0.0,Mae Tolliver,Asian,female,2.0,Australia,31.0,94040
-251,-0.37,3.31,2.9,5.5,3.53,0.07,0.0,34.0,5.2,1.53,3.61,1.89,1.59,9.14,Engineering,Ok,Good,0.0,0.0,0.0,Lisa Paschall,Asian,female,1.0,USA,27.0,94030
-252,0.73,2.62,0.9,6.8,2.58,-0.07,0.0,28.0,5.1,2.05,1.22,-2.63,-2.87,3.57,Engineering,None,Bad,0.0,0.0,0.0,Vicky Moyer,Asian,female,1.0,USA,27.0,94402
-253,-1.48,3.69,1.9,2.8,3.34,-1.96,0.8,29.0,1.1,-1.51,1.31,-1.27,0.39,7.88,Engineering,None,Good,0.0,0.0,1.0,Luanne Barnett,Asian,female,1.0,USA,26.0,94560
-254,-0.33,2.61,2.0,2.3,2.49,-1.69,0.0,72.0,0.0,-2.4,1.09,-2.17,-1.7,5.02,Engineering,Ok,Good,0.0,0.0,0.0,Michelle Martinez,Asian,female,0.0,Australia,23.0,94572
-255,-0.08,3.17,2.0,5.1,3.1,-0.35,0.0,33.0,2.8,-0.03,1.29,-0.59,-0.7,5.93,Sciences,Ok,Bad,0.0,0.0,0.0,Jacqueline Prince,Asian,female,1.0,USA,30.0,94010
-256,-0.58,2.96,2.5,3.6,2.86,-1.84,0.0,5.0,3.1,-0.04,3.14,1.54,1.9,9.64,Engineering,Ok,Bad,1.0,0.0,0.0,Shelley Weidman,Asian,female,1.0,USA,26.0,94043
-257,0.41,3.65,1.2,5.1,3.47,2.3,2.1,13.0,3.7,0.49,2.22,0.89,1.11,8.4,Engineering,None,Good,0.0,0.0,0.0,Carmen Erekson,Asian,female,1.0,USA,29.0,94022
-258,-1.03,2.84,3.2,1.0,2.6,-3.22,0.0,38.0,2.4,-0.43,2.7,0.53,0.62,7.9,Quantitative,None,Good,0.0,1.0,0.0,Stephany Harper,Asian,female,1.0,USA,23.0,94586
-259,-0.1,3.16,0.9,5.8,3.85,2.9,0.0,11.0,3.1,-0.03,1.85,0.79,0.98,8.14,Quantitative,Very Good,Good,1.0,0.0,0.0,Cynthia Carter,Asian,female,1.0,USA,31.0,94089
-260,0.38,2.87,2.1,7.5,3.41,1.12,0.0,43.0,1.8,-0.97,0.33,-4.28,-4.47,1.48,Sciences,Very Good,Good,0.0,0.0,0.0,Doris Wong,Asian,female,1.0,USA,29.0,94014
-261,-0.12,2.47,0.9,4.3,2.08,-2.71,0.0,38.0,2.9,-0.17,0.8,-2.59,-2.15,4.4,Quantitative,Ok,Good,0.0,1.0,0.0,Maria Snapp,Asian,female,1.0,USA,27.0,94586
-262,0.72,3.14,2.2,6.9,3.51,2.06,0.0,23.0,0.0,-4.58,3.19,1.89,2.07,9.79,Engineering,Ok,Good,0.0,0.0,0.0,Tracy Brooks,Asian,female,1.0,USA,30.0,94028
-263,0.44,2.97,2.4,6.8,3.59,1.74,0.0,42.0,1.3,-1.41,2.39,0.17,-0.08,6.91,Quantitative,Ok,Good,0.0,0.0,0.0,Anna Gardner,Asian,female,1.0,USA,30.0,94605
-264,-0.55,2.89,1.6,0.3,1.83,-3.88,0.0,2.0,5.2,1.5,2.9,2.71,2.7,10.11,Engineering,None,Bad,0.0,1.0,0.0,Tracy Searcy,Asian,female,1.0,USA,24.0,94040
-265,0.17,1.66,0.4,4.0,1.06,-5.18,2.5,15.0,3.9,0.48,3.35,2.11,2.21,9.86,Quantitative,Very Good,Bad,0.0,1.0,1.0,Aurelia Twombly,Asian,female,1.0,USA,28.0,95002
-266,-0.36,3.92,2.2,2.6,3.7,1.6,0.0,22.0,3.4,0.31,4.67,4.98,4.48,12.37,Engineering,Very Good,Good,0.0,0.0,0.0,Virginia Blackburn,Asian,female,1.0,USA,26.0,94061
-267,0.68,2.6,1.1,4.6,2.68,0.84,0.0,5.0,5.2,1.74,2.97,1.78,1.47,8.76,Quantitative,Very Good,Good,0.0,0.0,0.0,Henrietta Farfalla,Asian,female,1.0,USA,26.0,94043
-268,-0.96,2.83,3.1,0.5,2.6,-2.87,0.0,67.0,3.2,0.33,1.82,-0.51,0.39,7.8,Quantitative,None,Bad,0.0,1.0,0.0,Torie Danielson,Asian,female,1.0,USA,27.0,94598
-269,0.17,3.49,2.8,3.0,3.19,0.69,0.0,17.0,7.4,4.0,2.53,-0.18,0.19,7.52,Quantitative,Ok,Bad,0.0,0.0,0.0,Marci Ferrell,Asian,female,1.0,USA,26.0,94301
-270,-1.22,3.42,1.5,-0.3,2.22,-3.9,0.0,27.0,4.8,1.27,3.77,3.1,3.02,10.93,Quantitative,Ok,Bad,0.0,1.0,0.0,Dorothy Waters,Asian,female,2.0,USA,23.0,94070
-271,0.44,2.84,1.7,4.1,1.93,-2.78,0.0,21.0,3.9,0.48,2.88,0.78,-0.19,6.68,Engineering,None,Good,0.0,0.0,0.0,Myrtle Miller,Asian,female,1.0,USA,27.0,94538
-272,0.71,2.36,2.5,6.0,2.51,-0.84,0.0,43.0,2.6,-0.27,3.15,2.07,1.87,9.34,Humanities,None,Bad,0.0,0.0,0.0,Belinda Osbourn,Asian,female,1.0,China,29.0,94014
-273,-0.25,2.62,2.9,4.4,2.8,-1.87,0.0,25.0,4.6,0.95,1.99,0.53,0.24,7.08,Sciences,None,Bad,0.0,0.0,0.0,Carolyn Lam,Asian,female,1.0,USA,27.0,94539
-274,-0.08,3.16,1.2,8.8,4.02,2.27,0.0,42.0,0.0,-4.1,0.98,-2.32,-2.23,4.25,Quantitative,Ok,Good,0.0,0.0,0.0,Oma Loveless,Asian,female,1.0,USA,32.0,94605
-275,-0.33,4.1,1.0,6.6,4.29,3.13,0.0,1.0,2.0,-1.29,2.95,2.13,1.65,8.85,Engineering,None,Good,0.0,0.0,0.0,Linda Lalk,Asian,female,1.0,USA,31.0,94040
-276,0.54,2.96,0.5,5.9,3.57,3.54,0.0,7.0,5.8,1.86,3.8,4.53,4.03,11.71,Engineering,Ok,Good,1.0,0.0,0.0,Patty Salmons,Asian,female,2.0,Australia,27.0,94043
-277,1.07,3.77,1.6,6.8,3.26,1.97,0.0,25.0,1.4,-1.46,2.52,0.54,0.67,7.97,Engineering,Ok,Good,0.0,0.0,0.0,Frances Huffman,Asian,female,1.0,USA,31.0,94539
-278,0.7,3.32,2.6,8.1,4.28,4.22,0.0,51.0,2.2,-0.68,1.41,-1.14,-0.66,6.42,Quantitative,Ok,Good,1.0,0.0,0.0,Gwendolyn Stanton,Asian,female,1.0,USA,30.0,94618
-279,-0.13,2.37,2.1,-0.6,1.71,-3.23,0.0,2.0,4.3,1.08,2.43,0.56,0.63,7.92,Quantitative,Very Good,Good,0.0,1.0,0.0,Alicia Cobb,Asian,female,1.0,USA,22.0,94040
-280,-0.82,3.88,2.5,6.0,4.54,2.33,0.0,59.0,2.2,-0.52,2.4,1.07,0.68,7.59,Humanities,Very Good,Good,0.0,0.0,0.0,Vicki Castillo,Asian,female,1.0,USA,32.0,94709
-281,0.54,3.02,2.2,8.6,3.64,1.89,4.1,20.0,7.3,3.89,2.63,2.04,1.86,9.09,Quantitative,Ok,Good,0.0,0.0,0.0,Susan Krumholz,Asian,female,1.0,USA,36.0,94025
-282,0.84,3.02,1.4,5.8,2.75,0.65,1.2,1.0,1.9,-1.19,0.0,-4.35,-3.49,2.77,Engineering,None,Bad,0.0,0.0,0.0,Dorothy Hudecek,Asian,female,1.0,China,31.0,94040
-283,-0.89,2.81,1.1,3.8,2.04,-4.8,0.0,32.0,4.9,1.28,0.58,-3.16,-3.18,3.05,Engineering,None,Good,0.0,1.0,1.0,Delores Biggs,Asian,female,1.0,USA,25.0,94544
-284,0.48,2.41,1.6,4.9,2.32,-1.02,0.0,75.0,0.0,-2.53,2.02,0.23,-0.01,6.86,Quantitative,None,Good,0.0,0.0,0.0,Anne Belcher,Asian,female,1.0,USA,28.0,94941
-285,0.77,3.18,3.7,5.8,4.31,4.81,0.0,16.0,4.8,1.35,1.66,1.2,0.55,7.19,Humanities,Ok,Good,0.0,0.0,0.0,Tiffany Kontos,Asian,female,1.0,USA,27.0,95134
-286,1.07,3.04,2.6,4.0,3.38,3.36,0.0,36.0,0.0,-3.19,0.39,-2.66,-1.31,5.6,Sciences,Very Good,Good,1.0,0.0,0.0,Roxie Gehling,Asian,female,1.0,USA,27.0,94588
-287,0.6,3.17,1.6,6.2,3.47,2.4,0.0,24.0,2.0,-0.89,2.49,1.28,1.88,9.47,Engineering,Very Good,Bad,0.0,0.0,0.0,Kathleen Wilson,Asian,female,1.0,USA,28.0,94027
-288,-1.95,3.24,0.6,0.5,1.91,-6.27,0.0,52.0,0.2,-2.55,2.63,1.44,1.07,8.1,Quantitative,Very Good,Good,0.0,1.0,1.0,Maria Neale,Asian,female,1.0,USA,22.0,94611
-289,0.12,2.4,1.5,-0.2,1.64,-2.51,0.0,24.0,4.6,1.6,1.02,-1.66,-1.86,4.55,Engineering,Ok,Bad,0.0,0.0,0.0,Patricia Carter,Asian,female,1.0,USA,21.0,94027
-290,0.01,2.07,0.9,-0.5,1.72,-1.94,0.0,11.0,3.7,0.62,4.22,3.78,3.57,11.42,Engineering,Ok,Good,0.0,0.0,0.0,Lisa Chizmar,Asian,female,1.0,Australia,23.0,94089
-291,-0.56,2.2,1.8,3.7,2.93,-0.6,0.0,36.0,3.8,0.86,2.32,1.05,0.9,8.02,Engineering,Ok,Bad,0.0,0.0,0.0,Maria Boeding,Asian,female,1.0,USA,26.0,94588
-292,-1.83,3.03,1.4,2.5,3.31,-1.87,2.7,63.0,4.4,1.44,2.03,-0.08,0.22,7.37,Engineering,Ok,Good,0.0,0.0,0.0,Florence Paletta,Asian,female,1.0,USA,26.0,94801
-293,-0.12,2.47,2.0,6.0,2.83,-1.5,0.0,17.0,2.9,-0.04,2.62,0.5,0.42,7.59,Engineering,None,Bad,0.0,0.0,0.0,Martha Smith,Asian,female,1.0,USA,30.0,94301
-294,-1.29,3.13,2.8,2.9,3.41,-1.53,0.0,26.0,3.5,0.43,2.38,1.89,1.57,8.63,Engineering,None,Bad,0.0,0.0,0.0,Melissa Brisbin,Asian,female,1.0,USA,26.0,94403
-295,0.76,2.75,0.8,8.5,3.21,1.61,0.0,36.0,0.0,-3.19,1.8,-1.61,-1.36,5.62,Humanities,Ok,Good,0.0,0.0,0.0,Goldie Marshall,Asian,female,1.0,USA,32.0,94588
-296,-0.8,2.04,0.9,3.6,2.19,-3.34,0.0,69.0,1.9,-0.57,3.62,2.22,2.15,9.82,Engineering,None,Good,0.0,1.0,0.0,Tanisha Henderson,Asian,female,1.0,USA,27.0,94510
-297,-0.41,4.22,1.9,5.8,4.25,2.5,0.0,56.0,3.5,0.52,1.79,-1.71,-2.91,3.25,Engineering,Very Good,Good,0.0,1.0,0.0,Elizabeth Hyland,Asian,female,1.0,USA,31.0,94595
-298,0.49,2.56,1.8,5.0,3.82,4.25,0.0,4.0,5.4,2.11,4.36,4.7,3.93,11.58,Humanities,Very Good,Good,1.0,0.0,0.0,Lee Mclellan,Asian,female,1.0,USA,28.0,94040
-299,0.97,3.11,2.7,7.4,3.97,4.02,0.0,46.0,2.6,-0.2,4.81,4.39,4.14,12.21,Sciences,Ok,Good,1.0,0.0,0.0,Margaret Buchanan,Asian,female,2.0,USA,34.0,94019
-300,-1.28,2.64,1.8,-1.2,1.74,-5.26,0.0,63.0,2.3,-0.35,2.04,-0.68,-0.69,6.29,Quantitative,None,Good,0.0,1.0,1.0,Sylvia Harris,Asian,female,1.0,USA,21.0,94801
-301,0.78,3.79,2.5,9.9,5.56,8.02,0.0,51.0,5.1,2.23,1.48,-1.98,-2.0,4.69,Quantitative,Very Good,Good,1.0,0.0,0.0,Dorothy Gallardo,Asian,female,1.0,Canada,31.0,94618
-302,-0.24,3.29,1.3,6.5,3.32,-0.08,0.0,29.0,6.1,2.68,1.94,-0.86,-0.07,7.23,Engineering,Ok,Bad,0.0,0.0,0.0,Jennifer Stotts,Asian,female,1.0,USA,31.0,94560
-303,0.93,3.37,2.2,3.9,3.15,2.08,0.0,43.0,0.7,-1.94,0.54,-0.72,-0.91,5.38,Engineering,Very Good,Good,0.0,1.0,0.0,Catherine Currin,Asian,female,1.0,USA,28.0,94014
-304,-1.12,3.13,0.5,0.4,2.19,-3.12,0.0,107.0,0.0,-3.91,1.06,-2.49,-1.28,5.94,Humanities,None,Good,0.0,1.0,0.0,Mary Gilyard,Asian,female,1.0,Australia,22.0,95620
-305,0.7,2.95,2.4,6.1,3.7,3.27,0.0,34.0,7.5,3.93,2.21,1.64,0.77,7.53,Humanities,Very Good,Good,1.0,0.0,0.0,Brenda Drish,Asian,female,1.0,USA,29.0,94030
-306,0.03,3.2,1.2,2.7,2.25,-1.89,0.0,48.0,1.0,-1.88,3.5,3.01,2.79,10.39,Humanities,None,Bad,0.0,0.0,0.0,Eunice Thompson,Asian,female,2.0,USA,28.0,94109
-307,-0.55,2.13,0.9,3.3,1.72,-4.54,0.0,41.0,5.1,2.19,2.91,2.24,2.31,9.74,Engineering,Ok,Bad,0.0,1.0,1.0,Janel Munch,Asian,female,1.0,China,25.0,94542
-308,0.07,2.35,1.4,2.0,2.29,-1.0,0.0,28.0,6.3,2.69,3.85,4.1,3.5,11.14,Sciences,None,Good,1.0,1.0,0.0,Bernice Halm,Asian,female,1.0,China,28.0,94402
-309,-0.91,2.62,2.3,-2.4,1.5,-5.21,0.0,26.0,4.7,1.27,0.61,-3.67,-2.98,3.62,Quantitative,None,Good,0.0,1.0,1.0,Mary Apodaca,Asian,female,1.0,USA,20.0,94403
-310,-1.09,3.61,2.6,3.3,3.85,0.23,0.0,35.0,6.0,2.75,3.22,1.94,1.0,8.02,Engineering,Ok,Good,0.0,0.0,0.0,Letitia Gipson,Asian,female,1.0,USA,25.0,94566
-311,0.11,2.96,2.2,2.8,2.43,-1.47,0.0,54.0,0.0,-3.44,1.65,0.13,0.58,7.64,Quantitative,None,Good,0.0,0.0,0.0,Marva Truesdale,Asian,female,1.0,USA,26.0,94121
-312,0.78,2.98,2.4,6.0,3.83,3.77,0.0,19.0,5.7,2.08,2.07,-0.2,-0.59,6.25,Sciences,Very Good,Good,1.0,0.0,0.0,Sadie Vanderburg,Asian,female,1.0,USA,28.0,94304
-313,0.69,3.13,1.6,7.9,3.98,3.81,0.0,37.0,2.8,0.03,2.0,0.92,0.64,7.54,Humanities,Very Good,Good,1.0,0.0,0.0,Katie Washington,Asian,female,0.0,USA,31.0,94545
-314,1.01,3.06,3.7,7.1,4.9,7.12,0.0,1.0,1.6,-1.21,0.06,-1.6,-1.33,5.02,Engineering,Very Good,Good,1.0,0.0,0.0,Ann Bronk,Asian,female,0.0,USA,31.0,94040
-315,-0.27,4.03,2.7,6.1,3.97,1.28,0.0,43.0,2.8,-0.05,2.6,2.79,2.64,9.86,Quantitative,Very Good,Good,0.0,0.0,0.0,Helen Takacs,Asian,female,1.0,China,30.0,94014
-316,-0.17,3.53,1.3,6.0,3.58,1.15,0.0,42.0,0.0,-3.39,0.0,-2.62,-2.52,3.53,Quantitative,Ok,Good,0.0,0.0,0.0,Juli Cohen,Asian,female,1.0,USA,28.0,94605
-317,0.33,2.75,2.4,0.7,2.54,-0.11,0.0,9.0,5.1,1.52,2.18,0.56,0.6,7.75,Engineering,None,Good,0.0,0.0,0.0,Enola Owings,Asian,female,1.0,China,27.0,94085
-318,-0.06,3.4,2.2,5.3,3.69,1.65,0.0,38.0,2.5,-0.49,2.46,1.06,1.21,8.47,Quantitative,None,Good,0.0,0.0,0.0,Jeanette Walter,Asian,female,1.0,USA,29.0,94586
-319,0.42,2.51,1.5,3.1,2.75,0.95,0.0,16.0,1.0,-2.05,3.08,3.18,2.74,9.98,Engineering,Ok,Bad,0.0,0.0,0.0,Susan Thomas,Asian,female,1.0,USA,27.0,95134
-320,1.1,3.28,3.2,5.1,3.94,4.33,0.0,3.0,6.1,2.66,0.51,-2.12,-0.19,7.16,Engineering,None,Good,1.0,0.0,0.0,Grace Caballero,Asian,female,1.0,USA,27.0,94040
-321,0.42,2.92,0.8,8.3,3.17,0.71,0.0,6.0,3.4,0.06,2.98,1.63,2.01,9.64,Engineering,None,Bad,0.0,0.0,0.0,Brandy Miller,Asian,female,2.0,USA,37.0,94043
-322,0.03,2.91,2.3,5.8,3.22,0.2,0.0,47.0,3.2,0.2,1.05,-3.3,-3.21,3.28,Quantitative,Ok,Good,0.0,0.0,0.0,Natasha Hill,Asian,female,1.0,USA,30.0,94114
-323,0.13,2.35,3.1,0.6,1.78,-3.29,0.0,19.0,3.8,0.61,1.61,-0.04,0.07,7.01,Quantitative,None,Good,1.0,1.0,0.0,Sandy Mulholland,Asian,female,1.0,USA,25.0,94304
-324,-0.37,3.3,0.9,5.3,3.51,1.25,0.0,35.0,1.5,-1.25,0.7,-3.46,-3.09,3.45,Engineering,None,Good,0.0,0.0,0.0,Myrtle Mccall,Asian,female,1.0,USA,27.0,94566
-325,0.05,3.24,0.9,8.3,3.5,0.91,0.0,44.0,0.0,-3.96,2.78,1.27,1.37,8.73,Engineering,Very Good,Good,0.0,0.0,0.0,Elaine Myers,Asian,female,1.0,USA,34.0,94131
-326,-1.66,3.3,3.0,-0.6,2.53,-4.58,0.0,10.0,7.8,4.13,2.48,0.1,0.46,7.71,Quantitative,Ok,Bad,0.0,1.0,1.0,Genoveva Mccarthy,Asian,female,1.0,USA,22.0,94085
-327,0.0,3.34,1.0,4.3,2.39,-1.9,0.0,79.0,3.2,0.44,3.2,4.11,2.89,9.92,None,None,Good,0.0,0.0,0.0,Beulah Villar,Asian,female,1.0,Canada,26.0,94533
-328,-0.03,3.29,2.7,7.7,4.33,2.8,0.0,47.0,1.4,-1.54,0.98,-1.49,-1.46,5.0,Engineering,Very Good,Good,1.0,0.0,0.0,Beth Rempe,Asian,female,1.0,China,29.0,94114
-329,0.76,2.47,2.9,2.1,2.64,0.7,0.0,82.0,3.2,0.54,2.13,-0.05,0.59,8.01,Humanities,Ok,Good,0.0,0.0,0.0,Jackie Gray,Asian,female,1.0,Australia,26.0,94503
-330,-0.9,2.31,0.7,0.1,1.22,-5.96,3.8,33.0,6.1,2.68,3.23,2.16,2.58,10.51,Quantitative,None,Bad,0.0,1.0,1.0,Leslie Moss,Asian,female,1.0,USA,28.0,94010
-331,-0.63,3.18,0.8,4.3,2.99,-0.93,0.0,16.0,6.0,2.65,2.21,1.2,-0.26,6.12,Engineering,None,Bad,0.0,0.0,0.0,Mary Chesnutt,Asian,female,1.0,USA,27.0,95134
-332,0.66,4.2,3.2,3.9,3.98,3.82,0.0,8.0,6.0,2.44,3.03,2.35,2.18,9.59,Humanities,Very Good,Good,1.0,0.0,0.0,Virginia Hendricks,Asian,female,1.0,USA,27.0,94085
-333,0.92,2.93,2.3,5.6,2.65,0.12,0.0,3.0,3.6,0.29,1.6,-0.98,-0.55,6.45,Engineering,Ok,Bad,1.0,0.0,0.0,Margaret Wu,Asian,female,1.0,USA,28.0,94040
-334,0.33,3.14,4.2,4.8,4.83,5.69,0.0,38.0,0.5,-2.1,1.46,-0.76,-1.11,5.5,Sciences,Very Good,Good,1.0,0.0,0.0,Eileen Rutland,Asian,female,1.0,Australia,25.0,94586
-335,0.22,2.91,2.7,5.8,3.33,0.64,0.0,83.0,1.5,-1.08,3.28,1.64,1.87,9.51,Sciences,Very Good,Good,0.0,0.0,0.0,Shelly Messina,Asian,female,1.0,USA,29.0,94503
-336,-0.29,2.75,1.9,4.1,2.67,-1.59,0.0,33.0,3.0,0.06,1.75,0.98,0.72,7.54,Engineering,None,Good,0.0,0.0,0.0,Cora Mckeller,Asian,female,1.0,USA,27.0,94010
-337,0.35,3.24,1.3,6.3,3.54,2.26,0.0,24.0,5.2,1.77,1.3,-1.43,-0.45,6.69,Sciences,Ok,Good,0.0,0.0,0.0,Tanya Henson,Asian,female,1.0,China,30.0,94027
-338,0.61,2.83,1.5,8.6,3.34,1.34,2.6,11.0,4.5,0.91,2.38,-1.29,-1.53,5.35,Engineering,Very Good,Bad,0.0,0.0,0.0,Rachel Golden,Asian,female,1.0,USA,34.0,94089
-339,-1.02,2.62,1.2,2.5,2.02,-4.73,0.0,18.0,6.7,3.15,1.33,-2.51,-2.02,4.88,Quantitative,None,Good,0.0,1.0,1.0,Rosa Fregoso,Asian,female,1.0,Australia,24.0,95035
-340,0.18,2.03,2.3,2.7,1.89,-3.06,0.0,19.0,0.8,-1.98,3.16,1.55,1.14,8.44,Engineering,None,Bad,0.0,1.0,0.0,Wanda Cox,Asian,female,1.0,USA,24.0,94304
-341,-0.43,2.64,2.0,4.2,2.79,-1.26,0.0,59.0,1.9,-0.63,3.01,2.36,2.27,9.72,Quantitative,None,Bad,0.0,0.0,0.0,Nancy Shaw,Asian,female,1.0,China,28.0,94709
-342,0.34,3.04,3.0,1.8,2.81,0.36,0.0,0.0,6.4,2.85,2.66,0.4,-0.22,6.66,Engineering,Very Good,Good,0.0,0.0,0.0,Rikki Yao,Asian,female,1.0,USA,24.0,94040
-343,-0.81,2.77,1.5,1.5,2.2,-3.2,0.0,23.0,0.1,-2.6,2.54,0.09,0.54,7.85,Quantitative,None,Bad,0.0,1.0,0.0,Carol Oddi,Asian,female,1.0,USA,23.0,94028
-344,0.75,2.95,2.3,3.5,3.19,2.29,0.0,36.0,3.4,0.38,1.9,-0.25,0.01,7.11,Engineering,Very Good,Good,1.0,0.0,0.0,Lena Karr,Asian,female,1.0,China,27.0,94588
-345,-0.85,3.26,2.0,3.6,3.07,-1.44,0.0,53.0,3.1,0.22,0.84,-1.36,-1.3,5.29,Quantitative,Ok,Good,0.0,0.0,0.0,Sherry Leith,Asian,female,1.0,USA,27.0,94549
-346,0.54,2.58,2.6,3.8,2.9,0.71,0.0,4.0,1.5,-1.58,1.25,-1.08,-1.18,5.49,Engineering,Ok,Good,0.0,0.0,0.0,Fannie Headrick,Asian,female,1.0,USA,30.0,94040
-347,0.62,2.72,2.6,6.6,3.37,1.58,0.0,30.0,1.7,-1.12,2.61,1.49,2.09,9.73,Engineering,Very Good,Bad,1.0,0.0,0.0,Karen Saucedo,Asian,female,1.0,USA,31.0,94587
-348,0.05,3.03,1.5,3.6,2.88,0.15,0.0,20.0,2.1,-0.96,2.56,1.16,1.08,8.28,Humanities,None,Good,1.0,0.0,0.0,Angel Morse,Asian,female,1.0,USA,28.0,94025
-349,-0.47,2.09,0.4,3.6,2.35,-1.87,0.0,62.0,0.0,-4.28,1.58,-0.24,0.23,7.34,Engineering,Ok,Bad,0.0,0.0,0.0,Pamela Schroeder,Asian,female,1.0,USA,25.0,94564
-350,0.11,3.34,2.8,5.5,3.45,0.68,0.0,24.0,2.4,-0.35,1.5,-0.5,-0.29,6.62,Quantitative,Very Good,Good,0.0,0.0,0.0,Michelle Embrey,Asian,female,1.0,USA,30.0,94027
-351,-0.33,3.38,0.8,3.6,3.5,1.96,0.0,22.0,0.2,-2.7,1.5,-0.81,-1.12,5.46,Humanities,Ok,Good,0.0,0.0,1.0,Diana Mcgee,Asian,female,1.0,USA,25.0,94061
-352,0.16,3.22,1.7,5.3,3.04,0.01,0.0,40.0,1.9,-0.83,4.21,4.19,2.39,9.57,Engineering,Very Good,Good,0.0,0.0,0.0,Rita Parker,Asian,female,1.0,China,30.0,94603
-353,0.21,3.4,1.9,6.0,3.76,2.42,0.0,13.0,3.3,0.3,0.7,-2.9,-2.07,4.88,Engineering,Ok,Good,0.0,0.0,0.0,Geraldine Weber,Asian,female,1.0,USA,29.0,94022
-354,0.86,4.3,3.0,5.3,4.05,3.85,0.0,16.0,3.8,0.34,0.5,-2.92,-2.68,3.8,Sciences,Ok,Good,0.0,0.0,0.0,Pauline Honn,Asian,female,1.0,USA,27.0,95134
-355,-0.72,2.72,1.7,1.9,2.82,-0.98,0.0,47.0,0.0,-4.3,3.54,3.34,3.17,10.83,Engineering,Ok,Bad,0.0,0.0,0.0,Yesenia Barr,Asian,female,1.0,USA,24.0,94114
-356,-0.03,2.88,2.2,1.1,2.08,-2.42,0.0,43.0,2.8,0.05,1.19,-2.83,-1.84,5.18,Sciences,None,Bad,0.0,0.0,0.0,Julia Salazar,Asian,female,1.0,USA,24.0,94014
-357,1.32,3.38,1.7,5.1,3.3,3.69,2.3,27.0,3.4,0.32,1.83,0.58,0.36,7.24,Engineering,Ok,Good,0.0,0.0,0.0,Latoria Rast,Asian,female,1.0,USA,33.0,94070
-358,-0.98,3.3,0.1,3.3,2.22,-3.82,0.0,50.0,2.8,-0.09,2.59,1.76,1.09,8.06,Quantitative,None,Good,0.0,1.0,0.0,Wilma Polk,Asian,female,1.0,USA,27.0,94609
-359,0.51,2.64,1.0,4.6,2.07,-1.77,0.0,20.0,4.7,1.19,0.52,-1.52,-0.87,5.94,Sciences,None,Good,0.0,1.0,0.0,Sharon Palley,Asian,female,1.0,USA,28.0,94025
-360,-0.77,1.86,2.9,1.6,2.28,-3.45,2.4,36.0,3.3,0.26,1.82,-0.46,-0.11,6.99,Humanities,None,Good,0.0,1.0,0.0,Betty Rawls,Asian,female,1.0,USA,25.0,94588
-361,1.33,2.51,2.0,4.1,2.99,3.21,0.0,31.0,3.8,0.57,1.23,-2.07,-2.56,3.76,Quantitative,Ok,Good,1.0,0.0,0.0,Ericka Webb,Asian,female,1.0,USA,27.0,94544
-362,0.04,3.1,1.4,3.2,2.81,-0.04,0.0,41.0,4.3,1.36,4.66,3.46,2.41,10.01,Engineering,Ok,Good,0.0,0.0,0.0,Alissa Espinoza,Asian,female,1.0,China,26.0,94542
-363,-0.61,2.63,1.8,4.1,2.89,-1.55,0.0,18.0,3.7,0.52,2.16,0.26,0.3,7.45,Quantitative,None,Bad,0.0,0.0,0.0,Kelly Zuniga,Asian,female,1.0,USA,27.0,95035
-364,0.96,4.23,2.4,9.8,4.78,5.61,0.0,32.0,0.4,-2.45,0.9,-1.0,-0.46,6.47,Engineering,Ok,Good,1.0,0.0,0.0,Linda Reynolds,Asian,female,1.0,USA,34.0,94544
-365,-0.6,3.19,3.3,3.1,3.14,-1.23,0.0,7.0,1.4,-1.62,0.06,-6.02,-5.24,1.19,Engineering,None,Good,1.0,0.0,0.0,Frances Burke,Asian,female,1.0,USA,26.0,94043
-366,1.44,3.39,2.3,7.6,3.73,4.13,0.0,22.0,1.4,-1.58,3.6,4.26,4.23,12.01,Engineering,Ok,Good,1.0,0.0,0.0,Janet Curran,Asian,female,1.0,USA,32.0,94061
-367,0.51,2.54,2.1,5.8,2.86,0.07,0.0,47.0,2.1,-0.96,2.16,-0.38,-1.68,4.76,Engineering,Ok,Bad,0.0,0.0,0.0,Wendy Walker,Asian,female,2.0,Australia,29.0,94114
-368,-0.19,3.19,2.8,2.8,2.7,-1.65,0.0,50.0,0.1,-2.59,2.58,0.37,0.12,7.19,Quantitative,Very Good,Good,0.0,0.0,0.0,Mary Guinane,Asian,female,1.0,USA,29.0,94609
-369,-0.41,3.32,1.8,3.2,3.56,1.39,0.0,79.0,0.0,-2.6,2.02,-0.89,-0.76,6.17,Quantitative,None,Bad,0.0,0.0,0.0,Patricia Santoyo,Asian,female,1.0,USA,30.0,94533
-370,0.56,3.23,2.2,6.8,4.82,6.7,0.0,17.0,6.7,3.12,2.95,3.11,2.0,8.95,Engineering,Very Good,Good,1.0,0.0,0.0,Sherri Moss,Asian,female,1.0,USA,27.0,94301
-371,-0.02,3.73,2.7,4.9,3.5,0.77,2.7,49.0,4.7,1.93,1.05,-2.85,-2.49,4.09,Humanities,Ok,Bad,0.0,0.0,0.0,Delorse Vela,Asian,female,1.0,USA,34.0,94502
-372,-0.36,2.08,1.7,2.1,2.04,-2.85,0.0,2.0,0.8,-1.8,0.0,-3.74,-4.23,1.5,Quantitative,None,Good,0.0,1.0,0.0,Sandra Longo,Asian,female,1.0,USA,25.0,94040
-373,-1.29,2.83,1.1,0.9,2.18,-4.03,0.0,40.0,0.0,-3.43,0.98,-2.72,-2.5,4.05,Engineering,None,Good,0.0,1.0,0.0,Jeanie Perryman,Asian,female,1.0,USA,25.0,94603
-374,-0.39,3.25,2.2,3.1,2.44,-2.88,0.0,12.0,3.1,0.02,2.22,0.09,-1.28,4.97,Engineering,Ok,Good,0.0,1.0,0.0,Louise Chau,Asian,female,1.0,USA,27.0,94087
-375,1.33,2.74,1.3,7.0,3.06,2.65,0.0,41.0,4.6,1.47,2.25,0.23,-0.62,6.04,Engineering,Ok,Good,1.0,0.0,0.0,Hillary Elder,Asian,female,1.0,USA,30.0,94542
-376,-0.91,3.15,0.1,2.6,2.14,-3.59,0.0,18.0,4.0,0.83,0.92,-3.11,-3.1,3.41,Sciences,Very Good,Good,0.0,1.0,0.0,Diana Castaneda,Asian,female,1.0,USA,24.0,95035
-377,0.59,3.16,1.2,6.1,2.63,-0.39,0.0,10.0,1.5,-1.28,0.76,-1.46,-0.35,6.83,Humanities,Ok,Good,0.0,0.0,0.0,Dorothy Pannell,Asian,female,1.0,USA,31.0,94085
-378,-1.28,3.42,1.6,3.0,3.49,-0.69,2.1,4.0,3.4,0.17,3.33,2.02,1.33,8.48,Engineering,None,Bad,1.0,1.0,0.0,Irma Brown,Asian,female,1.0,USA,30.0,94040
-379,0.66,3.02,1.9,9.4,4.11,3.63,0.0,5.0,6.6,3.03,1.01,-2.93,-2.26,4.5,Quantitative,Ok,Good,1.0,0.0,0.0,Mary Johnson,Asian,female,1.0,USA,32.0,94043
-380,1.01,2.95,2.2,4.5,3.27,2.75,0.0,43.0,2.5,-0.22,2.63,0.96,1.43,8.97,Engineering,Ok,Good,1.0,0.0,0.0,Nicole Ramirez,Asian,female,1.0,USA,26.0,94014
-381,-1.47,3.32,2.2,3.0,3.04,-2.82,0.0,59.0,3.5,0.57,2.35,0.71,0.63,7.72,Sciences,Very Good,Bad,0.0,1.0,0.0,Irene Hall,Asian,female,1.0,China,28.0,94709
-382,-0.89,4.36,2.2,-0.3,3.13,-0.99,0.0,24.0,3.5,0.53,0.42,-3.06,-2.9,3.5,Engineering,Very Good,Good,0.0,0.0,0.0,Myra Steinberg,Asian,female,1.0,USA,27.0,94027
-383,-0.31,3.2,1.9,2.2,2.61,-1.8,0.0,1.0,4.8,1.48,2.83,1.89,1.21,8.29,Quantitative,None,Good,0.0,0.0,0.0,Leeanne Cory,Asian,female,1.0,USA,27.0,94040
-384,1.24,2.53,1.2,5.8,2.73,1.61,0.0,16.0,4.3,1.08,1.63,-0.29,0.17,7.38,Engineering,Ok,Bad,0.0,0.0,0.0,June Babb,Asian,female,1.0,China,31.0,95134
-385,-0.0,2.31,3.7,2.6,3.01,-0.32,3.7,77.0,5.8,2.8,3.54,2.86,2.65,10.22,None,None,Good,1.0,0.0,0.0,Carol Alter,Asian,female,1.0,USA,31.0,94945
-386,0.76,3.01,3.9,3.7,3.18,1.06,0.0,26.0,0.6,-2.24,3.7,4.51,4.42,12.32,Engineering,Ok,Good,0.0,0.0,0.0,Jennifer Sisco,Asian,female,1.0,USA,28.0,94403
-387,-1.9,2.96,1.1,1.9,2.09,-6.26,0.0,1.0,5.0,1.68,0.1,-2.61,-2.03,4.41,Quantitative,None,Good,0.0,1.0,1.0,Edna Wilson,Asian,female,1.0,USA,24.0,94040
-388,0.64,2.96,1.4,3.7,2.35,-0.6,0.0,57.0,1.4,-1.34,2.46,0.08,-0.7,6.12,Engineering,Ok,Good,0.0,1.0,1.0,Annette Pawlak,Asian,female,1.0,USA,25.0,94038
-389,-0.23,2.66,1.7,4.1,2.7,-1.13,0.7,30.0,0.5,-2.2,3.52,1.1,0.76,8.19,Sciences,Ok,Good,0.0,0.0,0.0,Danielle Fountain,Asian,female,1.0,USA,27.0,94587
-390,-0.99,2.31,2.2,-1.3,1.82,-4.43,0.0,27.0,3.1,0.15,1.88,-0.17,0.04,7.05,Humanities,None,Bad,0.0,0.0,1.0,Laura Harrod,Asian,female,1.0,USA,23.0,94070
-391,-1.36,3.52,0.4,5.1,3.06,-2.56,0.0,49.0,2.6,-0.18,2.79,2.93,2.85,10.27,Quantitative,Ok,Bad,0.0,0.0,0.0,Gracie Chavez,Asian,female,1.0,USA,27.0,94502
-392,-0.38,3.18,2.9,3.2,3.22,-0.4,0.0,11.0,0.7,-2.36,1.17,-1.17,-1.04,5.75,Engineering,None,Good,0.0,0.0,0.0,Emma Spaeth,Asian,female,1.0,China,29.0,94089
-393,0.39,2.72,2.3,5.0,3.12,0.79,0.0,7.0,6.4,2.86,2.79,0.49,1.32,9.0,Humanities,None,Good,0.0,0.0,0.0,Dawn Sirwet,Asian,female,1.0,USA,27.0,94043
-394,-0.03,2.3,1.6,6.5,2.57,-1.92,0.0,3.0,6.1,2.5,1.69,-0.9,-0.39,6.71,Humanities,Very Good,Good,0.0,1.0,0.0,Angela Harbeson,Asian,female,1.0,USA,29.0,94040
-395,1.16,3.32,2.7,5.1,3.86,4.67,0.0,2.0,3.8,0.23,2.76,1.49,2.34,10.18,Engineering,Ok,Good,0.0,0.0,0.0,Christina Wada,Asian,female,0.0,USA,28.0,94040
-396,0.14,2.83,1.8,3.4,2.47,-1.15,0.0,5.0,4.6,1.3,1.3,-0.11,0.65,7.82,Engineering,Ok,Bad,0.0,0.0,0.0,Joan Harris,Asian,female,1.0,USA,26.0,94043
-397,0.27,3.12,1.8,3.6,3.56,2.8,1.9,39.0,2.8,-0.11,0.89,-2.22,-1.59,5.23,Quantitative,Ok,Good,1.0,0.0,0.0,Doris Klein,Asian,female,2.0,China,25.0,94578
-398,0.99,3.13,3.3,8.3,4.4,4.79,0.0,6.0,1.8,-1.2,0.95,-2.53,-1.86,4.98,Quantitative,Ok,Good,1.0,0.0,0.0,Sandra Gillespie,Asian,female,1.0,USA,31.0,94043
-399,-0.84,2.69,2.0,-1.0,2.17,-2.97,0.0,14.0,6.3,2.8,1.87,0.13,0.01,6.9,Sciences,Ok,Good,0.0,0.0,0.0,Robin Sorensen,Asian,female,1.0,USA,21.0,95002
-400,1.21,3.21,1.9,8.8,3.64,3.13,0.0,14.0,4.4,0.99,3.1,1.63,1.96,9.7,Quantitative,Very Good,Good,1.0,0.0,0.0,Lena Ginkel,Asian,female,1.0,USA,30.0,95002
-401,-0.53,3.01,2.6,1.1,3.09,-0.03,0.0,63.0,0.0,-2.81,4.16,4.17,5.21,13.69,Engineering,None,Bad,0.0,0.0,0.0,Helen Wong,Asian,female,1.0,USA,23.0,94801
-402,0.56,3.3,0.7,6.6,2.91,0.67,1.8,25.0,2.3,-0.87,3.14,1.61,1.07,8.25,Engineering,Ok,Good,0.0,0.0,0.0,Judy Tirabassi,Asian,female,0.0,USA,29.0,94539
-403,-0.77,2.86,2.3,1.7,2.34,-3.31,0.0,35.0,1.3,-1.6,4.04,1.64,0.78,8.2,Engineering,Ok,Good,0.0,0.0,0.0,Victoria Adams,Asian,female,0.0,USA,23.0,94566
-404,1.25,2.65,2.9,5.6,3.47,3.34,0.0,15.0,6.1,2.85,4.32,4.2,3.45,11.13,Engineering,None,Good,1.0,0.0,0.0,Martha Gregoire,Asian,female,2.0,Australia,29.0,95002
-405,0.32,3.19,1.6,3.3,3.15,1.49,0.0,51.0,2.1,-0.54,1.31,-0.77,-0.89,5.79,Engineering,Very Good,Good,0.0,0.0,0.0,Jaclyn Kirk,Asian,female,2.0,Canada,26.0,94618
-406,0.14,2.92,2.5,3.0,2.69,-0.62,0.0,34.0,6.8,3.14,2.65,1.4,-0.26,6.1,Quantitative,None,Bad,0.0,0.0,0.0,Rosa Orta,Asian,female,0.0,USA,26.0,94030
-407,-0.47,2.94,1.5,3.2,2.31,-3.03,0.0,1.0,6.7,2.95,2.32,0.89,1.42,8.86,Sciences,Ok,Bad,0.0,0.0,1.0,Mary Gomez,Asian,female,0.0,USA,25.0,94040
-408,0.53,3.64,1.9,5.9,3.7,2.77,2.0,38.0,3.1,0.25,4.05,2.25,2.11,9.85,Quantitative,Ok,Good,1.0,0.0,0.0,Erin Martin,Asian,female,2.0,USA,32.0,94586
-409,-0.01,2.04,2.5,1.6,2.06,-2.42,0.0,56.0,0.4,-2.24,2.22,-0.42,0.83,8.59,Engineering,None,Good,0.0,0.0,0.0,Ethel Evans,Asian,female,0.0,USA,26.0,94595
-410,-1.13,3.2,0.7,2.7,2.1,-4.57,1.5,56.0,2.2,-0.62,1.66,-0.71,0.36,7.74,Sciences,Ok,Bad,0.0,0.0,1.0,Claretha Hamilton,Asian,female,0.0,Canada,26.0,94595
-411,-0.74,3.35,2.4,-2.9,2.57,-1.25,0.0,50.0,5.0,2.11,1.7,-0.38,-0.42,6.41,Sciences,Very Good,Good,0.0,0.0,0.0,Vanessa Sanzotta,Asian,female,0.0,USA,20.0,94609
-412,-0.19,2.97,1.4,5.5,2.77,-1.41,0.0,37.0,3.7,0.61,0.37,-3.31,-3.23,3.06,Engineering,Ok,Bad,0.0,0.0,0.0,Dora Steed,Asian,female,0.0,USA,29.0,94545
-413,0.31,2.69,3.5,2.8,3.47,2.31,0.0,58.0,0.0,-3.34,2.72,0.64,0.95,8.36,Engineering,Ok,Good,0.0,0.0,0.0,Chelsea Gallagher,Asian,female,2.0,USA,26.0,94720
-414,-0.88,2.01,2.8,-2.4,1.09,-6.57,0.0,53.0,0.0,-2.63,2.34,0.4,0.01,7.05,Quantitative,None,Good,0.0,0.0,1.0,Cynthia Copstead,Asian,female,0.0,USA,24.0,94549
-415,-0.59,3.61,3.0,4.3,4.38,2.72,0.0,22.0,3.4,0.26,2.58,0.58,0.64,7.98,Engineering,Very Good,Good,1.0,0.0,0.0,Margaret Rodriguez,Asian,female,2.0,USA,29.0,94061
-416,-0.68,1.89,2.9,-1.8,1.37,-5.36,0.0,38.0,3.0,0.44,2.7,1.59,1.19,8.36,Quantitative,Ok,Good,0.0,0.0,1.0,Gladys Smith,Asian,female,0.0,USA,21.0,94586
-417,0.4,2.48,3.3,2.8,2.93,0.58,0.0,9.0,1.8,-1.44,2.82,0.33,-0.48,6.35,Engineering,Ok,Good,0.0,0.0,0.0,Amy Thai,Asian,female,0.0,USA,24.0,94085
-418,-0.52,3.61,2.9,2.4,3.35,-0.17,0.0,78.0,2.7,-0.05,0.38,-2.17,-1.91,4.54,Quantitative,None,Bad,0.0,0.0,0.0,Wendy Mills,Asian,female,0.0,Australia,26.0,94592
-419,-0.4,2.46,2.4,4.0,2.61,-2.26,0.0,61.0,1.1,-1.38,0.71,-2.62,-2.21,4.34,Quantitative,None,Bad,1.0,0.0,0.0,Jennifer Willie,Asian,female,0.0,USA,27.0,94707
-420,0.47,3.33,1.5,6.3,3.18,0.99,0.0,29.0,4.3,0.94,3.83,1.67,2.31,10.31,Sciences,Very Good,Bad,0.0,0.0,0.0,Jennie Clermont,Asian,female,0.0,USA,31.0,94560
-421,-0.28,2.77,2.4,8.9,3.73,0.36,0.0,41.0,2.7,-0.45,2.64,1.06,1.12,8.35,Sciences,Very Good,Bad,0.0,0.0,0.0,Denise Fuller,Asian,female,0.0,USA,30.0,94542
-422,0.51,3.62,3.2,6.6,4.15,3.48,1.2,23.0,1.6,-1.27,3.22,2.41,2.44,10.04,Quantitative,None,Good,1.0,0.0,0.0,Elisabeth Singley,Asian,female,2.0,USA,30.0,94028
-423,-0.39,2.83,1.2,2.4,2.27,-2.32,0.0,26.0,2.2,-0.69,2.59,1.17,2.2,10.05,Quantitative,Ok,Bad,0.0,1.0,0.0,Rachel Uriegas,Asian,female,0.0,USA,24.0,94403
-424,-0.85,2.42,2.5,2.6,2.43,-3.49,0.0,17.0,7.4,4.24,1.13,-1.4,-0.94,5.91,Engineering,None,Good,1.0,0.0,0.0,Yolanda Eckland,Asian,female,0.0,USA,25.0,94301
-425,0.44,3.27,3.2,2.8,3.49,2.26,0.0,28.0,3.5,0.43,1.33,-0.94,-1.18,5.35,Engineering,Very Good,Good,0.0,0.0,0.0,Jana Levy,Asian,female,2.0,USA,23.0,94402
-426,0.57,2.76,2.1,6.2,3.26,1.5,0.0,37.0,3.3,0.32,0.23,-3.38,-2.97,3.36,Engineering,Ok,Good,0.0,0.0,0.0,Susan Gordon,Asian,female,2.0,USA,30.0,94545
-427,0.39,3.07,1.3,8.0,3.62,2.19,0.0,19.0,4.4,1.04,3.05,3.36,2.24,9.25,Quantitative,Very Good,Good,0.0,0.0,0.0,Marina Jones,Asian,female,2.0,USA,33.0,94304
-428,-0.42,3.02,2.3,3.9,3.25,-0.18,0.0,7.0,6.3,2.8,2.18,0.96,0.33,7.19,Quantitative,Ok,Bad,0.0,0.0,0.0,Hope Rowland,Asian,female,0.0,USA,25.0,94043
-429,1.44,3.42,3.2,6.3,4.43,6.44,0.0,13.0,3.2,-0.0,0.77,-3.07,-2.83,3.7,Engineering,Ok,Good,0.0,1.0,0.0,Linda Smith,Asian,female,2.0,USA,31.0,94022
-430,-1.49,2.54,1.8,-1.6,1.91,-4.72,0.0,39.0,0.0,-3.45,0.94,-0.1,-0.56,5.8,Engineering,None,Bad,1.0,0.0,1.0,Dorothy Sanford,Asian,female,0.0,USA,21.0,94578
-431,0.53,3.5,2.0,8.3,3.63,1.56,0.0,3.0,4.0,0.86,5.08,4.05,3.28,11.14,Quantitative,Very Good,Good,0.0,0.0,0.0,Tina Hensley,Asian,female,2.0,China,31.0,94040
-432,0.6,2.65,2.1,5.6,3.3,1.8,0.0,8.0,3.6,0.46,0.81,-3.6,-3.83,2.38,Quantitative,Very Good,Good,0.0,0.0,0.0,Raquel Mohan,Asian,female,2.0,China,30.0,94085
-433,0.05,3.29,2.7,3.6,3.5,1.4,0.0,116.0,1.4,-1.29,0.89,-1.61,-1.03,5.75,Engineering,Ok,Good,0.0,1.0,0.0,Lisa Speed,Asian,female,0.0,China,26.0,94970
-434,0.58,2.92,1.9,8.6,4.01,3.44,0.0,55.0,0.6,-2.14,0.69,-3.43,-3.53,2.77,Quantitative,Ok,Good,1.0,0.0,0.0,Johanna Thomas,Asian,female,2.0,Australia,33.0,94523
-435,0.15,3.49,1.0,4.0,2.97,0.54,0.0,27.0,0.0,-3.77,0.0,-4.24,-2.53,4.24,Quantitative,Very Good,Bad,0.0,0.0,0.0,Maria Early,Asian,female,0.0,Australia,27.0,94070
-436,0.08,3.65,3.8,3.4,4.58,4.66,0.0,28.0,1.5,-1.47,3.11,1.18,0.51,7.56,Engineering,Ok,Good,0.0,0.0,0.0,Virginia Countryman,Asian,female,2.0,USA,26.0,94402
-437,-0.25,3.51,2.0,3.9,3.89,2.35,0.0,13.0,4.5,1.15,3.34,1.37,0.6,7.82,Engineering,None,Good,0.0,0.0,0.0,Faye Miller,Asian,female,2.0,USA,25.0,94022
-438,-0.22,2.75,0.9,4.4,2.62,-1.29,0.0,48.0,2.3,-0.64,2.67,2.1,1.57,8.57,Quantitative,Ok,Good,1.0,0.0,0.0,Lisa Weston,Asian,female,0.0,USA,29.0,94109
-439,-1.21,2.81,1.6,5.9,2.71,-4.01,0.0,12.0,2.9,-0.26,1.18,-1.86,-1.98,4.54,Quantitative,None,Good,0.0,0.0,0.0,Cheryl Winger,Asian,female,0.0,USA,28.0,94087
-440,-0.82,3.56,1.0,-2.5,1.66,-4.28,0.0,3.0,2.4,-0.14,1.07,-2.82,-3.28,2.97,Sciences,None,Good,0.0,0.0,0.0,Viola Kartchner,Asian,female,0.0,China,20.0,94040
-441,0.84,3.47,3.1,0.4,3.58,4.41,0.0,36.0,0.0,-3.38,2.51,1.6,1.52,8.7,Engineering,None,Bad,1.0,1.0,0.0,Susan Snell,Asian,female,2.0,USA,26.0,94588
-442,0.14,3.99,1.8,4.2,3.57,1.84,0.0,89.0,1.9,-0.49,1.37,-2.78,-2.85,3.62,Quantitative,Very Good,Good,0.0,0.0,0.0,Janice Tarrant,Asian,female,2.0,USA,25.0,94559
-443,-0.04,3.53,0.8,4.5,3.81,2.91,0.0,50.0,2.0,-0.63,3.0,0.96,1.25,8.74,Sciences,Ok,Good,0.0,0.0,0.0,Arielle Stooks,Asian,female,2.0,USA,27.0,94609
-444,0.32,3.61,3.1,2.8,3.65,2.62,0.0,56.0,0.0,-4.06,1.66,0.05,-0.22,6.47,Engineering,Ok,Good,0.0,0.0,0.0,Laura Lewis,Asian,female,2.0,USA,24.0,94595
-445,-0.66,2.96,3.0,3.2,2.94,-1.92,0.0,43.0,2.8,-0.08,1.9,-2.12,-2.46,4.08,Humanities,None,Bad,0.0,0.0,0.0,Elizabeth Cole,Asian,female,0.0,USA,26.0,94014
-446,-0.59,3.1,2.8,6.9,4.4,2.37,0.0,27.0,3.5,0.37,1.4,0.4,0.17,6.98,Engineering,Ok,Good,1.0,0.0,0.0,Annette Dunn,Asian,female,2.0,USA,31.0,94070
-447,-0.64,2.82,3.0,5.7,3.64,-0.1,0.0,43.0,3.4,0.44,0.0,-4.12,-3.4,3.05,Quantitative,None,Good,0.0,0.0,0.0,Carol Right,Asian,female,0.0,China,30.0,94014
-448,0.5,2.75,2.1,4.8,2.94,0.57,0.0,16.0,8.0,4.5,1.53,-2.24,-1.98,4.68,Humanities,Very Good,Good,0.0,0.0,0.0,Dorothy Rudd,Asian,female,0.0,Australia,27.0,95134
-449,0.04,3.32,2.6,1.8,3.31,1.59,0.7,41.0,0.4,-2.05,1.79,-0.13,-0.24,6.67,Sciences,Very Good,Good,0.0,0.0,0.0,Tracy Machuca,Asian,female,2.0,USA,23.0,94542
-450,-0.52,2.32,1.0,3.8,2.12,-3.39,0.0,37.0,2.4,-0.72,3.21,2.44,1.14,7.88,Humanities,None,Bad,0.0,0.0,0.0,Heidi Guzman,Asian,female,0.0,USA,26.0,94545
-451,-1.19,2.36,3.4,1.9,1.94,-6.03,0.0,31.0,2.7,-0.02,2.37,1.51,0.7,7.46,Engineering,Ok,Good,0.0,0.0,1.0,Sharon Debusk,Asian,female,0.0,USA,27.0,94544
-452,-0.84,3.26,1.4,1.2,2.65,-2.0,0.0,31.0,0.0,-2.91,3.29,2.07,1.74,9.07,Quantitative,None,Bad,0.0,0.0,0.0,Jennifer Shrader,Asian,female,0.0,USA,27.0,94544
-453,-0.99,1.83,0.0,4.3,1.22,-7.0,0.0,1.0,4.2,0.9,1.58,-1.87,-2.05,4.61,Engineering,Ok,Good,0.0,0.0,1.0,Alexandra Valerio,Asian,female,0.0,USA,26.0,94040
-454,0.38,3.43,1.4,7.5,4.13,3.81,0.0,14.0,2.1,-1.0,2.73,0.6,0.26,7.28,Quantitative,Ok,Good,1.0,0.0,0.0,Edith Barnes,Asian,female,2.0,China,29.0,95002
-455,-1.1,2.73,2.3,-4.6,1.01,-6.54,1.2,29.0,1.6,-1.12,0.92,-2.05,-2.5,3.7,Quantitative,None,Good,0.0,0.0,1.0,Bernadette Ratliff,Asian,female,0.0,Australia,21.0,94560
-456,-0.38,3.64,1.0,7.1,3.86,1.33,0.0,29.0,6.6,2.68,2.59,1.62,1.3,8.41,Engineering,None,Good,0.0,0.0,0.0,Lisa Magee,Asian,female,0.0,USA,28.0,94560
-457,-0.09,3.2,3.4,2.5,3.74,2.25,0.0,13.0,6.8,3.27,0.65,-2.64,-1.17,6.05,Quantitative,Very Good,Good,0.0,0.0,0.0,Verla Buckley,Asian,female,2.0,USA,23.0,94022
-458,-1.76,3.44,1.9,1.4,2.8,-3.58,0.0,52.0,6.0,2.68,2.28,0.7,0.48,7.53,Engineering,Very Good,Bad,0.0,0.0,0.0,Katherin Brousseau,Asian,female,0.0,USA,27.0,94611
-459,0.55,3.19,2.4,5.1,3.69,2.98,0.0,19.0,5.2,1.9,1.29,-0.46,-0.3,6.55,Humanities,Ok,Good,1.0,0.0,0.0,Barbara Howell,Asian,female,2.0,USA,30.0,94304
-460,-0.77,2.83,2.7,5.8,3.51,-0.7,0.0,17.0,1.1,-1.56,0.72,-0.94,-0.6,6.11,Engineering,Very Good,Bad,0.0,0.0,0.0,Angela Prat,Asian,female,0.0,USA,27.0,94301
-461,0.05,3.41,2.2,6.8,3.8,1.72,0.0,14.0,2.0,-0.91,2.09,-0.7,-1.08,5.65,Quantitative,Ok,Bad,0.0,0.0,0.0,Josefina Dougherty,Asian,female,2.0,China,31.0,95002
-462,1.03,2.38,1.6,4.7,2.57,0.99,0.0,45.0,6.6,3.52,1.97,1.19,1.46,8.7,Sciences,Very Good,Bad,0.0,0.0,0.0,Lisa Jackson,Asian,female,0.0,USA,27.0,94105
-463,-0.12,1.94,2.4,1.4,2.0,-2.51,0.0,18.0,7.5,3.94,0.69,-2.35,-1.93,4.67,Engineering,None,Bad,0.0,0.0,0.0,Maria Vega,Asian,female,0.0,USA,25.0,95035
-464,0.16,2.63,1.8,5.1,3.3,1.39,0.0,30.0,2.8,0.0,2.15,-1.2,-1.61,5.08,Quantitative,Ok,Good,0.0,0.0,0.0,Candice Branson,Asian,female,0.0,Canada,27.0,94587
-465,-0.31,2.69,3.0,4.2,2.9,-1.67,0.0,14.0,0.3,-2.8,1.26,-1.19,-1.51,4.97,Engineering,None,Good,0.0,0.0,0.0,Laverna Mason,Asian,female,0.0,USA,27.0,95002
-466,-0.44,2.99,3.5,-1.4,2.3,-2.51,0.0,46.0,3.4,0.49,2.18,1.04,0.38,7.09,Engineering,Ok,Bad,0.0,0.0,0.0,Angela Eschen,Asian,female,0.0,USA,23.0,94019
-467,-0.46,2.27,0.6,0.8,1.37,-4.52,1.8,15.0,3.0,-0.25,0.96,-1.78,-2.04,4.4,Quantitative,Ok,Bad,0.0,0.0,1.0,Kendra Wagner,Asian,female,0.0,Australia,23.0,95002
-468,-1.21,3.16,1.6,1.8,3.3,-0.63,0.0,32.0,2.5,-0.5,1.74,-0.26,-0.37,6.55,Engineering,None,Bad,0.0,0.0,0.0,Phyllis Rodgers,Asian,female,0.0,USA,23.0,94544
-469,-0.44,2.77,2.2,5.4,3.51,0.59,0.0,51.0,3.3,0.37,3.29,1.3,-0.01,6.83,Sciences,Very Good,Bad,0.0,1.0,0.0,Mary Baird,Asian,female,0.0,USA,28.0,94618
-470,0.71,3.12,0.6,5.8,4.13,5.74,0.0,22.0,2.9,0.01,1.45,-1.25,-1.19,5.59,Engineering,Ok,Good,1.0,0.0,0.0,Sandra Weakland,Asian,female,2.0,USA,28.0,94061
-471,-0.74,3.85,1.1,4.9,3.82,1.23,0.0,80.0,0.9,-1.45,1.49,-0.9,-0.39,6.68,Engineering,Very Good,Good,0.0,0.0,0.0,Julie Petrowski,Asian,female,0.0,USA,29.0,94533
-472,0.46,2.82,1.9,-1.4,2.2,0.23,0.0,32.0,0.0,-2.73,3.0,0.8,1.39,9.18,Engineering,Very Good,Good,0.0,0.0,0.0,Iris Senethavilouk,Asian,female,0.0,USA,23.0,94544
-473,-1.71,2.53,0.8,1.0,1.33,-7.7,0.0,24.0,6.6,2.99,1.5,-0.62,-2.04,3.98,Quantitative,Ok,Good,1.0,0.0,1.0,Elaine Robinson,Asian,female,0.0,USA,29.0,94027
-474,1.03,3.15,1.2,4.4,3.21,3.14,0.0,13.0,2.7,-0.59,2.8,1.56,0.89,7.91,Engineering,Ok,Good,1.0,0.0,0.0,Connie Reist,Asian,female,2.0,USA,27.0,94022
-475,-0.91,3.33,0.7,2.4,1.97,-4.7,0.0,52.0,3.8,0.8,1.17,-1.47,-0.49,6.64,Engineering,None,Good,0.0,0.0,0.0,Ruth Hansen,Asian,female,0.0,USA,27.0,94611
-476,1.44,3.78,2.5,10.5,5.11,8.01,0.0,44.0,5.4,2.19,0.58,-4.33,-3.96,2.48,Quantitative,Ok,Good,1.0,0.0,0.0,Marjorie Barnett,Asian,female,2.0,USA,34.0,94131
-477,0.51,3.2,1.8,5.9,3.56,2.62,0.0,5.0,3.2,0.01,3.49,2.15,2.58,10.42,Engineering,Very Good,Good,0.0,0.0,0.0,Deborah Vogel,Asian,female,2.0,USA,28.0,94043
-478,0.43,3.74,2.7,3.7,4.11,4.4,0.0,7.0,8.6,4.93,4.1,3.47,3.16,10.93,Engineering,Ok,Good,1.0,0.0,0.0,Tracey Blunt,Asian,female,2.0,USA,27.0,94043
-479,-2.01,1.83,2.0,-0.8,1.15,-8.7,0.0,46.0,3.3,0.33,3.61,2.02,2.09,9.77,Engineering,None,Bad,0.0,0.0,0.0,Nona Flinders,Asian,female,0.0,Australia,22.0,94019
-480,-0.07,3.2,2.3,5.9,3.59,0.95,0.0,3.0,3.0,-0.18,0.66,-2.7,-2.77,3.59,Quantitative,Very Good,Good,1.0,1.0,0.0,Virginia Dunaway,Asian,female,0.0,USA,27.0,94040
-481,-1.45,2.71,1.8,1.1,2.52,-3.54,0.0,24.0,3.1,0.18,2.0,-1.47,-1.53,5.35,Engineering,Ok,Bad,0.0,0.0,0.0,Beatrice Sanchez,Asian,female,0.0,USA,26.0,94027
-482,-0.79,2.25,2.0,0.6,1.3,-6.48,0.0,34.0,3.5,0.46,1.26,-1.89,-0.43,6.98,Quantitative,None,Bad,0.0,0.0,0.0,Chandra Wilburn,Asian,female,0.0,USA,24.0,94030
-483,-1.52,3.17,2.7,0.6,2.52,-4.16,0.0,13.0,3.7,0.33,4.01,2.86,2.82,10.63,Engineering,Very Good,Bad,0.0,0.0,0.0,Rosalind Resh,Asian,female,0.0,USA,27.0,94022
-484,0.03,3.16,2.2,0.9,2.87,0.66,0.0,22.0,4.5,1.13,0.34,-4.07,-3.21,3.34,Engineering,None,Good,0.0,0.0,0.0,Nancy Ross,Asian,female,0.0,USA,22.0,94061
-485,0.62,2.66,2.8,1.8,2.71,0.9,0.0,11.0,2.8,-0.47,2.75,-0.03,0.24,7.57,Quantitative,Very Good,Good,0.0,1.0,0.0,Paula Montoya,Asian,female,0.0,USA,25.0,94089
-486,-0.19,2.24,1.6,4.5,2.92,-0.04,0.0,20.0,4.2,0.99,3.12,3.15,3.39,11.13,Engineering,Very Good,Bad,0.0,0.0,0.0,Beverly Wilson,Asian,female,0.0,USA,29.0,94025
-487,-0.78,2.85,0.6,4.6,2.62,-2.42,0.0,47.0,5.9,2.9,2.09,0.36,0.15,7.07,Quantitative,Ok,Good,1.0,0.0,0.0,Kimberly Miller,Asian,female,0.0,USA,25.0,94114
-488,0.38,1.88,1.8,4.4,1.69,-3.39,4.0,9.0,7.6,4.17,2.59,0.1,0.38,7.81,Quantitative,None,Good,1.0,0.0,0.0,Dorothy Perkins,Asian,female,0.0,Australia,34.0,94085
-489,0.46,2.94,2.7,5.2,3.6,2.32,0.0,10.0,3.8,0.43,0.83,-3.46,-3.14,3.38,Engineering,Very Good,Good,0.0,0.0,0.0,Loretta Gardner,Asian,female,1.0,China,28.0,94085
-490,-0.98,3.08,2.8,0.9,2.9,-1.89,0.0,17.0,4.3,1.04,0.04,-3.39,-2.08,4.72,Sciences,None,Good,0.0,0.0,0.0,Elizabeth Yates,Asian,female,0.0,Canada,23.0,94301
-491,-0.5,2.24,1.9,-2.7,1.7,-2.91,0.0,17.0,6.4,2.93,2.3,0.9,1.11,8.39,Engineering,None,Bad,1.0,0.0,0.0,Maria Meeker,Asian,female,0.0,USA,24.0,94301
-492,-1.12,2.95,0.6,6.7,2.71,-3.65,0.0,13.0,3.2,-0.13,0.6,-1.7,-1.21,5.41,Quantitative,None,Good,0.0,0.0,0.0,Ouida Oates,Asian,female,0.0,USA,29.0,94022
-493,1.67,3.73,2.1,7.2,4.06,5.77,0.0,5.0,3.5,0.51,1.66,-0.73,-0.61,6.32,Sciences,Ok,Good,1.0,0.0,0.0,Tanya Sawinski,Asian,female,2.0,USA,32.0,94043
-494,-0.33,2.97,3.0,5.0,2.9,-2.16,0.0,1.0,6.4,3.1,3.78,3.56,2.76,10.14,Engineering,Ok,Good,0.0,0.0,0.0,Vonda Goodell,Asian,female,0.0,USA,27.0,94040
-495,-0.14,2.72,2.9,4.2,3.23,0.31,0.0,30.0,2.7,-0.12,2.1,-0.08,0.68,8.09,Engineering,Very Good,Good,0.0,0.0,0.0,Lindsey Piermont,Asian,female,0.0,USA,28.0,94587
-496,-0.51,2.63,1.4,2.9,2.04,-3.61,0.0,43.0,4.3,1.14,2.33,1.63,1.31,8.38,Engineering,Very Good,Good,0.0,0.0,0.0,Rena Bertram,Asian,female,0.0,USA,23.0,94014
-497,1.29,3.01,1.1,9.6,3.58,3.59,0.0,11.0,1.7,-1.35,2.78,0.86,0.59,7.78,Engineering,Very Good,Good,1.0,0.0,0.0,Phylis Woolford,Asian,female,2.0,USA,34.0,94089
-498,0.93,2.78,3.6,5.2,3.38,2.22,0.0,19.0,1.3,-1.82,2.39,-0.49,0.1,7.55,Quantitative,Ok,Good,0.0,1.0,0.0,Marty Wilson,Asian,female,1.0,USA,29.0,94304
-499,-0.72,2.55,0.8,2.6,2.15,-3.26,0.0,72.0,0.3,-1.91,3.19,1.13,0.53,7.68,Sciences,Ok,Good,0.0,0.0,0.0,Dorothy Keys,Asian,female,0.0,USA,26.0,94572
-500,-0.75,2.73,-0.4,3.2,1.46,-5.44,0.0,3.0,5.4,1.95,1.11,-2.55,-2.37,4.24,Engineering,None,Good,0.0,0.0,0.0,Julee Jones,Asian,female,0.0,USA,28.0,94040
-501,1.18,3.11,1.9,5.4,4.0,5.64,0.0,42.0,5.1,2.02,2.64,2.42,2.74,10.26,Engineering,Very Good,Good,1.0,0.0,0.0,Donna Marriott,Asian,female,2.0,USA,30.0,94605
-502,0.49,2.98,1.9,3.8,2.56,-0.37,0.1,64.0,0.0,-3.2,2.77,2.09,1.96,9.35,Quantitative,None,Bad,0.0,0.0,0.0,Margaret White,Asian,female,0.0,USA,27.0,94525
-503,0.03,3.11,1.6,3.5,3.18,1.19,0.0,13.0,0.0,-4.1,3.21,3.0,3.3,11.13,Engineering,Ok,Bad,0.0,0.0,0.0,Darla Castillo,Asian,female,0.0,Canada,25.0,94022
-504,-1.72,2.71,1.9,-0.4,1.88,-5.87,0.0,67.0,0.2,-2.07,2.98,2.74,2.37,9.6,Engineering,Ok,Bad,0.0,0.0,0.0,Effie Boyles,Asian,female,0.0,USA,25.0,94598
-505,0.5,2.77,2.8,3.3,2.28,-1.74,0.0,20.0,0.7,-2.17,1.95,-1.38,-0.23,7.3,Engineering,Ok,Bad,0.0,0.0,0.0,Nancy Jackson,Asian,female,0.0,USA,26.0,94025
-506,0.35,3.71,3.7,7.8,5.44,7.13,0.0,53.0,5.8,2.54,2.03,0.33,0.64,7.84,Engineering,Ok,Good,1.0,0.0,0.0,Rachael Branch,Asian,female,2.0,USA,31.0,94549
-507,-0.51,2.33,1.9,-1.9,1.48,-3.99,0.0,14.0,3.1,0.04,2.41,0.94,0.12,6.74,Quantitative,Ok,Good,0.0,0.0,0.0,Sarah Simpson,Asian,female,0.0,Canada,25.0,95002
-508,0.5,2.88,2.1,4.2,2.61,-0.31,0.0,32.0,2.3,-0.55,4.11,3.04,3.5,11.59,Engineering,Ok,Bad,0.0,0.0,0.0,Portia Woodard,Asian,female,0.0,USA,29.0,94544
-509,-0.34,3.06,1.1,2.9,3.14,0.66,0.0,14.0,4.3,1.18,2.8,2.07,1.95,9.26,Engineering,Very Good,Bad,0.0,0.0,0.0,Christine Devoy,Asian,female,0.0,USA,26.0,95002
-510,-0.01,3.2,1.2,7.7,3.7,1.59,0.0,13.0,4.0,0.88,0.43,-3.11,-3.37,2.65,Sciences,Ok,Good,0.0,0.0,0.0,Lori Coleman,Asian,female,2.0,USA,28.0,94022
-511,0.18,2.63,1.8,3.1,2.76,0.37,0.0,33.0,7.3,3.95,2.38,-0.9,-0.68,6.4,Engineering,Ok,Bad,0.0,0.0,0.0,Sharon Guerrero,Asian,female,0.0,USA,26.0,94010
-512,0.69,2.79,1.7,4.3,2.59,0.13,0.0,38.0,3.7,0.54,1.49,-0.56,-1.25,5.16,Humanities,Ok,Good,0.0,1.0,0.0,Iona Alberding,Asian,female,0.0,USA,30.0,94586
-513,-0.2,2.94,2.0,1.7,2.75,-0.34,0.0,73.0,0.3,-2.39,0.41,-2.25,-2.08,4.28,Quantitative,None,Bad,0.0,0.0,0.0,Crystal Roy,Asian,female,0.0,USA,23.0,94591
-514,0.17,3.23,1.5,2.7,2.59,-0.66,2.9,34.0,4.6,1.5,1.23,-1.0,-1.26,5.28,Engineering,Ok,Good,0.0,0.0,0.0,Angela Mcevoy,Asian,female,0.0,USA,26.0,94030
-515,-0.73,2.58,1.3,1.2,2.18,-2.87,1.8,55.0,2.7,0.15,2.56,0.92,0.74,8.01,Quantitative,None,Bad,1.0,0.0,0.0,Sara Hurst,Asian,female,0.0,Canada,26.0,94523
-516,-0.71,3.1,1.9,3.8,4.06,2.47,0.0,30.0,3.1,0.21,1.43,-1.41,-0.76,6.32,Quantitative,Very Good,Good,0.0,0.0,0.0,Judy Culbertson,Asian,female,2.0,USA,24.0,94587
-517,-0.55,2.56,2.6,4.0,2.85,-1.96,0.0,46.0,4.9,1.72,1.27,0.76,1.16,8.1,Quantitative,Ok,Good,0.0,0.0,0.0,Lucy Trivino,Asian,female,0.0,USA,26.0,94019
-518,-1.11,3.09,2.6,3.0,3.64,-0.13,0.0,45.0,1.6,-0.97,2.55,0.17,-0.41,6.51,Quantitative,Ok,Good,0.0,0.0,0.0,Sherry Guidry,Asian,female,0.0,USA,25.0,94105
-519,-0.4,3.48,2.0,4.6,3.81,1.53,0.0,38.0,1.3,-1.4,3.68,3.56,3.06,10.6,Engineering,None,Good,0.0,0.0,0.0,Mary Matheson,Asian,female,2.0,USA,28.0,94586
-520,2.46,2.51,3.7,8.2,3.96,6.65,0.0,29.0,1.9,-0.79,4.25,4.52,4.45,12.4,Sciences,Ok,Good,1.0,1.0,0.0,Tammy Jack,Asian,female,2.0,USA,38.0,94560
-521,-0.93,2.91,1.2,7.0,3.07,-2.27,0.0,14.0,3.2,0.29,1.41,-0.3,-0.91,5.54,Engineering,Ok,Good,0.0,0.0,0.0,Emma Washington,Asian,female,0.0,China,29.0,95002
-522,0.24,2.95,1.7,-1.2,2.42,0.39,3.7,37.0,5.9,2.37,4.34,4.59,3.95,11.7,Quantitative,Ok,Good,1.0,1.0,0.0,Eva Mellow,Asian,female,0.0,USA,28.0,94545
-523,0.21,2.17,1.7,1.3,2.13,-1.2,0.0,5.0,1.8,-1.34,2.86,2.25,1.9,9.09,Quantitative,Ok,Good,1.0,0.0,0.0,Laurie Slayman,Asian,female,0.0,Canada,22.0,94043
-524,-0.29,3.1,0.4,1.2,1.54,-4.08,0.0,59.0,3.5,0.88,1.35,0.09,-0.16,6.46,Engineering,Ok,Bad,0.0,0.0,0.0,Judith Owens,Asian,female,0.0,USA,24.0,94709
-525,0.47,3.41,2.1,5.3,2.6,-1.55,0.0,16.0,6.0,2.81,2.91,1.69,1.41,8.78,Sciences,Ok,Good,0.0,0.0,0.0,Lakesha Torrence,Asian,female,0.0,USA,27.0,95134
-526,0.74,3.35,2.0,8.8,3.82,2.69,0.0,25.0,0.4,-2.47,2.03,0.28,0.49,7.55,Engineering,Very Good,Good,1.0,0.0,0.0,Cynthia Smith,Asian,female,2.0,USA,31.0,94539
-527,0.56,2.97,1.2,8.1,3.84,3.5,0.0,47.0,4.1,1.2,0.96,-2.13,-1.95,4.68,Quantitative,Ok,Good,1.0,0.0,0.0,Amber Higgins,Asian,female,2.0,USA,32.0,94114
-528,-0.13,2.57,1.1,4.1,2.67,-0.87,2.9,24.0,4.7,1.34,1.5,-0.13,-0.1,6.66,Engineering,Ok,Bad,0.0,0.0,0.0,Megan Harris,Asian,female,0.0,China,30.0,94027
-529,0.76,2.43,3.0,3.0,2.34,-0.55,0.0,14.0,2.7,-0.39,0.98,-3.67,-4.3,1.79,Quantitative,None,Bad,0.0,0.0,0.0,Mildred Mckenzie,Asian,female,0.0,USA,24.0,95002
-530,0.22,2.95,2.5,4.4,3.72,2.8,0.0,5.0,1.1,-1.74,0.42,-2.0,-1.01,5.85,Engineering,Ok,Good,0.0,0.0,0.0,Ann Gibbs,Asian,female,2.0,USA,27.0,94043
-531,1.05,3.08,2.3,7.4,3.25,1.87,0.0,44.0,0.0,-2.93,1.17,-1.38,-1.08,5.81,Engineering,Very Good,Good,1.0,1.0,0.0,Janice Peng,Asian,female,2.0,USA,31.0,94131
-532,-0.6,3.43,1.9,6.1,4.12,1.75,0.0,30.0,0.8,-2.0,2.45,1.57,2.54,10.44,Quantitative,Very Good,Good,0.0,0.0,0.0,Vivian Eaton,Asian,female,2.0,China,32.0,94587
-533,0.37,2.72,1.7,3.2,1.7,-3.6,0.0,59.0,1.5,-1.34,1.47,-1.46,-0.91,6.06,Engineering,Ok,Good,0.0,0.0,0.0,Ai Brooks,Asian,female,0.0,USA,28.0,94709
-534,0.5,3.6,2.9,5.5,3.94,3.1,0.0,39.0,4.8,1.41,0.29,-4.05,-3.1,3.56,Engineering,Very Good,Good,1.0,0.0,0.0,Jeanine Martin,Asian,female,2.0,USA,28.0,94578
-535,-0.56,4.27,2.4,2.8,3.82,1.39,0.0,72.0,0.0,-4.28,2.22,-0.99,-0.65,6.52,Engineering,Ok,Good,0.0,0.0,0.0,Misty Jones,Asian,female,0.0,China,24.0,94572
-536,0.38,3.05,2.7,5.3,3.44,1.43,0.0,49.0,2.8,-0.12,0.99,-0.81,-1.1,5.27,Sciences,Ok,Good,0.0,0.0,0.0,Krista Joyal,Asian,female,0.0,USA,27.0,94502
-537,0.83,2.3,1.6,3.5,1.99,-1.07,0.0,66.0,2.4,-0.5,0.33,-1.43,-1.0,5.52,Quantitative,None,Bad,1.0,0.0,0.0,Cara Byrge,Asian,female,0.0,USA,27.0,94925
-538,0.28,2.88,1.5,4.2,3.19,1.62,0.0,55.0,4.9,1.78,4.1,2.54,2.45,10.25,Engineering,Very Good,Bad,0.0,0.0,0.0,Lily Lee,Asian,female,2.0,USA,27.0,94523
-539,0.05,3.74,2.7,5.2,4.65,4.95,1.4,48.0,1.5,-1.17,1.82,0.59,0.9,8.05,Engineering,Ok,Good,1.0,0.0,0.0,Sarah Gurwell,Asian,female,2.0,USA,33.0,94109
-540,0.46,3.02,2.5,3.3,3.08,1.14,0.0,26.0,3.4,0.3,0.99,-1.82,-2.39,3.78,Engineering,Ok,Good,0.0,0.0,0.0,Guadalupe Clinch,Asian,female,0.0,USA,27.0,94403
-541,-1.21,2.86,0.9,3.3,2.57,-3.12,0.0,17.0,9.3,5.31,0.47,-3.06,-2.88,3.43,Humanities,Ok,Good,0.0,0.0,0.0,Martha Hunter,Asian,female,0.0,USA,26.0,94301
-542,0.19,2.88,1.8,4.7,2.59,-1.15,0.6,62.0,0.3,-2.14,0.52,-2.97,-2.75,3.68,Quantitative,None,Good,0.0,0.0,0.0,Marcelina Voris,Asian,female,0.0,USA,28.0,94564
-543,0.53,3.19,4.3,2.9,3.78,2.98,1.8,43.0,2.6,-0.08,2.52,-0.12,-0.33,6.72,Quantitative,Ok,Good,1.0,0.0,0.0,Kelly Collier,Asian,female,2.0,Australia,27.0,94014
-544,-1.27,2.09,2.8,-1.7,1.51,-6.19,0.0,22.0,1.8,-0.87,0.81,-2.77,-2.46,4.19,Humanities,Ok,Bad,0.0,0.0,0.0,Nancy Young,Asian,female,0.0,USA,22.0,94061
-545,-0.25,2.18,0.7,3.2,0.83,-7.1,0.0,31.0,4.9,1.8,0.0,-3.76,-2.99,3.44,Quantitative,None,Good,1.0,0.0,0.0,Samantha Mcdowell,Asian,female,0.0,Australia,25.0,94544
-546,0.14,3.0,1.8,5.5,3.12,0.12,0.0,64.0,2.6,-0.25,0.9,-0.44,-0.65,5.83,Sciences,None,Good,0.0,0.0,0.0,Belinda Sykes,Asian,female,0.0,USA,28.0,94525
-547,0.72,3.54,2.8,7.3,4.12,3.56,0.0,85.0,0.8,-1.65,3.5,3.65,2.91,10.35,Quantitative,Very Good,Good,1.0,1.0,0.0,Tammy Capulong,Asian,female,2.0,USA,30.0,94947
-548,-0.08,4.26,1.8,7.3,4.56,3.73,0.0,43.0,0.1,-2.42,1.66,-1.99,-2.01,4.69,Quantitative,None,Good,1.0,0.0,0.0,Patricia Baker,Asian,female,2.0,USA,31.0,94014
-549,-0.21,2.92,1.3,4.0,3.03,0.23,0.0,30.0,1.2,-1.49,2.54,0.29,0.25,7.51,Quantitative,Ok,Good,0.0,1.0,0.0,Anne Henrickson,Asian,female,0.0,Canada,25.0,94587
-550,-0.99,3.43,0.5,8.9,3.92,0.07,0.0,45.0,3.1,0.2,1.08,-2.78,-1.43,5.76,Engineering,Ok,Good,0.0,0.0,0.0,Lisa Bryant,Asian,female,0.0,USA,32.0,94105
-551,0.25,2.71,1.7,6.0,2.49,-1.76,0.0,62.0,3.7,0.64,3.28,3.18,2.81,10.35,Engineering,Ok,Bad,0.0,0.0,0.0,Corinne Crawford,Asian,female,0.0,USA,33.0,94564
-552,-1.45,2.65,0.5,1.4,1.64,-6.18,0.0,48.0,1.6,-0.85,2.67,2.02,1.47,8.53,Humanities,Ok,Good,0.0,0.0,0.0,Carrie Ashley,Asian,female,0.0,USA,23.0,94109
-553,-0.51,3.27,1.8,1.8,3.05,-0.13,0.0,22.0,5.0,1.87,2.16,0.69,0.35,7.33,Quantitative,Ok,Good,0.0,0.0,1.0,Maxine Delaney,Asian,female,0.0,USA,27.0,94061
-554,-0.35,3.29,0.8,4.9,2.69,-1.7,0.0,52.0,3.6,0.68,1.27,-0.53,-0.24,6.61,Quantitative,None,Good,0.0,0.0,0.0,Geneva Appel,Asian,female,0.0,USA,29.0,94611
-555,-1.53,2.26,0.8,-1.9,1.23,-6.63,0.0,14.0,3.9,0.73,2.84,1.37,1.96,9.58,Quantitative,Ok,Bad,0.0,0.0,0.0,Dierdre Nguyen,Asian,female,0.0,USA,23.0,95002
-556,0.32,2.2,1.2,5.2,2.6,-0.24,0.0,21.0,2.3,-0.59,2.64,-1.68,-1.9,5.15,Engineering,Ok,Bad,0.0,0.0,0.0,Monica Cotrell,Asian,female,0.0,USA,28.0,94538
-557,0.51,3.82,3.1,8.3,5.07,6.03,0.0,59.0,1.5,-1.1,0.1,-3.71,-3.93,2.12,Engineering,Very Good,Good,1.0,0.0,0.0,Martha Johnson,Asian,female,2.0,USA,32.0,94709
-558,0.5,1.9,1.6,1.3,1.46,-2.8,0.0,28.0,3.0,0.07,1.05,-2.03,-2.38,4.06,Engineering,Ok,Good,0.0,0.0,0.0,Mary Lett,Asian,female,0.0,Canada,27.0,94402
-559,-1.71,3.35,2.7,0.4,2.54,-4.67,0.0,48.0,4.5,1.27,2.41,0.77,1.59,9.37,Engineering,None,Good,1.0,0.0,0.0,Julia Huling,Asian,female,0.0,USA,23.0,94109
-560,-0.47,3.26,3.7,0.2,3.3,0.34,0.0,37.0,0.8,-1.82,2.26,-0.71,-0.19,7.13,Engineering,Very Good,Bad,0.0,0.0,0.0,Mildred Koh,Asian,female,0.0,China,25.0,94545
-561,-0.57,3.28,2.7,2.5,2.6,-2.84,0.0,9.0,4.0,0.56,1.06,-4.06,-3.94,2.55,Sciences,None,Bad,0.0,0.0,0.0,Sharon Boger,Asian,female,0.0,USA,23.0,94085
-562,0.23,2.97,1.5,2.9,2.47,-0.8,0.9,39.0,0.7,-2.18,1.26,0.2,0.67,7.64,Engineering,None,Good,0.0,0.0,0.0,Virginia Paterson,Asian,female,0.0,USA,28.0,94578
-563,-0.48,2.64,1.9,2.1,2.8,-0.7,0.0,27.0,7.9,4.21,0.85,-2.85,-2.61,4.01,Engineering,Ok,Good,0.0,0.0,0.0,Sharon Flores,Asian,female,0.0,USA,25.0,94070
-564,-0.55,3.45,3.3,3.0,3.31,-0.67,0.0,25.0,7.7,3.89,1.01,-0.63,-0.66,5.95,Quantitative,Ok,Bad,0.0,0.0,1.0,Carolyn Lazor,Asian,female,0.0,China,25.0,94539
-565,-0.51,2.91,2.5,3.5,3.16,-0.48,0.0,42.0,1.3,-1.51,0.77,-1.7,-1.05,5.88,Engineering,None,Bad,0.0,0.0,0.0,Monica Pinegar,Asian,female,0.0,USA,25.0,94605
-566,-1.19,2.89,1.6,0.6,1.61,-6.15,0.0,34.0,5.1,2.08,0.55,-3.48,-3.28,3.11,Engineering,None,Good,0.0,0.0,0.0,Susan Vanslyke,Asian,female,0.0,USA,23.0,94030
-567,1.47,3.38,3.4,7.9,4.48,6.13,1.0,32.0,1.1,-1.7,1.75,-1.98,-1.75,5.24,Engineering,Very Good,Good,1.0,0.0,0.0,Carrie Smith,Asian,female,2.0,USA,33.0,94544
-568,-0.33,3.73,2.7,2.8,4.35,3.86,4.9,14.0,8.3,4.29,1.35,-1.13,-1.95,4.23,Quantitative,Very Good,Good,1.0,0.0,0.0,Helen Beegle,Asian,female,2.0,USA,31.0,95002
-569,0.53,3.72,2.4,3.5,3.14,1.24,0.0,13.0,2.5,-0.7,1.69,-0.37,-0.84,5.8,Engineering,Ok,Bad,0.0,1.0,0.0,Elsa Mclucas,Asian,female,0.0,USA,24.0,94022
-570,-1.95,2.13,2.4,-0.1,1.45,-8.15,0.0,74.0,1.7,-0.9,2.69,2.14,2.23,9.63,Engineering,Ok,Good,0.0,0.0,0.0,Carla Davis,Asian,female,0.0,USA,23.0,94591
-571,0.37,2.94,0.8,2.6,1.8,-2.48,2.0,11.0,3.7,0.68,0.81,-0.98,-0.87,5.75,Quantitative,Ok,Good,0.0,0.0,0.0,Nancy Reel,Asian,female,0.0,USA,30.0,94089
-572,0.31,2.44,0.9,8.8,3.55,2.01,0.0,75.0,1.9,-0.79,2.2,-0.1,1.06,8.81,Engineering,Ok,Good,0.0,0.0,0.0,Christa Pepin,Asian,female,0.0,USA,32.0,94941
-573,0.68,3.66,0.7,4.9,3.38,3.1,0.0,31.0,0.1,-2.68,1.74,0.35,0.42,7.44,Humanities,Ok,Bad,1.0,0.0,0.0,Lacresha Abernathy,Asian,female,2.0,USA,29.0,94544
-574,0.43,3.18,2.3,2.5,3.19,1.97,0.0,32.0,3.7,0.5,0.86,-1.13,-1.25,5.2,Engineering,None,Good,0.0,0.0,0.0,Jammie Lopez,Asian,female,2.0,USA,24.0,94544
-575,-0.35,2.49,1.1,2.3,2.88,0.23,0.0,70.0,1.1,-1.26,1.27,-1.24,-1.29,5.3,Quantitative,Very Good,Good,1.0,0.0,0.0,Dorothy Brogan,Asian,female,0.0,China,25.0,94903
-576,0.54,3.5,1.4,7.0,3.61,2.39,0.0,25.0,7.5,3.71,0.63,-2.81,-2.71,3.8,Sciences,Ok,Good,0.0,0.0,0.0,Hester Lopez,Asian,female,2.0,China,28.0,94539
-577,0.75,2.78,2.1,6.2,3.05,1.11,0.0,63.0,2.4,-0.29,3.71,4.61,3.75,11.19,Engineering,None,Good,0.0,0.0,0.0,Annette Plato,Asian,female,0.0,USA,29.0,94801
-578,0.99,2.95,1.2,6.4,3.1,2.27,0.0,27.0,3.3,0.24,1.91,-0.48,-1.2,5.32,Quantitative,Very Good,Good,0.0,0.0,0.0,Claire Thompson,Asian,female,2.0,USA,32.0,94070
-579,-0.27,3.0,2.5,7.0,3.63,0.26,0.0,26.0,5.2,1.99,0.21,-2.52,-1.43,5.32,Quantitative,Ok,Good,0.0,0.0,0.0,Guillermina Perez,Asian,female,0.0,Canada,30.0,94403
-580,0.39,3.21,0.2,6.2,2.61,-0.5,0.0,23.0,4.2,1.07,1.19,-1.28,-2.1,4.09,Sciences,None,Good,0.0,0.0,0.0,Violet Allman,Asian,female,0.0,USA,28.0,94028
-581,-0.13,2.98,2.2,0.2,2.42,-1.21,0.0,23.0,5.5,2.24,1.48,-1.31,-1.2,5.55,Engineering,Ok,Good,0.0,0.0,0.0,Carrie Emanuel,Asian,female,0.0,USA,26.0,94028
-582,0.02,2.87,1.9,2.1,2.96,0.8,0.0,30.0,5.3,2.3,2.11,0.23,0.46,7.62,Engineering,None,Bad,0.0,0.0,0.0,Melissa Johnson,Asian,female,0.0,USA,26.0,94587
-583,-0.77,2.91,3.0,0.2,1.66,-5.73,0.0,43.0,7.7,3.7,2.98,1.1,0.48,7.56,Engineering,None,Bad,0.0,0.0,0.0,Maggie Gajewski,Asian,female,0.0,USA,23.0,94014
-584,-0.18,4.5,2.5,3.1,4.22,3.14,2.5,25.0,4.0,1.06,2.9,1.87,1.68,9.08,Engineering,Ok,Good,1.0,0.0,0.0,Klara Clarke,Asian,female,2.0,USA,31.0,94539
-585,-0.58,2.79,1.5,2.2,2.3,-2.84,0.0,27.0,7.2,3.39,1.9,0.19,-0.14,6.61,Engineering,None,Bad,0.0,0.0,0.0,Nancy Lynn,Asian,female,0.0,Australia,23.0,94070
-586,-0.1,3.3,1.5,5.4,3.31,0.44,1.7,56.0,2.3,-0.44,2.85,0.76,-0.06,6.87,Engineering,Ok,Good,0.0,0.0,0.0,Gail Nelson,Asian,female,0.0,USA,28.0,94595
-587,0.09,2.89,1.6,4.5,3.06,0.61,0.0,4.0,2.2,-1.11,2.41,0.57,0.66,7.97,Sciences,None,Good,0.0,0.0,0.0,Rita Coffey,Asian,female,0.0,USA,29.0,94040
-588,0.39,2.66,2.0,4.6,2.52,-1.05,0.0,41.0,2.4,-0.65,3.24,2.46,2.0,9.31,Engineering,Ok,Good,0.0,0.0,0.0,Diane Horton,Asian,female,0.0,USA,26.0,94542
-589,-0.69,3.33,2.3,2.1,3.58,1.07,0.0,2.0,3.3,0.11,1.1,-1.28,-0.89,5.98,Engineering,Ok,Good,0.0,0.0,0.0,Victoria Allen,Asian,female,0.0,USA,27.0,94040
-590,0.22,3.52,2.0,3.8,4.01,4.1,0.0,20.0,5.6,2.41,3.68,3.94,3.6,11.24,Engineering,Very Good,Good,1.0,0.0,0.0,Audrey Markland,Asian,female,2.0,USA,27.0,94025
-591,1.14,2.69,2.5,3.8,2.89,2.06,0.0,38.0,2.3,-0.65,1.65,-1.47,-1.12,5.89,Quantitative,None,Good,0.0,0.0,0.0,Beth Schank,Asian,female,2.0,USA,26.0,94586
-592,1.34,3.74,2.8,9.0,4.63,6.28,0.0,19.0,3.9,0.89,1.55,-0.39,-0.46,6.25,Sciences,Very Good,Good,1.0,0.0,0.0,Kristen Williams,Asian,female,2.0,USA,34.0,94304
-593,0.49,3.79,1.3,7.8,4.33,4.33,0.0,23.0,5.1,1.69,1.43,-1.21,-0.92,5.91,Engineering,Ok,Good,1.0,1.0,0.0,Evelyn Workman,Asian,female,2.0,USA,29.0,94028
-594,-1.14,3.24,1.2,-0.9,1.77,-4.83,0.0,2.0,5.2,1.83,1.27,-1.11,-0.66,6.27,Quantitative,Ok,Bad,0.0,0.0,0.0,Annie Calhoun,Asian,female,0.0,USA,22.0,94040
-595,-1.52,1.98,1.5,0.1,1.45,-6.77,0.0,48.0,0.0,-3.97,1.81,0.85,0.79,7.77,Engineering,Ok,Good,0.0,0.0,0.0,Pauline Scott,Asian,female,0.0,USA,22.0,94109
-596,0.6,3.4,1.6,8.1,3.53,1.82,0.0,15.0,2.2,-0.8,1.29,-2.14,-1.56,5.35,Quantitative,Ok,Good,0.0,0.0,0.0,Amy Merritt,Asian,female,2.0,USA,30.0,95002
-597,-0.67,2.95,2.1,4.2,2.56,-3.2,0.0,59.0,1.6,-1.11,2.12,1.24,1.1,8.2,Engineering,Ok,Bad,1.0,0.0,0.0,Nenita Burch,Asian,female,0.0,USA,32.0,94709
-598,1.0,2.99,2.7,7.8,2.8,-0.31,0.0,57.0,5.8,2.7,2.97,0.54,-1.21,5.11,Sciences,None,Bad,0.0,0.0,0.0,Michelle Fontenot,Asian,female,0.0,USA,35.0,94038
-599,-0.0,2.54,0.7,3.5,2.19,-1.75,0.0,24.0,2.7,-0.33,2.12,-1.58,-1.66,5.29,None,Ok,Bad,0.0,1.0,0.0,Shelley Allen,Asian,female,0.0,USA,24.0,94027
+0,1.01,3.53,2.2,6.1,3.29,1.91,0.0,8.0,1.4,-1.35,2.15,0.74,-0.38,5.98,Engineering,Ok,Good,0.0,0.0,0.0,Kathy Skipper,Asian,female,2.0,USA,31.0,94085
+1,0.59,2.67,1.1,6.1,2.41,-1.01,2.7,34.0,4.2,1.17,1.8,-1.64,-2.15,4.44,Engineering,Ok,Good,0.0,0.0,0.0,Emma Herrera,Asian,female,0.0,China,36.0,94030
+2,0.14,3.56,1.7,6.5,3.59,1.52,0.0,73.0,6.7,3.77,0.82,-2.51,-1.13,6.07,Quantitative,Very Good,Good,0.0,0.0,0.0,Karen Hamed,Asian,female,2.0,USA,32.0,94591
+3,0.29,3.45,1.8,8.0,4.66,5.01,0.0,63.0,1.6,-0.89,3.35,2.49,2.21,9.64,Humanities,Very Good,Good,1.0,1.0,0.0,Betty Studt,Asian,female,2.0,USA,29.0,94801
+4,-0.36,2.71,1.9,3.7,2.7,-1.43,0.0,54.0,0.7,-1.84,0.91,-1.05,-0.85,5.75,Engineering,Ok,Bad,0.0,0.0,0.0,Cindy Ogg,Asian,female,0.0,USA,27.0,94121
+5,0.86,3.26,2.9,8.0,4.58,5.76,0.0,69.0,1.1,-1.51,0.96,-1.48,-1.76,4.55,Sciences,Ok,Good,1.0,0.0,0.0,Lakeisha Ramirez,Asian,female,2.0,USA,38.0,94510
+6,-1.11,2.96,2.9,-0.6,2.39,-3.41,0.0,19.0,1.1,-1.89,1.4,-0.14,0.47,7.6,Quantitative,None,Good,0.0,1.0,0.0,Regina Boone,Asian,female,0.0,USA,23.0,94304
+7,-1.63,3.4,2.4,-3.5,2.28,-3.94,0.0,72.0,0.0,-3.64,0.02,-4.5,-4.8,1.09,Engineering,None,Good,0.0,1.0,0.0,Lisa Dowd,Asian,female,0.0,USA,18.0,94572
+8,-0.68,2.74,1.3,7.2,3.0,-2.16,0.0,1.0,3.6,0.45,2.01,0.3,0.17,7.03,Engineering,None,Bad,0.0,0.0,0.0,Debora Mudget,Asian,female,0.0,USA,33.0,94040
+9,0.94,3.56,2.9,6.4,3.57,2.34,0.0,39.0,3.2,-0.07,2.96,0.95,1.3,8.96,Quantitative,Very Good,Good,0.0,0.0,0.0,Jennifer Dye,Asian,female,2.0,USA,28.0,94578
+10,-0.14,2.53,0.5,5.0,2.31,-2.04,0.0,31.0,0.7,-2.05,1.23,0.19,1.64,9.08,Engineering,Ok,Good,0.0,1.0,0.0,Billie Blanco,Asian,female,0.0,USA,25.0,94544
+11,-0.96,2.35,2.5,1.2,2.45,-2.94,0.0,29.0,3.3,0.2,1.89,1.77,1.55,8.52,Engineering,Ok,Good,0.0,1.0,0.0,Johanna Herzog,Asian,female,0.0,USA,27.0,94560
+12,0.28,3.79,2.1,5.1,4.4,4.84,0.0,4.0,5.3,2.0,2.57,0.42,1.31,9.08,Quantitative,Very Good,Good,0.0,0.0,0.0,Myra Morgan,Asian,female,2.0,USA,31.0,94040
+13,0.47,3.65,2.8,8.2,4.28,3.2,0.0,50.0,1.9,-0.94,1.32,-1.32,-1.25,5.38,Quantitative,None,Good,1.0,1.0,0.0,Jill Lehman,Asian,female,0.0,USA,29.0,94609
+14,1.23,3.31,2.0,6.7,4.21,5.89,2.2,20.0,3.4,0.23,4.16,3.77,3.34,11.07,Quantitative,None,Good,1.0,1.0,0.0,Wilma Andrews,Asian,female,2.0,USA,34.0,94025
+15,1.24,3.22,3.1,3.5,3.48,3.93,0.0,45.0,3.3,0.47,1.96,0.35,0.07,7.0,Quantitative,Very Good,Good,1.0,0.0,0.0,Elizabeth Mitchell,Asian,female,2.0,Canada,36.0,94105
+16,0.94,2.79,2.3,5.5,3.31,2.71,0.0,15.0,7.9,4.14,1.55,0.56,0.33,7.21,Engineering,Ok,Good,0.0,0.0,0.0,Amanda Neighbors,Asian,female,2.0,China,33.0,95002
+17,-0.51,2.45,2.4,1.2,2.15,-3.23,0.0,14.0,3.4,0.07,1.78,1.19,1.43,8.54,Engineering,Ok,Bad,1.0,1.0,0.0,Winifred Sagen,Asian,female,0.0,USA,23.0,95002
+18,0.72,2.93,2.6,3.7,2.81,0.48,1.2,46.0,1.4,-1.46,0.0,-5.05,-4.91,0.97,Engineering,Ok,Good,0.0,0.0,0.0,Dorothy Fortune,Asian,female,0.0,USA,28.0,94019
+19,0.47,3.77,1.0,3.5,3.26,2.32,0.0,2.0,6.3,2.5,1.08,-1.56,-1.34,5.31,Sciences,Very Good,Good,0.0,0.0,0.0,Dana Albers,Asian,female,2.0,USA,35.0,94040
+20,0.6,2.96,1.7,4.6,3.2,2.13,0.0,4.0,2.8,-0.19,4.12,4.37,3.41,10.99,Engineering,Very Good,Bad,0.0,0.0,1.0,Catherine Maddox,Asian,female,2.0,China,30.0,94040
+21,0.01,2.67,2.5,1.8,2.78,0.11,0.0,25.0,4.4,1.21,0.98,-2.45,-1.92,4.85,Quantitative,Very Good,Good,0.0,0.0,0.0,Maria Bragg,Asian,female,0.0,USA,31.0,94539
+22,1.85,2.91,1.6,13.8,4.37,5.81,0.0,87.0,2.6,0.34,1.16,-1.85,-1.55,5.22,Humanities,Very Good,Good,1.0,0.0,1.0,Nicole Hudson,Asian,female,2.0,USA,36.0,94973
+23,-0.28,2.78,1.6,2.5,2.02,-3.52,0.0,43.0,1.5,-1.24,3.02,0.94,-0.08,6.81,Engineering,None,Bad,0.0,1.0,0.0,Yolanda Nelson,Asian,female,0.0,USA,28.0,94014
+24,0.52,3.07,2.9,4.1,3.21,1.35,0.0,13.0,4.3,1.16,1.91,-0.49,-0.81,6.08,Engineering,Ok,Good,0.0,0.0,0.0,Esther Whittier,Asian,female,1.0,USA,28.0,94022
+25,0.67,2.88,3.5,5.7,4.23,4.81,0.0,19.0,4.2,1.16,1.72,-0.53,-0.42,6.53,Engineering,Very Good,Good,1.0,0.0,0.0,Joyce Trytten,Asian,female,2.0,USA,32.0,94304
+26,2.21,4.6,4.3,12.1,6.32,11.82,0.0,25.0,4.8,1.21,0.09,-2.6,-2.03,4.49,Quantitative,Very Good,Good,1.0,0.0,0.0,Brenda Wuertz,Asian,female,2.0,USA,42.0,94539
+27,0.66,3.13,2.2,9.8,4.72,5.44,0.0,10.0,3.9,0.59,1.56,-1.33,-0.59,6.47,Quantitative,Very Good,Good,1.0,0.0,0.0,Winifred Palumbo,Asian,female,2.0,USA,33.0,94085
+28,-0.48,3.23,2.3,2.1,3.36,0.49,0.0,70.0,2.2,-0.41,2.29,0.97,0.84,7.99,Engineering,Ok,Good,0.0,0.0,0.0,Thelma Hargis,Asian,female,0.0,USA,25.0,94903
+29,-1.29,2.44,2.0,-2.6,0.79,-8.38,0.0,41.0,1.2,-1.78,2.27,-1.74,-1.56,5.55,Humanities,Ok,Bad,1.0,1.0,1.0,Patrice Young,Asian,female,0.0,USA,20.0,94542
+30,-0.91,3.18,0.8,5.7,3.2,-1.3,0.0,69.0,2.3,-0.1,0.82,-1.29,-1.26,5.27,Sciences,Ok,Bad,1.0,0.0,0.0,Amber Hackett,Asian,female,0.0,USA,31.0,94510
+31,0.4,3.34,2.8,5.1,4.29,4.75,0.0,16.0,7.7,3.9,2.06,-1.46,-1.79,5.02,Humanities,Very Good,Good,1.0,0.0,0.0,Tamika Lloyd,Asian,female,2.0,USA,38.0,95134
+32,1.23,3.87,2.7,7.8,4.73,6.7,0.0,55.0,4.3,1.48,3.14,1.36,1.28,8.7,Engineering,Ok,Good,1.0,0.0,0.0,Connie Bourdeau,Asian,female,2.0,USA,35.0,94523
+33,-0.6,2.85,0.5,-2.6,1.34,-4.04,0.0,6.0,3.0,-0.39,1.5,-2.6,-3.01,3.39,Quantitative,None,Good,0.0,1.0,0.0,Lisa Stapler,Asian,female,0.0,USA,23.0,94043
+34,-0.82,2.79,2.4,-0.4,1.79,-4.64,0.0,19.0,3.7,0.7,2.2,0.07,0.28,7.54,Engineering,Very Good,Good,0.0,1.0,1.0,Pamela Goeppner,Asian,female,0.0,USA,25.0,94304
+35,-1.16,3.01,1.9,0.8,2.43,-3.64,2.7,5.0,4.4,0.92,1.98,0.28,-0.69,5.67,Quantitative,None,Bad,0.0,1.0,0.0,Janie Macias,Asian,female,0.0,USA,30.0,94043
+36,0.24,2.95,2.1,3.1,2.79,0.2,1.4,11.0,1.7,-1.45,2.69,1.36,0.47,7.33,Engineering,Ok,Good,0.0,0.0,0.0,Shannon Woods,Asian,female,0.0,USA,26.0,94089
+37,0.02,2.33,1.3,-0.3,1.65,-2.37,0.0,4.0,6.9,3.29,1.06,-2.3,-2.17,4.39,Quantitative,Ok,Bad,0.0,0.0,0.0,Cynthia Briggs,Asian,female,0.0,USA,33.0,94040
+38,0.07,2.7,1.9,5.0,3.5,1.75,0.0,21.0,3.6,0.61,2.67,1.35,0.53,7.41,Engineering,Very Good,Good,0.0,0.0,0.0,Paula Otis,Asian,female,2.0,USA,32.0,94538
+39,1.07,3.63,2.2,7.6,4.0,4.15,0.0,21.0,1.8,-1.01,2.5,-0.37,-1.12,5.62,Quantitative,Very Good,Good,0.0,0.0,0.0,Marsha Pride,Asian,female,2.0,USA,32.0,94538
+40,1.46,2.87,2.4,8.0,3.22,2.33,0.0,31.0,1.6,-1.54,3.64,2.74,2.23,9.72,Engineering,Very Good,Good,0.0,0.0,0.0,Ashley Skelton,Asian,female,2.0,China,32.0,94544
+41,-0.46,3.51,0.7,4.1,2.34,-3.11,0.0,52.0,1.6,-1.13,3.05,1.36,1.96,9.73,Quantitative,None,Good,0.0,1.0,0.0,Pamela Barbrick,Asian,female,0.0,USA,29.0,94611
+42,-1.2,3.21,1.6,0.5,2.88,-1.68,0.0,37.0,2.8,0.11,0.93,-2.93,-2.21,4.58,Engineering,None,Bad,0.0,0.0,0.0,Dorothy Eckhardt,Asian,female,0.0,China,28.0,94545
+43,0.21,3.37,1.2,3.8,2.61,-0.61,0.0,26.0,3.6,0.88,0.85,-3.25,-2.44,4.48,Humanities,None,Bad,0.0,0.0,0.0,Patrick Gower,Asian,female,0.0,USA,31.0,94403
+44,-0.7,2.72,1.0,1.9,2.5,-1.64,0.0,23.0,3.5,0.46,2.87,1.73,1.09,8.28,Quantitative,Ok,Bad,0.0,0.0,0.0,Freida Rosenberg,Asian,female,0.0,Canada,32.0,94028
+45,0.09,3.06,2.5,5.3,3.46,1.24,0.0,11.0,2.4,-1.05,3.25,1.78,1.96,9.6,Quantitative,Ok,Bad,0.0,0.0,0.0,Maxine Wilburn,Asian,female,0.0,USA,31.0,94089
+46,0.73,2.92,0.9,6.6,3.12,1.75,0.0,45.0,3.8,0.62,0.7,-2.51,-1.74,5.1,Engineering,Ok,Good,0.0,0.0,0.0,Jennie Kaye,Asian,female,2.0,USA,34.0,94105
+47,-1.17,3.71,1.3,3.6,3.51,-0.64,3.0,6.0,4.9,1.46,2.07,-0.34,-0.03,7.23,Quantitative,None,Bad,0.0,0.0,0.0,Donna Leiby,Asian,female,0.0,USA,33.0,94043
+48,-0.17,2.54,2.6,5.0,3.36,0.47,0.0,4.0,4.7,1.36,1.52,-2.76,-2.95,3.54,Quantitative,Very Good,Good,1.0,0.0,0.0,Mary Vaillancourt,Asian,female,0.0,USA,29.0,94040
+49,-0.16,3.64,1.6,5.8,3.82,1.81,0.0,34.0,4.1,1.13,3.12,2.49,2.85,10.63,Quantitative,Very Good,Good,0.0,0.0,1.0,Linda Roll,Asian,female,2.0,USA,36.0,94030
+50,0.37,3.6,2.5,2.9,3.86,3.78,0.0,39.0,5.6,2.51,1.9,-0.38,-1.11,5.38,Quantitative,Ok,Good,1.0,1.0,0.0,Marilyn Langhorne,Asian,female,2.0,USA,30.0,94578
+51,-0.25,3.18,2.1,5.7,4.07,2.64,0.0,14.0,5.4,1.89,4.46,3.76,3.64,11.67,Sciences,Very Good,Good,0.0,0.0,0.0,Barbara Dillard,Asian,female,2.0,Australia,33.0,95002
+52,-0.47,4.01,1.8,6.1,3.85,0.77,3.9,6.0,6.5,2.73,3.44,1.48,-0.04,6.68,Sciences,Very Good,Good,0.0,0.0,0.0,Elizabeth Flynn,Asian,female,0.0,USA,39.0,94043
+53,0.69,2.81,3.8,2.9,2.96,0.63,0.0,9.0,4.5,0.87,2.19,1.15,1.5,8.83,Engineering,Ok,Good,0.0,0.0,0.0,Kay Longfellow,Asian,female,0.0,USA,31.0,94085
+54,0.72,3.22,4.7,2.4,4.12,4.64,0.0,0.0,6.2,2.6,1.84,-0.06,1.19,8.86,Humanities,Very Good,Good,1.0,0.0,0.0,Bridget Lovan,Asian,female,2.0,USA,29.0,94040
+55,0.33,4.44,2.4,10.4,4.45,2.69,0.0,27.0,1.6,-1.29,1.97,0.98,0.7,7.7,Sciences,Very Good,Good,1.0,0.0,0.0,Dorothy Strope,Asian,female,2.0,USA,35.0,94070
+56,-0.38,2.38,2.4,1.0,1.66,-4.53,0.0,10.0,6.8,3.38,2.82,2.14,1.54,8.76,Engineering,None,Bad,0.0,1.0,1.0,Tiffany Garay,Asian,female,1.0,Canada,29.0,94085
+57,-1.49,2.85,1.6,0.7,2.17,-4.86,0.0,9.0,3.1,-0.05,1.56,-1.13,-0.79,6.17,Humanities,None,Bad,0.0,1.0,1.0,Roberta Heenan,Asian,female,0.0,USA,29.0,94085
+58,-0.26,2.89,1.4,-0.7,1.71,-3.31,0.0,3.0,0.4,-2.43,3.73,2.65,2.53,10.26,Quantitative,None,Good,0.0,1.0,0.0,Amy Richardson,Asian,female,0.0,USA,22.0,94040
+59,0.02,2.92,1.8,1.7,2.54,-0.74,0.0,36.0,3.1,0.16,0.76,-1.27,-0.67,6.08,Engineering,None,Good,0.0,0.0,0.0,Rosa Rikard,Asian,female,0.0,USA,28.0,94588
+60,-0.22,3.42,1.1,5.7,3.49,1.05,0.0,76.0,1.8,-0.81,1.88,-0.57,-0.7,6.23,Sciences,Very Good,Good,1.0,0.0,0.0,Martha Gust,Asian,female,0.0,China,27.0,94960
+61,0.79,2.35,1.5,2.4,1.98,-0.98,0.0,53.0,3.2,0.36,0.0,-4.66,-4.13,1.96,Quantitative,None,Good,1.0,0.0,0.0,Lorraine Willis,Asian,female,0.0,China,29.0,94549
+62,-0.94,3.03,2.9,-1.1,3.05,-0.38,0.0,35.0,2.0,-0.95,1.77,-1.23,-1.24,5.63,Engineering,Ok,Bad,0.0,0.0,0.0,Elois Espinoza,Asian,female,0.0,China,25.0,94566
+63,0.32,3.35,3.0,2.1,3.36,2.03,0.0,29.0,3.2,0.21,3.36,1.29,1.52,9.2,Sciences,Very Good,Good,0.0,0.0,0.0,Marguerite Vermillion,Asian,female,2.0,USA,26.0,94560
+64,0.9,2.45,1.4,7.9,2.89,0.79,0.0,10.0,4.1,0.71,2.13,0.08,-0.1,6.71,Quantitative,Ok,Good,0.0,0.0,0.0,Eneida Dubiel,Asian,female,0.0,USA,35.0,94085
+65,-0.54,3.1,1.4,0.6,2.08,-2.98,0.0,75.0,0.0,-2.67,1.23,-1.36,-1.34,5.35,Engineering,Ok,Bad,0.0,1.0,0.0,Norma Mitchell,Asian,female,0.0,USA,23.0,94941
+66,0.12,2.64,1.1,4.5,2.16,-2.36,0.0,33.0,3.0,-0.04,1.55,-1.44,-2.02,4.42,Quantitative,None,Good,0.0,0.0,0.0,Karen Saldana,Asian,female,0.0,USA,29.0,94010
+67,-0.2,3.5,1.7,3.7,2.98,-0.5,0.0,46.0,2.5,-0.29,2.35,0.12,1.48,9.36,Engineering,None,Bad,0.0,0.0,0.0,Anita Glover,Asian,female,0.0,USA,29.0,94019
+68,-0.52,2.51,1.9,0.3,1.36,-5.43,0.0,50.0,4.6,1.67,1.63,-2.25,-1.84,5.17,Sciences,Ok,Bad,0.0,1.0,1.0,Natalie Johnson,Asian,female,0.0,USA,25.0,94609
+69,0.95,2.88,2.9,7.3,4.57,6.25,0.0,51.0,1.1,-1.64,2.18,-1.03,-0.98,6.08,Engineering,Very Good,Good,1.0,1.0,0.0,Amy Gibbons,Asian,female,2.0,USA,32.0,94618
+70,1.08,3.84,3.1,10.9,5.34,7.43,0.0,64.0,1.5,-1.2,0.85,-1.14,-1.38,5.05,Engineering,Very Good,Good,1.0,0.0,0.0,Sheri Miller,Asian,female,2.0,USA,32.0,94525
+71,-0.18,3.01,2.3,4.6,3.33,0.49,0.0,49.0,2.5,-0.04,0.88,-2.7,-2.44,4.26,Engineering,None,Bad,0.0,0.0,0.0,Alicia Burnett,Asian,female,0.0,USA,33.0,94502
+72,0.83,3.18,2.7,8.6,3.33,0.72,0.0,48.0,1.6,-1.01,1.89,1.08,0.15,6.64,Engineering,Very Good,Good,0.0,0.0,0.0,Kay Beard,Asian,female,0.0,USA,33.0,94109
+73,-0.51,3.39,1.6,3.1,2.86,-1.21,0.0,24.0,8.7,4.94,0.97,-2.42,-2.35,4.2,Humanities,Ok,Good,0.0,0.0,0.0,Christina Reinsch,Asian,female,0.0,USA,39.0,94027
+74,-0.27,2.91,3.1,3.4,2.84,-1.88,0.0,75.0,0.7,-1.69,1.47,-1.33,-1.82,4.6,Sciences,None,Bad,0.0,1.0,0.0,Janis Lewis,Asian,female,0.0,USA,26.0,94941
+75,1.56,4.44,4.0,9.5,5.45,8.4,0.0,26.0,1.7,-1.05,1.54,-0.75,0.45,7.84,Engineering,Very Good,Good,1.0,0.0,0.0,Susan Thompson,Asian,female,2.0,USA,36.0,94403
+76,-1.51,1.92,-0.2,0.8,1.05,-7.4,0.0,29.0,2.1,-0.84,2.73,1.84,2.48,10.21,Engineering,None,Bad,0.0,1.0,1.0,Janet Ladner,Asian,female,0.0,USA,26.0,94560
+77,-0.92,3.89,2.4,2.5,3.74,0.41,0.0,33.0,0.0,-2.87,2.14,0.35,0.51,7.63,Sciences,Ok,Good,0.0,0.0,0.0,Lena Robinson,Asian,female,0.0,USA,24.0,94010
+78,-0.18,2.42,1.5,-0.5,2.13,-1.22,0.0,40.0,0.0,-2.43,2.56,0.2,-0.3,6.59,Engineering,Ok,Good,0.0,1.0,0.0,Jennifer Stewart,Asian,female,0.0,Australia,26.0,94603
+79,-0.88,2.78,0.5,1.5,1.85,-4.2,0.0,23.0,0.0,-4.88,1.64,-0.62,-0.62,6.18,Quantitative,None,Bad,0.0,1.0,1.0,Jodi Finnegan,Asian,female,0.0,USA,24.0,94028
+80,-0.13,2.37,1.0,1.8,1.36,-4.68,0.0,55.0,0.8,-1.8,0.76,-2.54,-3.01,3.07,Engineering,Very Good,Good,0.0,1.0,1.0,Jessica Radcliff,Asian,female,0.0,USA,21.0,94523
+81,0.3,3.22,3.8,3.2,3.86,2.84,0.0,24.0,0.1,-2.68,2.61,0.28,0.12,7.27,Engineering,Very Good,Good,1.0,0.0,0.0,Bettie Hall,Asian,female,2.0,USA,29.0,94027
+82,-1.22,3.06,2.9,2.5,2.7,-3.72,0.0,27.0,5.0,1.77,1.44,-0.23,-0.72,5.76,Humanities,None,Good,0.0,1.0,0.0,Ann Pedersen,Asian,female,0.0,USA,27.0,94070
+83,-0.96,2.91,2.4,-0.6,2.69,-1.65,0.0,0.0,3.3,0.24,2.43,-0.6,-1.44,5.2,Engineering,Very Good,Good,0.0,0.0,0.0,Vilma Billie,Asian,female,0.0,USA,24.0,94040
+84,-0.26,3.11,1.7,6.7,3.92,2.02,0.0,14.0,4.5,1.54,0.0,-3.84,-3.57,2.4,Engineering,Very Good,Good,0.0,0.0,0.0,Dorothy Cox,Asian,female,2.0,USA,31.0,95002
+85,0.67,2.38,2.1,5.3,3.0,1.29,0.0,20.0,0.1,-2.42,2.28,1.96,3.54,11.65,Quantitative,None,Good,0.0,0.0,0.0,Kathy Selders,Asian,female,0.0,USA,27.0,94025
+86,-0.68,2.58,2.4,1.0,2.5,-2.08,0.0,45.0,1.1,-1.9,3.22,1.54,2.04,9.8,Quantitative,Ok,Bad,0.0,0.0,0.0,Yolanda Luna,Asian,female,0.0,USA,28.0,94105
+87,-1.98,3.61,2.9,0.2,2.41,-6.01,0.0,54.0,2.6,-0.42,2.86,0.72,0.34,7.49,Engineering,Ok,Bad,1.0,1.0,1.0,Esther Charles,Asian,female,0.0,Australia,25.0,94121
+88,-0.83,3.6,1.2,4.2,3.55,0.37,2.3,67.0,3.2,0.62,3.8,2.48,0.31,6.98,Engineering,Ok,Good,0.0,0.0,0.0,Donna Guerrero,Asian,female,0.0,USA,32.0,94598
+89,-0.61,2.85,1.6,0.3,2.21,-2.66,0.0,22.0,1.9,-0.87,1.51,-0.04,0.11,7.02,Engineering,None,Bad,0.0,0.0,0.0,Chong Brule,Asian,female,0.0,USA,26.0,94061
+90,0.31,2.8,2.2,2.8,2.99,1.01,0.0,20.0,4.5,1.39,4.01,3.84,3.06,10.6,Quantitative,Ok,Good,0.0,0.0,0.0,Susan Grossman,Asian,female,0.0,USA,25.0,94025
+91,0.88,3.39,2.2,7.7,3.87,3.81,0.0,50.0,0.0,-5.7,1.7,-2.39,-2.5,4.08,Engineering,Very Good,Good,0.0,0.0,0.0,Melissa Warner,Asian,female,2.0,USA,28.0,94609
+92,-0.42,1.78,3.2,2.2,2.55,-1.9,0.0,70.0,3.4,0.63,2.2,1.12,0.68,7.51,Humanities,None,Bad,0.0,1.0,0.0,Jeanette Ballantyne,Asian,female,0.0,China,29.0,94903
+93,-0.14,2.42,2.5,6.8,3.75,1.63,0.4,41.0,0.0,-2.84,1.55,-0.1,0.15,7.1,Sciences,Ok,Good,0.0,0.0,1.0,Katherine Rake,Asian,female,2.0,USA,32.0,94542
+94,0.11,3.02,1.1,7.5,3.44,1.03,0.0,13.0,10.0,6.25,2.43,-0.38,0.03,7.34,Quantitative,Ok,Bad,0.0,0.0,0.0,Audrey Owen,Asian,female,0.0,USA,40.0,94022
+95,0.06,1.66,1.8,2.3,1.94,-2.02,0.0,7.0,6.8,3.0,0.25,-3.6,-2.36,4.36,Sciences,Ok,Good,0.0,1.0,0.0,Mary Russell,Asian,female,0.0,USA,32.0,94043
+96,0.49,3.14,2.5,6.8,4.23,4.22,0.0,46.0,0.9,-1.67,1.51,0.53,0.1,6.77,Sciences,Very Good,Good,1.0,0.0,0.0,Stephanie Stalcup,Asian,female,2.0,USA,30.0,94019
+97,-0.12,3.16,3.2,2.4,3.79,2.51,0.0,6.0,4.3,1.06,3.75,3.33,3.04,10.62,Engineering,Ok,Good,0.0,0.0,0.0,Gay Schober,Asian,female,0.0,USA,26.0,94043
+98,-0.05,2.68,1.7,4.2,2.77,-0.73,0.0,74.0,0.4,-1.89,1.61,-3.32,-2.99,3.76,Engineering,Ok,Bad,0.0,0.0,0.0,Annette Day,Asian,female,0.0,USA,28.0,94591
+99,0.19,3.21,0.8,6.5,3.56,2.16,0.0,46.0,6.8,2.98,0.57,-1.95,-0.75,6.34,Engineering,None,Good,0.0,0.0,0.0,Betty Polite,Asian,female,2.0,USA,38.0,94019
+100,-0.55,2.93,2.7,4.2,3.01,-1.49,1.6,45.0,2.0,-0.84,1.57,-1.07,-0.48,6.63,Engineering,None,Bad,0.0,0.0,0.0,Judith Brigman,Asian,female,0.0,USA,30.0,94105
+101,0.85,2.31,1.8,4.4,2.88,1.69,0.0,18.0,3.3,0.08,2.7,0.93,1.02,8.46,Sciences,Very Good,Good,0.0,0.0,0.0,Maxine Robertson,Asian,female,2.0,Australia,32.0,95035
+102,-0.89,2.48,1.2,3.3,2.18,-3.82,0.0,7.0,2.0,-1.12,3.34,2.78,1.89,9.03,Quantitative,None,Good,0.0,1.0,0.0,Shannon Pena,Asian,female,0.0,USA,28.0,94043
+103,1.58,4.12,2.7,8.8,4.45,5.96,0.0,10.0,4.6,1.24,2.12,0.92,0.85,7.95,Engineering,Very Good,Good,1.0,0.0,0.0,Evelyn Bocchi,Asian,female,2.0,USA,34.0,94085
+104,-1.33,2.25,2.3,-1.5,1.81,-5.08,0.0,35.0,4.3,1.15,1.81,1.39,1.23,8.24,Engineering,None,Good,0.0,1.0,1.0,Mildred Dutton,Asian,female,1.0,USA,26.0,94566
+105,1.11,2.26,3.8,3.4,2.85,1.49,0.0,27.0,4.4,1.23,1.22,-0.79,-0.75,5.95,Quantitative,Very Good,Bad,0.0,0.0,0.0,Melina Galvin,Asian,female,2.0,USA,28.0,94070
+106,1.05,3.58,3.8,4.3,3.87,4.04,2.6,23.0,4.0,0.71,3.22,1.31,0.9,8.17,Quantitative,Ok,Good,1.0,0.0,0.0,Claire Smith,Asian,female,2.0,USA,34.0,94028
+107,0.63,3.14,4.3,2.8,3.91,3.74,0.0,19.0,3.4,0.25,0.5,-3.81,-2.48,4.42,Engineering,Very Good,Good,1.0,0.0,0.0,Gayla Hicks,Asian,female,2.0,China,28.0,94304
+108,-0.9,2.99,0.6,1.5,1.7,-5.01,0.0,9.0,2.7,-0.32,1.12,-1.54,-0.88,6.11,Sciences,None,Good,0.0,1.0,1.0,Ramona Hodges,Asian,female,0.0,USA,25.0,94085
+109,1.06,3.05,1.1,8.4,3.75,4.25,0.0,7.0,4.3,0.82,3.71,2.77,2.58,10.22,Engineering,Ok,Good,1.0,0.0,0.0,Wendy Pickering,Asian,female,2.0,USA,36.0,94043
+110,-0.78,3.06,1.1,1.2,1.98,-3.86,0.0,6.0,2.6,-0.41,0.0,-6.18,-6.33,0.0,Engineering,None,Bad,0.0,1.0,1.0,Mavis Walker,Asian,female,0.0,USA,28.0,94043
+111,1.5,2.68,2.5,6.0,3.37,3.78,1.4,70.0,1.9,-0.5,1.78,-0.23,0.41,7.67,Quantitative,Ok,Good,0.0,0.0,0.0,Roslyn Driscoll,Asian,female,2.0,USA,34.0,94903
+112,0.51,3.08,0.8,6.7,2.98,0.65,0.0,1.0,4.9,1.51,1.57,-0.98,-2.11,4.06,Engineering,Very Good,Good,1.0,1.0,0.0,Susan Easton,Asian,female,0.0,USA,36.0,94040
+113,1.39,3.55,2.0,10.4,4.77,7.11,2.4,29.0,4.3,1.17,2.91,1.24,0.98,8.38,Quantitative,None,Bad,1.0,1.0,0.0,Maryanne Harrison,Asian,female,2.0,USA,35.0,94560
+114,-0.0,3.36,0.8,5.9,2.77,-0.96,0.0,67.0,1.5,-1.06,2.07,0.05,0.57,7.89,None,Very Good,Bad,0.0,0.0,0.0,April Merrill,Asian,female,0.0,USA,26.0,94598
+115,0.37,2.76,0.3,4.8,2.37,-0.52,0.0,37.0,3.5,0.67,1.4,-1.6,-1.65,4.98,Quantitative,None,Good,0.0,1.0,0.0,Jacqueline Zukowski,Asian,female,0.0,USA,30.0,94545
+116,-1.48,3.34,1.9,-0.8,2.7,-2.78,0.0,54.0,0.7,-1.88,1.91,-2.08,-2.42,4.15,Sciences,None,Good,1.0,1.0,0.0,Doretha Ricketts,Asian,female,0.0,China,28.0,94121
+117,0.82,2.95,2.9,4.9,3.33,2.25,0.0,15.0,1.4,-1.62,1.66,-0.94,-0.84,6.0,Quantitative,Very Good,Bad,0.0,0.0,0.0,Cindy Mansi,Asian,female,2.0,Canada,33.0,95002
+118,-0.42,2.52,0.7,4.2,1.71,-4.6,0.0,71.0,3.6,0.86,3.17,1.25,1.06,8.46,Engineering,None,Good,0.0,1.0,1.0,Shani Kearney,Asian,female,1.0,USA,29.0,94509
+119,0.41,2.39,1.9,5.5,2.95,0.54,0.0,18.0,1.4,-1.66,2.77,0.56,0.5,7.75,Sciences,Ok,Good,0.0,0.0,0.0,Paula Reynolds,Asian,female,0.0,USA,29.0,95035
+120,1.02,3.21,3.7,8.0,4.67,5.82,0.0,41.0,2.4,-0.28,3.56,3.58,4.16,12.26,Quantitative,Ok,Good,1.0,0.0,0.0,Dorothy Buxton,Asian,female,2.0,USA,32.0,94542
+121,0.61,2.68,2.9,6.2,3.22,1.08,0.0,7.0,2.1,-0.9,1.49,-0.92,-1.21,5.41,Quantitative,Very Good,Good,0.0,0.0,0.0,Betty Hernandez,Asian,female,0.0,USA,28.0,94043
+122,-0.55,3.93,1.8,1.2,2.79,-1.41,0.0,43.0,2.0,-0.74,1.4,-2.13,-2.02,4.73,Humanities,None,Good,0.0,0.0,0.0,Jeana Lo,Asian,female,0.0,USA,31.0,94014
+123,-1.36,2.33,-0.2,-0.5,0.04,-10.61,0.0,0.0,1.7,-1.46,0.8,-1.61,-1.66,4.78,Quantitative,Ok,Bad,0.0,1.0,1.0,Betty Jackson,Asian,female,0.0,USA,25.0,94040
+124,1.1,3.31,3.2,5.3,3.67,3.36,0.0,56.0,2.3,-0.33,0.21,-3.08,-1.77,5.2,Humanities,Ok,Good,1.0,0.0,0.0,Norma Smith,Asian,female,2.0,USA,28.0,94595
+125,0.38,2.65,2.9,3.5,3.55,2.75,0.0,11.0,1.5,-1.63,2.52,-0.83,-1.12,5.83,Sciences,Ok,Good,1.0,0.0,0.0,Susan Flatt,Asian,female,2.0,USA,29.0,94089
+126,0.02,3.26,1.8,4.0,3.68,2.38,0.0,34.0,3.4,0.59,3.9,2.9,2.82,10.61,Engineering,Ok,Good,0.0,0.0,0.0,Lois Grant,Asian,female,1.0,USA,32.0,94030
+127,-0.69,2.65,2.0,2.5,2.47,-2.8,0.0,87.0,4.6,2.03,1.63,-0.83,-0.71,6.16,Quantitative,None,Bad,0.0,1.0,0.0,Natalie Burns,Asian,female,0.0,USA,29.0,94973
+128,-1.22,2.47,1.8,1.2,2.16,-4.34,0.0,56.0,1.9,-0.82,2.12,0.4,-0.13,6.75,Engineering,Ok,Bad,0.0,1.0,1.0,Chi Boyd,Asian,female,0.0,USA,26.0,94595
+129,1.16,3.28,2.1,4.7,3.28,3.06,0.0,9.0,3.9,0.6,3.19,2.54,2.19,9.68,Quantitative,Very Good,Good,1.0,0.0,0.0,Lisa Cole,Asian,female,2.0,USA,31.0,94085
+130,-0.44,3.85,2.2,3.8,4.04,2.34,0.0,16.0,1.1,-1.96,2.25,0.57,0.64,7.78,Engineering,None,Good,1.0,0.0,0.0,Jane Termini,Asian,female,2.0,USA,25.0,95134
+131,-0.54,2.79,0.9,4.6,2.63,-1.95,0.0,49.0,4.0,1.1,1.1,-0.7,-0.64,6.0,Engineering,Very Good,Good,0.0,0.0,0.0,Rachel Trinidad,Asian,female,0.0,USA,29.0,94502
+132,1.25,2.72,1.5,2.1,2.13,0.62,0.0,80.0,2.9,0.4,1.56,-0.11,-0.55,6.03,Engineering,Very Good,Good,0.0,0.0,0.0,Gwendolyn Pillar,Asian,female,0.0,USA,24.0,94533
+133,0.74,3.53,3.2,2.6,3.7,3.5,0.0,59.0,1.3,-1.21,3.22,1.17,1.1,8.51,Humanities,Very Good,Good,1.0,0.0,0.0,Sarah Campion,Asian,female,2.0,USA,31.0,94709
+134,0.47,2.76,2.5,6.9,3.45,1.51,0.0,23.0,2.4,-0.7,0.74,-2.36,-1.29,5.7,Humanities,None,Bad,0.0,0.0,1.0,Alicia Thompson,Asian,female,2.0,USA,28.0,94028
+135,-0.1,2.76,2.4,2.9,2.79,-0.48,0.0,73.0,1.8,-0.9,2.86,2.75,2.48,9.87,Engineering,None,Good,0.0,0.0,0.0,Kelsey Olivares,Asian,female,0.0,USA,28.0,94591
+136,0.28,2.63,1.3,3.6,1.72,-3.35,2.8,4.0,4.5,1.06,1.17,-0.03,-1.29,4.69,Engineering,Ok,Bad,0.0,1.0,0.0,Vicki Garcia,Asian,female,0.0,USA,39.0,94040
+137,-0.42,2.61,2.5,0.8,1.86,-4.03,0.0,3.0,3.9,0.5,2.67,-0.06,-0.14,7.09,Sciences,Ok,Bad,0.0,1.0,0.0,Virginia Baldwin,Asian,female,0.0,USA,25.0,94040
+138,0.56,3.31,2.1,3.6,3.16,1.85,0.0,39.0,4.3,1.39,1.46,-2.33,-2.28,4.49,Quantitative,Ok,Good,0.0,1.0,0.0,Maria Orwig,Asian,female,2.0,USA,32.0,94578
+139,-0.17,3.43,3.4,9.5,5.33,5.38,0.0,36.0,2.5,-0.55,1.33,-1.49,-0.47,6.65,Engineering,Ok,Good,0.0,0.0,0.0,Theresa Hart,Asian,female,2.0,USA,36.0,94588
+140,-1.72,3.4,1.1,4.9,3.21,-3.05,0.0,10.0,3.8,0.38,1.46,-1.73,-2.65,3.52,Engineering,Ok,Bad,0.0,1.0,0.0,Tressie Tekautz,Asian,female,0.0,USA,34.0,94085
+141,-0.25,3.28,2.5,1.0,2.96,-0.04,0.0,1.0,7.0,3.44,3.47,2.5,1.31,8.38,Quantitative,Very Good,Bad,0.0,0.0,0.0,Edna Vaugh,Asian,female,0.0,USA,31.0,94040
+142,0.5,3.14,2.2,8.1,3.28,0.52,0.0,49.0,3.4,0.53,3.09,1.1,0.72,7.87,Engineering,Ok,Good,0.0,0.0,0.0,Sharon Hess,Asian,female,0.0,USA,34.0,94502
+143,-1.19,2.76,2.9,3.0,2.61,-3.94,0.0,2.0,2.5,-0.67,2.74,1.5,1.47,8.81,Quantitative,None,Good,0.0,1.0,0.0,Wilhelmina Lopez,Asian,female,0.0,USA,25.0,94040
+144,0.92,3.43,0.8,6.4,3.54,3.66,0.0,38.0,4.7,0.95,1.1,-1.27,-1.08,5.56,Quantitative,Ok,Good,0.0,0.0,0.0,Brenda Beauregard,Asian,female,2.0,USA,30.0,94586
+145,1.35,3.67,3.9,8.1,5.24,8.14,0.0,9.0,7.6,3.99,1.08,-0.79,-1.5,4.82,Humanities,Ok,Good,1.0,0.0,0.0,Jennifer Willard,Asian,female,2.0,USA,39.0,94085
+146,-0.41,1.93,2.5,1.4,1.97,-3.33,0.0,45.0,1.0,-1.63,0.0,-2.04,-1.27,5.34,Engineering,None,Good,0.0,1.0,0.0,Rose Willoughby,Asian,female,0.0,USA,25.0,94105
+147,-0.73,2.67,0.3,4.0,2.09,-3.77,0.0,12.0,3.5,-0.24,0.04,-4.37,-4.02,2.15,Sciences,Ok,Bad,1.0,1.0,0.0,Nancy Smith,Asian,female,0.0,USA,32.0,94087
+148,-0.6,2.19,1.2,4.4,2.91,-0.82,0.0,82.0,0.0,-3.52,2.48,-0.09,-0.26,6.73,Engineering,None,Bad,0.0,0.0,0.0,Kristin Powell,Asian,female,2.0,USA,24.0,94503
+149,0.87,2.5,3.3,3.3,3.32,2.89,0.0,32.0,0.0,-3.22,1.34,-1.57,-0.59,6.61,Humanities,Very Good,Good,1.0,0.0,0.0,Priscilla Leedom,Asian,female,2.0,USA,26.0,94544
+150,1.48,2.6,1.6,7.6,3.05,2.49,1.6,55.0,1.7,-1.35,1.7,-1.17,0.02,7.57,Humanities,Very Good,Good,0.0,1.0,0.0,Louise Frein,Asian,female,0.0,USA,32.0,94523
+151,-0.35,2.87,1.9,2.2,2.65,-1.38,1.1,12.0,1.4,-1.59,3.2,1.38,0.85,8.13,Engineering,None,Bad,0.0,0.0,0.0,Elizabeth Macdonald,Asian,female,0.0,USA,27.0,94087
+152,-0.88,2.03,1.6,0.3,1.32,-5.98,0.0,6.0,6.3,2.56,3.59,3.29,3.44,11.25,Engineering,None,Bad,0.0,1.0,1.0,Emma Ray,Asian,female,0.0,USA,27.0,94043
+153,-0.69,2.68,1.0,1.6,2.34,-2.21,0.0,34.0,3.7,0.68,2.49,-0.91,-0.28,7.09,Engineering,Ok,Bad,1.0,0.0,0.0,Felicia Laris,Asian,female,0.0,Canada,27.0,94030
+154,0.71,2.3,1.8,5.8,2.4,-0.84,0.0,4.0,1.0,-1.91,0.99,-1.57,-1.71,4.74,Engineering,None,Bad,0.0,0.0,0.0,Margaret Hunter,Asian,female,0.0,USA,31.0,94040
+155,0.04,2.96,0.6,7.4,2.79,-1.11,0.0,9.0,4.2,0.95,2.33,1.79,1.53,8.62,Humanities,None,Good,0.0,0.0,0.0,Josephine Johnston,Asian,female,0.0,USA,34.0,94085
+156,-0.16,2.95,2.3,3.1,2.38,-2.57,0.0,0.0,11.1,7.44,3.31,1.87,1.02,8.18,Quantitative,Ok,Bad,0.0,0.0,0.0,Karyn Calderin,Asian,female,0.0,USA,35.0,94040
+157,-0.12,2.24,2.9,3.0,2.67,-1.14,0.0,32.0,3.7,0.66,0.63,-2.09,-2.72,3.17,Quantitative,None,Bad,0.0,0.0,0.0,Carolyn Tindall,Asian,female,0.0,USA,28.0,94544
+158,0.44,2.71,0.4,4.2,1.96,-1.88,0.0,53.0,1.7,-0.97,1.81,-0.82,-0.98,5.84,Quantitative,None,Bad,0.0,0.0,0.0,Kathryn Balowski,Asian,female,0.0,China,26.0,94549
+159,0.04,3.53,2.1,6.8,4.01,2.53,0.0,29.0,0.5,-2.15,4.25,3.26,2.11,9.57,Quantitative,Very Good,Good,0.0,0.0,0.0,Frances Watts,Asian,female,2.0,USA,25.0,94560
+160,0.97,2.33,1.9,4.2,2.05,-1.27,3.3,21.0,5.4,1.97,2.35,0.11,0.73,8.19,Humanities,None,Bad,0.0,1.0,0.0,Lily Mcmahon,Asian,female,0.0,USA,34.0,94538
+161,-0.89,2.86,1.8,4.3,3.13,-1.25,0.0,51.0,1.4,-1.47,2.28,0.52,0.94,8.29,Engineering,None,Good,0.0,0.0,0.0,Priscilla Caldera,Asian,female,0.0,China,30.0,94618
+162,-0.41,2.94,2.6,2.6,2.54,-2.46,0.0,58.0,2.3,-0.38,3.4,1.65,2.22,10.15,Humanities,Ok,Good,0.0,0.0,0.0,Cynthia Hobart,Asian,female,2.0,USA,31.0,94720
+163,-1.47,1.84,0.8,-2.0,1.03,-6.96,0.0,20.0,3.5,0.36,0.44,-0.56,-0.47,5.93,Engineering,Ok,Good,0.0,1.0,1.0,Fredia Mattson,Asian,female,2.0,USA,24.0,94025
+164,-0.11,3.48,2.6,7.7,3.78,0.78,0.0,64.0,3.7,0.98,3.47,3.01,2.37,9.77,Engineering,Very Good,Good,0.0,0.0,0.0,Betty Czarnota,Asian,female,0.0,USA,36.0,94525
+165,0.3,2.45,1.5,4.9,2.24,-1.8,0.0,46.0,7.3,3.72,1.67,-1.44,-2.02,4.33,Humanities,Ok,Good,0.0,0.0,0.0,Vicki Powell,Asian,female,0.0,USA,37.0,94019
+166,0.27,2.49,2.7,1.0,1.78,-2.97,0.0,11.0,5.1,1.71,2.48,1.13,0.93,8.18,Engineering,Very Good,Good,0.0,1.0,0.0,Kelly Lyons,Asian,female,0.0,Australia,29.0,94089
+167,-0.15,3.34,2.3,4.9,3.91,2.41,0.0,47.0,3.4,0.34,2.77,0.56,0.46,7.7,Quantitative,Very Good,Good,0.0,0.0,0.0,Sarah Flynn,Asian,female,2.0,USA,29.0,94114
+168,-0.47,3.11,1.6,3.5,3.01,-0.66,0.0,59.0,2.6,-0.0,0.38,-3.4,-3.32,2.96,Engineering,None,Bad,0.0,0.0,0.0,Deborah Tankersley,Asian,female,0.0,China,26.0,94709
+169,-0.18,3.6,3.0,5.5,3.92,1.35,0.0,47.0,6.2,3.26,2.39,1.34,1.28,8.49,Quantitative,Very Good,Bad,1.0,0.0,0.0,Hazel Rosenthal,Asian,female,0.0,USA,34.0,94114
+170,-1.48,2.78,1.3,1.7,2.27,-4.76,3.6,22.0,6.2,2.61,0.76,-2.52,-2.65,3.65,Humanities,Ok,Bad,0.0,1.0,1.0,Linda Black,Asian,female,0.0,USA,31.0,94061
+171,-0.38,3.05,2.5,0.9,2.5,-1.6,1.4,37.0,1.0,-2.01,1.93,0.71,1.25,8.53,Engineering,None,Bad,0.0,0.0,0.0,Dorothy Ottis,Asian,female,0.0,USA,24.0,94545
+172,0.22,3.48,2.2,3.2,3.48,2.19,0.0,21.0,2.3,-0.7,2.26,0.44,1.46,9.08,Quantitative,Ok,Good,0.0,0.0,0.0,Ellen Reed,Asian,female,2.0,USA,28.0,94538
+173,0.99,3.08,1.5,7.7,3.16,1.39,0.0,64.0,2.7,-0.07,1.97,-0.14,-0.46,6.24,Quantitative,Very Good,Good,1.0,0.0,0.0,Robbin Bridges,Asian,female,0.0,USA,31.0,94525
+174,0.4,3.44,3.8,7.4,4.79,5.09,0.0,19.0,5.7,2.38,2.01,-0.65,-1.19,5.52,Humanities,Very Good,Good,1.0,0.0,0.0,Karen Molinaro,Asian,female,2.0,Australia,33.0,94304
+175,-0.15,2.61,1.6,6.7,3.25,-0.08,0.0,64.0,2.4,-0.3,0.94,-2.86,-2.9,3.56,Engineering,Very Good,Good,0.0,0.0,0.0,Elizabeth Lopez,Asian,female,0.0,USA,31.0,94525
+176,0.92,3.03,3.0,2.0,3.12,2.67,0.0,50.0,0.3,-2.21,3.12,2.57,3.42,11.57,Engineering,Ok,Good,0.0,0.0,0.0,Janice Pate,Asian,female,2.0,USA,28.0,94609
+177,0.69,2.76,2.4,4.6,2.52,-0.63,3.0,17.0,4.5,1.02,2.54,1.07,0.44,7.33,Humanities,Ok,Good,0.0,1.0,0.0,Sharon Ritchie,Asian,female,0.0,USA,40.0,94301
+178,-0.4,2.78,1.4,3.4,2.41,-2.37,0.0,68.0,1.2,-1.54,2.07,-0.78,0.05,7.46,Quantitative,Ok,Bad,0.0,0.0,1.0,Erica Davis,Asian,female,0.0,USA,24.0,94569
+179,-0.45,2.21,2.0,2.1,2.61,-1.28,0.0,18.0,1.3,-1.45,2.32,1.77,1.2,8.01,Engineering,None,Bad,0.0,0.0,0.0,Kristin Dehoyos,Asian,female,0.0,USA,23.0,95035
+180,-0.89,2.75,0.6,3.6,2.38,-3.01,0.0,63.0,5.3,2.36,1.07,-1.34,-1.21,5.42,Engineering,Ok,Bad,0.0,1.0,0.0,Sabina Suarez,Asian,female,0.0,USA,27.0,94801
+181,-0.94,3.45,2.5,2.4,2.85,-2.5,0.0,45.0,3.7,0.45,0.02,-1.86,-2.51,3.44,Engineering,Ok,Good,0.0,0.0,0.0,Elva Peterson,Asian,female,2.0,USA,28.0,94105
+182,-1.56,2.82,1.1,1.7,1.87,-5.75,0.0,80.0,0.0,-2.86,1.53,-0.68,0.73,8.32,Humanities,Ok,Good,0.0,1.0,1.0,Paula Finch,Asian,female,0.0,USA,25.0,94533
+183,-0.73,3.21,1.5,4.6,3.65,0.7,0.0,71.0,6.4,3.35,2.28,1.07,1.36,8.63,Humanities,Very Good,Good,1.0,0.0,0.0,Grace Alsberry,Asian,female,0.0,USA,35.0,94509
+184,-0.43,3.97,2.1,5.4,4.05,1.74,0.0,32.0,1.4,-1.2,2.87,-0.06,-0.99,5.79,Engineering,Very Good,Good,0.0,0.0,0.0,Teresa Vega,Asian,female,2.0,USA,31.0,94544
+185,0.41,2.7,2.7,6.8,3.56,1.67,0.0,38.0,3.3,0.3,1.95,-0.1,0.27,7.46,Engineering,Ok,Good,0.0,1.0,0.0,Mary Stewart,Asian,female,2.0,USA,29.0,94586
+186,-0.06,2.92,1.8,3.5,2.74,-0.8,0.0,30.0,3.4,0.44,1.95,0.18,0.14,7.17,Engineering,Ok,Bad,0.0,0.0,0.0,Lillian Thon,Asian,female,0.0,USA,25.0,94587
+187,-1.74,2.75,2.3,-0.2,2.41,-4.34,0.0,72.0,0.7,-2.07,2.32,1.59,3.06,11.07,Quantitative,None,Good,0.0,1.0,1.0,Megan French,Asian,female,1.0,China,22.0,94572
+188,-0.02,3.18,2.7,6.9,3.91,1.91,0.0,20.0,1.5,-1.12,0.91,-0.84,-0.94,5.62,Humanities,Very Good,Good,0.0,0.0,0.0,Arlene Mathews,Asian,female,2.0,Canada,36.0,94025
+189,-0.57,2.26,2.0,1.2,2.56,-1.36,0.0,33.0,1.4,-1.42,2.16,-0.46,-0.39,6.65,Engineering,None,Bad,0.0,0.0,0.0,Kim Billups,Asian,female,0.0,USA,28.0,94010
+190,-0.3,2.77,2.0,3.3,2.6,-1.83,0.0,13.0,3.5,0.28,2.08,0.72,1.2,8.53,Sciences,Ok,Good,0.0,0.0,0.0,Bobbie Laughlin,Asian,female,0.0,USA,28.0,94022
+191,-0.32,3.73,3.4,2.6,3.98,2.17,0.0,56.0,1.6,-1.15,1.28,-1.55,-1.87,4.58,Quantitative,Very Good,Good,0.0,0.0,0.0,Mary Farr,Asian,female,2.0,Australia,30.0,94595
+192,1.01,2.81,2.8,5.9,3.41,2.39,0.9,9.0,1.2,-1.9,2.39,-0.13,0.02,7.18,Quantitative,Very Good,Good,0.0,0.0,0.0,Sarah Dempsey,Asian,female,2.0,USA,30.0,94085
+193,-0.49,2.99,1.3,5.1,2.99,-0.99,0.0,18.0,5.2,1.84,1.96,-0.69,0.3,7.76,Quantitative,None,Good,1.0,0.0,0.0,Imogene Benincase,Asian,female,0.0,USA,32.0,95035
+194,-0.93,2.69,1.9,2.2,2.65,-2.28,0.0,60.0,1.5,-1.11,2.65,0.01,-0.26,6.73,Quantitative,Ok,Bad,0.0,0.0,0.0,Miriam Webb,Asian,female,0.0,USA,24.0,94707
+195,-0.51,3.21,2.0,4.2,3.2,-0.44,0.0,17.0,5.0,1.74,3.11,-0.08,-0.28,6.95,Engineering,Ok,Good,0.0,0.0,0.0,Carrie Farr,Asian,female,0.0,USA,29.0,94301
+196,0.82,2.75,2.1,6.5,3.51,2.98,0.0,44.0,1.8,-1.18,2.58,0.26,-0.82,5.92,Engineering,Very Good,Good,1.0,0.0,0.0,Karla Krause,Asian,female,2.0,USA,31.0,94131
+197,-0.09,3.03,2.2,3.4,3.2,0.7,0.0,17.0,5.7,1.99,2.32,0.65,0.59,7.64,Engineering,None,Good,0.0,0.0,0.0,Sandra Harrison,Asian,female,0.0,USA,35.0,94301
+198,-1.06,2.57,1.9,4.1,1.73,-6.84,2.1,19.0,3.5,0.09,2.62,2.0,1.72,9.02,Quantitative,None,Bad,0.0,1.0,1.0,Joy Smith,Asian,female,0.0,USA,29.0,94304
+199,0.93,2.96,2.9,4.5,3.48,3.08,0.0,47.0,1.9,-1.12,0.19,-2.77,-2.24,4.07,Quantitative,Very Good,Good,1.0,0.0,0.0,Kim Castro,Asian,female,2.0,China,26.0,94114
+200,-0.2,2.63,1.5,4.6,2.15,-3.25,0.0,19.0,0.7,-2.16,2.1,-0.34,-0.91,5.87,Quantitative,Ok,Bad,0.0,1.0,0.0,Sandy Velazquez,Asian,female,0.0,USA,32.0,94304
+201,0.2,3.67,2.8,7.6,4.55,3.94,0.0,25.0,7.3,3.66,1.63,-0.5,0.06,7.28,Engineering,Very Good,Good,0.0,0.0,0.0,Judith Dimarco,Asian,female,2.0,USA,33.0,94539
+202,-0.75,2.81,1.4,8.6,3.87,0.39,0.0,18.0,0.0,-3.66,2.61,-0.01,0.13,7.53,Engineering,Very Good,Good,0.0,0.0,0.0,Annette Franklin,Asian,female,0.0,USA,31.0,95035
+203,0.46,3.21,1.8,3.1,3.25,2.02,0.0,15.0,5.4,2.09,0.0,-4.4,-3.19,3.3,Engineering,Very Good,Good,0.0,0.0,0.0,Rose Willer,Asian,female,2.0,China,29.0,95002
+204,-0.12,3.44,3.5,5.3,4.27,2.95,0.0,46.0,1.7,-1.11,2.24,1.7,1.53,8.65,Engineering,Ok,Good,1.0,0.0,0.0,Caren Pearson,Asian,female,1.0,China,27.0,94019
+205,-0.3,3.53,1.5,1.5,2.28,-2.36,0.0,8.0,4.0,0.78,2.47,2.02,0.76,7.42,Quantitative,Ok,Bad,0.0,0.0,0.0,Rebecca Capp,Asian,female,1.0,USA,27.0,94085
+206,0.49,3.27,2.3,5.4,3.8,3.16,0.0,65.0,0.0,-2.96,2.03,0.0,-0.7,5.9,Sciences,Ok,Good,1.0,0.0,0.0,Rochelle Harris,Asian,female,2.0,USA,31.0,94556
+207,-0.3,2.52,2.2,1.6,2.69,-0.83,0.0,17.0,4.5,1.0,0.65,-2.01,-1.36,5.45,Sciences,Ok,Good,0.0,0.0,0.0,Diane Jones,Asian,female,1.0,USA,31.0,94301
+208,-0.68,2.69,2.2,7.1,3.51,-0.64,0.0,44.0,3.6,0.73,3.2,3.02,2.71,10.11,Sciences,None,Bad,0.0,1.0,0.0,Amanda Mays,Asian,female,1.0,USA,38.0,94131
+209,-0.19,2.68,0.5,2.0,1.73,-3.31,0.0,10.0,2.9,-0.72,1.41,-0.25,-0.91,5.51,Engineering,Ok,Bad,0.0,1.0,0.0,Lori Johnson,Asian,female,1.0,USA,26.0,94085
+210,-0.35,2.35,1.7,4.3,2.69,-1.44,0.1,42.0,0.0,-3.84,2.71,2.45,1.86,8.95,Quantitative,None,Bad,0.0,0.0,0.0,Viola Lemon,Asian,female,1.0,USA,28.0,94605
+211,-0.3,3.19,3.2,2.2,3.01,-1.17,0.0,29.0,1.9,-1.0,2.22,0.43,-1.09,5.15,Engineering,None,Bad,0.0,0.0,0.0,Sally Pagel,Asian,female,1.0,USA,26.0,94560
+212,0.7,3.73,2.2,9.3,4.62,5.22,0.0,64.0,2.7,-0.32,3.11,2.32,2.7,10.49,Sciences,Very Good,Good,1.0,1.0,0.0,Laura Vasile,Asian,female,0.0,USA,31.0,94525
+213,0.14,2.99,2.5,3.2,3.38,1.8,3.1,3.0,5.2,1.71,1.82,1.42,1.71,8.95,Engineering,None,Good,0.0,0.0,0.0,Kathleen Rosboril,Asian,female,1.0,USA,31.0,94040
+214,1.55,3.3,2.8,6.5,3.58,3.8,2.0,24.0,3.2,0.08,2.43,-0.22,-0.05,7.09,Engineering,Very Good,Good,1.0,0.0,0.0,Maria Phillips,Asian,female,1.0,USA,38.0,94027
+215,0.64,2.92,1.4,3.2,2.45,-0.03,0.0,10.0,5.3,1.98,2.47,0.56,0.55,7.69,Quantitative,Ok,Bad,0.0,0.0,0.0,Grace Martinez,Asian,female,1.0,USA,33.0,94085
+216,-0.63,2.62,0.9,0.9,1.68,-4.25,1.2,43.0,1.2,-1.5,2.35,0.98,-0.15,6.48,Engineering,None,Good,0.0,1.0,1.0,Doris Kirk,Asian,female,1.0,USA,22.0,94014
+217,1.0,2.92,2.9,6.4,2.88,0.3,0.0,71.0,0.0,-2.62,1.45,-1.35,-1.93,4.57,Quantitative,Ok,Good,0.0,1.0,0.0,Joanne Hice,Asian,female,1.0,USA,25.0,94509
+218,-0.69,2.99,3.0,1.8,3.04,-0.99,0.0,29.0,4.0,1.07,1.89,-0.24,-0.06,7.0,Quantitative,None,Bad,0.0,0.0,0.0,Annie Quezada,Asian,female,1.0,USA,35.0,94560
+219,-1.09,2.81,2.6,0.8,2.51,-3.22,0.0,13.0,5.2,1.74,2.88,1.38,0.74,7.78,Quantitative,Ok,Bad,0.0,1.0,0.0,Shelly Duong,Asian,female,1.0,USA,27.0,94022
+220,0.69,2.89,1.8,4.2,3.03,1.57,0.0,47.0,0.4,-2.29,2.3,1.87,1.9,8.96,Quantitative,Very Good,Good,0.0,0.0,0.0,Bethanie Sanchez,Asian,female,0.0,USA,30.0,94114
+221,0.13,2.74,2.7,5.2,3.63,1.83,0.0,42.0,6.9,3.51,2.05,0.72,1.5,8.93,Sciences,None,Good,0.0,0.0,0.0,Rosalee Hardt,Asian,female,1.0,USA,34.0,94605
+222,-0.68,2.49,2.2,3.4,1.91,-5.2,0.0,71.0,1.9,-0.99,1.38,-1.18,-1.41,5.22,Engineering,None,Bad,0.0,1.0,1.0,Ciera Cunningham,Asian,female,1.0,China,28.0,94509
+223,-0.86,2.33,1.8,5.0,3.46,0.08,0.0,10.0,3.3,0.22,2.85,1.32,1.49,8.93,Engineering,None,Good,0.0,0.0,0.0,Clara Arthurs,Asian,female,1.0,Australia,32.0,94085
+224,-1.03,3.51,3.3,1.2,2.99,-2.38,0.0,7.0,5.2,1.83,0.0,-4.66,-3.76,2.5,Engineering,None,Good,0.0,0.0,0.0,Kaci Crandall,Asian,female,1.0,Australia,32.0,94043
+225,-0.14,2.68,1.7,3.3,3.31,1.44,0.0,44.0,5.0,1.89,2.6,1.67,0.57,7.3,Quantitative,None,Good,0.0,0.0,0.0,Frances Severs,Asian,female,1.0,Canada,32.0,94131
+226,0.82,3.24,1.6,3.2,3.37,3.54,0.0,32.0,1.3,-1.63,0.0,-3.03,-1.16,5.92,Engineering,Ok,Good,1.0,0.0,0.0,Bernice Anderson,Asian,female,1.0,USA,28.0,94544
+227,-0.46,2.76,2.4,-0.6,1.63,-4.43,0.0,65.0,3.1,0.49,0.0,-6.82,-6.4,0.0,Engineering,Ok,Good,0.0,1.0,1.0,Mary Baremore,Asian,female,1.0,USA,26.0,94556
+228,-0.39,1.71,2.1,4.2,1.61,-5.38,0.0,42.0,5.1,1.74,3.26,1.67,2.18,9.97,Quantitative,Ok,Good,0.0,1.0,1.0,Dorothy Choate,Asian,female,1.0,USA,28.0,94605
+229,-0.03,1.76,1.2,2.0,1.38,-4.19,3.5,7.0,6.0,2.44,0.0,-3.71,-3.63,2.44,Engineering,None,Good,0.0,1.0,1.0,Christina Cunningham,Asian,female,1.0,USA,34.0,94043
+230,0.82,2.71,2.0,5.3,3.17,2.22,0.0,66.0,2.1,-0.61,1.16,-1.23,-0.81,5.97,Sciences,Ok,Good,1.0,0.0,0.0,Maria Gonsalez,Asian,female,1.0,USA,32.0,94925
+231,-1.14,2.49,2.7,0.6,2.11,-4.7,0.0,25.0,4.7,1.47,2.2,1.18,1.62,8.92,Quantitative,None,Good,0.0,1.0,1.0,Mable Morris,Asian,female,1.0,USA,29.0,94539
+232,-0.96,2.48,1.0,-0.3,1.52,-5.24,0.7,56.0,0.2,-2.52,1.91,-0.72,-1.21,5.45,Quantitative,Ok,Bad,0.0,1.0,1.0,Cynthia Casey,Asian,female,0.0,USA,26.0,94595
+233,-0.37,3.15,1.7,3.7,2.46,-2.47,0.0,30.0,5.3,1.99,2.0,0.21,0.87,8.21,Quantitative,None,Good,0.0,0.0,0.0,Susan Mcclinton,Asian,female,1.0,USA,28.0,94587
+234,0.21,3.9,1.5,6.5,3.86,2.53,0.0,6.0,3.4,0.2,2.64,2.44,2.06,9.33,Quantitative,Ok,Good,0.0,0.0,0.0,Edna Polin,Asian,female,1.0,China,34.0,94043
+235,-0.05,2.51,2.0,2.2,1.65,-4.14,0.0,10.0,5.0,1.51,2.49,0.65,1.2,8.71,Quantitative,Ok,Good,0.0,1.0,0.0,Cheryl Ross,Asian,female,1.0,USA,33.0,94085
+236,-0.18,2.79,3.5,2.6,3.48,1.11,0.0,25.0,4.2,1.06,1.8,-1.26,-0.37,6.9,Sciences,None,Good,0.0,0.0,1.0,Lorena Hulett,Asian,female,1.0,USA,27.0,94539
+237,0.52,2.17,1.4,2.6,1.92,-1.53,1.5,65.0,1.3,-1.41,3.67,2.06,0.33,7.07,Engineering,Ok,Good,0.0,0.0,0.0,Lillian Chase,Asian,female,1.0,USA,28.0,94556
+238,-0.65,3.06,1.3,2.9,2.9,-0.88,0.0,42.0,4.8,1.54,3.49,1.52,-0.09,6.58,Quantitative,Ok,Good,0.0,0.0,0.0,Cynthia Defoor,Asian,female,1.0,USA,31.0,94605
+239,0.76,3.49,2.2,5.8,3.87,3.71,0.0,63.0,0.6,-1.73,2.64,0.24,0.71,8.24,Engineering,Very Good,Good,1.0,0.0,0.0,Donna Jones,Asian,female,1.0,USA,26.0,94801
+240,0.57,2.96,1.2,4.4,2.82,0.91,0.0,49.0,1.4,-0.94,1.13,-1.69,-0.82,6.26,Engineering,Ok,Good,0.0,0.0,0.0,Julia Gordo,Asian,female,1.0,USA,29.0,94502
+241,0.11,4.11,1.0,3.8,3.18,0.91,0.0,48.0,0.0,-4.5,2.22,1.27,1.76,9.14,Quantitative,Ok,Good,0.0,0.0,0.0,Becky Sites,Asian,female,2.0,USA,30.0,94109
+242,0.21,2.42,1.3,-0.1,1.82,-1.88,0.0,73.0,3.5,0.64,2.32,1.32,1.45,8.66,Engineering,Ok,Good,0.0,0.0,0.0,Kay Armstrong,Asian,female,1.0,USA,27.0,94591
+243,-1.08,3.16,2.2,3.6,2.93,-2.7,0.0,4.0,5.1,1.67,2.31,1.42,1.32,8.46,Humanities,None,Bad,0.0,1.0,0.0,Mary Martin,Asian,female,1.0,USA,30.0,94040
+244,0.67,3.23,1.5,5.0,2.71,-0.04,0.0,49.0,1.0,-1.66,3.15,2.56,2.61,10.18,Engineering,Very Good,Bad,0.0,0.0,0.0,Donna Villarreal,Asian,female,1.0,USA,30.0,94502
+245,0.21,3.11,1.6,4.2,2.22,-2.34,0.0,55.0,2.7,-0.43,2.58,2.38,1.76,8.72,Quantitative,None,Bad,0.0,0.0,0.0,Brittany Valerio,Asian,female,1.0,USA,28.0,94523
+246,0.2,2.75,2.3,5.1,2.6,-1.49,0.0,0.0,4.4,1.14,3.47,2.79,2.2,9.63,Quantitative,Ok,Bad,0.0,0.0,0.0,Adela Cannon,Asian,female,1.0,USA,34.0,94040
+247,-0.96,3.17,2.1,4.5,3.63,0.11,0.0,20.0,6.4,2.87,2.1,1.25,0.67,7.53,Quantitative,Ok,Good,0.0,0.0,0.0,Nancy Hill,Asian,female,1.0,USA,32.0,94025
+248,-0.32,2.93,1.6,6.0,3.44,0.73,0.0,45.0,3.1,0.24,4.33,3.63,2.52,9.99,Quantitative,Very Good,Good,0.0,0.0,0.0,Julia Clarke,Asian,female,1.0,USA,31.0,94105
+249,-1.0,2.04,2.2,-0.8,1.46,-5.66,0.0,16.0,3.5,0.1,1.48,-0.61,-1.79,4.29,Engineering,Ok,Bad,0.0,1.0,1.0,Lucille Helmick,Asian,female,1.0,Australia,26.0,95134
+250,-1.8,2.22,-0.1,3.0,1.42,-7.58,1.9,14.0,3.3,-0.0,1.88,-0.76,-1.23,5.41,Quantitative,Ok,Bad,0.0,1.0,1.0,Peggy Dimmick,Asian,female,1.0,Canada,30.0,95002
+251,-0.69,2.94,2.0,4.5,3.01,-1.51,2.4,3.0,3.9,0.57,1.53,-1.97,-1.31,5.69,Engineering,None,Bad,0.0,0.0,0.0,Bonita Buell,Asian,female,1.0,USA,34.0,94040
+252,-1.59,2.38,2.0,-1.6,1.54,-6.39,0.0,8.0,4.0,0.93,0.23,-3.95,-4.14,1.98,Humanities,None,Bad,0.0,1.0,1.0,Angela Gleaton,Asian,female,1.0,USA,29.0,94085
+253,1.02,2.76,3.7,5.2,3.48,2.73,1.8,36.0,2.5,-0.45,1.38,-0.84,-0.71,6.16,Engineering,Ok,Good,1.0,0.0,0.0,Karen Shaw,Asian,female,1.0,USA,30.0,94588
+254,-0.17,2.34,2.6,3.0,2.3,-2.71,0.0,38.0,6.7,2.93,1.22,-2.3,-1.14,6.04,Quantitative,None,Bad,0.0,1.0,0.0,Tracy Digiacomo,Asian,female,1.0,Canada,32.0,94586
+255,-0.44,3.81,2.7,6.7,4.85,4.1,0.0,64.0,3.4,0.4,2.32,2.1,2.79,10.38,Engineering,None,Good,1.0,0.0,0.0,Irma Dahlstrom,Asian,female,1.0,USA,33.0,94525
+256,0.64,2.97,0.5,9.7,3.38,1.56,0.0,40.0,0.0,-3.07,2.99,1.5,1.86,9.58,Engineering,Ok,Good,0.0,0.0,0.0,Betty Murray,Asian,female,1.0,USA,34.0,94603
+257,0.48,3.58,2.1,4.3,3.41,1.96,0.0,67.0,0.1,-2.65,3.46,4.18,3.18,10.4,Sciences,Ok,Good,0.0,0.0,0.0,Michelle Edington,Asian,female,1.0,USA,31.0,94598
+258,0.1,2.92,2.5,2.7,3.0,0.48,0.0,15.0,1.8,-1.58,1.93,0.31,1.16,8.67,Engineering,Very Good,Good,0.0,0.0,0.0,Jennifer Shivers,Asian,female,1.0,USA,29.0,95002
+259,0.81,3.25,1.9,7.2,4.78,6.84,0.0,37.0,0.5,-2.16,1.87,0.31,-0.47,6.18,Sciences,Ok,Good,0.0,0.0,0.0,Rene Chavarria,Asian,female,1.0,USA,33.0,94545
+260,-0.53,2.77,3.4,-2.2,2.17,-2.64,0.0,30.0,1.9,-1.07,2.67,0.08,0.04,7.3,Engineering,None,Good,0.0,0.0,0.0,Monica Riley,Asian,female,1.0,USA,21.0,94587
+261,-0.84,2.55,1.8,-1.3,2.3,-2.18,0.0,48.0,0.0,-3.38,1.31,-1.89,-1.66,5.11,Quantitative,None,Good,0.0,0.0,0.0,Nyla Mclellan,Asian,female,2.0,USA,23.0,94109
+262,0.28,2.58,1.6,6.9,3.42,1.39,0.0,28.0,1.5,-1.43,2.07,-0.89,-1.24,5.66,Engineering,Ok,Good,1.0,0.0,0.0,Abigail Gigliotti,Asian,female,1.0,USA,27.0,94402
+263,-0.63,2.98,2.5,4.6,2.83,-2.59,0.0,49.0,1.5,-1.14,1.52,0.05,-0.36,6.22,Quantitative,None,Good,0.0,1.0,0.0,Lorraine Foster,Asian,female,1.0,USA,25.0,94502
+264,0.55,3.06,2.0,6.0,3.27,1.36,0.0,28.0,1.8,-1.04,3.05,-0.56,-0.71,6.57,Quantitative,Ok,Good,0.0,0.0,0.0,Martha Fowler,Asian,female,1.0,Canada,27.0,94402
+265,0.74,3.15,3.3,7.0,3.67,2.06,0.0,80.0,2.9,0.35,2.41,2.23,1.48,8.39,Humanities,Ok,Good,0.0,0.0,0.0,Lakeisha Barnett,Asian,female,1.0,Australia,33.0,94533
+266,-0.58,2.92,1.2,-0.5,1.89,-3.24,0.0,23.0,4.6,1.52,2.72,1.89,1.43,8.61,Engineering,Very Good,Good,0.0,1.0,0.0,Anita Teston,Asian,female,2.0,USA,28.0,94028
+267,-0.42,2.58,1.0,3.7,1.67,-4.75,0.0,41.0,3.9,0.83,3.73,2.11,1.67,9.15,Quantitative,None,Good,0.0,1.0,1.0,Maria Blount,Asian,female,2.0,China,26.0,94542
+268,-0.26,2.37,2.2,6.5,2.94,-1.33,0.0,29.0,1.7,-1.21,0.95,-1.29,-1.05,5.62,Engineering,Ok,Bad,0.0,0.0,0.0,Kelly Zachmann,Asian,female,1.0,USA,32.0,94560
+269,-0.26,3.2,1.7,3.8,3.63,2.0,0.0,0.0,4.9,1.55,3.32,1.59,1.3,8.71,Engineering,Very Good,Good,0.0,1.0,0.0,Diane Wood,Asian,female,1.0,USA,30.0,94040
+270,1.63,3.55,3.3,9.5,4.47,5.8,0.0,62.0,0.0,-2.6,1.92,0.13,0.7,8.1,Sciences,Ok,Good,1.0,0.0,0.0,Kari Kern,Asian,female,1.0,USA,28.0,94564
+271,0.21,2.55,0.8,5.3,3.25,1.91,0.0,64.0,0.0,-2.88,3.08,2.02,2.73,10.61,Humanities,Ok,Good,0.0,0.0,0.0,Sharon Balcom,Asian,female,2.0,USA,24.0,94525
+272,0.45,3.02,1.0,9.0,3.05,-0.12,0.0,5.0,4.5,1.16,2.01,1.05,1.41,8.65,Quantitative,None,Good,1.0,0.0,0.0,Ginger Fernandez,Asian,female,1.0,USA,33.0,94043
+273,0.16,3.55,1.7,5.9,4.06,3.62,0.0,45.0,8.2,4.97,0.39,-3.26,-3.83,1.95,Engineering,Very Good,Good,1.0,0.0,0.0,Laura Delozier,Asian,female,1.0,USA,42.0,94105
+274,-0.85,2.8,1.5,2.4,2.11,-4.09,0.0,23.0,2.8,-0.31,3.54,3.11,2.15,9.39,Engineering,Ok,Bad,0.0,1.0,0.0,Colleen Allman,Asian,female,1.0,USA,29.0,94028
+275,-0.96,2.99,2.7,0.1,2.24,-4.06,0.0,60.0,0.0,-2.89,2.28,0.22,-0.21,6.76,Humanities,None,Bad,0.0,1.0,0.0,Joan Pope,Asian,female,1.0,USA,21.0,94707
+276,-0.71,3.19,2.0,6.3,4.26,2.38,0.0,21.0,3.8,0.82,0.91,-0.52,-0.92,5.34,Engineering,Ok,Good,0.0,0.0,0.0,Sarah Knuth,Asian,female,1.0,USA,31.0,94538
+277,-0.34,1.43,1.4,3.3,0.9,-7.03,0.0,5.0,5.3,2.03,2.25,-0.2,-0.55,6.3,Quantitative,Very Good,Good,0.0,1.0,1.0,Margaret Montagna,Asian,female,1.0,China,28.0,94043
+278,-0.82,3.06,1.8,0.4,2.92,-0.71,0.0,91.0,0.0,-4.1,0.94,-1.0,-0.87,5.69,Quantitative,None,Bad,0.0,0.0,0.0,Doris Humes,Asian,female,1.0,USA,21.0,94558
+279,0.19,2.62,1.4,6.4,2.9,-0.31,0.0,43.0,2.5,-0.52,2.73,-0.34,-0.36,6.87,Quantitative,Ok,Good,0.0,0.0,0.0,Lisa Downs,Asian,female,0.0,USA,34.0,94014
+280,-0.62,4.03,3.2,0.4,3.81,1.68,0.0,47.0,3.5,0.65,4.56,4.96,3.8,11.44,Quantitative,Ok,Good,0.0,0.0,0.0,Delores Walz,Asian,female,1.0,USA,24.0,94114
+281,-0.05,2.31,2.2,8.4,2.87,-1.76,0.0,19.0,0.5,-2.41,2.3,-0.37,-1.51,4.99,Engineering,None,Good,0.0,0.0,0.0,Jan Raver,Asian,female,1.0,USA,32.0,94304
+282,0.58,2.73,2.1,1.2,2.59,0.78,0.7,53.0,0.2,-2.54,1.29,-2.39,-2.61,3.8,Engineering,Very Good,Bad,1.0,0.0,0.0,Diana Williams,Asian,female,1.0,USA,27.0,94549
+283,0.0,2.95,1.8,3.4,2.53,-1.37,0.0,59.0,1.1,-1.28,0.61,-2.58,-2.77,3.57,None,None,Good,0.0,0.0,0.0,Mary Hickey,Asian,female,1.0,USA,27.0,94709
+284,-0.81,3.22,0.4,4.2,2.35,-3.58,0.0,11.0,4.0,0.93,0.22,-3.52,-4.21,1.55,Engineering,Ok,Bad,0.0,1.0,0.0,Mary Sullivan,Asian,female,1.0,Australia,33.0,94089
+285,0.53,2.53,0.5,5.7,2.4,-0.46,0.0,60.0,3.2,0.31,0.04,-2.82,-2.66,3.65,Quantitative,Very Good,Bad,0.0,0.0,0.0,Katherine Hayek,Asian,female,1.0,China,34.0,94707
+286,1.37,2.9,3.5,3.1,3.31,3.66,2.0,65.0,2.8,0.14,0.0,-2.13,-2.08,4.13,Quantitative,Ok,Good,1.0,1.0,0.0,Gloria Herron,Asian,female,1.0,China,30.0,94556
+287,0.15,3.01,3.8,2.3,3.6,2.05,0.0,4.0,0.5,-2.26,1.39,-0.14,-0.58,6.03,Engineering,Ok,Good,0.0,0.0,0.0,Maria Torres,Asian,female,1.0,USA,26.0,94040
+288,0.35,2.99,1.8,2.8,3.27,2.44,0.0,57.0,1.0,-1.64,4.07,3.13,2.76,10.35,Quantitative,Very Good,Good,0.0,0.0,0.0,Jean Wittke,Asian,female,1.0,China,30.0,94038
+289,0.51,3.03,2.3,3.8,3.94,4.57,0.0,71.0,0.8,-1.63,2.3,1.03,1.13,8.38,Engineering,Very Good,Good,1.0,0.0,0.0,Karen Channell,Asian,female,1.0,Canada,26.0,94509
+290,0.51,2.77,2.5,4.9,3.26,1.49,0.0,26.0,3.8,0.44,3.02,-0.64,-1.57,5.29,Engineering,Very Good,Good,0.0,0.0,0.0,Audrey Marshall,Asian,female,1.0,USA,31.0,94403
+291,0.89,3.34,2.7,4.8,3.78,3.76,0.0,17.0,6.6,2.97,1.73,-0.47,-0.78,5.94,Sciences,Ok,Good,1.0,0.0,0.0,Margaret Potts,Asian,female,1.0,USA,38.0,94301
+292,1.12,3.23,3.8,4.1,3.74,3.96,0.0,44.0,3.2,0.56,0.66,-1.9,-1.51,5.0,Sciences,Ok,Good,0.0,0.0,0.0,Pauline Savage,Asian,female,1.0,USA,31.0,94131
+293,0.14,3.16,0.9,7.2,3.17,0.32,0.0,26.0,6.3,3.05,2.37,1.12,1.18,8.4,Humanities,Very Good,Bad,0.0,0.0,0.0,Margaret Morey,Asian,female,1.0,USA,38.0,94403
+294,-0.52,2.68,1.3,5.2,2.79,-1.75,0.0,42.0,1.7,-1.08,2.94,3.3,2.75,10.04,Engineering,Ok,Bad,0.0,0.0,0.0,Tara Bateman,Asian,female,1.0,Canada,26.0,94605
+295,-0.51,3.52,3.1,4.0,3.68,0.6,0.0,34.0,2.2,-0.61,1.11,0.41,0.79,7.81,Humanities,Ok,Bad,0.0,0.0,0.0,Stephanie Johnson,Asian,female,1.0,China,34.0,94030
+296,0.64,3.71,1.8,7.0,3.94,3.65,0.0,29.0,0.2,-2.77,1.9,0.24,0.06,6.96,Engineering,Very Good,Good,0.0,0.0,0.0,Autumn Wiley,Asian,female,1.0,USA,27.0,94560
+297,-0.72,3.56,1.7,4.4,3.33,-0.45,0.0,33.0,1.3,-1.59,2.84,0.2,-0.11,6.97,Engineering,Ok,Bad,0.0,0.0,0.0,Idella Colin,Asian,female,1.0,USA,30.0,94010
+298,0.61,2.7,0.8,5.4,2.76,1.06,3.9,25.0,6.7,3.24,1.02,-1.25,0.21,7.53,Engineering,Ok,Good,0.0,1.0,0.0,Kellie Elliott,Asian,female,1.0,USA,33.0,94539
+299,-1.65,3.19,2.4,1.3,2.42,-5.22,0.0,58.0,1.6,-1.12,2.64,-0.7,-1.5,5.18,Engineering,Ok,Bad,1.0,1.0,1.0,Ami Smith,Asian,female,1.0,USA,25.0,94720
+300,0.3,2.42,3.0,3.2,1.88,-3.55,0.0,35.0,2.4,-0.72,1.68,-1.27,-1.17,5.74,Engineering,Ok,Good,0.0,1.0,0.0,Peggy Neill,Asian,female,1.0,USA,28.0,94566
+301,1.08,3.54,1.2,7.4,3.43,2.82,0.0,13.0,3.8,0.79,1.06,-2.37,-1.64,5.33,Engineering,Ok,Good,1.0,1.0,0.0,Mary Reichert,Asian,female,1.0,USA,35.0,94022
+302,-0.84,3.87,2.4,2.0,3.81,1.19,0.0,95.0,1.9,-0.38,3.41,3.51,3.29,10.89,Quantitative,Ok,Good,0.0,0.0,0.0,Barbara Huskin,Asian,female,1.0,USA,29.0,94933
+303,0.77,3.04,1.3,5.8,2.95,1.32,0.0,9.0,7.3,3.91,1.99,-1.4,-2.22,4.14,Quantitative,None,Good,0.0,0.0,0.0,Joan Koon,Asian,female,1.0,USA,37.0,94085
+304,0.12,3.16,2.4,5.1,3.46,1.17,0.0,48.0,5.1,2.02,1.98,-0.69,-0.16,7.2,Quantitative,Very Good,Good,0.0,0.0,0.0,Audrey Lott,Asian,female,1.0,USA,35.0,94109
+305,-0.11,3.25,3.4,6.4,3.72,0.6,0.0,8.0,4.1,1.04,1.78,-1.75,-1.61,5.24,Quantitative,Ok,Good,0.0,0.0,0.0,Kim Bradley,Asian,female,1.0,USA,33.0,94085
+306,0.94,2.91,2.4,8.5,3.91,3.8,1.5,26.0,2.0,-0.81,1.29,-3.13,-3.29,3.16,Engineering,Ok,Good,1.0,0.0,0.0,Luz Marcella,Asian,female,1.0,Canada,38.0,94403
+307,0.42,2.68,1.2,10.1,3.34,0.59,0.0,88.0,2.1,-0.5,1.85,0.04,-0.55,6.08,Quantitative,Ok,Good,0.0,0.0,0.0,Exie Duncan,Asian,female,1.0,Australia,31.0,94973
+308,-0.6,3.45,1.6,3.3,3.35,0.3,3.1,4.0,5.5,2.08,4.41,4.65,4.26,12.27,Engineering,Ok,Bad,0.0,0.0,0.0,Randee Parrish,Asian,female,1.0,USA,36.0,94040
+309,0.79,3.93,2.5,7.4,5.2,7.79,0.0,12.0,2.5,-0.42,1.52,-0.18,-0.82,5.86,Engineering,Ok,Good,1.0,0.0,0.0,Candice Larsen,Asian,female,1.0,USA,32.0,94087
+310,0.82,3.38,1.5,7.4,3.8,3.38,0.0,8.0,1.3,-1.74,1.39,-1.47,-1.9,4.58,Sciences,Ok,Good,1.0,0.0,0.0,Kimberly Maher,Asian,female,1.0,USA,29.0,94085
+311,0.64,2.99,2.6,5.2,3.31,1.63,0.0,0.0,2.8,-0.41,2.24,1.15,1.64,9.13,Engineering,None,Good,0.0,0.0,0.0,Ruth Wingfield,Asian,female,1.0,China,31.0,94040
+312,0.03,3.41,0.7,5.5,3.15,0.59,1.9,24.0,3.2,0.29,1.65,-3.51,-2.31,5.0,Engineering,None,Good,0.0,0.0,0.0,Judy Eoff,Asian,female,1.0,USA,31.0,94027
+313,0.35,1.61,3.1,3.9,2.53,-0.7,0.0,5.0,0.4,-2.49,1.37,-2.99,-2.92,3.76,Sciences,Ok,Bad,0.0,0.0,1.0,Nadia Reeder,Asian,female,1.0,USA,25.0,94043
+314,-0.9,2.93,1.6,2.6,2.49,-2.97,2.9,64.0,5.0,2.21,1.96,0.2,0.54,7.68,Engineering,Very Good,Bad,0.0,1.0,0.0,Stacey Hronick,Asian,female,1.0,USA,36.0,94525
+315,-0.23,3.1,1.7,4.6,3.33,0.59,0.0,68.0,2.3,-0.32,1.15,-1.12,-0.35,6.6,Humanities,Very Good,Good,0.0,0.0,0.0,Yvette Mory,Asian,female,1.0,USA,25.0,94569
+316,0.51,3.39,3.3,4.6,3.63,2.39,0.0,43.0,1.3,-1.64,1.4,-0.74,-0.54,6.3,Quantitative,Very Good,Good,0.0,1.0,0.0,Elvira Gibson,Asian,female,1.0,Canada,32.0,94014
+317,-0.02,3.03,2.6,0.6,2.73,-0.06,0.0,22.0,1.0,-2.02,2.01,0.83,0.95,8.1,Engineering,None,Bad,0.0,0.0,0.0,Robyn Hartman,Asian,female,1.0,USA,23.0,94061
+318,0.09,2.52,0.7,6.1,2.92,0.13,0.0,2.0,2.7,-0.35,1.71,-0.77,-0.63,6.22,Quantitative,Ok,Bad,0.0,0.0,0.0,Kay Levey,Asian,female,2.0,Canada,30.0,94040
+319,0.12,3.17,2.0,5.7,3.72,2.2,0.0,44.0,3.6,0.47,2.17,-0.4,0.2,7.52,Quantitative,Very Good,Good,0.0,0.0,0.0,Kristina Leon,Asian,female,2.0,Canada,29.0,94131
+320,0.17,2.23,1.6,6.6,2.29,-2.58,0.0,98.0,1.9,-0.46,1.55,-1.17,-1.9,4.55,Quantitative,None,Bad,1.0,0.0,0.0,Malena Mccosker,Asian,female,1.0,USA,28.0,94585
+321,0.44,3.48,1.7,3.2,2.96,0.95,0.0,70.0,1.9,-0.79,1.74,-1.15,-1.37,5.35,Quantitative,Very Good,Good,0.0,0.0,0.0,Charlotte Chandler,Asian,female,1.0,China,25.0,94903
+322,-0.12,3.93,2.7,2.8,3.34,0.54,0.0,37.0,3.0,0.16,3.15,2.14,1.82,9.24,Engineering,None,Bad,0.0,0.0,0.0,Ruby Arroyo,Asian,female,1.0,China,28.0,94545
+323,0.41,2.65,3.0,1.3,2.84,0.78,0.0,23.0,1.5,-1.48,2.54,0.9,0.23,7.14,Engineering,Ok,Good,0.0,0.0,0.0,Patricia Collins,Asian,female,1.0,USA,24.0,94028
+324,-0.76,2.76,1.3,1.6,2.23,-2.97,0.0,73.0,1.2,-1.23,1.88,0.11,0.71,7.91,Quantitative,Ok,Bad,0.0,1.0,0.0,Alberta Nichols,Asian,female,1.0,USA,27.0,94591
+325,0.15,3.2,2.7,6.1,3.29,0.1,0.0,7.0,9.5,5.76,1.46,-0.97,0.28,7.68,Engineering,Ok,Good,0.0,0.0,0.0,Alma Meaney,Asian,female,1.0,USA,39.0,94043
+326,1.35,3.5,2.1,6.0,3.48,3.58,0.0,24.0,4.0,0.89,1.55,-0.52,-0.71,6.01,Sciences,Very Good,Good,1.0,1.0,0.0,Jennifer Strelow,Asian,female,1.0,China,31.0,94027
+327,0.93,3.4,3.9,4.7,4.03,4.27,0.0,30.0,3.1,0.18,0.43,-2.37,-1.18,5.68,Quantitative,Very Good,Good,1.0,0.0,0.0,Tracy Fritz,Asian,female,1.0,China,31.0,94587
+328,-0.0,2.48,2.6,1.1,2.43,-1.17,0.0,29.0,5.8,2.4,1.88,0.15,-0.69,5.94,None,None,Bad,0.0,0.0,0.0,Robin Green,Asian,female,1.0,USA,27.0,94560
+329,0.22,2.4,1.6,3.2,2.28,-1.24,0.0,16.0,4.3,0.89,3.48,2.82,2.56,10.18,Engineering,Very Good,Bad,0.0,0.0,0.0,Ora Ray,Asian,female,1.0,China,32.0,95134
+330,1.26,3.29,2.6,7.2,4.22,5.68,0.0,3.0,0.8,-2.27,1.79,-0.94,-1.06,5.79,Engineering,Ok,Good,1.0,0.0,0.0,Adriana Berry,Asian,female,1.0,USA,28.0,94040
+331,-0.18,3.16,1.5,2.8,3.29,1.14,0.0,19.0,3.5,0.66,1.76,-0.57,-0.6,6.2,Engineering,Ok,Bad,0.0,0.0,0.0,Sharon Landi,Asian,female,1.0,USA,28.0,94304
+332,-1.18,3.38,3.2,3.4,4.12,0.89,0.0,15.0,3.7,0.53,0.0,-5.05,-3.92,2.65,Quantitative,Very Good,Bad,0.0,0.0,0.0,Cathy Banks,Asian,female,1.0,USA,31.0,95002
+333,-0.21,3.18,1.8,3.6,3.19,0.45,0.0,23.0,1.0,-1.91,2.61,0.84,0.75,7.94,Engineering,Ok,Good,0.0,0.0,0.0,Sherry Hobson,Asian,female,1.0,USA,29.0,94028
+334,-0.08,2.85,2.8,2.5,3.2,0.92,0.0,58.0,1.4,-1.14,1.56,0.24,0.04,6.78,Engineering,Ok,Good,0.0,0.0,1.0,Karen Carreon,Asian,female,1.0,USA,28.0,94720
+335,0.15,3.21,1.1,4.7,1.94,-3.47,0.0,58.0,3.4,0.92,1.24,-1.1,-0.92,5.79,Engineering,None,Good,0.0,1.0,0.0,Esther Bernard,Asian,female,1.0,Canada,29.0,94720
+336,-0.16,2.59,1.7,5.1,3.25,0.39,0.0,55.0,1.3,-1.3,1.81,-1.86,-2.04,4.74,Humanities,None,Good,0.0,0.0,0.0,Nicole Lydick,Asian,female,1.0,USA,28.0,94523
+337,-0.22,2.58,1.0,2.6,2.26,-1.86,0.0,50.0,3.6,0.85,2.7,0.07,0.32,7.75,Sciences,None,Bad,1.0,0.0,0.0,Kelly Szeto,Asian,female,1.0,USA,34.0,94609
+338,-0.46,2.81,1.6,-0.7,1.79,-3.53,0.0,1.0,5.3,1.59,0.26,-1.48,-0.55,6.3,Engineering,Ok,Bad,0.0,1.0,0.0,Leslie Oneil,Asian,female,0.0,USA,31.0,94040
+339,-0.16,2.94,2.2,3.0,3.49,1.7,0.0,58.0,3.0,0.12,0.61,-1.51,-1.43,5.02,Engineering,Ok,Good,0.0,0.0,0.0,Anita North,Asian,female,1.0,USA,27.0,94720
+340,-0.46,2.61,1.5,4.5,2.83,-1.38,0.0,8.0,3.2,-0.04,0.52,-2.79,-2.93,3.3,Sciences,Ok,Bad,0.0,0.0,0.0,Annette Wicker,Asian,female,1.0,China,30.0,94085
+341,0.06,2.6,1.4,4.3,3.01,0.56,0.0,49.0,2.3,-0.5,0.0,-5.67,-4.54,1.76,Engineering,Ok,Good,0.0,0.0,0.0,Linda Taylor,Asian,female,1.0,USA,29.0,94502
+342,-0.57,3.15,1.1,4.4,2.46,-3.03,0.0,50.0,0.0,-3.68,4.52,4.46,4.03,12.05,Quantitative,None,Good,0.0,1.0,0.0,Barbara Mckinney,Asian,female,1.0,USA,27.0,94609
+343,1.78,3.06,4.0,6.5,4.37,6.89,0.0,34.0,1.6,-1.33,1.18,-1.83,-0.95,6.05,Engineering,Very Good,Good,1.0,0.0,0.0,Teresa Edwards,Asian,female,1.0,USA,29.0,94030
+344,-0.08,3.56,3.7,1.5,3.68,2.06,0.0,61.0,2.6,-0.14,2.7,1.93,1.47,8.6,Engineering,Very Good,Good,0.0,1.0,0.0,Sandra Smith,Asian,female,1.0,USA,27.0,94707
+345,-0.1,3.05,1.5,5.4,3.0,-0.38,0.0,58.0,3.4,0.54,4.1,4.38,3.65,11.32,Engineering,Ok,Bad,0.0,0.0,0.0,Crystal Bartberger,Asian,female,1.0,USA,29.0,94720
+346,1.18,3.01,2.3,7.5,3.51,2.96,0.0,30.0,0.2,-2.42,1.85,-2.61,-3.03,3.56,Sciences,Ok,Good,1.0,0.0,0.0,Pamela Gupta,Asian,female,1.0,USA,30.0,94587
+347,-0.76,2.23,-0.6,3.1,0.85,-7.16,0.0,35.0,1.5,-1.74,2.84,0.97,1.51,9.28,Sciences,Ok,Good,0.0,0.0,1.0,Annie Gower,Asian,female,1.0,USA,29.0,94566
+348,0.21,3.07,3.9,2.1,4.04,3.61,0.0,43.0,0.9,-1.85,2.34,0.44,1.07,8.61,Engineering,Very Good,Good,1.0,0.0,0.0,Marilyn Nunlee,Asian,female,1.0,USA,25.0,94014
+349,1.32,2.89,1.6,11.1,3.79,3.45,0.0,16.0,4.0,0.63,2.16,0.05,-0.7,5.92,Sciences,Very Good,Good,0.0,0.0,0.0,Beverly Morris,Asian,female,1.0,USA,39.0,95134
+350,-0.88,2.96,0.7,0.3,2.4,-2.04,0.0,11.0,2.9,0.0,0.3,-1.94,-2.33,3.82,Engineering,None,Good,1.0,0.0,0.0,Carol Modlin,Asian,female,1.0,USA,25.0,94089
+351,1.23,3.09,3.0,3.8,4.07,6.21,0.0,52.0,2.6,0.11,4.57,4.08,3.52,11.37,Engineering,None,Good,1.0,1.0,0.0,Belinda Volesky,Asian,female,1.0,USA,32.0,94611
+352,-0.52,2.34,1.8,1.0,1.79,-4.02,0.0,8.0,7.4,3.79,1.22,-0.93,-1.11,5.46,Engineering,Ok,Bad,0.0,0.0,0.0,Jane White,Asian,female,1.0,Australia,29.0,94085
+353,0.05,2.75,1.7,4.3,3.69,2.73,0.0,5.0,2.1,-1.05,1.8,-0.04,0.13,7.11,Quantitative,Very Good,Good,0.0,0.0,0.0,Whitney Madewell,Asian,female,1.0,USA,31.0,94043
+354,1.46,2.65,2.6,6.9,3.54,4.07,0.0,42.0,2.5,-0.62,0.77,-2.52,-1.25,5.82,Engineering,Ok,Good,1.0,0.0,0.0,Lindsey Sturtevant,Asian,female,1.0,China,32.0,94605
+355,-0.38,2.54,0.8,1.4,2.17,-1.78,0.0,17.0,6.5,3.18,0.04,-3.93,-2.83,3.94,Engineering,Ok,Good,0.0,0.0,0.0,Mary Bousquet,Asian,female,1.0,USA,30.0,94301
+356,-0.4,2.86,2.2,6.4,3.11,-1.52,0.0,54.0,1.9,-1.07,0.98,-2.8,-2.91,3.49,Engineering,Ok,Bad,0.0,0.0,0.0,Vivian Rogers,Asian,female,1.0,USA,28.0,94121
+357,0.94,3.75,2.4,9.5,5.17,7.54,0.0,65.0,0.6,-1.88,0.72,-2.06,-2.95,2.99,Engineering,Very Good,Good,1.0,0.0,0.0,Kathleen Durst,Asian,female,1.0,USA,29.0,94556
+358,-1.42,3.62,1.8,4.5,3.15,-2.99,0.0,41.0,3.9,0.96,0.1,-1.3,-1.15,5.23,Quantitative,Ok,Bad,0.0,0.0,0.0,Kathleen Ellis,Asian,female,1.0,USA,28.0,94542
+359,0.57,2.11,2.9,4.8,2.69,-0.14,0.0,91.0,1.2,-1.18,3.28,0.98,1.53,9.35,Quantitative,Ok,Bad,1.0,0.0,0.0,Shirley Lopez,Asian,female,1.0,USA,26.0,94558
+360,-0.24,3.03,3.0,3.0,3.04,-0.47,0.0,11.0,3.7,0.22,1.05,-1.56,-1.99,4.37,Engineering,Ok,Good,0.0,0.0,1.0,Jean Krul,Asian,female,1.0,USA,32.0,94089
+361,1.24,3.42,2.1,7.9,3.67,3.61,0.0,40.0,3.6,0.81,0.83,-0.7,-1.56,4.51,Quantitative,Very Good,Good,1.0,0.0,0.0,Elizabeth Hess,Asian,female,1.0,USA,31.0,94603
+362,-0.12,2.79,1.0,2.3,2.54,-0.53,0.0,24.0,4.5,1.31,1.85,0.78,1.65,9.13,Engineering,Ok,Bad,0.0,1.0,0.0,Evelyn Adams,Asian,female,1.0,USA,27.0,94027
+363,-0.29,2.16,2.1,-0.7,1.57,-3.76,0.0,59.0,2.5,-0.34,1.47,-2.35,-2.28,4.34,Sciences,None,Bad,0.0,0.0,0.0,Ruth Sawer,Asian,female,1.0,USA,22.0,94709
+364,-0.26,2.71,1.5,3.6,2.57,-1.56,0.0,31.0,4.1,1.1,1.93,0.64,0.7,7.74,Quantitative,None,Bad,0.0,0.0,0.0,Mary Crabill,Asian,female,1.0,USA,29.0,94544
+365,-0.57,3.39,3.0,2.1,3.49,0.48,0.0,48.0,3.5,0.77,3.9,3.27,3.72,11.91,Engineering,Very Good,Good,0.0,0.0,0.0,Katie Boscio,Asian,female,1.0,USA,31.0,94109
+366,-1.09,2.61,0.9,1.0,1.92,-4.46,1.8,35.0,3.1,0.32,2.66,0.88,0.86,8.08,Engineering,None,Good,1.0,0.0,1.0,Vivian Robel,Asian,female,1.0,Australia,29.0,94566
+367,0.68,2.71,2.8,2.5,3.24,2.71,0.0,24.0,3.5,0.18,1.77,-0.34,0.23,7.46,Engineering,None,Good,1.0,0.0,0.0,Jamie Weaver,Asian,female,1.0,USA,26.0,94027
+368,-0.51,2.41,1.6,4.2,2.06,-4.19,0.0,11.0,2.5,-0.55,3.19,2.88,2.57,10.05,Engineering,Ok,Good,0.0,0.0,1.0,Helen Pifer,Asian,female,1.0,China,29.0,94089
+369,-0.49,3.46,2.5,4.3,3.05,-1.78,0.0,62.0,2.8,-0.14,3.17,2.23,1.75,9.08,Engineering,Very Good,Bad,0.0,0.0,0.0,Maria Jones,Asian,female,1.0,USA,32.0,94564
+370,-1.4,2.66,0.3,1.5,1.57,-6.16,0.0,33.0,3.5,0.67,1.47,0.13,0.88,8.15,Engineering,None,Good,0.0,0.0,1.0,Betty Madison,Asian,female,1.0,USA,28.0,94010
+371,-0.97,2.86,1.4,0.8,2.37,-2.75,0.0,47.0,2.8,-0.01,2.94,1.17,1.14,8.47,Engineering,Ok,Bad,0.0,0.0,0.0,Robin Quintero,Asian,female,1.0,USA,22.0,94114
+372,-0.94,2.95,2.2,2.7,2.92,-1.98,0.0,3.0,5.1,1.49,2.16,0.84,1.49,9.0,Quantitative,Ok,Bad,0.0,0.0,0.0,Anna French,Asian,female,1.0,USA,36.0,94040
+373,0.32,2.46,0.7,7.3,2.7,-0.6,0.0,15.0,0.8,-2.26,2.28,0.95,1.69,9.32,Engineering,None,Bad,0.0,0.0,0.0,Patricia Flood,Asian,female,1.0,USA,27.0,95002
+374,-0.13,3.46,-0.0,3.9,3.25,1.61,0.0,71.0,0.0,-4.58,1.71,0.93,1.46,8.69,Quantitative,Very Good,Good,0.0,0.0,0.0,Stephanie Robertson,Asian,female,1.0,USA,25.0,94509
+375,-0.89,3.0,3.0,2.1,3.25,-1.0,0.0,47.0,2.0,-0.88,3.37,3.45,3.31,10.92,Quantitative,Ok,Good,0.0,0.0,0.0,Leatrice Morales,Asian,female,1.0,Australia,30.0,94114
+376,-0.08,2.67,2.9,4.9,2.76,-1.8,0.0,92.0,0.0,-2.5,1.83,-0.27,0.83,8.37,Engineering,Ok,Bad,1.0,0.0,0.0,Diane Yount,Asian,female,1.0,Canada,28.0,94946
+377,-0.22,2.92,2.4,3.4,3.42,1.22,0.0,45.0,3.2,0.39,1.49,-1.67,-1.5,5.32,Quantitative,Ok,Good,0.0,0.0,0.0,Katherine Riojas,Asian,female,1.0,USA,25.0,94105
+378,-0.0,2.85,2.3,2.9,3.11,0.62,0.0,27.0,0.1,-2.44,2.72,2.3,1.06,7.82,None,Very Good,Good,0.0,0.0,0.0,Lois Mann,Asian,female,1.0,USA,27.0,94070
+379,-0.35,2.87,1.9,6.7,3.58,0.44,0.0,56.0,2.9,0.17,1.41,-0.77,-0.9,5.79,Quantitative,None,Good,0.0,0.0,0.0,Jennifer Delozier,Asian,female,1.0,USA,29.0,94595
+380,1.73,3.98,3.3,13.0,5.93,9.91,0.0,29.0,0.0,-3.17,2.31,1.16,0.27,7.09,Quantitative,Very Good,Good,1.0,0.0,0.0,Diane Ferguson,Asian,female,1.0,USA,35.0,94560
+381,1.47,3.34,2.1,7.4,3.92,5.08,2.7,38.0,4.0,0.94,0.82,-2.88,-2.81,3.69,Engineering,Very Good,Good,1.0,0.0,0.0,Pamela Williamson,Asian,female,0.0,China,32.0,94586
+382,-0.5,3.34,1.6,5.1,3.3,-0.17,0.0,30.0,3.3,0.46,2.14,0.64,0.8,7.97,Humanities,None,Bad,0.0,0.0,0.0,Ann Rios,Asian,female,1.0,USA,32.0,94587
+383,0.05,3.27,1.5,3.8,3.36,1.65,0.0,58.0,2.9,-0.09,1.47,-1.47,-2.32,3.96,Engineering,Ok,Good,0.0,0.0,0.0,Anita Clements,Asian,female,1.0,USA,27.0,94720
+384,0.62,2.4,2.3,5.1,2.91,0.83,0.0,19.0,1.1,-1.88,2.19,0.47,0.09,7.01,Sciences,Ok,Bad,0.0,0.0,0.0,Laverna Obando,Asian,female,1.0,USA,27.0,94304
+385,-1.22,2.47,0.3,-0.1,1.74,-4.37,1.9,11.0,2.6,-0.53,1.58,-1.14,-1.37,5.15,Engineering,Ok,Good,1.0,0.0,1.0,Alicia Cruz,Asian,female,0.0,USA,24.0,94089
+386,0.04,3.73,1.8,1.8,3.23,1.22,2.4,25.0,3.4,0.31,1.98,1.18,1.46,8.67,Sciences,Ok,Good,0.0,0.0,0.0,Sondra Smith,Asian,female,1.0,USA,28.0,94539
+387,1.33,2.69,2.8,7.8,3.95,4.82,2.4,51.0,2.9,-0.36,1.28,-1.09,-1.14,5.47,Humanities,Very Good,Good,1.0,0.0,0.0,Wendy Thomas,Asian,female,1.0,Australia,37.0,94618
+388,-1.02,2.6,1.5,-0.7,2.27,-2.77,0.0,4.0,4.4,1.05,2.09,0.71,0.84,7.97,Engineering,Ok,Bad,0.0,0.0,0.0,Julie Hernandez,Asian,female,1.0,USA,30.0,94040
+389,0.14,2.53,1.8,2.5,1.86,-3.07,0.0,52.0,4.8,1.76,2.35,1.48,1.67,9.01,Engineering,None,Bad,0.0,0.0,0.0,Ruby Stogner,Asian,female,1.0,USA,30.0,94611
+390,-0.46,2.52,2.5,6.1,3.05,-1.47,0.0,35.0,2.9,-0.13,2.44,0.16,0.03,7.13,Quantitative,None,Good,0.0,0.0,0.0,Virginia Estrada,Asian,female,1.0,USA,37.0,94566
+391,0.97,3.34,3.3,7.1,4.63,6.07,0.0,77.0,0.0,-2.8,0.02,-3.22,-3.55,2.32,Engineering,Very Good,Good,1.0,1.0,0.0,Lois Manuelito,Asian,female,1.0,USA,29.0,94945
+392,-0.51,2.62,1.7,0.3,2.69,-0.51,0.0,6.0,2.9,-0.45,1.73,-0.19,-1.16,5.24,Sciences,None,Good,0.0,0.0,0.0,Vivian Zunich,Asian,female,1.0,Australia,27.0,94043
+393,-0.69,3.46,2.6,2.7,3.12,-1.15,0.0,81.0,0.0,-2.64,1.95,1.04,0.81,7.68,Quantitative,None,Good,0.0,0.0,0.0,Misti Humphries,Asian,female,1.0,USA,31.0,94561
+394,1.34,3.02,1.7,8.1,3.16,2.23,0.0,23.0,4.2,1.25,1.94,0.98,0.62,7.51,Engineering,Very Good,Good,0.0,0.0,0.0,Marguerite Poteet,Asian,female,1.0,USA,32.0,94028
+395,0.33,3.09,2.4,8.5,3.73,1.45,0.0,32.0,1.6,-1.33,1.61,-1.05,-0.24,6.91,Engineering,None,Good,0.0,0.0,0.0,Julie Szymczak,Asian,female,1.0,USA,32.0,94544
+396,0.53,2.77,1.8,7.9,3.51,1.95,0.0,4.0,2.3,-0.7,1.67,-0.3,-0.22,6.7,Quantitative,Very Good,Good,1.0,0.0,0.0,Patricia Nava,Asian,female,1.0,USA,29.0,94040
+397,-0.86,2.31,3.4,2.3,2.02,-5.32,0.0,67.0,1.4,-1.34,3.89,2.62,1.9,9.25,Sciences,None,Good,0.0,0.0,1.0,Cecelia Petersen,Asian,female,1.0,USA,24.0,94598
+398,-0.92,1.77,0.4,3.3,1.67,-4.79,0.0,15.0,2.1,-0.96,1.43,-0.91,-1.06,5.73,Humanities,Ok,Good,1.0,0.0,1.0,Virginia Ramsey,Asian,female,0.0,USA,29.0,95002
+399,0.4,2.88,2.0,5.7,3.59,2.6,0.0,68.0,0.0,-2.98,1.59,-1.14,-0.41,6.71,Humanities,Very Good,Good,0.0,0.0,0.0,Marjorie Rickon,Asian,female,1.0,USA,29.0,94569
+400,-0.26,2.97,1.1,3.4,2.57,-1.3,0.0,8.0,3.2,0.16,0.0,-2.4,-2.52,3.6,Quantitative,None,Good,0.0,0.0,0.0,Carol Williams,Asian,female,1.0,USA,30.0,94085
+401,0.49,2.48,3.0,5.6,2.8,-0.7,0.0,6.0,3.7,0.53,1.6,-2.05,-1.27,5.88,Quantitative,Ok,Good,0.0,0.0,0.0,Laurie Haverstick,Asian,female,1.0,USA,30.0,94043
+402,0.29,3.22,1.8,3.5,2.86,0.18,0.0,45.0,3.2,0.36,2.73,-0.0,0.15,7.55,Sciences,None,Good,0.0,0.0,0.0,Judith Sanchez,Asian,female,0.0,USA,34.0,94105
+403,-0.48,3.26,-0.1,5.2,2.55,-1.97,0.0,67.0,3.4,0.69,2.17,1.22,1.05,8.11,Engineering,None,Good,0.0,0.0,0.0,Ramona Campbell,Asian,female,0.0,USA,30.0,94598
+404,0.86,3.42,2.6,6.7,4.42,5.35,0.0,23.0,6.7,3.17,1.46,-0.93,-0.84,5.9,Engineering,Ok,Bad,1.0,0.0,0.0,Carrie Schuetz,Asian,female,2.0,USA,33.0,94028
+405,0.15,3.42,3.2,2.6,3.88,3.11,0.0,35.0,6.3,2.56,1.44,-0.32,-0.32,6.52,Engineering,Ok,Good,1.0,0.0,0.0,Jennifer Evans,Asian,female,1.0,USA,28.0,94566
+406,1.16,2.99,2.6,8.4,3.83,3.52,0.0,5.0,4.9,1.75,2.54,0.93,0.47,7.38,Engineering,Ok,Good,0.0,0.0,0.0,Muriel Reinhart,Asian,female,2.0,USA,32.0,94043
+407,-0.52,2.92,1.5,2.6,2.42,-2.41,2.9,7.0,5.1,1.89,1.99,-1.16,-1.03,5.93,Engineering,Ok,Good,1.0,0.0,0.0,Carol Vandyke,Asian,female,0.0,USA,28.0,94043
+408,-0.13,2.86,1.2,2.8,1.81,-3.66,0.0,39.0,1.4,-1.71,1.61,-0.75,-0.82,6.06,Humanities,Ok,Good,0.0,0.0,0.0,Jettie Glenn,Asian,female,0.0,USA,27.0,94578
+409,-1.15,2.41,1.6,-1.1,1.73,-4.8,0.0,32.0,1.7,-1.2,0.79,-1.85,-2.41,3.75,Engineering,None,Good,0.0,0.0,1.0,Jacinta Williams,Asian,female,0.0,USA,22.0,94544
+410,0.23,3.11,1.5,1.9,2.55,-0.26,0.0,3.0,5.8,2.41,1.75,-1.27,-0.7,6.41,Engineering,None,Good,0.0,0.0,0.0,Beth Meyer,Asian,female,0.0,USA,31.0,94040
+411,0.75,3.23,1.4,5.0,3.74,4.27,0.0,14.0,4.1,0.91,3.88,2.23,1.46,8.77,Sciences,Very Good,Good,1.0,0.0,0.0,Melissa Kershaw,Asian,female,2.0,USA,33.0,95002
+412,-1.27,2.87,0.7,-1.0,1.71,-4.83,0.0,51.0,0.3,-2.42,2.59,2.33,2.83,10.47,Humanities,Ok,Bad,0.0,0.0,1.0,Nicole Meier,Asian,female,0.0,USA,23.0,94618
+413,-0.21,2.96,2.3,5.5,3.07,-0.93,0.0,21.0,4.4,1.16,2.09,-0.64,-0.19,7.08,Quantitative,Ok,Good,0.0,0.0,0.0,Socorro Mccage,Asian,female,0.0,USA,30.0,94538
+414,1.18,2.57,2.0,5.3,3.29,3.44,1.1,58.0,1.3,-1.3,1.89,-0.1,-0.67,5.92,Engineering,Very Good,Good,1.0,0.0,0.0,Frances Mabry,Asian,female,2.0,USA,29.0,94720
+415,0.62,2.65,2.5,4.9,3.05,1.08,0.0,0.0,6.6,3.14,1.78,-1.49,-2.25,4.26,Engineering,Ok,Good,1.0,0.0,0.0,Janice Pena,Asian,female,0.0,USA,31.0,94040
+416,0.26,3.34,1.2,3.9,2.98,0.62,0.0,24.0,5.8,2.3,2.63,2.12,2.84,10.59,Engineering,Very Good,Bad,0.0,0.0,0.0,Maryann Whittlesey,Asian,female,0.0,USA,30.0,94027
+417,-0.44,2.87,1.8,3.4,3.19,0.06,0.0,15.0,4.2,0.87,0.52,-2.76,-1.41,5.58,Engineering,Ok,Good,0.0,0.0,0.0,Yvonne Lynn,Asian,female,0.0,USA,30.0,95002
+418,0.12,3.57,3.1,4.4,4.13,3.41,0.0,17.0,2.1,-0.85,2.93,0.79,1.24,8.99,Quantitative,Ok,Good,1.0,0.0,0.0,Jennifer Babb,Asian,female,2.0,USA,29.0,94301
+419,0.26,2.72,1.6,6.3,2.51,-1.56,0.0,18.0,2.1,-1.08,2.55,1.73,1.16,8.14,Engineering,Ok,Bad,0.0,0.0,0.0,Janet Bostwick,Asian,female,0.0,USA,30.0,95035
+420,0.25,3.63,1.0,2.4,2.49,-0.6,0.0,46.0,3.5,0.36,1.73,0.59,0.29,7.07,Humanities,Ok,Bad,1.0,0.0,0.0,Carla Harding,Asian,female,0.0,USA,29.0,94019
+421,-0.1,4.12,3.8,5.4,4.96,4.99,0.0,45.0,3.2,0.29,1.43,0.45,-0.15,6.29,Engineering,None,Good,1.0,0.0,0.0,Holly Guthrie,Asian,female,2.0,USA,31.0,94105
+422,0.19,2.18,2.1,2.7,1.99,-2.52,0.0,35.0,2.3,-0.49,3.32,1.12,1.27,8.79,Engineering,None,Bad,0.0,0.0,0.0,Ying Holloway,Asian,female,0.0,USA,29.0,94566
+423,0.91,3.41,2.8,8.3,4.21,4.06,0.0,67.0,1.3,-1.17,2.8,2.17,2.82,10.62,Engineering,Very Good,Good,0.0,0.0,0.0,Anita Dilullo,Asian,female,2.0,USA,32.0,94598
+424,-0.14,3.46,1.8,5.0,3.48,0.87,0.0,18.0,4.7,1.12,1.76,0.24,-0.23,6.35,Engineering,Ok,Good,0.0,0.0,0.0,Susana Ammons,Asian,female,0.0,USA,32.0,95035
+425,-0.55,2.64,1.2,1.8,2.28,-2.29,0.0,44.0,2.7,-0.06,2.02,-1.53,-1.69,5.16,Engineering,None,Good,0.0,0.0,0.0,Martha Woodcock,Asian,female,0.0,USA,32.0,94131
+426,-0.45,3.32,2.2,2.2,2.93,-1.07,0.0,26.0,3.6,0.61,2.47,-0.37,-0.32,6.88,Sciences,None,Bad,0.0,0.0,0.0,Anna Bisson,Asian,female,0.0,USA,32.0,94403
+427,-1.15,2.7,1.9,-4.3,0.84,-7.1,0.0,56.0,0.8,-1.72,1.69,1.01,2.24,9.86,Quantitative,Ok,Good,0.0,0.0,1.0,Janis Knapp,Asian,female,0.0,China,21.0,94595
+428,-1.38,1.96,1.9,0.1,1.2,-7.58,2.5,41.0,4.3,1.37,3.89,3.08,1.83,9.05,Sciences,Ok,Bad,0.0,0.0,1.0,Dolores Reising,Asian,female,0.0,USA,30.0,94542
+429,1.08,3.15,2.5,6.0,3.9,4.62,0.0,43.0,4.8,1.93,1.92,-0.58,-1.2,5.36,Sciences,Very Good,Good,1.0,1.0,0.0,Melissa Sauls,Asian,female,2.0,USA,32.0,94014
+430,-0.04,3.02,1.9,1.9,3.17,1.15,0.0,26.0,5.8,2.26,3.61,2.38,1.8,9.25,Humanities,Very Good,Bad,0.0,0.0,0.0,Kari Curley,Asian,female,0.0,USA,28.0,94403
+431,-1.31,3.08,1.0,-0.5,1.91,-4.87,0.0,38.0,1.8,-1.0,2.69,-0.27,-0.15,7.2,Quantitative,Ok,Good,0.0,0.0,1.0,Cynthia Sanders,Asian,female,0.0,USA,25.0,94586
+432,0.61,3.05,2.5,4.6,2.46,-1.41,0.0,4.0,4.1,0.84,2.42,-0.93,-0.87,6.22,Engineering,Ok,Good,0.0,0.0,0.0,Irene Coleman,Asian,female,0.0,USA,31.0,94040
+433,1.19,2.04,0.3,4.9,1.28,-2.7,0.0,2.0,3.3,0.09,0.38,-4.05,-3.56,2.76,Humanities,None,Good,0.0,0.0,0.0,Cassandra Adelman,Asian,female,0.0,USA,31.0,94040
+434,-1.49,2.1,0.5,2.8,1.38,-7.21,0.0,79.0,2.5,-0.3,1.18,-1.1,-0.54,6.38,Quantitative,Ok,Bad,0.0,0.0,0.0,Brandy Dalphonse,Asian,female,0.0,USA,31.0,94533
+435,-0.6,3.63,1.9,7.2,3.66,-0.3,0.0,15.0,1.4,-1.46,1.65,-1.76,-2.48,4.01,Quantitative,Ok,Good,0.0,0.0,0.0,Susan Kyles,Asian,female,0.0,USA,36.0,95002
+436,0.32,2.84,1.9,2.5,2.5,-0.52,0.0,40.0,3.5,0.15,1.31,-0.91,0.26,7.72,Quantitative,Very Good,Good,0.0,0.0,0.0,Claudia Harrison,Asian,female,0.0,USA,27.0,94603
+437,0.82,3.7,0.9,9.6,3.55,2.24,0.0,53.0,6.1,3.05,2.11,-0.39,-0.68,6.22,Engineering,Very Good,Good,0.0,0.0,0.0,Susanne Faulkner,Asian,female,2.0,USA,41.0,94549
+438,-2.82,3.18,-0.1,1.1,1.56,-9.14,0.0,14.0,4.6,1.59,0.0,-5.2,-3.96,2.37,Engineering,Ok,Good,0.0,0.0,0.0,Kelley Williams,Asian,female,0.0,USA,30.0,95002
+439,0.53,2.13,2.4,-0.9,1.9,-1.0,0.0,11.0,4.8,1.46,1.57,-2.09,-2.59,3.99,Quantitative,Ok,Bad,0.0,0.0,0.0,Dorothy Payne,Asian,female,0.0,USA,27.0,94089
+440,-0.43,2.79,1.4,1.8,2.8,-0.38,0.0,20.0,2.1,-1.07,1.75,-0.4,0.16,7.45,Engineering,None,Good,0.0,0.0,0.0,Linda Cardwell,Asian,female,0.0,USA,26.0,94025
+441,-0.58,3.76,3.6,3.9,4.75,3.99,0.0,71.0,0.0,-3.34,2.24,-1.41,-0.47,7.05,Engineering,Ok,Good,1.0,0.0,0.0,Amelia West,Asian,female,0.0,USA,28.0,94509
+442,0.14,3.25,1.9,6.9,3.63,1.62,0.0,36.0,2.5,-0.21,4.44,3.8,3.16,10.86,Sciences,None,Good,0.0,0.0,0.0,Sara Martinez,Asian,female,2.0,Canada,32.0,94588
+443,0.15,3.9,1.8,7.7,4.75,5.18,0.0,8.0,7.4,3.7,2.69,3.93,3.38,10.69,Engineering,Ok,Good,1.0,0.0,0.0,Amy Stavis,Asian,female,2.0,China,42.0,94085
+444,-1.34,3.53,3.3,-0.5,3.35,-1.26,1.7,3.0,2.5,-0.6,3.64,4.4,3.97,11.59,Quantitative,None,Good,0.0,0.0,0.0,Dianna Couts,Asian,female,0.0,USA,29.0,94040
+445,0.71,3.23,4.4,5.7,4.35,4.43,0.0,60.0,0.7,-1.85,1.83,-1.13,-1.02,5.83,Engineering,Ok,Good,1.0,0.0,0.0,Anna Mitchell,Asian,female,2.0,USA,26.0,94707
+446,0.46,3.36,3.2,2.7,3.63,2.84,0.0,31.0,5.1,1.05,0.85,-1.36,-0.95,5.75,Quantitative,Ok,Good,1.0,0.0,0.0,Nannie Perez,Asian,female,2.0,USA,27.0,94544
+447,1.04,2.95,2.8,6.2,4.12,5.23,0.0,76.0,3.3,0.82,2.39,0.74,0.83,7.99,Engineering,None,Good,1.0,0.0,0.0,Heidi Gonzalez,Asian,female,2.0,USA,30.0,94960
+448,1.27,3.43,2.3,1.9,3.2,3.68,0.0,24.0,2.9,-0.11,2.44,-0.45,-1.24,5.4,Quantitative,Ok,Good,1.0,0.0,0.0,Carmen Ashley,Asian,female,2.0,USA,27.0,94027
+449,-0.05,2.37,2.7,-1.8,1.87,-2.49,0.0,64.0,3.7,0.93,1.99,-1.17,-1.12,5.86,Quantitative,Ok,Good,0.0,0.0,0.0,Catherine Portis,Asian,female,0.0,USA,23.0,94525
+450,-0.32,2.44,1.9,3.8,2.99,-0.44,0.0,13.0,5.5,2.09,1.64,-2.47,-2.42,4.38,Quantitative,Ok,Good,0.0,0.0,0.0,Linda Gonzalez,Asian,female,0.0,USA,31.0,94022
+451,-0.76,2.64,2.8,2.4,2.77,-1.96,0.0,15.0,0.6,-2.24,2.4,0.99,1.34,8.68,Engineering,Very Good,Bad,0.0,0.0,1.0,Helen Deubner,Asian,female,0.0,USA,23.0,95002
+452,0.12,2.54,1.8,4.2,3.02,0.57,0.0,8.0,4.7,1.29,1.64,0.44,-0.18,6.55,Humanities,Ok,Good,0.0,0.0,0.0,Louise Holloway,Asian,female,0.0,Canada,27.0,94085
+453,1.59,3.31,3.4,7.7,3.93,4.53,0.0,54.0,4.3,0.52,3.18,2.78,2.96,10.6,Quantitative,Ok,Good,1.0,0.0,0.0,Christine Imes,Asian,female,2.0,USA,33.0,94121
+454,-0.45,2.68,2.4,2.0,2.78,-1.04,0.0,9.0,4.9,1.73,2.07,0.11,0.32,7.47,Quantitative,None,Good,0.0,0.0,0.0,Beulah Solarzano,Asian,female,0.0,USA,35.0,94085
+455,0.81,3.66,3.0,3.9,3.87,4.14,0.0,61.0,1.9,-0.91,2.17,0.43,0.37,7.44,Engineering,Very Good,Good,0.0,0.0,0.0,Doris Bacon,Asian,female,2.0,USA,28.0,94707
+456,0.17,2.69,1.6,5.3,2.56,-1.36,0.0,5.0,5.3,1.91,0.99,-1.69,-1.06,5.76,Engineering,None,Good,0.0,0.0,0.0,Bok Linder,Asian,female,0.0,Australia,36.0,94043
+457,1.19,3.06,1.5,8.1,3.36,2.67,0.0,34.0,5.9,2.52,2.46,1.57,1.26,8.46,Quantitative,Ok,Good,0.0,0.0,0.0,Shari Maresca,Asian,female,2.0,USA,39.0,94030
+458,-0.78,2.6,0.9,4.5,2.14,-4.17,1.6,29.0,2.5,-0.47,0.0,-6.35,-5.7,0.34,Humanities,Ok,Good,1.0,0.0,0.0,Kathryn Dougherty,Asian,female,0.0,Canada,27.0,94560
+459,-0.65,2.88,1.7,0.2,2.0,-3.43,0.0,15.0,7.4,3.8,1.13,-2.59,-1.86,5.12,Quantitative,Ok,Good,0.0,0.0,0.0,Betty Shinn,Asian,female,0.0,USA,29.0,95002
+460,-0.4,2.76,1.3,4.7,2.16,-3.66,0.0,50.0,1.9,-1.04,3.08,2.12,2.83,10.69,Quantitative,None,Good,0.0,0.0,0.0,Erna Durand,Asian,female,0.0,USA,29.0,94609
+461,0.06,3.28,1.5,4.2,3.29,1.39,0.0,4.0,2.4,-0.65,1.24,-1.44,-0.37,6.86,Engineering,Ok,Good,0.0,0.0,0.0,Susan Stearns,Asian,female,0.0,USA,32.0,94040
+462,1.95,3.59,2.6,9.9,4.75,7.91,0.0,3.0,5.1,1.49,2.55,-0.59,0.11,7.6,Quantitative,Very Good,Bad,1.0,0.0,1.0,Rosa Soo,Asian,female,2.0,USA,43.0,94040
+463,-0.64,3.13,2.0,2.9,3.13,-0.43,0.0,2.0,2.8,-0.15,2.88,3.13,3.98,11.95,Humanities,None,Bad,0.0,0.0,0.0,Shirley Merz,Asian,female,0.0,China,28.0,94040
+464,0.67,3.35,2.9,5.2,4.55,6.05,0.0,67.0,0.0,-3.46,0.96,-0.59,0.14,7.21,Quantitative,Very Good,Good,1.0,0.0,0.0,Robin Stubblefield,Asian,female,2.0,USA,30.0,94598
+465,-0.59,2.73,1.7,2.0,1.77,-4.76,0.0,42.0,5.6,1.82,2.76,0.46,-0.16,6.75,Engineering,None,Bad,0.0,0.0,0.0,Clora Monopoli,Asian,female,0.0,USA,30.0,94605
+466,0.56,3.13,2.6,4.3,3.02,0.69,0.0,62.0,0.0,-2.78,0.86,0.04,-0.28,6.12,Engineering,Very Good,Good,1.0,0.0,0.0,Kristin Fendler,Asian,female,0.0,Canada,33.0,94564
+467,-0.19,3.26,4.8,3.9,3.83,1.07,0.0,42.0,1.8,-0.91,1.19,0.4,0.1,6.72,Quantitative,Very Good,Good,0.0,0.0,0.0,Sara Crowell,Asian,female,0.0,USA,30.0,94605
+468,-0.23,2.17,1.6,3.5,2.2,-2.46,0.0,29.0,4.4,0.63,3.27,1.73,0.7,7.69,Engineering,None,Good,0.0,0.0,0.0,Mary Kauffman,Asian,female,0.0,USA,36.0,94560
+469,-1.37,2.79,2.0,0.8,2.45,-3.78,0.0,16.0,4.3,0.89,1.27,-1.79,-2.21,4.22,Quantitative,Ok,Good,0.0,0.0,0.0,Lorene Moreau,Asian,female,0.0,USA,28.0,95134
+470,-0.52,2.86,0.8,1.0,2.21,-2.05,0.0,42.0,3.5,0.59,0.13,-3.67,-2.79,3.69,Engineering,Ok,Bad,0.0,0.0,0.0,Catherine Montgomery,Asian,female,0.0,USA,26.0,94605
+471,-0.74,3.35,1.6,3.3,2.66,-2.59,0.7,38.0,0.8,-1.77,4.14,2.34,2.36,10.2,Engineering,Very Good,Good,0.0,0.0,0.0,Marsha Doty,Asian,female,0.0,China,26.0,94586
+472,0.37,3.76,1.6,7.1,4.64,5.58,0.0,1.0,4.3,1.05,3.25,0.88,0.77,8.27,Engineering,Ok,Good,1.0,0.0,0.0,Barbara Graham,Asian,female,2.0,USA,34.0,94040
+473,-0.99,2.62,2.8,1.8,2.11,-5.07,0.0,31.0,3.0,-0.09,1.76,-0.21,-1.35,4.97,Sciences,None,Good,0.0,0.0,0.0,Anissa Sparling,Asian,female,0.0,China,24.0,94544
+474,0.14,3.99,2.2,4.0,3.45,1.18,0.0,56.0,0.0,-2.9,1.43,-2.32,-1.07,6.28,Engineering,Ok,Good,0.0,1.0,0.0,Felicita Hampton,Asian,female,0.0,China,25.0,94595
+475,-0.4,3.42,2.5,-0.5,2.53,-1.57,0.0,20.0,5.9,2.3,1.08,-2.27,-0.71,6.69,Engineering,None,Good,0.0,0.0,0.0,Millie Velez,Asian,female,0.0,USA,27.0,94025
+476,-0.0,2.3,0.7,0.3,1.23,-4.05,0.0,55.0,0.4,-1.85,1.95,0.53,0.05,6.85,None,None,Good,0.0,0.0,0.0,Marilyn Ludwig,Asian,female,0.0,USA,22.0,94523
+477,-0.5,2.87,0.7,2.1,2.25,-2.23,0.0,75.0,0.3,-2.17,2.23,1.71,2.07,9.49,Engineering,None,Good,0.0,0.0,0.0,Bettie Neal,Asian,female,0.0,USA,27.0,94941
+478,0.08,2.78,2.9,2.1,2.56,-1.17,0.0,21.0,7.1,3.66,0.0,-3.97,-4.1,1.8,Engineering,Ok,Bad,1.0,0.0,0.0,Diana Moon,Asian,female,0.0,USA,28.0,94538
+479,1.44,2.87,2.3,6.9,3.85,5.23,0.0,5.0,3.9,0.32,1.37,-2.16,-1.91,4.9,Engineering,Ok,Good,1.0,0.0,0.0,Kate Garcia,Asian,female,2.0,China,31.0,94043
+480,-0.46,3.41,0.7,5.8,2.91,-1.59,0.0,40.0,0.7,-2.27,0.61,-3.13,-2.36,4.41,Quantitative,Very Good,Good,0.0,0.0,0.0,Beulah Kincade,Asian,female,0.0,USA,29.0,94603
+481,1.23,2.91,1.4,9.2,3.48,2.75,0.0,76.0,3.7,1.25,0.14,-2.47,-2.82,3.12,Engineering,Ok,Bad,1.0,1.0,0.0,Margaret Bell,Asian,female,2.0,USA,32.0,94960
+482,-0.16,3.14,0.2,3.1,2.58,-0.58,0.0,43.0,1.8,-0.83,2.61,-0.69,-1.29,5.62,Engineering,Ok,Bad,0.0,1.0,0.0,Linda Seaman,Asian,female,0.0,USA,26.0,94014
+483,1.23,3.35,2.3,6.1,3.84,4.63,0.0,17.0,4.1,0.95,0.83,-3.52,-3.37,3.02,Engineering,Ok,Good,1.0,0.0,0.0,Jessica Minton,Asian,female,2.0,USA,34.0,94301
+484,0.52,2.82,1.7,6.8,3.82,3.41,0.0,17.0,9.7,5.79,3.72,2.55,2.05,9.53,Engineering,Ok,Good,1.0,0.0,0.0,Dorothy Murphy,Asian,female,2.0,Australia,37.0,94301
+485,0.01,1.82,1.6,0.7,1.43,-3.46,0.0,21.0,4.9,1.92,1.43,-1.44,-1.12,5.79,Quantitative,Very Good,Good,0.0,0.0,0.0,Katrina Chester,Asian,female,0.0,USA,30.0,94538
+486,0.72,3.38,3.3,5.5,4.0,3.84,0.0,25.0,2.1,-0.96,2.46,0.18,-0.66,6.03,Engineering,Very Good,Good,1.0,0.0,0.0,Mitzi Gebhart,Asian,female,2.0,Canada,33.0,94539
+487,0.09,2.56,0.4,5.7,2.89,0.42,0.0,28.0,6.2,2.88,2.12,0.25,-0.17,6.65,Quantitative,Ok,Good,0.0,0.0,0.0,Kathryn Cartagena,Asian,female,0.0,USA,31.0,94402
+488,-0.1,2.72,1.2,2.1,2.06,-2.35,0.0,80.0,6.5,3.3,2.68,1.92,1.92,9.18,Humanities,None,Good,0.0,0.0,0.0,Mayra Williams,Asian,female,0.0,Australia,32.0,94533
+489,-0.2,2.62,2.0,3.1,2.05,-3.36,0.0,45.0,3.8,0.75,0.44,-2.8,-1.99,4.84,Engineering,Ok,Good,0.0,0.0,0.0,Francine Fowler,Asian,female,0.0,China,30.0,94105
+490,-0.67,2.81,2.0,3.6,3.05,-1.04,0.0,26.0,0.0,-3.83,4.41,3.99,2.32,9.51,Quantitative,Ok,Bad,0.0,0.0,0.0,Sarah Kelash,Asian,female,0.0,USA,23.0,94403
+491,0.74,3.38,2.2,7.3,4.29,4.85,0.3,60.0,0.0,-3.1,1.53,-0.36,-0.7,5.87,Sciences,Ok,Good,1.0,0.0,0.0,Michele Milton,Asian,female,2.0,USA,29.0,94707
+492,-0.97,2.19,2.0,3.3,2.25,-4.46,0.0,31.0,1.1,-1.94,2.71,1.52,1.38,8.72,Engineering,Very Good,Good,1.0,0.0,0.0,Sandy Clawson,Asian,female,0.0,USA,26.0,94544
+493,0.72,2.99,1.5,4.4,3.12,2.19,0.0,43.0,1.1,-1.55,3.05,1.69,1.25,8.43,Sciences,Very Good,Bad,0.0,0.0,0.0,Noreen Rodrigues,Asian,female,2.0,USA,27.0,94014
+494,0.42,2.98,2.2,5.4,3.03,0.44,0.0,49.0,1.3,-1.47,2.7,0.04,0.83,8.37,Quantitative,None,Good,0.0,0.0,0.0,Sharon Ridley,Asian,female,0.0,USA,30.0,94502
+495,0.64,2.9,1.7,5.1,2.65,-0.01,0.0,26.0,2.3,-0.44,2.69,1.27,1.81,9.56,Sciences,Very Good,Bad,0.0,0.0,0.0,Rachel Joel,Asian,female,0.0,USA,33.0,94403
+496,0.0,2.86,1.7,3.7,2.8,-0.59,0.0,81.0,2.2,-0.41,1.81,-1.41,-0.96,6.2,None,Ok,Bad,0.0,1.0,0.0,Sandra Coca,Asian,female,0.0,USA,27.0,94561
+497,-0.12,3.05,1.0,2.3,2.29,-1.69,0.0,18.0,0.0,-2.84,2.94,0.92,1.94,9.96,Engineering,Ok,Good,0.0,1.0,0.0,Megan Green,Asian,female,0.0,USA,30.0,95035
+498,-0.75,3.23,3.4,1.7,3.69,0.87,0.0,61.0,0.5,-2.07,1.47,-0.7,-0.36,6.69,Engineering,Ok,Good,0.0,0.0,0.0,Linda Powers,Asian,female,0.0,USA,29.0,94707
+499,-0.58,2.64,0.9,2.7,2.35,-2.12,2.8,29.0,4.6,1.01,2.81,0.76,-0.28,6.48,Humanities,Very Good,Good,0.0,0.0,0.0,Lisa Frazier,Asian,female,0.0,USA,29.0,94560
+500,0.27,3.06,3.7,5.2,3.87,2.27,0.0,8.0,2.6,-0.71,1.81,-1.58,-1.08,6.03,Engineering,Very Good,Good,0.0,0.0,0.0,Kathryn Marsh,Asian,female,2.0,USA,32.0,94085
+501,1.34,2.65,1.6,6.2,3.26,3.59,0.0,52.0,2.6,-0.13,1.79,-0.42,-0.21,6.81,Quantitative,Very Good,Good,1.0,0.0,0.0,Barbara Alvarez,Asian,female,2.0,China,30.0,94611
+502,-1.32,2.84,1.8,0.9,2.31,-4.04,2.3,44.0,3.1,0.1,2.19,1.82,1.5,8.6,Sciences,Very Good,Bad,0.0,0.0,0.0,Maggie Bontrager,Asian,female,0.0,USA,27.0,94131
+503,-0.37,2.82,2.5,2.7,3.51,1.42,0.0,38.0,0.9,-1.89,2.14,1.15,1.53,8.91,Engineering,Very Good,Good,0.0,0.0,0.0,Sudie Deblauw,Asian,female,0.0,USA,28.0,94586
+504,-1.25,3.5,2.6,4.8,3.62,-1.32,0.0,43.0,0.0,-2.87,2.91,1.67,1.76,9.15,Quantitative,Ok,Bad,0.0,0.0,0.0,Cheryl Infante,Asian,female,0.0,USA,31.0,94014
+505,0.1,3.45,0.9,1.8,2.79,0.6,0.0,55.0,1.2,-1.4,2.9,2.16,1.79,8.98,Quantitative,Ok,Good,0.0,1.0,0.0,Narcisa Vasquez,Asian,female,0.0,USA,24.0,94523
+506,-1.34,3.16,1.1,4.6,3.47,-0.94,0.0,23.0,2.8,-0.23,1.14,-3.35,-2.35,4.58,Humanities,Ok,Bad,0.0,1.0,0.0,Barbara Lee,Asian,female,0.0,USA,30.0,94028
+507,0.08,3.24,1.8,0.5,2.52,-0.44,0.0,67.0,0.0,-5.23,0.96,-1.95,-0.69,6.46,Engineering,Very Good,Good,0.0,1.0,0.0,Anne Tito,Asian,female,0.0,USA,24.0,94598
+508,-0.51,2.84,0.2,6.9,1.97,-4.75,0.0,42.0,4.2,1.22,1.65,0.02,0.53,7.78,Engineering,None,Good,0.0,0.0,0.0,Lillian Bergeron,Asian,female,0.0,USA,32.0,94605
+509,-0.42,3.91,2.3,1.6,3.78,2.08,0.0,44.0,2.1,-0.7,0.66,-2.56,-1.56,5.27,Quantitative,Ok,Good,1.0,0.0,0.0,Phyllis Reyes,Asian,female,2.0,USA,24.0,94131
+510,-0.49,3.19,0.4,4.4,2.67,-1.51,2.1,33.0,3.6,0.89,0.0,-3.88,-2.8,3.59,Engineering,Ok,Good,0.0,0.0,0.0,Kathryn Springer,Asian,female,0.0,USA,38.0,94010
+511,-0.18,2.94,0.2,5.5,2.66,-1.0,0.0,31.0,2.9,-0.02,3.35,2.02,1.98,9.46,Engineering,Ok,Good,0.0,0.0,0.0,Edith Jones,Asian,female,0.0,USA,31.0,94544
+512,-0.18,3.32,2.0,3.4,3.36,1.01,0.0,29.0,1.4,-1.36,2.21,-0.01,0.05,7.11,Engineering,Ok,Good,0.0,0.0,0.0,Esther Swain,Asian,female,0.0,USA,23.0,94560
+513,0.6,3.27,2.9,9.7,4.69,4.76,0.0,4.0,0.0,-3.26,2.42,1.06,1.72,9.24,Engineering,Very Good,Good,1.0,0.0,0.0,Amber Frye,Asian,female,2.0,China,32.0,94040
+514,-0.05,3.92,2.6,2.9,3.53,1.42,0.0,36.0,3.6,0.6,3.23,1.92,1.9,9.4,Engineering,Ok,Good,0.0,0.0,0.0,Lisa Spillane,Asian,female,2.0,USA,28.0,94588
+515,-0.65,2.96,0.4,6.1,3.06,-0.96,2.5,30.0,4.1,1.04,2.54,0.09,0.14,7.42,Engineering,Very Good,Bad,0.0,0.0,1.0,Helena Munnis,Asian,female,0.0,USA,32.0,94587
+516,-0.06,3.13,0.0,7.5,2.51,-2.1,1.3,27.0,1.6,-1.13,1.86,-0.95,-0.5,6.62,Engineering,Ok,Good,0.0,0.0,0.0,Dolores Allbee,Asian,female,0.0,USA,32.0,94070
+517,0.77,2.19,2.8,3.8,2.58,0.19,0.0,20.0,0.0,-3.14,1.93,-1.71,-1.28,5.81,Quantitative,Very Good,Good,0.0,0.0,0.0,Evelyn Berrios,Asian,female,0.0,USA,27.0,94025
+518,-1.32,3.24,3.0,3.8,3.23,-2.59,0.0,59.0,0.0,-2.97,3.87,4.36,4.73,12.76,Engineering,None,Bad,0.0,0.0,0.0,Dallas Eichler,Asian,female,0.0,USA,25.0,94709
+519,0.01,2.93,2.5,3.3,3.1,0.56,0.0,3.0,5.7,2.66,1.77,0.2,-0.37,6.26,Quantitative,Very Good,Good,0.0,0.0,0.0,Kristi Litton,Asian,female,0.0,USA,33.0,94040
+520,0.66,2.48,2.2,0.4,1.96,-0.87,0.0,17.0,2.8,-0.07,1.88,1.2,0.86,7.83,Engineering,None,Good,0.0,0.0,0.0,Joan Tibbs,Asian,female,0.0,USA,24.0,94301
+521,-1.58,3.13,1.4,2.1,2.22,-5.27,0.0,52.0,4.4,1.25,1.29,-0.33,-0.72,5.8,Engineering,Ok,Bad,0.0,0.0,0.0,Buffy Motl,Asian,female,0.0,China,28.0,94611
+522,0.57,3.56,1.0,9.1,4.46,5.22,0.0,35.0,1.7,-1.23,4.84,5.43,4.54,12.43,Engineering,Very Good,Good,1.0,0.0,0.0,Lucinda Mestad,Asian,female,2.0,USA,33.0,94566
+523,-0.6,2.77,2.6,0.6,2.9,-0.7,0.0,44.0,2.9,0.22,2.49,1.63,1.4,8.56,Humanities,Ok,Good,0.0,0.0,0.0,Beverly Miller,Asian,female,0.0,USA,22.0,94131
+524,0.28,3.2,2.0,3.8,3.39,2.04,0.0,8.0,5.7,2.33,2.02,-1.19,-0.71,6.55,Engineering,Ok,Good,0.0,0.0,0.0,Cecelia Barnes,Asian,female,2.0,USA,30.0,94085
+525,0.15,3.11,2.5,2.9,3.27,1.59,0.0,49.0,1.5,-1.16,1.88,-1.29,-0.66,6.56,Quantitative,Very Good,Good,0.0,0.0,0.0,Gail Benavides,Asian,female,2.0,USA,30.0,94502
+526,-0.19,3.05,2.8,4.9,4.44,3.96,0.0,55.0,3.3,0.46,0.0,-3.6,-2.39,4.14,Quantitative,None,Good,0.0,0.0,0.0,Heather Rozmus,Asian,female,2.0,China,27.0,94523
+527,0.03,2.36,2.0,6.0,3.24,0.75,0.0,53.0,1.2,-1.6,2.09,2.15,2.11,9.33,Engineering,Ok,Good,0.0,0.0,1.0,Catherine Crosby,Asian,female,0.0,USA,29.0,94549
+528,0.91,3.26,1.0,6.8,3.1,1.69,0.0,38.0,3.8,0.79,1.54,-1.18,-1.13,5.73,Quantitative,Ok,Good,0.0,1.0,0.0,Marina Grimes,Asian,female,2.0,Australia,35.0,94586
+529,1.12,2.91,2.9,7.5,4.61,6.59,0.0,11.0,6.0,2.51,1.56,-1.77,-1.2,5.78,Quantitative,Very Good,Good,1.0,0.0,0.0,Karen Plemmons,Asian,female,0.0,USA,38.0,94089
+530,-0.31,2.43,1.9,2.8,2.68,-0.84,0.0,65.0,2.9,-0.01,1.2,-0.59,0.19,7.32,Quantitative,Ok,Bad,0.0,0.0,0.0,Jane Konon,Asian,female,0.0,USA,28.0,94556
+531,0.14,3.18,2.1,4.9,3.22,0.68,0.0,73.0,0.0,-2.89,0.25,-3.21,-2.08,4.62,Engineering,Very Good,Good,0.0,0.0,0.0,Phyllis Stelmack,Asian,female,0.0,USA,30.0,94591
+532,-0.6,2.67,2.4,1.8,2.57,-2.06,0.0,14.0,5.7,2.27,1.43,-1.75,-1.66,5.1,Engineering,Ok,Good,0.0,0.0,0.0,Linda Lansberry,Asian,female,0.0,USA,34.0,95002
+533,0.2,3.68,2.9,5.4,3.95,2.51,0.0,33.0,3.4,0.64,2.16,-1.27,-0.51,6.83,Humanities,Ok,Good,0.0,0.0,0.0,Megan Hukill,Asian,female,2.0,USA,34.0,94010
+534,-0.34,2.08,1.5,1.3,1.49,-4.58,2.0,27.0,3.3,0.59,3.11,2.35,2.11,9.48,Engineering,None,Bad,0.0,0.0,0.0,Ann Elgin,Asian,female,0.0,Canada,27.0,94070
+535,-0.17,2.64,3.3,7.4,3.83,0.82,0.0,5.0,2.1,-1.0,1.05,-0.67,-0.98,5.4,Engineering,Ok,Bad,0.0,0.0,0.0,Rosa Rivera,Asian,female,0.0,USA,30.0,94043
+536,-0.52,3.02,2.6,1.3,2.62,-2.06,3.1,3.0,5.2,1.53,2.63,0.02,0.45,7.97,Engineering,Ok,Good,0.0,0.0,0.0,Christine Arthurs,Asian,female,0.0,USA,34.0,94040
+537,0.42,3.39,2.8,4.0,4.44,5.39,0.0,52.0,3.3,0.04,1.84,-0.72,-1.35,5.23,Sciences,Very Good,Good,0.0,0.0,0.0,Celia Trahern,Asian,female,0.0,China,34.0,94611
+538,0.35,3.69,1.9,6.9,2.88,-1.14,0.0,27.0,1.9,-1.06,2.61,0.31,-0.6,6.09,Engineering,None,Good,0.0,0.0,0.0,Maria Weber,Asian,female,0.0,USA,30.0,94070
+539,-0.14,2.78,1.8,3.6,2.93,-0.2,0.0,71.0,0.8,-1.79,2.12,-1.61,0.11,8.0,Sciences,Ok,Good,0.0,0.0,0.0,Christine Hamilton,Asian,female,0.0,USA,27.0,94509
+540,0.86,2.78,1.8,6.6,3.07,1.17,0.0,50.0,1.0,-1.64,2.07,0.44,0.23,7.19,Humanities,None,Bad,0.0,0.0,0.0,Ruth Dennis,Asian,female,0.0,USA,29.0,94609
+541,-0.4,3.42,2.7,2.6,3.17,-0.36,0.0,35.0,1.9,-1.08,1.15,-2.7,-2.03,4.78,Quantitative,Ok,Good,0.0,0.0,0.0,Jessie Jesus,Asian,female,0.0,USA,25.0,94566
+542,-0.56,2.9,0.5,2.2,2.62,-0.99,0.0,16.0,4.1,0.94,1.21,-1.88,-1.66,5.12,Quantitative,None,Good,0.0,0.0,0.0,Bernadette Diamond,Asian,female,0.0,USA,35.0,95134
+543,-1.0,3.56,0.9,2.1,2.77,-2.06,0.0,54.0,3.0,0.43,0.48,-2.02,-3.53,1.99,Sciences,None,Good,0.0,0.0,0.0,Stephanie Wammack,Asian,female,0.0,USA,29.0,94121
+544,-0.26,3.42,2.6,6.4,3.84,1.08,0.0,14.0,6.7,2.89,2.39,1.32,1.32,8.52,Quantitative,Very Good,Bad,0.0,0.0,0.0,Stephanie Beren,Asian,female,0.0,China,34.0,95002
+545,0.24,2.07,2.0,3.9,2.76,0.08,0.0,51.0,4.5,1.62,2.09,-0.99,-1.33,5.42,Humanities,Very Good,Good,0.0,0.0,0.0,Lupe Lapalme,Asian,female,0.0,USA,31.0,94618
+546,0.77,3.19,1.5,6.5,3.13,1.29,0.0,71.0,2.0,-0.71,4.63,2.86,1.82,9.27,Quantitative,Very Good,Good,1.0,0.0,0.0,Gwen Shankle,Asian,female,0.0,USA,29.0,94509
+547,-1.91,3.42,3.6,0.3,3.44,-2.57,0.0,11.0,0.9,-2.22,0.04,-3.51,-3.09,3.28,Engineering,Very Good,Good,0.0,0.0,0.0,Debra Gage,Asian,female,0.0,USA,30.0,94089
+548,0.93,3.79,3.8,4.9,4.74,6.74,3.0,24.0,5.2,2.23,0.62,-2.33,-1.55,5.3,Sciences,Very Good,Good,1.0,0.0,0.0,Elizabeth Collier,Asian,female,2.0,USA,40.0,94027
+549,-1.39,2.93,2.4,0.1,2.4,-3.83,0.0,72.0,3.9,0.81,1.63,0.03,-0.41,6.25,Engineering,None,Bad,0.0,0.0,0.0,Jolene Noll,Asian,female,0.0,USA,26.0,94572
+550,-0.95,3.46,1.5,3.3,3.3,-0.55,0.0,25.0,4.7,1.47,1.92,0.75,0.04,6.82,Quantitative,None,Good,1.0,0.0,0.0,Jan Bacich,Asian,female,0.0,Canada,31.0,94539
+551,-1.6,3.03,0.2,5.0,2.2,-5.57,1.1,75.0,0.9,-1.64,1.35,-0.73,-0.32,6.66,Quantitative,None,Bad,0.0,0.0,0.0,Florene Church,Asian,female,0.0,USA,32.0,94941
+552,0.61,2.35,2.9,3.8,2.77,0.2,0.0,48.0,2.5,-0.3,2.4,0.45,0.09,7.13,Engineering,Very Good,Good,0.0,0.0,0.0,Ruth Peters,Asian,female,0.0,China,30.0,94109
+553,-0.6,3.69,1.4,1.5,2.61,-2.02,0.0,5.0,8.2,4.39,0.28,-2.52,-2.0,4.4,Sciences,None,Bad,0.0,0.0,0.0,Eleanor Herrera,Asian,female,0.0,USA,34.0,94043
+554,-0.83,3.18,2.5,-0.7,2.48,-2.42,0.0,11.0,2.3,-0.52,0.74,-2.08,-2.08,4.31,Quantitative,Ok,Bad,0.0,0.0,0.0,Viola Carr,Asian,female,0.0,USA,23.0,94089
+555,-1.53,3.09,2.7,0.6,2.73,-3.57,4.9,24.0,8.8,4.89,1.79,0.11,0.37,7.53,Engineering,Ok,Bad,0.0,0.0,0.0,Ria Gray,Asian,female,0.0,USA,37.0,94027
+556,0.63,3.15,2.2,7.0,3.18,0.55,0.0,40.0,2.5,-0.51,1.17,-1.17,-1.46,5.05,Engineering,Ok,Good,1.0,0.0,0.0,Fern Pass,Asian,female,0.0,China,31.0,94603
+557,0.69,2.88,2.8,1.9,2.84,1.43,0.0,15.0,6.0,2.73,2.33,0.3,0.39,7.66,Engineering,Very Good,Good,0.0,0.0,0.0,Andrea Steele,Asian,female,2.0,USA,29.0,95002
+558,0.47,3.98,2.7,7.9,4.61,4.66,0.0,60.0,1.7,-0.92,1.93,-0.85,-1.0,5.77,Engineering,Ok,Good,1.0,0.0,0.0,Maureen Pilcher,Asian,female,2.0,USA,30.0,94707
+559,-1.02,2.86,2.1,-0.6,1.63,-5.5,0.0,11.0,4.4,0.93,3.48,1.96,1.84,9.44,Engineering,Ok,Bad,0.0,0.0,0.0,Bessie Johnson,Asian,female,0.0,China,27.0,94089
+560,-0.08,2.88,1.7,5.2,3.04,-0.2,0.0,11.0,4.1,0.72,1.16,-0.15,0.22,7.12,Sciences,Ok,Good,0.0,0.0,0.0,Nancy Calderone,Asian,female,0.0,USA,30.0,94089
+561,0.21,2.69,3.5,3.6,2.96,-0.29,0.9,69.0,0.8,-1.64,0.42,-1.76,-0.88,6.05,Engineering,Ok,Good,0.0,0.0,0.0,Deborah Savino,Asian,female,0.0,USA,23.0,94510
+562,-0.99,3.26,2.5,2.8,3.41,-0.68,0.0,15.0,1.3,-1.69,2.65,0.43,0.46,7.74,Quantitative,None,Bad,0.0,1.0,0.0,Shirley Kramarczyk,Asian,female,0.0,USA,28.0,95002
+563,0.69,4.18,3.1,4.5,3.42,1.39,0.0,29.0,5.3,2.11,3.08,2.07,1.73,8.97,Quantitative,Ok,Bad,0.0,0.0,0.0,Maria Starks,Asian,female,0.0,USA,31.0,94560
+564,-0.72,2.62,1.5,2.2,2.44,-2.31,0.0,9.0,2.5,-0.48,2.52,2.67,1.17,7.7,Sciences,Ok,Bad,0.0,0.0,0.0,Gail Mcdaniel,Asian,female,0.0,USA,28.0,94085
+565,-1.04,3.07,0.9,-2.6,1.88,-3.61,0.0,2.0,3.3,0.03,1.32,-1.36,-1.44,5.34,Engineering,Very Good,Good,0.0,0.0,0.0,Kim Mckenzie,Asian,female,0.0,Canada,24.0,94040
+566,-0.35,2.69,2.7,5.0,3.59,0.78,0.0,24.0,3.2,-0.25,2.35,-0.16,0.59,8.1,Quantitative,Ok,Good,1.0,1.0,0.0,Belinda Melara,Asian,female,0.0,USA,28.0,94027
+567,0.79,2.62,1.6,6.8,2.9,0.76,0.0,38.0,5.2,1.93,2.28,-0.55,-0.7,6.28,Engineering,None,Bad,0.0,0.0,0.0,Sarah Scott,Asian,female,0.0,USA,36.0,94586
+568,0.98,3.54,2.3,5.0,3.52,3.22,0.0,35.0,0.3,-2.4,2.58,0.49,0.44,7.53,Quantitative,Ok,Good,1.0,0.0,0.0,Bertha Clarke,Asian,female,2.0,China,27.0,94566
+569,-0.87,1.73,1.6,0.3,1.28,-5.84,0.0,52.0,3.1,0.46,1.0,-2.39,-2.32,4.21,Quantitative,None,Good,0.0,0.0,0.0,Barbara Lipsey,Asian,female,0.0,China,23.0,94611
+570,0.29,2.54,1.5,4.0,2.48,-0.76,0.0,28.0,4.2,1.1,2.65,1.57,0.62,7.49,Humanities,Ok,Bad,1.0,0.0,0.0,Diane Savage,Asian,female,0.0,Canada,32.0,94402
+571,0.23,3.35,4.3,4.6,4.47,4.14,0.0,61.0,0.3,-1.98,2.69,1.33,0.97,8.1,Humanities,Very Good,Good,1.0,0.0,0.0,Sarah Broussard,Asian,female,2.0,USA,27.0,94707
+572,1.04,3.91,1.3,8.4,4.43,5.96,0.0,28.0,5.4,2.07,0.95,-2.02,-1.43,5.46,Engineering,Very Good,Bad,1.0,0.0,0.0,Heather Casas,Asian,female,2.0,USA,35.0,94402
+573,-1.31,2.71,0.7,3.9,2.71,-2.69,0.0,28.0,5.0,2.01,1.35,0.1,0.19,7.06,Sciences,Ok,Bad,0.0,1.0,0.0,Sharon Otero,Asian,female,0.0,Canada,28.0,94402
+574,-0.83,2.69,1.2,2.6,2.01,-4.35,0.0,59.0,0.0,-4.53,1.28,-1.65,-1.08,5.86,Engineering,None,Good,0.0,0.0,0.0,Carolyn Bourland,Asian,female,0.0,USA,24.0,94709
+575,-0.93,2.9,1.6,2.9,2.27,-3.95,0.0,38.0,0.0,-2.69,2.12,1.53,0.11,6.46,Quantitative,Ok,Bad,1.0,0.0,0.0,Eilene Bennett,Asian,female,0.0,China,27.0,94586
+576,-0.13,2.87,2.3,4.9,3.61,1.59,0.0,82.0,0.5,-1.52,3.16,1.65,1.12,8.32,Engineering,Ok,Good,0.0,0.0,0.0,Patricia Osgood,Asian,female,0.0,USA,25.0,94503
+577,0.46,2.68,1.9,3.1,2.25,-1.36,3.9,5.0,6.4,2.64,2.47,0.77,0.73,8.02,Quantitative,Ok,Bad,0.0,0.0,0.0,Stacey Penn,Asian,female,0.0,USA,39.0,94043
+578,0.43,2.37,0.4,7.5,2.78,0.32,0.0,92.0,2.5,-0.04,2.88,2.47,0.73,7.33,Engineering,None,Good,0.0,0.0,0.0,Judy Hutchison,Asian,female,0.0,USA,29.0,94946
+579,0.4,3.95,1.6,2.6,3.27,1.88,0.0,31.0,2.3,-0.86,2.54,1.82,1.1,8.08,Engineering,None,Good,1.0,0.0,0.0,Jessica Fancher,Asian,female,1.0,USA,30.0,94544
+580,0.36,2.92,2.6,3.2,2.69,-0.42,0.0,22.0,7.0,3.58,3.28,1.93,2.11,9.83,Humanities,None,Bad,0.0,0.0,0.0,Joanna Bennett,Asian,female,0.0,USA,31.0,94061
+581,0.81,3.03,2.4,6.0,3.33,1.98,0.0,17.0,3.3,0.28,1.47,-1.89,-2.54,3.8,Quantitative,Very Good,Good,1.0,0.0,0.0,Elizabeth Lee,Asian,female,2.0,USA,29.0,94301
+582,0.08,2.77,1.1,4.8,2.77,-0.16,1.3,90.0,1.4,-0.96,2.06,-0.54,-1.0,5.7,Engineering,None,Bad,0.0,0.0,0.0,Maude Smith,Asian,female,0.0,USA,31.0,95476
+583,-0.78,3.12,1.1,0.5,2.02,-3.64,0.0,22.0,3.9,0.9,2.76,1.51,0.43,7.14,Quantitative,None,Good,0.0,0.0,0.0,Wendy Monahan,Asian,female,0.0,USA,28.0,94061
+584,0.65,3.78,2.1,4.1,3.5,2.75,3.4,2.0,6.0,2.41,2.8,1.59,1.65,9.08,Engineering,None,Good,1.0,1.0,0.0,Patricia Dixon,Asian,female,2.0,USA,35.0,94040
+585,0.64,3.16,0.6,6.5,3.57,3.37,0.0,4.0,2.1,-1.11,2.51,1.84,0.95,7.76,Engineering,Ok,Good,1.0,0.0,0.0,Glenda Mcdearmont,Asian,female,2.0,USA,32.0,94040
+586,0.82,3.12,2.6,6.4,3.96,4.12,0.0,63.0,3.8,0.78,2.43,1.32,0.81,7.79,Quantitative,Very Good,Good,1.0,0.0,0.0,Laura Miller,Asian,female,2.0,USA,31.0,94801
+587,-0.17,2.8,1.7,2.1,2.67,-0.45,0.0,35.0,3.1,0.23,2.93,0.96,0.48,7.49,Engineering,Ok,Bad,0.0,0.0,0.0,Norma Mercado,Asian,female,0.0,USA,32.0,94566
+588,0.91,3.54,3.2,1.5,2.92,1.22,0.0,81.0,0.0,-3.21,2.31,-0.89,-0.16,7.22,Engineering,Ok,Good,1.0,0.0,0.0,Kristina France,Asian,female,0.0,USA,24.0,94561
+589,-0.33,3.8,0.3,5.8,3.87,2.32,0.0,27.0,4.1,0.94,3.79,2.56,3.53,11.89,Sciences,Ok,Good,0.0,0.0,0.0,Pearline Trogdon,Asian,female,0.0,USA,32.0,94070
+590,0.47,2.52,1.5,6.5,2.5,-1.15,0.0,4.0,3.4,0.23,1.65,0.12,-0.11,6.76,Humanities,None,Bad,0.0,0.0,0.0,Suzanne Drinkwater,Asian,female,0.0,USA,29.0,94040
+591,0.32,3.02,2.5,6.7,3.01,-0.53,0.0,29.0,3.3,0.16,1.26,-2.2,-1.73,5.2,Sciences,None,Bad,0.0,0.0,0.0,Bessie Fulton,Asian,female,0.0,USA,33.0,94560
+592,0.86,2.6,1.7,7.0,3.32,2.29,0.0,30.0,1.2,-1.8,2.99,3.26,3.84,11.82,Engineering,Ok,Bad,0.0,0.0,0.0,Pamela Woods,Asian,female,2.0,USA,32.0,94587
+593,0.35,3.7,2.8,9.3,4.74,4.52,0.0,50.0,0.7,-1.95,3.06,1.83,1.28,8.42,Engineering,Very Good,Good,1.0,0.0,0.0,Katherine Dorschner,Asian,female,2.0,China,30.0,94609
+594,-0.39,3.97,2.9,4.2,4.17,2.36,0.0,21.0,6.4,3.07,2.56,0.89,-0.05,6.65,Humanities,Very Good,Good,0.0,1.0,0.0,Karen Dorris,Asian,female,0.0,USA,35.0,94538
+595,-0.41,3.39,1.7,5.7,2.62,-2.82,0.0,29.0,4.4,1.38,2.94,1.64,1.19,8.39,Engineering,Very Good,Good,0.0,0.0,0.0,Stephanie Amador,Asian,female,0.0,USA,38.0,94560
+596,-1.2,2.04,1.8,3.3,1.84,-5.92,0.0,27.0,3.6,0.36,2.08,0.24,0.69,7.99,Quantitative,Ok,Bad,0.0,0.0,0.0,Julie Griffin,Asian,female,0.0,China,27.0,94070
+597,-1.17,2.4,2.6,-2.1,1.79,-4.75,0.0,14.0,2.8,-0.35,1.93,-0.16,-0.14,6.8,Sciences,Ok,Bad,0.0,0.0,0.0,Angela Telfer,Asian,female,0.0,Canada,23.0,95002
+598,0.05,2.94,3.3,4.7,3.41,0.36,0.0,6.0,7.1,3.51,1.92,-0.08,0.52,7.84,Quantitative,Very Good,Good,0.0,1.0,0.0,Gina Taylor,Asian,female,0.0,USA,33.0,94043
+599,-0.74,3.65,1.3,3.5,3.14,-0.85,0.0,5.0,7.4,3.59,2.72,0.6,0.08,7.09,Engineering,Ok,Good,1.0,0.0,0.0,Barbara Levine,Asian,female,0.0,USA,39.0,94043
