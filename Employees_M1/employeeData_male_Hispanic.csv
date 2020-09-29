@@ -1,0 +1,121 @@
+,Education,GPA,Educational Prestige,Years of Experience,Soft Skills,Manager's Assessment Score,Military Tenure,Avg Commute Time,Job Tenure,Cultural Fit,Leadership Capability,HireVue Score,Technical Aptitude,Avg Deals Closed,Undergraduate Degree,LinkedIn Score,Responsible Social Media Use,Employee Referral,Arrest Record,Criminal Record,Names,Race,Gender,Sports,Birth Origin,Age,Zip
+0,0.39,3.18,3.0,8.4,3.86,1.91,0.0,44.0,6.6,3.14,2.4,0.67,0.08,6.92,Sciences,None,Good,0.0,1.0,0.0,Rick Smith,Hispanic,male,2.0,USA,39.0,94131
+1,0.24,2.95,3.2,8.16,4.52,3.94,1.8,21.0,2.7,-0.41,0.38,-3.27,-3.29,3.0,Engineering,Ok,Good,1.0,0.0,0.0,Jeremy Pedley,Hispanic,male,2.0,USA,31.0,94538
+2,-1.08,2.95,1.4,0.21,2.31,-3.11,0.0,20.0,2.3,-0.93,0.19,-1.44,-0.79,5.83,Engineering,None,Bad,0.0,1.0,0.0,Jackie Bumpus,Hispanic,male,0.0,USA,28.0,94025
+3,-1.2,1.72,1.3,-1.24,0.77,-8.0,0.0,11.0,7.2,3.67,4.01,3.77,3.13,10.66,Humanities,Very Good,Good,0.0,1.0,1.0,Steven Vega,Hispanic,male,0.0,USA,30.0,94089
+4,0.45,3.69,2.8,3.41,3.33,1.63,0.0,17.0,5.3,2.25,2.53,2.15,1.8,8.96,Quantitative,Very Good,Good,0.0,0.0,0.0,Bennett Smith,Hispanic,male,0.0,USA,28.0,94301
+5,0.44,3.08,-0.2,5.7,2.21,-1.3,0.0,33.0,2.2,-0.81,2.71,0.43,-0.21,6.66,Sciences,Very Good,Bad,0.0,0.0,0.0,Gregory Williams,Hispanic,male,0.0,Canada,31.0,94010
+6,0.1,3.11,2.6,2.78,3.26,1.17,0.0,42.0,7.1,3.91,1.84,-0.76,-1.03,5.64,Engineering,Ok,Good,0.0,1.0,0.0,Ruben Hamons,Hispanic,male,0.0,USA,31.0,94605
+7,-0.76,2.89,2.8,-0.88,2.19,-3.22,0.0,34.0,6.1,2.43,3.0,2.96,2.83,10.35,Humanities,None,Good,0.0,1.0,0.0,Michael Mcdade,Hispanic,male,0.0,USA,26.0,94030
+8,0.26,2.72,1.7,2.33,2.16,-1.56,0.0,45.0,3.5,0.51,0.75,-2.34,-2.42,3.95,Quantitative,Very Good,Good,0.0,0.0,0.0,Randy Rodeheaver,Hispanic,male,0.0,USA,25.0,94105
+9,1.08,3.69,1.2,7.2,4.14,5.5,0.0,18.0,3.2,0.05,3.27,3.92,3.23,10.52,Engineering,Very Good,Good,0.0,0.0,0.0,Bernard Salzman,Hispanic,male,2.0,Mexico,33.0,95035
+10,0.09,2.72,0.9,6.32,3.01,0.22,0.0,13.0,5.8,2.29,0.17,-3.58,-4.03,1.8,Quantitative,Ok,Good,1.0,0.0,0.0,Eddie Taylor,Hispanic,male,0.0,USA,35.0,94022
+11,-0.11,2.62,0.8,0.49,1.67,-2.95,0.0,33.0,4.8,1.36,0.78,-2.09,-1.8,4.83,Engineering,None,Bad,0.0,1.0,0.0,William Diamond,Hispanic,male,0.0,USA,28.0,94010
+12,1.06,3.49,4.1,6.25,4.15,4.21,0.0,3.0,5.3,1.99,1.96,-0.23,0.52,7.86,Quantitative,Ok,Good,1.0,0.0,0.0,Angelo Chambers,Hispanic,male,2.0,USA,32.0,94040
+13,1.87,3.92,3.6,6.61,4.97,8.94,4.5,56.0,7.3,3.86,4.25,1.5,1.33,9.1,Quantitative,Ok,Good,0.0,0.0,0.0,Zachary Byrd,Hispanic,male,2.0,USA,40.0,94595
+14,0.39,2.2,2.2,2.04,1.79,-2.41,0.0,47.0,1.1,-1.75,0.94,-0.44,0.39,7.38,Engineering,None,Bad,0.0,0.0,0.0,Merle Edwards,Hispanic,male,0.0,USA,27.0,94114
+15,-0.3,2.67,2.0,2.15,2.28,-2.67,0.0,66.0,0.0,-2.93,3.01,0.5,-0.1,6.99,Engineering,None,Good,0.0,0.0,0.0,John Vargas,Hispanic,male,0.0,Mexico,21.0,94925
+16,-1.81,3.28,2.7,-0.8,2.48,-4.63,0.0,3.0,2.3,-0.63,0.83,-0.92,-0.5,6.26,Quantitative,None,Good,0.0,1.0,1.0,Anthony Evans,Hispanic,male,0.0,Canada,26.0,94040
+17,-0.99,3.03,2.2,2.64,3.16,-1.17,0.0,47.0,2.1,-0.68,2.6,0.47,0.2,7.23,Engineering,Very Good,Good,0.0,0.0,0.0,Joseph Collins,Hispanic,male,0.0,USA,26.0,94114
+18,1.98,3.17,3.7,4.34,3.22,3.78,0.0,58.0,4.6,1.91,3.98,3.54,3.39,11.24,Quantitative,Very Good,Bad,1.0,0.0,0.0,Howard Anderson,Hispanic,male,2.0,USA,30.0,94720
+19,0.94,2.51,2.9,8.42,3.67,2.57,0.0,43.0,5.5,2.46,1.67,-0.29,-0.29,6.56,Engineering,Very Good,Good,0.0,0.0,0.0,James Merkl,Hispanic,male,2.0,USA,40.0,94014
+20,1.09,4.31,2.1,7.89,4.5,5.72,0.0,40.0,0.7,-1.84,1.44,-0.94,-0.59,6.38,Engineering,Ok,Good,1.0,0.0,0.0,Eddie Goodman,Hispanic,male,2.0,USA,32.0,94603
+21,0.64,3.29,2.2,5.5,3.53,2.35,0.0,37.0,4.4,1.34,1.69,-1.02,-0.29,6.96,Engineering,Ok,Good,0.0,0.0,0.0,Jonathan Fox,Hispanic,male,2.0,Mexico,35.0,94545
+22,-0.17,2.59,3.4,6.51,3.12,-1.21,0.0,59.0,0.0,-5.55,2.14,-0.06,-0.25,6.74,Sciences,None,Good,0.0,0.0,0.0,Tyrone Ray,Hispanic,male,0.0,USA,28.0,94709
+23,-0.9,3.42,1.8,6.12,3.75,-0.18,0.0,8.0,10.0,6.11,1.6,-1.69,-1.33,5.57,Quantitative,Very Good,Good,0.0,0.0,0.0,Greg Weatherford,Hispanic,male,0.0,USA,39.0,94085
+24,-1.22,2.42,2.5,-0.21,2.2,-3.87,1.5,17.0,1.7,-1.49,3.41,3.47,3.43,11.18,Engineering,Very Good,Bad,0.0,1.0,0.0,George Gilligan,Hispanic,male,0.0,USA,24.0,94301
+25,-1.03,3.68,0.9,6.03,2.92,-3.01,2.8,39.0,4.2,0.97,2.96,2.35,2.73,10.38,Engineering,None,Good,0.0,1.0,0.0,Martin Barclay,Hispanic,male,0.0,USA,33.0,94578
+26,-0.51,3.21,0.4,4.41,2.65,-1.77,0.0,24.0,6.2,2.89,1.53,-2.74,-2.28,4.71,Engineering,Very Good,Good,0.0,0.0,0.0,Willie Neel,Hispanic,male,0.0,USA,36.0,94027
+27,0.7,2.92,2.3,2.25,2.6,0.43,0.0,14.0,3.7,0.35,2.33,1.73,2.48,10.04,Sciences,Ok,Bad,0.0,0.0,0.0,Michael Saleado,Hispanic,male,0.0,USA,30.0,95002
+28,0.36,3.52,2.5,6.01,4.2,3.76,2.0,63.0,2.5,-0.16,3.76,3.85,3.28,10.85,Engineering,None,Good,1.0,0.0,0.0,Jason Bryant,Hispanic,male,2.0,USA,32.0,94801
+29,1.08,2.8,2.5,3.76,3.17,2.83,0.0,22.0,4.8,1.43,2.39,0.39,0.23,7.35,Humanities,Very Good,Good,1.0,0.0,0.0,William Payne,Hispanic,male,2.0,USA,34.0,94061
+30,0.95,2.6,1.0,6.52,3.21,2.74,1.4,27.0,2.1,-0.72,1.88,-0.06,-0.13,6.91,Engineering,Ok,Good,1.0,0.0,0.0,Dana Farmer,Hispanic,male,2.0,USA,31.0,94070
+31,-0.27,3.03,2.4,0.97,3.13,0.73,0.0,23.0,1.9,-0.96,1.71,0.46,0.64,7.74,Quantitative,Ok,Bad,0.0,1.0,0.0,Noe Nickell,Hispanic,male,0.0,USA,25.0,94028
+32,0.61,2.66,1.2,8.37,3.23,1.28,0.0,59.0,3.0,0.09,3.33,2.46,1.2,8.08,Engineering,Ok,Good,0.0,0.0,0.0,Bobby Dyer,Hispanic,male,0.0,USA,35.0,94709
+33,1.02,3.12,1.5,8.76,3.73,3.37,1.9,19.0,3.0,0.02,3.47,2.52,1.31,8.3,Engineering,None,Good,1.0,0.0,0.0,William Green,Hispanic,male,2.0,USA,39.0,94304
+34,0.55,2.77,1.5,4.09,2.89,1.25,0.0,21.0,4.5,1.44,0.71,-1.79,-1.73,4.71,Quantitative,Very Good,Bad,0.0,0.0,0.0,Waldo Knodel,Hispanic,male,0.0,USA,30.0,94538
+35,-0.21,3.12,2.3,3.98,3.26,0.17,0.0,6.0,3.3,0.32,2.84,1.2,1.06,8.27,Engineering,Ok,Good,0.0,0.0,0.0,David Griffin,Hispanic,male,0.0,USA,25.0,94043
+36,-0.34,2.8,1.9,5.78,2.59,-2.61,0.0,60.0,0.5,-2.1,3.42,1.56,0.82,8.03,Engineering,Ok,Bad,0.0,0.0,0.0,Jesse Radford,Hispanic,male,0.0,USA,31.0,94707
+37,-0.41,3.11,1.2,2.76,2.48,-1.83,0.0,49.0,4.5,1.4,0.0,-5.83,-5.32,0.66,Quantitative,None,Good,0.0,0.0,0.0,Donald Billiter,Hispanic,male,0.0,USA,33.0,94502
+38,-0.72,3.01,1.9,4.29,2.62,-2.96,3.3,30.0,5.3,2.07,0.56,-2.83,-1.96,4.76,Engineering,Very Good,Good,0.0,1.0,0.0,Norman Jackson,Hispanic,male,0.0,Australia,36.0,94587
+39,0.23,3.16,2.3,1.5,2.3,-1.56,0.0,16.0,5.6,2.21,4.27,2.79,1.89,9.25,Engineering,Ok,Bad,0.0,0.0,0.0,Charles Mcneill,Hispanic,male,0.0,USA,33.0,95134
+40,1.13,3.67,1.4,6.43,3.55,3.55,0.0,4.0,2.8,-0.32,2.35,2.42,1.71,8.58,Quantitative,Very Good,Good,1.0,0.0,0.0,Clyde Davis,Hispanic,male,2.0,USA,31.0,94040
+41,-0.92,3.03,0.2,4.45,2.86,-1.53,1.7,9.0,2.5,-0.57,1.97,0.46,0.89,8.04,Quantitative,Ok,Good,0.0,0.0,0.0,Daniel Watts,Hispanic,male,0.0,USA,30.0,94085
+42,1.8,3.54,3.3,8.25,4.65,7.32,0.0,34.0,0.0,-5.18,2.6,1.74,1.6,8.88,Engineering,Very Good,Good,1.0,0.0,0.0,Del King,Hispanic,male,1.0,USA,34.0,94030
+43,1.05,2.49,2.7,2.81,2.71,1.49,0.0,27.0,1.0,-1.56,1.82,0.19,0.17,7.2,Engineering,Very Good,Bad,1.0,0.0,0.0,Dustin Sheffield,Hispanic,male,1.0,Mexico,25.0,94070
+44,0.59,2.5,2.4,5.23,2.54,-0.61,0.0,28.0,0.0,-3.31,1.28,-1.66,-1.66,4.95,Sciences,None,Bad,1.0,0.0,0.0,Christopher Lunde,Hispanic,male,1.0,USA,36.0,94402
+45,-1.05,2.95,1.5,0.19,2.25,-3.33,0.0,11.0,4.3,0.79,2.87,2.0,2.62,10.44,Engineering,Ok,Bad,0.0,1.0,0.0,Curtis Mckenzie,Hispanic,male,1.0,USA,27.0,94089
+46,0.53,3.08,3.9,3.23,3.32,1.47,0.0,11.0,1.8,-1.58,1.27,-1.48,-1.28,5.48,Engineering,Very Good,Good,0.0,0.0,0.0,Stanley Carolin,Hispanic,male,1.0,USA,30.0,94089
+47,1.1,2.83,2.2,5.52,3.17,2.38,0.0,32.0,4.2,1.35,2.61,0.61,-1.0,5.32,Humanities,None,Good,0.0,0.0,0.0,Donald Thompson,Hispanic,male,1.0,Mexico,35.0,94544
+48,0.08,2.6,1.3,4.57,2.56,-0.99,2.8,1.0,4.8,1.52,3.8,2.0,1.26,8.63,Engineering,Very Good,Bad,0.0,1.0,0.0,Charles Mclaren,Hispanic,male,1.0,Mexico,36.0,94040
+49,-0.66,2.54,1.7,0.67,1.34,-5.89,0.0,28.0,0.6,-2.08,1.75,-0.29,-0.7,6.02,Engineering,Very Good,Bad,0.0,1.0,1.0,Sandy Radford,Hispanic,male,1.0,USA,23.0,94402
+50,1.19,3.61,2.5,7.1,3.7,3.22,0.0,54.0,2.9,0.07,4.27,4.07,3.78,11.69,Quantitative,None,Good,1.0,0.0,0.0,Greg Cummings,Hispanic,male,1.0,USA,33.0,94121
+51,-1.72,3.62,2.2,-0.69,3.25,-1.48,0.0,51.0,1.6,-0.93,1.39,-1.23,-2.16,4.09,Quantitative,None,Good,1.0,0.0,0.0,Martin Hirz,Hispanic,male,1.0,USA,21.0,94618
+52,-0.21,2.36,1.7,4.12,2.53,-1.9,0.0,63.0,1.1,-1.48,2.58,3.51,3.64,11.18,Engineering,Very Good,Good,1.0,1.0,0.0,Robert Brown,Hispanic,male,1.0,USA,29.0,94801
+53,-0.96,3.18,1.6,3.07,2.22,-4.62,0.0,68.0,2.6,-0.08,2.18,0.44,-0.32,6.33,Quantitative,None,Bad,0.0,1.0,1.0,Donald Nunnally,Hispanic,male,1.0,Australia,32.0,94569
+54,-0.86,2.39,2.0,2.19,3.04,-0.71,0.0,22.0,5.6,2.18,0.61,-2.35,-2.93,3.06,Engineering,Ok,Bad,0.0,0.0,0.0,Marty Oyler,Hispanic,male,1.0,Mexico,26.0,94061
+55,0.12,4.0,3.8,6.33,4.83,4.54,0.0,34.0,5.7,2.58,3.64,1.92,0.91,8.05,Quantitative,Ok,Good,1.0,0.0,1.0,Elliot Fletcher,Hispanic,male,1.0,USA,36.0,94030
+56,1.09,3.23,2.7,7.08,3.99,4.25,0.6,2.0,0.6,-2.37,2.38,2.02,0.74,7.36,Engineering,Very Good,Bad,1.0,1.0,0.0,Mario Magee,Hispanic,male,1.0,USA,34.0,94040
+57,0.61,2.72,2.5,4.44,3.03,0.84,0.0,16.0,1.8,-1.13,1.07,-2.2,-2.59,3.76,Humanities,Ok,Good,0.0,0.0,0.0,William Levy,Hispanic,male,1.0,USA,33.0,95134
+58,0.05,2.72,1.5,2.72,2.56,-0.49,0.0,32.0,1.2,-1.78,1.41,-0.42,-0.35,6.38,Engineering,None,Good,0.0,0.0,0.0,Fernando Orahood,Hispanic,male,1.0,Canada,26.0,94544
+59,-0.33,2.81,2.3,4.47,2.56,-2.47,3.4,58.0,5.5,2.52,0.58,-2.94,-2.69,3.85,Quantitative,Very Good,Good,1.0,0.0,0.0,Lenny Knee,Hispanic,male,1.0,USA,37.0,94720
+60,0.72,2.62,2.5,4.0,2.74,0.5,4.5,9.0,7.3,3.46,2.26,-0.23,0.54,7.97,Quantitative,Very Good,Good,0.0,1.0,0.0,Joseph Mcmillan,Hispanic,male,1.0,USA,39.0,94085
+61,-1.39,2.44,1.4,1.41,1.81,-6.0,0.0,35.0,5.7,2.44,0.65,-2.64,-2.34,4.19,Engineering,None,Good,0.0,1.0,1.0,Richard King,Hispanic,male,1.0,USA,27.0,94566
+62,0.81,3.79,2.5,4.89,3.66,3.17,0.0,32.0,1.4,-1.68,2.42,1.92,1.92,9.27,Quantitative,Very Good,Good,1.0,0.0,0.0,Leonard Masom,Hispanic,male,1.0,USA,30.0,94544
+63,-0.79,3.18,2.4,2.74,3.09,-1.26,2.4,29.0,3.4,0.09,1.63,-1.77,-2.32,4.17,Engineering,Ok,Bad,0.0,0.0,0.0,Terry Luce,Hispanic,male,1.0,Canada,29.0,94560
+64,-0.19,2.92,1.5,4.85,3.03,-0.32,0.0,36.0,2.7,-0.28,1.41,-2.27,-3.55,2.51,Quantitative,Ok,Good,0.0,0.0,0.0,Branden Dicicco,Hispanic,male,1.0,USA,30.0,94588
+65,-0.61,3.13,0.5,0.9,2.07,-2.7,0.0,38.0,3.0,-0.16,1.79,1.04,1.04,8.03,Engineering,Very Good,Good,0.0,1.0,0.0,Randall Scherer,Hispanic,male,1.0,USA,27.0,94586
+66,0.93,3.53,1.4,11.65,3.69,1.76,1.9,44.0,2.9,-0.09,2.55,-0.48,-0.26,6.91,Humanities,Very Good,Good,0.0,0.0,0.0,Enrique Dalton,Hispanic,male,1.0,USA,37.0,94131
+67,-0.63,1.74,1.7,1.25,0.58,-8.68,2.4,15.0,4.1,1.04,2.79,2.84,2.47,9.76,Engineering,Ok,Bad,0.0,1.0,1.0,Mathew Marion,Hispanic,male,1.0,Mexico,33.0,95002
+68,-0.41,3.63,1.7,5.09,4.25,3.15,0.0,7.0,3.5,0.09,2.89,2.85,2.73,10.21,Engineering,Very Good,Good,1.0,0.0,0.0,James Hopper,Hispanic,male,1.0,USA,37.0,94043
+69,0.07,2.55,0.7,3.38,1.75,-3.13,0.0,57.0,1.1,-1.44,1.29,0.29,0.5,7.39,Engineering,Ok,Bad,0.0,1.0,0.0,Bruce Mckay,Hispanic,male,1.0,USA,27.0,94038
+70,0.2,3.25,1.7,4.55,3.16,0.97,0.0,40.0,0.3,-2.3,4.25,4.68,4.87,13.0,Engineering,Very Good,Good,0.0,0.0,0.0,Ralph Reilly,Hispanic,male,0.0,USA,26.0,94603
+71,0.99,3.26,1.2,0.66,2.48,1.77,0.0,11.0,5.1,1.79,0.67,-3.18,-1.98,5.04,Sciences,None,Good,0.0,0.0,0.0,Lance Willmore,Hispanic,male,1.0,USA,27.0,94089
+72,-0.76,3.5,3.9,5.47,4.2,0.86,0.0,13.0,3.6,0.36,2.56,2.47,2.6,9.99,Engineering,Very Good,Good,0.0,0.0,0.0,Steven Jennings,Hispanic,male,1.0,Canada,33.0,94022
+73,0.41,2.45,3.2,9.59,3.66,0.95,0.0,16.0,2.8,-0.84,3.41,2.66,1.37,8.38,Engineering,Very Good,Good,0.0,0.0,0.0,Rickey Richardson,Hispanic,male,0.0,USA,33.0,95134
+74,0.25,2.46,1.9,3.31,2.93,0.95,0.0,40.0,0.0,-3.3,3.12,0.89,0.59,7.84,Quantitative,Very Good,Good,0.0,0.0,0.0,Manuel Reyes,Hispanic,male,1.0,USA,24.0,94603
+75,2.57,2.97,4.1,6.52,4.13,7.44,0.0,33.0,0.0,-2.77,2.0,-1.09,-1.86,4.64,Sciences,Ok,Good,0.0,1.0,0.0,Frank Hermans,Hispanic,male,1.0,Mexico,29.0,94010
+76,0.57,3.62,2.7,3.06,3.71,3.4,2.3,9.0,4.2,0.91,0.87,-3.53,-3.37,3.07,Quantitative,Very Good,Good,1.0,0.0,0.0,Tony Kelly,Hispanic,male,1.0,USA,30.0,94085
+77,0.14,2.88,1.8,4.49,3.05,0.62,0.0,5.0,6.7,2.91,3.05,-0.43,-0.44,6.89,Engineering,Very Good,Good,0.0,0.0,0.0,James Townsend,Hispanic,male,1.0,USA,33.0,94043
+78,-0.06,3.0,1.5,7.19,3.4,0.57,0.0,47.0,3.9,0.86,3.1,2.37,1.21,8.12,Quantitative,Ok,Good,0.0,0.0,0.0,Ryan Villanueva,Hispanic,male,1.0,Mexico,33.0,94114
+79,-0.11,2.72,1.9,1.98,2.23,-1.99,3.0,7.0,5.1,1.58,2.27,0.92,1.12,8.44,Quantitative,None,Good,0.0,0.0,0.0,Lucas Moody,Hispanic,male,1.0,USA,30.0,94043
+80,-1.42,2.26,2.5,1.13,1.87,-6.32,0.0,62.0,1.3,-1.14,1.95,-1.41,-1.85,4.77,Engineering,Ok,Bad,0.0,0.0,1.0,Robert Gurule,Hispanic,male,1.0,Mexico,25.0,94564
+81,-0.08,2.14,1.8,3.77,1.94,-3.47,0.0,44.0,2.0,-0.53,1.79,1.36,1.84,9.11,Humanities,None,Good,0.0,0.0,0.0,Theodore Dorgan,Hispanic,male,0.0,USA,32.0,94131
+82,-0.23,3.26,1.5,3.44,2.93,-0.49,0.0,5.0,2.7,-0.46,1.76,-0.08,0.7,8.12,Quantitative,None,Bad,0.0,0.0,0.0,Steven Jackson,Hispanic,male,0.0,USA,31.0,94043
+83,-1.17,2.37,1.4,5.88,2.89,-2.78,0.0,26.0,4.0,0.84,0.96,-1.77,-2.14,4.12,Quantitative,None,Good,0.0,0.0,0.0,Lee Boyd,Hispanic,male,0.0,USA,31.0,94403
+84,-0.21,3.58,1.2,2.0,3.66,2.86,1.6,47.0,2.4,-0.26,1.63,0.29,-0.61,5.8,Engineering,Very Good,Good,1.0,0.0,0.0,Timothy Lee,Hispanic,male,2.0,Mexico,30.0,94114
+85,-1.22,2.33,2.6,1.77,1.91,-5.81,1.2,58.0,1.4,-1.09,0.89,-2.88,-1.72,5.24,Engineering,Ok,Good,0.0,0.0,1.0,Earl Farmer,Hispanic,male,0.0,USA,26.0,94720
+86,-0.21,2.61,-1.2,2.78,1.3,-4.09,0.0,44.0,0.0,-2.75,3.48,0.16,-0.02,7.33,Quantitative,Ok,Good,0.0,0.0,1.0,Donald Graham,Hispanic,male,0.0,Mexico,28.0,94131
+87,-0.25,2.81,2.7,4.52,2.96,-1.18,0.0,46.0,4.2,1.24,1.91,-2.03,-2.33,4.36,Engineering,Ok,Bad,0.0,0.0,0.0,John Cohen,Hispanic,male,0.0,USA,31.0,94019
+88,-0.4,2.97,2.6,3.44,2.74,-1.94,1.4,4.0,1.8,-1.42,2.27,-0.62,-1.02,5.77,Engineering,None,Bad,0.0,0.0,0.0,Brian Alonso,Hispanic,male,0.0,USA,25.0,94040
+89,0.27,3.34,2.5,8.41,4.28,3.42,0.6,38.0,1.0,-1.65,1.69,-1.26,-0.92,6.05,Engineering,Ok,Bad,1.0,0.0,0.0,Steven Stancil,Hispanic,male,2.0,Canada,33.0,94586
+90,-0.19,3.09,2.7,0.06,3.08,0.94,2.8,15.0,4.4,0.95,2.14,0.76,0.49,7.34,Quantitative,Very Good,Good,0.0,0.0,0.0,Thomas Slater,Hispanic,male,0.0,USA,26.0,95002
+91,1.0,1.84,1.9,4.74,2.43,0.55,0.0,72.0,0.0,-3.72,1.85,-0.86,-1.42,5.18,Engineering,Ok,Good,0.0,1.0,0.0,Keith Smith,Hispanic,male,0.0,Australia,27.0,94572
+92,0.82,3.1,3.2,4.62,3.98,4.43,2.8,18.0,5.0,1.54,2.51,0.12,-0.38,6.55,Engineering,Ok,Good,1.0,0.0,0.0,William Mueller,Hispanic,male,2.0,USA,32.0,95035
+93,0.44,3.51,3.2,2.49,3.74,3.47,0.0,53.0,4.0,1.31,3.03,1.36,1.41,8.78,Engineering,Very Good,Good,1.0,0.0,0.0,Paul Betcher,Hispanic,male,2.0,USA,30.0,94549
+94,0.68,3.28,2.4,6.15,3.59,2.84,0.0,65.0,0.0,-3.52,2.77,1.57,1.47,8.77,Engineering,Very Good,Good,0.0,0.0,0.0,Luis Boulet,Hispanic,male,2.0,USA,27.0,94556
+95,-0.34,2.66,1.0,4.6,1.93,-4.28,0.0,22.0,4.8,1.59,1.21,-0.85,-1.19,5.36,Engineering,None,Bad,0.0,0.0,0.0,Michael Zapata,Hispanic,male,0.0,USA,28.0,94061
+96,0.5,2.24,1.8,3.27,3.17,2.74,0.0,34.0,6.3,2.98,2.5,0.25,-0.02,7.03,Engineering,Very Good,Good,0.0,0.0,0.0,Robert Brooks,Hispanic,male,2.0,USA,32.0,94030
+97,0.07,2.49,1.7,5.97,2.64,-1.56,0.0,33.0,3.1,0.12,2.81,-0.06,-0.16,7.0,Engineering,Ok,Bad,0.0,0.0,0.0,Donald Bolebruch,Hispanic,male,0.0,USA,27.0,94010
+98,0.01,3.51,1.5,6.36,3.39,0.51,0.0,26.0,7.2,4.09,2.59,2.56,1.75,8.67,Sciences,Ok,Good,0.0,0.0,0.0,George Simens,Hispanic,male,0.0,USA,34.0,94403
+99,0.36,2.79,1.2,3.87,2.21,-1.64,2.2,58.0,3.0,0.15,3.24,1.45,2.17,10.07,Quantitative,None,Bad,0.0,0.0,0.0,Armando Downs,Hispanic,male,0.0,Canada,29.0,94720
+100,-0.96,2.97,1.0,1.07,2.34,-2.93,0.0,9.0,2.0,-0.95,0.85,-3.26,-3.18,3.32,Engineering,None,Good,0.0,0.0,0.0,Leo Taylor,Hispanic,male,0.0,USA,25.0,94085
+101,-0.5,2.45,2.0,3.2,2.76,-1.26,0.0,4.0,5.3,1.84,3.28,3.92,2.92,10.12,Engineering,None,Bad,0.0,0.0,0.0,Jonathan Nelson,Hispanic,male,0.0,USA,35.0,94040
+102,-1.12,2.92,1.4,5.78,3.02,-2.46,0.0,11.0,2.9,-0.18,0.11,-4.58,-3.79,2.59,Engineering,Ok,Good,0.0,0.0,0.0,James Dean,Hispanic,male,0.0,USA,28.0,94089
+103,-0.16,3.03,2.0,4.69,2.78,-1.59,0.0,63.0,2.5,-0.05,2.94,2.07,1.13,8.01,Quantitative,None,Bad,0.0,0.0,0.0,Charles Simpson,Hispanic,male,0.0,USA,36.0,94801
+104,0.5,3.47,1.9,4.02,3.59,3.03,0.8,57.0,0.2,-2.74,2.96,1.76,1.31,8.46,Engineering,Ok,Bad,1.0,0.0,0.0,Andy Anderson,Hispanic,male,2.0,USA,25.0,94038
+105,-0.79,2.09,2.1,-0.41,1.24,-6.22,1.9,12.0,2.1,-1.16,2.36,0.49,0.07,6.98,Quantitative,Ok,Good,0.0,0.0,0.0,Brian Mills,Hispanic,male,0.0,USA,25.0,94087
+106,0.5,3.25,1.8,5.54,3.27,1.5,2.4,30.0,4.3,0.59,1.66,1.48,2.11,9.42,Engineering,Ok,Good,0.0,0.0,1.0,David Williams,Hispanic,male,2.0,USA,35.0,94587
+107,-0.15,2.58,2.7,1.22,2.27,-2.38,0.0,74.0,3.1,0.2,3.33,1.45,1.48,9.13,Engineering,None,Bad,1.0,0.0,0.0,Stephan Peoples,Hispanic,male,0.0,USA,28.0,94591
+108,-0.51,3.89,1.2,3.21,3.32,0.36,3.5,12.0,6.4,2.67,0.94,-1.16,-1.07,5.61,Quantitative,Ok,Bad,0.0,0.0,0.0,Bobby Todd,Hispanic,male,0.0,USA,32.0,94087
+109,-0.65,3.21,1.7,3.7,2.88,-1.76,0.0,50.0,0.5,-2.17,1.13,-3.34,-3.06,3.56,Engineering,None,Bad,0.0,0.0,0.0,Julius Dion,Hispanic,male,0.0,USA,23.0,94609
+110,-0.46,3.03,2.6,3.62,3.39,0.14,0.0,42.0,4.0,0.8,0.34,-1.54,-0.38,6.54,Quantitative,Ok,Good,0.0,0.0,0.0,Lawrence Lacomb,Hispanic,male,0.0,USA,33.0,94605
+111,-0.15,3.29,1.7,5.34,3.49,0.86,2.9,8.0,4.9,1.77,1.79,-1.99,-2.35,4.21,Engineering,None,Good,1.0,0.0,0.0,Jake Mcfarland,Hispanic,male,0.0,Canada,33.0,94085
+112,0.04,3.21,2.9,3.65,3.22,0.52,0.0,27.0,6.1,2.77,1.74,-0.52,-1.13,5.43,Quantitative,Ok,Good,0.0,0.0,0.0,Thomas Saari,Hispanic,male,0.0,USA,32.0,94070
+113,0.9,3.26,2.6,4.46,3.0,1.12,0.0,58.0,5.8,2.83,2.34,0.3,0.04,7.05,Quantitative,Ok,Good,0.0,0.0,0.0,Robert Peebles,Hispanic,male,0.0,USA,31.0,94720
+114,-0.27,4.2,2.2,9.74,4.83,3.13,0.0,89.0,0.0,-2.38,2.43,0.01,0.16,7.33,Humanities,Ok,Good,1.0,0.0,0.0,Eugene Bolebruch,Hispanic,male,1.0,Mexico,29.0,94559
+115,0.93,2.89,1.9,5.21,2.93,1.37,0.0,11.0,4.3,0.99,2.12,1.29,1.42,8.69,Engineering,Ok,Good,0.0,0.0,1.0,Pierre Robinson,Hispanic,male,2.0,USA,31.0,94089
+116,0.63,3.06,2.0,3.56,3.13,1.92,0.0,27.0,3.0,0.03,1.31,-1.51,-0.93,5.98,Quantitative,None,Good,0.0,0.0,0.0,Eugene Killin,Hispanic,male,2.0,USA,28.0,94070
+117,-0.76,2.03,0.1,1.01,1.26,-5.42,2.5,13.0,4.3,1.06,1.35,-1.08,-0.58,6.37,Quantitative,None,Good,0.0,0.0,0.0,Rodney Richardson,Hispanic,male,0.0,USA,36.0,94022
+118,0.07,3.0,1.8,4.42,2.87,-0.6,1.9,24.0,3.1,-0.38,2.49,0.01,0.06,7.23,Engineering,Ok,Bad,0.0,0.0,0.0,Son Green,Hispanic,male,0.0,USA,32.0,94027
+119,-0.99,3.69,3.0,2.38,3.64,-0.3,3.0,64.0,4.7,1.7,2.56,0.7,0.59,7.73,Quantitative,None,Good,0.0,0.0,0.0,Everett Johnson,Hispanic,male,0.0,USA,33.0,94525

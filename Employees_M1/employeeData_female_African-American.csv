@@ -1,0 +1,113 @@
+,Education,GPA,Educational Prestige,Years of Experience,Soft Skills,Manager's Assessment Score,Military Tenure,Avg Commute Time,Job Tenure,Cultural Fit,Leadership Capability,HireVue Score,Technical Aptitude,Avg Deals Closed,Undergraduate Degree,LinkedIn Score,Responsible Social Media Use,Employee Referral,Arrest Record,Criminal Record,Names,Race,Gender,Sports,Birth Origin,Age,Zip
+0,0.57,2.82,2.1,4.08,2.56,-0.21,0.0,34.0,6.0,2.79,1.33,-1.81,-1.3,5.65,Engineering,None,Good,0.0,0.0,0.0,Karen Dawson,African-American,female,0.0,USA,38.0,94030
+1,0.72,2.91,3.3,6.73,4.19,4.5,0.0,2.0,6.4,2.95,0.33,-2.82,-2.87,3.44,Engineering,Ok,Good,0.0,1.0,0.0,Rebecca Flath,African-American,female,2.0,USA,31.0,94040
+2,-1.33,2.58,3.3,1.07,3.08,-1.87,0.0,29.0,7.3,3.92,1.41,-0.97,-1.41,5.05,Quantitative,None,Good,0.0,0.0,0.0,Lois Johnson,African-American,female,0.0,USA,30.0,94560
+3,0.85,3.12,1.7,6.05,3.25,2.17,0.0,32.0,1.5,-1.19,1.99,-1.03,-0.39,6.76,Engineering,None,Good,0.0,0.0,0.0,Clara Glover,African-American,female,2.0,USA,31.0,94544
+4,0.51,3.22,2.6,5.38,3.09,0.34,0.7,33.0,0.7,-1.96,3.05,1.04,0.87,8.22,Humanities,None,Good,0.0,1.0,0.0,Amy Aquil,African-American,female,0.0,USA,26.0,94010
+5,0.84,3.06,1.9,5.34,3.38,2.76,0.0,15.0,0.0,-2.96,0.99,-1.09,-0.57,6.33,Engineering,Very Good,Good,0.0,0.0,0.0,Linda Hallaway,African-American,female,2.0,USA,26.0,95002
+6,0.04,2.46,1.3,7.67,2.5,-2.2,0.0,53.0,3.2,0.21,2.11,-0.13,0.33,7.56,Humanities,None,Good,0.0,0.0,0.0,Elnora Wilson,African-American,female,0.0,USA,33.0,94549
+7,-0.5,3.12,2.3,-0.61,2.4,-1.89,1.5,16.0,2.3,-1.02,1.41,-0.51,-0.55,6.1,Humanities,Ok,Bad,0.0,0.0,0.0,Robin Sevigny,African-American,female,0.0,USA,28.0,95134
+8,-0.54,3.22,3.4,7.38,4.44,1.99,3.4,40.0,5.5,2.38,3.44,3.43,3.16,10.66,Quantitative,Ok,Good,0.0,0.0,0.0,Wilhelmina Spinney,African-American,female,2.0,USA,36.0,94603
+9,-1.28,2.03,1.8,1.45,1.3,-7.45,0.0,22.0,3.4,0.24,2.72,0.96,1.21,8.7,Sciences,None,Bad,0.0,1.0,1.0,Rosemary Mchenry,African-American,female,0.0,USA,27.0,94061
+10,-0.82,3.13,2.4,3.38,3.28,-0.98,0.0,8.0,3.5,0.18,3.22,3.64,3.06,10.43,Quantitative,None,Good,0.0,0.0,0.0,Mariette Patterson,African-American,female,0.0,USA,26.0,94085
+11,0.38,2.47,1.4,6.34,2.58,-0.88,0.0,24.0,4.7,1.32,1.87,-0.43,-0.36,6.6,Engineering,Ok,Good,0.0,0.0,0.0,Betty Luevano,African-American,female,0.0,Canada,31.0,94027
+12,0.03,3.78,1.1,5.21,3.23,0.57,0.0,1.0,9.7,5.95,1.5,-1.33,-2.49,3.57,Quantitative,Ok,Good,0.0,0.0,0.0,Susan Tidwell,African-American,female,0.0,USA,34.0,94040
+13,-0.5,2.69,1.2,3.44,2.06,-3.89,0.0,39.0,0.1,-2.47,2.1,1.11,1.57,8.88,Quantitative,None,Bad,0.0,1.0,1.0,Connie Leggio,African-American,female,0.0,USA,28.0,94578
+14,-0.33,3.32,2.0,1.54,3.44,1.68,2.7,16.0,4.3,0.97,2.12,-0.09,-0.55,6.17,Engineering,None,Bad,0.0,0.0,0.0,Wesley Rogers,African-American,female,0.0,USA,32.0,95134
+15,0.84,2.49,1.6,4.15,2.16,-0.85,0.0,56.0,1.0,-1.29,1.47,-0.43,-0.57,6.1,Engineering,Ok,Good,0.0,0.0,0.0,Bridget Walker,African-American,female,0.0,USA,26.0,94595
+16,-0.53,3.55,1.5,3.34,3.2,-0.2,0.0,10.0,5.4,2.11,1.09,-1.17,-0.43,6.64,Quantitative,Ok,Good,0.0,0.0,0.0,Patricia Nobles,African-American,female,0.0,USA,30.0,94085
+17,0.99,3.67,2.7,7.07,4.29,4.89,0.0,39.0,1.7,-1.01,0.73,-1.35,-1.85,4.35,Quantitative,Very Good,Good,1.0,0.0,0.0,Emma Warrick,African-American,female,2.0,USA,31.0,94578
+18,0.95,2.86,2.3,4.73,3.0,1.9,0.0,5.0,1.5,-1.19,2.92,2.92,1.82,8.72,Sciences,Ok,Good,0.0,0.0,0.0,Peggy Davis,African-American,female,2.0,USA,33.0,94043
+19,-0.64,2.57,2.1,0.44,2.36,-2.23,0.0,42.0,2.7,-0.32,1.03,-1.21,-0.59,6.47,Engineering,Ok,Good,0.0,0.0,0.0,Ann Schnarr,African-American,female,0.0,USA,24.0,94605
+20,-0.15,2.54,0.8,0.89,1.89,-2.43,0.0,15.0,5.5,1.94,2.63,1.67,2.4,10.08,Engineering,Very Good,Bad,0.0,1.0,0.0,Linda Smoldt,African-American,female,0.0,USA,28.0,95002
+21,-0.67,2.72,0.9,0.24,1.35,-5.42,0.0,28.0,0.6,-2.24,1.64,-0.17,-0.43,6.33,Humanities,Very Good,Bad,0.0,1.0,1.0,Carly Daughrity,African-American,female,0.0,USA,22.0,94402
+22,-0.82,3.17,0.2,2.88,2.61,-1.82,0.0,32.0,0.0,-2.8,2.33,0.69,1.28,8.81,Engineering,None,Bad,0.0,0.0,0.0,Deborah Mccabe,African-American,female,0.0,USA,27.0,94544
+23,-1.44,3.22,2.7,2.19,3.32,-1.69,0.0,49.0,3.7,0.93,1.78,-0.15,-0.72,5.88,Engineering,Ok,Bad,0.0,0.0,0.0,Bonnie Williams,African-American,female,0.0,USA,31.0,94502
+24,0.04,2.01,0.7,2.15,1.55,-3.42,2.3,46.0,3.1,-0.01,1.55,-0.79,-0.85,5.85,Engineering,Ok,Bad,0.0,1.0,0.0,Monica Johnson,African-American,female,0.0,USA,34.0,94019
+25,0.47,2.77,1.4,10.75,3.42,0.57,0.0,59.0,3.2,0.35,1.91,-0.39,0.15,7.38,Quantitative,Very Good,Good,0.0,0.0,0.0,Breanne Reger,African-American,female,0.0,USA,38.0,94709
+26,0.12,3.69,1.6,5.1,3.62,1.95,0.4,43.0,0.0,-2.72,2.27,-0.93,-1.68,4.98,Quantitative,Ok,Good,0.0,0.0,0.0,Janet Keams,African-American,female,2.0,USA,30.0,94014
+27,1.03,3.29,1.7,7.59,4.0,4.68,0.0,52.0,2.3,-0.3,1.16,-1.16,-0.96,5.73,Engineering,Ok,Good,1.0,0.0,0.0,Linda Scholes,African-American,female,2.0,USA,30.0,94611
+28,0.15,4.27,3.2,3.28,3.9,2.54,0.0,22.0,1.3,-1.89,2.69,1.04,-0.16,6.39,Engineering,Ok,Good,1.0,0.0,0.0,Melissa Peterson,African-American,female,2.0,USA,29.0,94061
+29,-0.19,3.21,-0.1,3.33,2.07,-2.65,0.0,29.0,0.6,-1.96,1.57,-1.74,-2.56,3.75,Quantitative,Ok,Bad,1.0,1.0,0.0,Eveline Echols,African-American,female,0.0,USA,28.0,94560
+30,0.76,3.11,1.9,7.04,3.84,3.69,0.0,51.0,3.0,0.15,2.27,1.75,0.65,7.25,Quantitative,Very Good,Good,1.0,0.0,0.0,Kimberley Jedele,African-American,female,2.0,Canada,31.0,94618
+31,1.45,2.39,2.9,5.53,3.57,4.4,0.0,70.0,0.0,-2.5,1.5,0.77,0.47,7.19,Sciences,Very Good,Good,1.0,0.0,0.0,Carol Plant,African-American,female,0.0,USA,30.0,94903
+32,-0.07,2.54,2.0,1.78,1.82,-3.46,0.0,19.0,4.8,1.45,2.16,1.7,1.83,9.08,Sciences,Ok,Good,0.0,1.0,0.0,Rose Robinson,African-American,female,2.0,Canada,28.0,94304
+33,2.32,2.79,1.5,10.87,3.57,5.15,0.0,34.0,3.3,0.22,3.79,2.44,2.02,9.52,Engineering,Ok,Good,1.0,0.0,0.0,Allison Keane,African-American,female,2.0,USA,36.0,94030
+34,0.53,2.82,2.6,5.66,3.07,0.54,3.3,38.0,4.8,1.54,3.2,1.92,1.56,8.88,Engineering,Very Good,Good,0.0,1.0,0.0,Frances Robinson,African-American,female,0.0,USA,32.0,94586
+35,-0.25,2.04,3.2,6.21,3.27,-0.53,0.0,32.0,6.8,3.49,1.11,-1.18,-1.07,5.61,Engineering,None,Good,1.0,0.0,0.0,Diane Quinn,African-American,female,0.0,USA,33.0,94544
+36,0.23,2.33,0.0,4.02,2.27,-0.41,0.0,74.0,1.5,-0.97,2.05,0.27,-0.01,6.71,Sciences,None,Good,0.0,0.0,0.0,Patricia Page,African-American,female,0.0,USA,28.0,94591
+37,-0.18,3.59,1.4,1.7,3.17,1.1,0.0,15.0,5.5,1.71,0.58,-2.6,-2.31,4.14,Quantitative,Ok,Bad,1.0,0.0,1.0,Wanda Breaud,African-American,female,0.0,USA,26.0,95002
+38,-1.37,3.25,1.9,-2.93,2.11,-3.86,3.1,34.0,5.4,2.07,2.8,0.66,0.82,8.22,Engineering,Very Good,Good,0.0,1.0,1.0,Athena Gilbert,African-American,female,0.0,USA,27.0,94030
+39,-0.19,3.7,2.3,7.8,4.32,2.36,0.0,5.0,6.1,2.76,1.38,-1.01,-0.23,6.93,Humanities,Ok,Good,0.0,0.0,1.0,Jodi Carbone,African-American,female,2.0,USA,37.0,94043
+40,0.18,3.24,2.3,6.87,4.21,3.58,0.0,16.0,2.4,-0.81,2.27,-0.01,-0.06,6.96,Sciences,Ok,Good,0.0,0.0,0.0,Cindy Siegfried,African-American,female,1.0,USA,35.0,95134
+41,1.79,4.04,4.0,6.98,5.1,8.92,0.0,40.0,1.8,-1.06,1.68,-2.32,-1.81,5.24,Quantitative,Very Good,Good,0.0,0.0,0.0,Lynsey Butner,African-American,female,1.0,USA,29.0,94603
+42,-0.18,2.98,1.8,-1.31,2.39,-0.53,0.0,51.0,1.0,-1.66,2.2,-0.34,-0.18,7.02,Sciences,Ok,Good,0.0,1.0,0.0,Roberta Reinking,African-American,female,1.0,USA,22.0,94618
+43,0.26,3.4,3.2,5.23,3.57,1.25,2.7,41.0,4.2,1.33,2.66,1.11,0.69,7.67,Engineering,Ok,Good,0.0,0.0,0.0,Sandra Perez,African-American,female,1.0,USA,38.0,94542
+44,0.12,2.55,1.3,5.53,2.58,-1.18,0.1,40.0,0.0,-2.33,1.85,-1.67,-1.14,5.99,Humanities,None,Good,1.0,0.0,0.0,Tammy Rea,African-American,female,1.0,USA,27.0,94603
+45,-1.38,2.86,2.8,0.12,1.56,-7.61,0.0,43.0,0.4,-2.16,0.3,-3.1,-2.77,3.64,Quantitative,Ok,Bad,0.0,1.0,1.0,Lillian Corry,African-American,female,1.0,USA,29.0,94014
+46,0.52,2.98,2.1,1.87,2.74,0.87,0.0,24.0,0.0,-2.98,2.3,1.45,1.49,8.69,Engineering,Very Good,Good,0.0,0.0,0.0,Maud Wiley,African-American,female,1.0,USA,26.0,94027
+47,0.87,3.2,2.3,4.09,3.03,1.61,0.0,5.0,5.2,1.84,0.98,-2.05,-1.48,5.31,Engineering,Ok,Bad,0.0,0.0,0.0,Joanne Behm,African-American,female,1.0,Canada,32.0,94043
+48,0.11,2.92,2.4,3.69,3.04,0.31,0.0,29.0,2.8,-0.08,2.6,1.05,0.76,7.86,Quantitative,Ok,Good,0.0,1.0,0.0,Phyllis Adams,African-American,female,0.0,USA,25.0,94560
+49,0.63,3.42,0.9,4.21,2.87,1.32,1.7,69.0,2.0,-0.78,2.82,-0.57,-0.46,6.87,Sciences,Very Good,Good,0.0,0.0,0.0,Anita Lucas,African-American,female,1.0,USA,27.0,94510
+50,0.76,1.83,2.1,3.21,2.07,-0.91,0.0,71.0,1.0,-1.7,0.0,-5.24,-5.16,0.61,Engineering,Ok,Good,0.0,0.0,0.0,Angela Scott,African-American,female,1.0,USA,30.0,94509
+51,0.98,3.13,2.7,4.39,2.63,0.14,0.0,78.0,0.0,-4.53,1.67,-1.32,-2.01,4.39,Humanities,Ok,Good,0.0,0.0,0.0,Gertrude Prince,African-American,female,1.0,USA,25.0,94592
+52,0.46,3.43,1.7,1.8,2.59,0.23,0.0,74.0,2.7,0.12,1.65,-0.9,-0.91,5.87,Engineering,Ok,Good,0.0,0.0,0.0,Gladys Galle,African-American,female,1.0,USA,27.0,94591
+53,0.55,2.68,1.8,7.04,3.5,2.2,0.0,17.0,4.3,1.15,2.55,0.27,-0.54,6.34,Quantitative,Very Good,Good,0.0,0.0,0.0,Betty Hamilton,African-American,female,1.0,USA,37.0,94301
+54,-0.03,2.68,2.0,4.93,2.15,-3.62,0.0,25.0,4.4,0.81,2.61,-0.64,-0.87,6.13,Quantitative,Ok,Good,1.0,1.0,1.0,Carol James,African-American,female,1.0,USA,34.0,94539
+55,-1.46,3.56,2.9,0.06,3.24,-1.65,0.0,51.0,1.1,-1.81,0.49,-3.28,-3.45,2.79,Engineering,None,Good,0.0,0.0,0.0,Alda Reid,African-American,female,1.0,USA,24.0,94618
+56,-0.25,2.43,1.4,2.69,2.03,-2.83,0.0,91.0,3.2,0.49,0.35,-3.88,-3.08,3.48,Engineering,Very Good,Good,0.0,1.0,0.0,Laura Matlock,African-American,female,1.0,USA,34.0,94558
+57,1.01,3.88,1.8,5.22,3.98,5.11,0.0,37.0,6.1,2.92,1.32,-1.19,-1.46,5.07,Quantitative,Ok,Bad,1.0,0.0,0.0,Kate Francisco,African-American,female,1.0,USA,33.0,94545
+58,0.37,3.19,1.5,6.01,3.48,2.02,0.0,24.0,5.7,2.42,1.37,0.66,0.95,7.89,Engineering,Very Good,Good,0.0,0.0,0.0,Cheryl Fortner,African-American,female,1.0,USA,33.0,94027
+59,1.08,3.41,2.7,8.04,4.26,4.82,0.0,48.0,2.8,0.11,1.91,0.74,2.18,9.88,Quantitative,Very Good,Good,1.0,0.0,0.0,Marguerite Post,African-American,female,1.0,USA,35.0,94109
+60,0.07,2.46,2.8,5.14,3.26,0.56,0.0,62.0,0.1,-2.2,3.58,2.97,3.64,11.84,Quantitative,None,Bad,0.0,0.0,0.0,Donna Marshall,African-American,female,1.0,USA,28.0,94564
+61,0.57,3.36,3.1,3.0,3.72,3.54,0.0,34.0,3.7,0.65,2.37,1.19,0.61,7.5,Quantitative,Very Good,Good,1.0,0.0,0.0,Sarah Lee,African-American,female,1.0,USA,34.0,94030
+62,-0.89,2.63,1.5,2.35,2.21,-3.67,0.0,59.0,0.0,-2.68,1.11,0.31,0.8,7.86,Engineering,None,Good,0.0,1.0,1.0,Gloria Martinson,African-American,female,1.0,USA,28.0,94709
+63,-0.45,2.61,0.3,5.31,2.24,-2.84,0.0,53.0,2.9,-0.05,1.92,-0.38,-0.35,6.65,Engineering,Very Good,Good,0.0,1.0,0.0,Bonnie Eisinger,African-American,female,1.0,USA,29.0,94549
+64,0.34,3.06,2.3,0.71,2.48,-0.21,0.0,53.0,2.0,-0.75,2.43,0.43,-0.69,5.8,Engineering,None,Bad,0.0,0.0,0.0,Candy Zane,African-American,female,1.0,USA,25.0,94549
+65,-1.35,3.06,1.5,-2.32,2.29,-3.01,0.0,54.0,7.0,2.8,2.35,1.0,0.03,6.78,Sciences,None,Bad,0.0,1.0,0.0,Emma Allen,African-American,female,1.0,USA,31.0,94121
+66,1.06,2.59,2.9,5.07,2.31,-1.09,0.0,3.0,6.9,3.47,1.83,0.02,-0.55,6.01,Engineering,Ok,Bad,0.0,0.0,0.0,Shella Coleman,African-American,female,1.0,USA,37.0,94040
+67,0.42,2.96,3.0,4.45,3.68,2.83,0.0,77.0,1.8,-0.91,2.62,0.71,0.38,7.51,Quantitative,Ok,Bad,0.0,0.0,0.0,Cathy Cash,African-American,female,1.0,USA,32.0,94945
+68,-1.28,3.11,2.0,-3.21,1.33,-6.37,0.0,30.0,7.9,4.19,2.53,2.35,1.54,8.44,Quantitative,Ok,Bad,0.0,0.0,1.0,Gloria Alfaro,African-American,female,1.0,USA,26.0,94587
+69,0.36,2.07,2.3,4.73,2.95,0.89,0.0,41.0,4.0,0.98,0.0,-3.88,-2.9,3.72,Engineering,Very Good,Good,0.0,0.0,0.0,Tammy Newsome,African-American,female,1.0,USA,30.0,94542
+70,0.48,3.17,2.1,5.0,3.62,2.81,0.0,52.0,1.0,-1.44,3.43,2.52,2.32,9.89,Engineering,Ok,Good,0.0,1.0,0.0,Mary Gomez,African-American,female,1.0,USA,27.0,94611
+71,0.82,3.21,1.6,6.25,3.88,4.33,0.0,34.0,3.8,0.77,1.51,-0.22,0.92,8.41,Humanities,None,Good,1.0,0.0,0.0,Caroline Magana,African-American,female,0.0,USA,35.0,94030
+72,-0.98,2.82,2.2,3.15,2.54,-3.42,0.0,32.0,5.2,1.7,1.1,-1.43,-1.71,4.75,Quantitative,None,Bad,0.0,0.0,0.0,Patricia Willis,African-American,female,1.0,USA,29.0,94544
+73,2.55,3.78,2.4,8.62,4.5,8.74,3.0,28.0,5.3,2.24,1.81,-1.45,-0.78,6.39,Engineering,Very Good,Good,1.0,0.0,0.0,Juliana Burnette,African-American,female,1.0,USA,40.0,94402
+74,-0.17,1.9,2.0,6.33,2.19,-3.54,0.0,11.0,1.5,-1.46,2.18,0.71,0.52,7.56,Humanities,Ok,Bad,0.0,0.0,0.0,Maxine Cash,African-American,female,1.0,Canada,31.0,94089
+75,0.38,2.99,2.2,5.57,3.18,0.71,0.0,39.0,1.2,-1.57,1.3,-1.14,-0.94,5.82,Quantitative,Ok,Good,1.0,0.0,0.0,Myrl Wilson,African-American,female,1.0,USA,28.0,94578
+76,0.83,2.79,1.8,5.64,3.09,1.69,0.0,10.0,3.3,0.32,2.07,0.49,-0.23,6.44,Quantitative,Very Good,Good,1.0,0.0,0.0,Phyllis Blankenship,African-American,female,2.0,USA,30.0,94085
+77,-0.66,2.88,2.0,2.81,2.9,-1.36,0.0,53.0,0.0,-2.65,4.03,2.94,3.38,11.5,Quantitative,None,Bad,0.0,1.0,0.0,Tammy Withrow,African-American,female,0.0,USA,25.0,94549
+78,0.52,3.2,2.2,5.43,3.83,3.38,1.5,60.0,2.4,0.08,2.75,0.46,0.13,7.25,Humanities,Ok,Good,0.0,0.0,0.0,Elizabeth Williams,African-American,female,2.0,USA,35.0,94707
+79,0.23,3.19,2.7,4.59,4.05,3.76,0.0,61.0,3.2,0.24,3.15,3.79,3.96,11.64,Sciences,Ok,Good,1.0,0.0,0.0,Patricia Dunkleberger,African-American,female,2.0,USA,30.0,94707
+80,0.47,1.44,2.0,9.0,2.38,-2.03,0.0,7.0,0.4,-2.47,3.05,1.73,1.89,9.47,Quantitative,None,Bad,0.0,0.0,0.0,Maria Rozier,African-American,female,0.0,USA,35.0,94043
+81,-0.23,3.19,1.3,4.19,2.41,-2.44,0.0,1.0,5.5,2.05,3.36,0.83,0.49,7.76,Engineering,None,Good,1.0,0.0,0.0,Helen Greenwood,African-American,female,0.0,USA,34.0,94040
+82,0.51,3.96,0.4,8.43,4.13,4.14,0.0,32.0,1.2,-1.88,1.49,0.11,-0.77,5.58,Sciences,Very Good,Good,1.0,0.0,0.0,Ruth Gebhard,African-American,female,2.0,USA,32.0,94544
+83,-0.47,2.34,2.8,-0.67,2.28,-2.19,2.9,65.0,4.2,1.32,3.02,1.96,1.39,8.57,Quantitative,None,Good,0.0,0.0,0.0,Anne Murray,African-American,female,0.0,USA,33.0,94556
+84,0.17,3.5,2.6,4.27,4.1,3.83,4.3,5.0,7.6,4.07,2.61,1.57,1.57,8.89,Sciences,Very Good,Good,1.0,0.0,0.0,Virginia Rodriguez,African-American,female,2.0,USA,38.0,94043
+85,-0.27,2.29,2.3,3.71,2.72,-1.33,0.0,1.0,4.1,0.83,1.31,-1.69,-1.51,5.22,Engineering,Ok,Good,0.0,0.0,0.0,Karla Wright,African-American,female,0.0,USA,35.0,94040
+86,-0.69,3.49,1.9,4.17,3.38,-0.34,0.0,56.0,4.1,1.4,2.48,0.87,0.95,8.33,Sciences,None,Good,0.0,0.0,0.0,Jennifer Smith,African-American,female,0.0,USA,29.0,94595
+87,-0.2,2.52,3.0,0.9,2.42,-1.82,0.0,40.0,3.3,0.47,1.05,-1.57,-0.9,6.07,Engineering,None,Good,0.0,0.0,0.0,Dona Brown,African-American,female,0.0,USA,30.0,94603
+88,0.59,2.77,2.6,3.26,3.48,3.28,0.0,75.0,3.3,0.79,3.1,2.95,2.45,9.71,Engineering,Very Good,Good,1.0,0.0,0.0,Chong Stewart,African-American,female,2.0,USA,31.0,94941
+89,-0.68,2.67,3.1,1.37,2.6,-2.39,0.0,12.0,5.8,2.56,3.26,1.47,1.45,8.88,Engineering,None,Bad,0.0,0.0,0.0,Candice Lambrecht,African-American,female,0.0,USA,30.0,94087
+90,-0.37,2.98,3.1,2.79,3.67,1.34,0.0,25.0,1.4,-1.46,1.15,-0.34,0.09,6.94,Humanities,Ok,Good,0.0,0.0,0.0,Sherlyn Paquette,African-American,female,0.0,USA,23.0,94539
+91,0.41,3.08,2.4,2.93,3.66,3.51,0.0,13.0,0.2,-2.87,2.71,1.92,1.16,8.14,Engineering,Ok,Good,1.0,0.0,0.0,Arlene Witt,African-American,female,2.0,USA,25.0,94022
+92,-0.63,1.69,0.8,2.4,1.68,-4.24,0.0,82.0,0.0,-4.27,2.48,-0.5,0.33,7.95,Quantitative,Ok,Bad,0.0,0.0,1.0,Dixie Booth,African-American,female,0.0,USA,25.0,94503
+93,0.43,3.2,1.6,7.24,3.53,1.88,0.0,34.0,0.8,-1.88,0.06,-3.14,-3.29,2.69,Humanities,Ok,Bad,0.0,0.0,0.0,Annie Truelove,African-American,female,2.0,USA,33.0,94030
+94,-1.41,2.61,1.4,0.15,1.08,-8.16,0.0,53.0,2.3,-0.76,3.39,2.32,2.08,9.57,Engineering,None,Good,1.0,0.0,0.0,Patricia Jones,African-American,female,0.0,USA,27.0,94549
+95,0.24,3.11,2.8,6.85,2.84,-1.45,0.0,63.0,1.6,-1.07,2.38,0.82,-0.53,5.94,Engineering,Very Good,Bad,0.0,0.0,0.0,Helen Royston,African-American,female,0.0,USA,38.0,94801
+96,0.39,2.88,1.1,7.44,3.37,1.68,0.0,61.0,4.2,1.31,2.06,-0.27,-0.37,6.63,Engineering,Very Good,Bad,0.0,0.0,0.0,Dixie Atkeson,African-American,female,0.0,USA,31.0,94707
+97,0.33,2.63,1.3,-1.74,1.5,-2.28,0.0,11.0,3.6,0.38,0.25,-3.18,-3.98,1.71,Engineering,None,Bad,0.0,0.0,0.0,Jennifer Adkins,African-American,female,0.0,USA,21.0,94089
+98,0.57,2.85,2.7,3.07,3.19,1.86,2.5,27.0,3.9,0.77,0.05,-3.48,-3.19,3.07,Engineering,None,Good,0.0,0.0,0.0,Teri Petrie,African-American,female,2.0,USA,30.0,94070
+99,-1.19,3.13,1.5,1.02,1.83,-5.72,0.0,13.0,3.9,0.53,1.5,0.04,-0.2,6.5,Quantitative,None,Good,0.0,0.0,0.0,Glenda Hudson,African-American,female,0.0,USA,28.0,94022
+100,-0.28,2.03,2.1,2.66,2.34,-1.99,3.2,76.0,4.9,2.19,2.02,0.1,0.53,7.82,Quantitative,Ok,Good,0.0,0.0,0.0,Helen Aaron,African-American,female,0.0,USA,33.0,94960
+101,0.16,2.56,1.8,2.22,2.75,0.33,0.0,2.0,2.2,-1.03,2.41,-0.61,-1.06,5.71,Quantitative,None,Good,0.0,0.0,0.0,Terese Scholer,African-American,female,0.0,USA,29.0,94040
+102,-0.13,2.62,2.3,2.5,2.79,-0.58,2.4,11.0,3.7,0.4,0.52,-3.2,-3.28,2.91,Quantitative,None,Good,0.0,0.0,0.0,Christina Carter,African-American,female,0.0,USA,29.0,94089
+103,0.73,3.69,2.4,6.44,4.11,4.26,0.0,2.0,5.8,2.16,2.38,-0.01,-0.83,5.85,Engineering,None,Good,1.0,0.0,0.0,Lynette Brooks,African-American,female,2.0,USA,34.0,94040
+104,-0.67,3.75,2.1,4.93,3.58,-0.05,0.0,31.0,0.0,-2.8,1.51,0.69,1.18,8.36,Sciences,Ok,Bad,0.0,1.0,0.0,Lacey Grant,African-American,female,0.0,USA,26.0,94544
+105,0.06,2.78,2.3,7.23,3.23,-0.16,0.0,47.0,3.2,0.56,1.81,-0.18,-0.83,5.8,Sciences,None,Good,0.0,0.0,0.0,Jeannie James,African-American,female,0.0,USA,32.0,94114
+106,0.18,3.79,1.3,4.8,3.16,0.73,1.2,4.0,1.6,-1.61,1.61,0.19,-0.44,5.97,Quantitative,Ok,Bad,0.0,0.0,0.0,Marci Burnham,African-American,female,0.0,USA,27.0,94040
+107,0.26,2.49,2.9,5.39,3.9,3.12,0.0,29.0,4.9,1.7,2.81,1.66,2.17,9.81,Engineering,Ok,Good,1.0,0.0,0.0,Deborah Perkins,African-American,female,2.0,USA,35.0,94560
+108,0.09,2.63,2.3,3.99,3.18,0.91,0.0,49.0,1.5,-1.24,0.9,-2.2,-1.47,5.33,Engineering,Ok,Bad,0.0,0.0,0.0,Dorothy Henry,African-American,female,0.0,USA,26.0,94502
+109,0.93,2.81,2.4,6.96,3.57,2.94,0.0,53.0,0.0,-3.56,4.1,5.16,5.05,13.06,Quantitative,Very Good,Good,1.0,0.0,0.0,Victoria Harlan,African-American,female,2.0,Canada,25.0,94549
+110,-1.88,2.92,0.5,0.47,1.55,-7.15,0.0,70.0,0.9,-1.83,1.96,-1.37,-0.76,6.53,Quantitative,Very Good,Bad,0.0,0.0,0.0,Beverly Ramos,African-American,female,0.0,USA,22.0,94903
+111,0.62,2.76,2.0,3.36,2.74,0.93,0.0,35.0,0.0,-2.82,0.28,-3.07,-2.35,4.25,Sciences,Very Good,Bad,0.0,0.0,0.0,Rachel Butler,African-American,female,0.0,USA,27.0,94566
