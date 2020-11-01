@@ -9,8 +9,8 @@ There are two milestones in two folders, Milestone1 and Milestone2.
 ### In Milestone 1 there are 4 major sections
 - Getting up to speed on data
 - Understanding data features
-- Investigating a naive model
-- Interrogating a more complex algorithm
+- Investigating a naive algorithm
+- Interrogating a more complex model
 
 ### In Milestone 2 you will be walked through building your own model!
 
