@@ -48,6 +48,13 @@ IPython.display
 - Google Maps API - instructions @ https://developers.google.com/maps/documentation/javascript/get-api-key
 - Distance Matrix API - instruction @ https://developers.google.com/maps/documentation/distance-matrix/get-api-key
 
+### Configuring your Jupyter Notebook Instance
+- The first milestone on notebook is spread out a lot so you will want to download a table of contents. To do this, after you git clone the contents of the module into a folder, copy and paste the following into your terminal. 
+    - $ jupyter nbextension install --user https://rawgithub.com/minrk/ipython_extensions/master/nbextensions/toc.js
+    - $ curl -L https://rawgithub.com/minrk/ipython_extensions/master/nbextensions/toc.css > $(jupyter --data-dir)/nbextensions/toc.css
+    - $ jupyter nbextension enable toc
+- That will conveniently lt you navigate the notebook without needing tos croll from top to bottom!
+
 
 
 Contributors: 
